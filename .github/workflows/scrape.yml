@@ -53,7 +53,15 @@ jobs:
             echo "No changes to commit"
           else
             git commit -m "chore: update shows.json"
-            git push
+            # Retry push with rebase if remote has moved (e.g. re-runs, concurrent runs)
+            for i in 1 2 3; do
+              if git push; then
+                echo "Push succeeded"
+                break
+              fi
+              echo "Push rejected, rebasing on latest main and retrying ($i/3)..."
+              git pull --rebase origin main
+            done
           fi
 
       - name: Setup Pages
