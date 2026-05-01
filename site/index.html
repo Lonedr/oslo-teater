@@ -1,0 +1,60 @@
+<!DOCTYPE html>
+<html lang="nb">
+<head>
+<meta charset="UTF-8" />
+<meta name="viewport" content="width=device-width, initial-scale=1.0" />
+<title>Teater i Oslo — alle forestillinger</title>
+<meta name="description" content="Samlet oversikt over teaterforestillinger i Oslo. Klikk deg direkte til billettkjøp." />
+<link rel="stylesheet" href="style.css?v=2" />
+</head>
+<body>
+<header class="site-header">
+  <div class="wrap">
+    <h1>Teater i Oslo</h1>
+    <p class="tagline">Samlet kalender — klikk deg rett til billettkjøp hos teatret</p>
+    <p class="meta" id="meta"></p>
+  </div>
+</header>
+
+<main class="wrap">
+  <section class="filters" aria-label="Filtre">
+    <div class="filter-group">
+      <label for="search">Søk</label>
+      <input id="search" type="search" placeholder="Tittel, beskrivelse …" autocomplete="off" />
+    </div>
+    <div class="filter-group">
+      <label for="venue">Teater</label>
+      <select id="venue"><option value="">Alle teatre</option></select>
+    </div>
+    <div class="filter-group">
+      <label for="from">Fra dato</label>
+      <input id="from" type="date" />
+    </div>
+    <div class="filter-group">
+      <label for="to">Til dato</label>
+      <input id="to" type="date" />
+    </div>
+    <div class="filter-actions">
+      <button id="reset" type="button">Nullstill</button>
+      <button id="ical" type="button" title="Last ned filtrerte forestillinger som iCalendar-fil">📅 Eksporter (.ics)</button>
+    </div>
+  </section>
+
+  <p id="count" class="count"></p>
+
+  <ul id="shows" class="shows" role="list"></ul>
+
+  <p id="empty" class="empty hidden">Ingen forestillinger matcher filteret.</p>
+</main>
+
+<footer class="site-footer">
+  <div class="wrap">
+    <p>Data hentet automatisk fra hvert enkelt teaters nettside.
+       <a href="https://github.com/lonedr/oslo-teater" target="_blank" rel="noopener">Kildekode</a> · oppdatert <span id="generated"></span>.</p>
+    <p class="errors" id="errors"></p>
+  </div>
+</footer>
+
+<script src="app.js?v=2" defer></script>
+</body>
+</html>
