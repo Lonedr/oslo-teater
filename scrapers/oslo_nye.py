@@ -141,8 +141,11 @@ class OsloNyeScraper(BaseScraper):
                 )
                 if tm_shows:
                     return tm_shows
+                log.warning("Oslo Nye: Ticketmaster returned 0 events for %s (%s) — falling back to date range", slug, artist_link)
             except Exception as e:
-                log.debug("Oslo Nye: Ticketmaster expand failed for %s: %s", slug, e)
+                log.warning("Oslo Nye: Ticketmaster expand failed for %s (%s): %s", slug, artist_link, e)
+        else:
+            log.warning("Oslo Nye: no Ticketmaster artist link for %s — falling back to date range", slug)
 
         # Fallback: single Show with run-period range
         ticket = soup.select_one('a[href*="ticketmaster"], a[href*="billett"], a.btn-buy, a[href*="tickets"]')
@@ -173,8 +176,14 @@ class OsloNyeScraper(BaseScraper):
         image_url: str | None,
         detail_url: str,
     ) -> list[Show]:
-        r = self.get(artist_url)
-        html = r.text
+        # Ticketmaster often blocks datacentre IPs (incl. GitHub Actions).
+        # Use Playwright (real browser) — it bypasses simple anti-bot checks
+        # and the events JSON is embedded in the SSR HTML, so no waiting needed.
+        try:
+            html = fetch_rendered(artist_url, settle_ms=1500)
+        except Exception as e:
+            log.debug("Oslo Nye: rendered fetch failed (%s), falling back to requests", e)
+            html = self.get(artist_url).text
         shows: list[Show] = []
         seen: set[str] = set()
         for m in _TM_EVENT_RE.finditer(html):
