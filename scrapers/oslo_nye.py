@@ -1,8 +1,10 @@
 from __future__ import annotations
 
+import json
 import logging
 import re
 from datetime import datetime
+from pathlib import Path
 from urllib.parse import urljoin
 from zoneinfo import ZoneInfo
 
@@ -13,6 +15,11 @@ from .base import BaseScraper, Show, fetch_rendered, parse_nb_date, to_datetime
 log = logging.getLogger(__name__)
 
 OSLO_TZ = ZoneInfo("Europe/Oslo")
+
+
+class TicketmasterBlockedError(Exception):
+    """Raised when Ticketmaster shows the anti-bot CAPTCHA page (common on
+    GitHub Actions / datacentre IPs). Triggers fallback to cached data."""
 
 # Ticketmaster artist page embeds an "events" array. We extract title/id/start/venue/soldOut
 # via a structural regex rather than parsing the entire page JSON.
@@ -61,13 +68,45 @@ class OsloNyeScraper(BaseScraper):
             slugs.append((slug, detail_url, image_url, stage))
 
         shows: list[Show] = []
+        blocked = False
         for slug, detail_url, listing_image, listing_stage in slugs:
             try:
                 shows.extend(self._fetch_detail(slug, detail_url, listing_image, listing_stage))
+            except TicketmasterBlockedError as e:
+                log.warning("Oslo Nye: %s — aborting and using cached data", e)
+                blocked = True
+                break
             except Exception:
                 log.exception("Oslo Nye detail %s failed", slug)
+        if blocked:
+            cached = self._load_cached_shows()
+            if cached:
+                log.info("Oslo Nye: returning %d cached shows from previous run", len(cached))
+                return cached
+            log.warning("Oslo Nye: no cached data available — returning %d partial shows", len(shows))
         log.info("Oslo Nye: %d shows", len(shows))
         return shows
+
+    def _load_cached_shows(self) -> list[Show]:
+        """Return Oslo Nye shows from the previous run (data/shows.json)."""
+        # scrapers/oslo_nye.py → repo root → data/shows.json
+        data_path = Path(__file__).resolve().parent.parent / "data" / "shows.json"
+        if not data_path.exists():
+            return []
+        try:
+            data = json.loads(data_path.read_text(encoding="utf-8"))
+        except Exception as e:
+            log.warning("Oslo Nye: failed to read %s: %s", data_path, e)
+            return []
+        cached: list[Show] = []
+        for s in data.get("shows", []):
+            if s.get("venue_slug") != self.venue_slug:
+                continue
+            try:
+                cached.append(Show.model_validate(s))
+            except Exception:
+                continue
+        return cached
 
     def _fetch_detail(
         self,
@@ -142,6 +181,9 @@ class OsloNyeScraper(BaseScraper):
                 if tm_shows:
                     return tm_shows
                 log.warning("Oslo Nye: Ticketmaster returned 0 events for %s (%s) — falling back to date range", slug, artist_link)
+            except TicketmasterBlockedError:
+                # Propagate so fetch() can switch to cached data wholesale
+                raise
             except Exception as e:
                 log.warning("Oslo Nye: Ticketmaster expand failed for %s (%s): %s", slug, artist_link, e)
         else:
@@ -184,21 +226,11 @@ class OsloNyeScraper(BaseScraper):
         except Exception as e:
             log.debug("Oslo Nye: rendered fetch failed (%s), falling back to requests", e)
             html = self.get(artist_url).text
+        # Detect Ticketmaster's anti-bot CAPTCHA page (common on datacentre IPs)
+        if "Identity Verified" in html or "Press &amp; Hold" in html or "Press and Hold" in html:
+            raise TicketmasterBlockedError("Ticketmaster CAPTCHA challenge")
         shows: list[Show] = []
         seen: set[str] = set()
-        match_count = 0
-        for m in _TM_EVENT_RE.finditer(html):
-            match_count += 1
-            del m  # noqa: just counting
-        # Log diagnostics about what Ticketmaster gave us
-        has_events = '"events"' in html
-        has_startdate = '"startDate"' in html
-        title_match = re.search(r"<title>([^<]+)</title>", html)
-        page_title = title_match.group(1).strip() if title_match else "(none)"
-        log.info(
-            "Oslo Nye TM %s: html=%d events_key=%s startDate_key=%s regex_matches=%d title=%r",
-            slug, len(html), has_events, has_startdate, match_count, page_title[:80],
-        )
         for m in _TM_EVENT_RE.finditer(html):
             event_id = m.group("id")
             if event_id in seen:
