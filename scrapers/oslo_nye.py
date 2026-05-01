@@ -186,6 +186,19 @@ class OsloNyeScraper(BaseScraper):
             html = self.get(artist_url).text
         shows: list[Show] = []
         seen: set[str] = set()
+        match_count = 0
+        for m in _TM_EVENT_RE.finditer(html):
+            match_count += 1
+            del m  # noqa: just counting
+        # Log diagnostics about what Ticketmaster gave us
+        has_events = '"events"' in html
+        has_startdate = '"startDate"' in html
+        title_match = re.search(r"<title>([^<]+)</title>", html)
+        page_title = title_match.group(1).strip() if title_match else "(none)"
+        log.info(
+            "Oslo Nye TM %s: html=%d events_key=%s startDate_key=%s regex_matches=%d title=%r",
+            slug, len(html), has_events, has_startdate, match_count, page_title[:80],
+        )
         for m in _TM_EVENT_RE.finditer(html):
             event_id = m.group("id")
             if event_id in seen:
