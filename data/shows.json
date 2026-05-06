@@ -1,18 +1,18 @@
 {
-  "generated_at": "2026-05-05T11:02:46.351145+00:00",
-  "show_count": 557,
+  "generated_at": "2026-05-06T11:34:26.842501+00:00",
+  "show_count": 555,
   "venues": [
     {
       "slug": "nationaltheatret",
       "name": "Nationaltheatret",
       "url": "https://www.nationaltheatret.no",
-      "show_count": 142
+      "show_count": 141
     },
     {
       "slug": "det-norske-teatret",
       "name": "Det Norske Teatret",
       "url": "https://www.detnorsketeatret.no",
-      "show_count": 197
+      "show_count": 196
     },
     {
       "slug": "oslo-nye",
@@ -72,102 +72,6 @@
   ],
   "shows": [
     {
-      "id": "b7086ae26800a1e7",
-      "title": "SOPHIES MINDE - attersting mellom frelse og traume",
-      "venue": "Nordic Black Theatre",
-      "venue_slug": "nordic-black",
-      "start": "2026-05-04T19:00:00",
-      "end": null,
-      "description": null,
-      "image_url": "/_next/image?url=https%3A%2F%2Fcdn.sanity.io%2Fimages%2Fl794s5ct%2Fproduction%2F57a8f64ba3acb166e1eb0399ac3c37c94b809516-1440x810.jpg%3Frect%3D315%2C0%2C810%2C810%26w%3D1000%26h%3D1000%26q%3D92%26fit%3Dmax%26auto%3Dformat&w=3840&q=75",
-      "ticket_url": "https://nordicblacktheatre.no/program/sophies-minde-attersting-mellom-frelse-og-traume-04-05-2026",
-      "detail_url": "https://nordicblacktheatre.no/program/sophies-minde-attersting-mellom-frelse-og-traume-04-05-2026",
-      "stage": null,
-      "genre": null,
-      "sold_out": false,
-      "scraped_at": "2026-05-05T11:02:36.195767"
-    },
-    {
-      "id": "9a1fde3cbd339ed2",
-      "title": "Lunsj&Lyrikk",
-      "venue": "Det Norske Teatret",
-      "venue_slug": "det-norske-teatret",
-      "start": "2026-05-05T12:00:00",
-      "end": "2026-05-05T13:00:00",
-      "description": "Ta lunsjen på Det Norske Teatret, og få servert lyrikk attåt! Lunsj&Lyrikk serverer lyrikk til kaffi, smørbrød og kaker i Bikuben kvardagar og laurdagar kl. 12.00.",
-      "image_url": "https://s3.eu-north-1.amazonaws.com/detnorsketeatret/media/framsyningar/lunsj-og-lyrikk/_1200x630_crop_center-center_82_none/Lunsj-og-lyrikk.jpg?mtime=1709121951",
-      "ticket_url": "https://www.detnorsketeatret.no/framsyningar/lunsj-og-lyrikk",
-      "detail_url": "https://www.detnorsketeatret.no/framsyningar/lunsj-og-lyrikk",
-      "stage": "Bikuben",
-      "genre": null,
-      "sold_out": false,
-      "scraped_at": "2026-05-05T11:01:35.227789"
-    },
-    {
-      "id": "b0b8ab69648f1155",
-      "title": "Pippi på sirkus",
-      "venue": "Det Norske Teatret",
-      "venue_slug": "det-norske-teatret",
-      "start": "2026-05-05T17:00:00",
-      "end": "2026-05-05T18:30:00",
-      "description": "Tjolahopp! I april 2026 kjem Pippi til Det Norske Teatret i ein musikalversjon med musikk av ABBA sin Björn Ulvaeus! Kjem du?",
-      "image_url": "https://s3.eu-north-1.amazonaws.com/detnorsketeatret/media/framsyningar/pippi-pa-sirkus/_1200x630_crop_center-center_82_none/DSC05243.jpg?mtime=1776206018",
-      "ticket_url": "https://www.detnorsketeatret.no/framsyningar/pippi-pa-sirkus",
-      "detail_url": "https://www.detnorsketeatret.no/framsyningar/pippi-pa-sirkus",
-      "stage": "Hovudscenen",
-      "genre": null,
-      "sold_out": false,
-      "scraped_at": "2026-05-05T11:00:45.627228"
-    },
-    {
-      "id": "cffb47eee3c91bac",
-      "title": "Meliorisme",
-      "venue": "Nationaltheatret",
-      "venue_slug": "nationaltheatret",
-      "start": "2026-05-05T18:30:00",
-      "end": null,
-      "description": "Hvordan kan vi bli bedre, både som enkeltindivider, kollektivt og som art? Inspirert av Valkyrien Allstars låt slutte og byne leter aktørene etter hva som skal til for å oppnå positiv endring. For tittelen på forestillingen, Meliorisme , handler om nettopp det. En filosofisk idé midt mellom pessi…",
-      "image_url": "https://cdn.sanity.io/images/4hthkcie/production/3a3970540c7d6aa01f66fe38b32f9c4e85618fcc-8256x5504.jpg",
-      "ticket_url": "https://www.nationaltheatret.no/velg-seter?performanceId=25120",
-      "detail_url": "https://www.nationaltheatret.no/forestillinger/meliorisme",
-      "stage": "Torshovteatret",
-      "genre": null,
-      "sold_out": true,
-      "scraped_at": "2026-05-05T11:00:00.765404"
-    },
-    {
-      "id": "5a150bc22d98ef67",
-      "title": "Gi meg hånden",
-      "venue": "Nationaltheatret",
-      "venue_slug": "nationaltheatret",
-      "start": "2026-05-05T19:00:00",
-      "end": null,
-      "description": "En aldrende far kaller familien hjem til seg for å fortelle dem noe. Det er et famlende og følelsessterkt møte mellom ham, de tre døtrene, to barnebarn og et svigerbarn. Den ene datteren har et vaklende forhold til faren. Ikke bare hadde han et forhold på si og et hemmelig barn mens kona hjemme l…",
-      "image_url": "https://cdn.sanity.io/images/4hthkcie/production/bb2d1c42127fdaed0605645259bf3f0389932125-8913x5942.jpg",
-      "ticket_url": "https://www.nationaltheatret.no/velg-seter?performanceId=25314",
-      "detail_url": "https://www.nationaltheatret.no/forestillinger/gi-meg-handen",
-      "stage": "Hovedscenen",
-      "genre": null,
-      "sold_out": true,
-      "scraped_at": "2026-05-05T10:59:53.339394"
-    },
-    {
-      "id": "142967f015d08399",
-      "title": "Da vi var yngre",
-      "venue": "Det Norske Teatret",
-      "venue_slug": "det-norske-teatret",
-      "start": "2026-05-05T19:00:00",
-      "end": "2026-05-05T20:30:00",
-      "description": "Oliver Lovrenski brakdebuterte med romanen Da vi var yngre. No kjem den til scenen med Aksel Hennie i registolen og rapparen Jonas Benyoub i rolla som Ivor.",
-      "image_url": "https://s3.eu-north-1.amazonaws.com/detnorsketeatret/media/framsyningar/arv-og-miljo/_1200x630_crop_center-center_82_none/Da-vi-var-yngre_OHA-19.jpg?mtime=1771367338",
-      "ticket_url": "https://www.detnorsketeatret.no/framsyningar/da-vi-var-yngre",
-      "detail_url": "https://www.detnorsketeatret.no/framsyningar/da-vi-var-yngre",
-      "stage": "Scene 2",
-      "genre": null,
-      "sold_out": false,
-      "scraped_at": "2026-05-05T11:01:17.871912"
-    },
-    {
       "id": "158fe403f3583a24",
       "title": "Pippi på sirkus",
       "venue": "Det Norske Teatret",
@@ -181,7 +85,7 @@
       "stage": "Hovudscenen",
       "genre": null,
       "sold_out": false,
-      "scraped_at": "2026-05-05T11:00:45.627254"
+      "scraped_at": "2026-05-06T11:32:44.361918"
     },
     {
       "id": "a601ac39616d8e50",
@@ -197,7 +101,7 @@
       "stage": "Torshovteatret",
       "genre": null,
       "sold_out": true,
-      "scraped_at": "2026-05-05T11:00:00.765434"
+      "scraped_at": "2026-05-06T11:31:46.342168"
     },
     {
       "id": "7b17dae85937e337",
@@ -213,7 +117,7 @@
       "stage": "Scene 2",
       "genre": null,
       "sold_out": false,
-      "scraped_at": "2026-05-05T11:01:15.694242"
+      "scraped_at": "2026-05-06T11:32:53.183609"
     },
     {
       "id": "674d0882678c67a8",
@@ -229,7 +133,7 @@
       "stage": null,
       "genre": null,
       "sold_out": false,
-      "scraped_at": "2026-05-05T11:02:36.195856"
+      "scraped_at": "2026-05-06T11:34:05.908183"
     },
     {
       "id": "ef62791f99e702ae",
@@ -245,7 +149,7 @@
       "stage": "Amfiscenen",
       "genre": null,
       "sold_out": true,
-      "scraped_at": "2026-05-05T11:00:02.652755"
+      "scraped_at": "2026-05-06T11:31:48.569300"
     },
     {
       "id": "897ef3e968eab5eb",
@@ -261,7 +165,7 @@
       "stage": "Hovedscenen",
       "genre": "Sesongforestilling",
       "sold_out": false,
-      "scraped_at": "2026-05-05T11:02:25.347023"
+      "scraped_at": "2026-05-06T11:33:55.859242"
     },
     {
       "id": "95f6d1980292aaca",
@@ -277,7 +181,7 @@
       "stage": "Hovudscenen",
       "genre": null,
       "sold_out": false,
-      "scraped_at": "2026-05-05T11:00:45.627268"
+      "scraped_at": "2026-05-06T11:32:44.361956"
     },
     {
       "id": "80e4466bc584a4ec",
@@ -293,7 +197,7 @@
       "stage": "Hovedscenen",
       "genre": "Ekstraforestilling",
       "sold_out": false,
-      "scraped_at": "2026-05-05T11:02:25.348163"
+      "scraped_at": "2026-05-06T11:33:55.860445"
     },
     {
       "id": "23419a49f08ca4ab",
@@ -309,7 +213,7 @@
       "stage": "Hovedscenen",
       "genre": null,
       "sold_out": true,
-      "scraped_at": "2026-05-05T10:59:55.584370"
+      "scraped_at": "2026-05-06T11:31:40.030162"
     },
     {
       "id": "9967a09612f45ab5",
@@ -325,7 +229,7 @@
       "stage": "Torshovteatret",
       "genre": null,
       "sold_out": true,
-      "scraped_at": "2026-05-05T11:00:00.765452"
+      "scraped_at": "2026-05-06T11:31:46.342195"
     },
     {
       "id": "ec75ee345413d853",
@@ -341,7 +245,7 @@
       "stage": "Scene 2",
       "genre": null,
       "sold_out": false,
-      "scraped_at": "2026-05-05T11:01:17.871935"
+      "scraped_at": "2026-05-06T11:32:53.889549"
     },
     {
       "id": "cb172f5710f46c4e",
@@ -357,7 +261,7 @@
       "stage": null,
       "genre": null,
       "sold_out": false,
-      "scraped_at": "2026-05-05T11:02:36.195930"
+      "scraped_at": "2026-05-06T11:34:05.908275"
     },
     {
       "id": "aa4b5249699bc241",
@@ -373,7 +277,7 @@
       "stage": "Hovedscenen",
       "genre": "Ekstraforestilling",
       "sold_out": false,
-      "scraped_at": "2026-05-05T11:02:25.348797"
+      "scraped_at": "2026-05-06T11:33:55.861125"
     },
     {
       "id": "46c381a373a54237",
@@ -389,7 +293,7 @@
       "stage": "Hovudscenen",
       "genre": null,
       "sold_out": false,
-      "scraped_at": "2026-05-05T11:00:45.627282"
+      "scraped_at": "2026-05-06T11:32:44.361972"
     },
     {
       "id": "712b4a39d1010f31",
@@ -405,7 +309,7 @@
       "stage": "Omvising",
       "genre": null,
       "sold_out": false,
-      "scraped_at": "2026-05-05T11:01:36.787719"
+      "scraped_at": "2026-05-06T11:33:03.377447"
     },
     {
       "id": "d567fd7448e7c0a6",
@@ -421,7 +325,7 @@
       "stage": "Scene 2",
       "genre": null,
       "sold_out": false,
-      "scraped_at": "2026-05-05T11:01:15.694265"
+      "scraped_at": "2026-05-06T11:32:53.183630"
     },
     {
       "id": "d418f1cafe0b3780",
@@ -437,7 +341,7 @@
       "stage": "Torshovteatret",
       "genre": null,
       "sold_out": true,
-      "scraped_at": "2026-05-05T11:00:00.765469"
+      "scraped_at": "2026-05-06T11:31:46.342212"
     },
     {
       "id": "14834cc4c5bc9323",
@@ -453,7 +357,7 @@
       "stage": "Hovudscenen",
       "genre": null,
       "sold_out": false,
-      "scraped_at": "2026-05-05T11:00:45.627296"
+      "scraped_at": "2026-05-06T11:32:44.361987"
     },
     {
       "id": "df76c0a35f962965",
@@ -469,7 +373,7 @@
       "stage": "Hovedscenen",
       "genre": null,
       "sold_out": true,
-      "scraped_at": "2026-05-05T10:59:53.339441"
+      "scraped_at": "2026-05-06T11:31:38.947635"
     },
     {
       "id": "89fbd0ab25b5ae3b",
@@ -485,7 +389,7 @@
       "stage": "Hovedscenen",
       "genre": "Sesongforestilling",
       "sold_out": false,
-      "scraped_at": "2026-05-05T11:02:25.349791"
+      "scraped_at": "2026-05-06T11:33:55.862086"
     },
     {
       "id": "60dbf90230cd2329",
@@ -501,7 +405,7 @@
       "stage": null,
       "genre": null,
       "sold_out": false,
-      "scraped_at": "2026-05-05T11:02:36.196000"
+      "scraped_at": "2026-05-06T11:34:05.908363"
     },
     {
       "id": "ee3fd1ba45de038f",
@@ -517,7 +421,7 @@
       "stage": "Amfiscenen",
       "genre": null,
       "sold_out": true,
-      "scraped_at": "2026-05-05T11:00:02.652786"
+      "scraped_at": "2026-05-06T11:31:48.569328"
     },
     {
       "id": "d7c8fe61aa3762e2",
@@ -533,7 +437,7 @@
       "stage": null,
       "genre": "Konsert",
       "sold_out": false,
-      "scraped_at": "2026-05-05T11:02:41.980257"
+      "scraped_at": "2026-05-06T11:34:19.102681"
     },
     {
       "id": "3209d5084751b605",
@@ -549,7 +453,7 @@
       "stage": "Hovedscenen",
       "genre": "Sesongforestilling",
       "sold_out": false,
-      "scraped_at": "2026-05-05T11:02:25.350443"
+      "scraped_at": "2026-05-06T11:33:55.862700"
     },
     {
       "id": "3e133b9f02581e62",
@@ -565,7 +469,7 @@
       "stage": "Scene 2",
       "genre": null,
       "sold_out": false,
-      "scraped_at": "2026-05-05T11:01:15.521093"
+      "scraped_at": "2026-05-06T11:32:52.980753"
     },
     {
       "id": "cd4f90d7a0b8a66b",
@@ -581,7 +485,7 @@
       "stage": "Hovedscenen",
       "genre": null,
       "sold_out": true,
-      "scraped_at": "2026-05-05T10:59:53.339462"
+      "scraped_at": "2026-05-06T11:31:38.947679"
     },
     {
       "id": "e8bfae038c5a8dc1",
@@ -597,7 +501,7 @@
       "stage": "Amfiscenen",
       "genre": null,
       "sold_out": true,
-      "scraped_at": "2026-05-05T11:00:02.652805"
+      "scraped_at": "2026-05-06T11:31:48.569347"
     },
     {
       "id": "473218602700de93",
@@ -613,7 +517,7 @@
       "stage": "Hovedscenen",
       "genre": null,
       "sold_out": true,
-      "scraped_at": "2026-05-05T11:00:25.257400"
+      "scraped_at": "2026-05-06T11:32:20.682063"
     },
     {
       "id": "9fc43739d71c54fc",
@@ -629,7 +533,7 @@
       "stage": "Hovudscenen",
       "genre": null,
       "sold_out": false,
-      "scraped_at": "2026-05-05T11:00:47.633283"
+      "scraped_at": "2026-05-06T11:32:44.557046"
     },
     {
       "id": "d451d28fbd8604d3",
@@ -645,7 +549,7 @@
       "stage": "Torshovteatret",
       "genre": null,
       "sold_out": true,
-      "scraped_at": "2026-05-05T11:00:00.765485"
+      "scraped_at": "2026-05-06T11:31:46.342226"
     },
     {
       "id": "d481078e743b5c38",
@@ -661,7 +565,7 @@
       "stage": "Hovedscenen",
       "genre": "Sesongforestilling",
       "sold_out": false,
-      "scraped_at": "2026-05-05T11:02:25.351445"
+      "scraped_at": "2026-05-06T11:33:55.863648"
     },
     {
       "id": "05dc8369a177a81f",
@@ -677,7 +581,7 @@
       "stage": null,
       "genre": "Standup",
       "sold_out": true,
-      "scraped_at": "2026-05-05T11:02:42.252790"
+      "scraped_at": "2026-05-06T11:34:19.445132"
     },
     {
       "id": "016f776405218a0c",
@@ -693,7 +597,7 @@
       "stage": "Hovedscenen",
       "genre": "Sesongforestilling",
       "sold_out": false,
-      "scraped_at": "2026-05-05T11:02:25.352169"
+      "scraped_at": "2026-05-06T11:33:55.864269"
     },
     {
       "id": "9659f601ca8efad1",
@@ -709,7 +613,7 @@
       "stage": "Hovudscenen",
       "genre": null,
       "sold_out": false,
-      "scraped_at": "2026-05-05T11:00:47.633307"
+      "scraped_at": "2026-05-06T11:32:44.557067"
     },
     {
       "id": "1dbc17943457ab9d",
@@ -725,7 +629,7 @@
       "stage": "Scene 2",
       "genre": null,
       "sold_out": false,
-      "scraped_at": "2026-05-05T11:01:17.871948"
+      "scraped_at": "2026-05-06T11:32:53.889572"
     },
     {
       "id": "a861b0a6e666162a",
@@ -741,7 +645,7 @@
       "stage": "Torshovteatret",
       "genre": null,
       "sold_out": true,
-      "scraped_at": "2026-05-05T11:00:00.765501"
+      "scraped_at": "2026-05-06T11:31:46.342241"
     },
     {
       "id": "4f4b514b7a1d4332",
@@ -757,7 +661,39 @@
       "stage": "Amfiscenen",
       "genre": null,
       "sold_out": true,
-      "scraped_at": "2026-05-05T11:00:02.652821"
+      "scraped_at": "2026-05-06T11:31:48.569363"
+    },
+    {
+      "id": "e09daee4b40b82db",
+      "title": "Storshow på Torshov",
+      "venue": "Det Andre Teatret",
+      "venue_slug": "det-andre-teatret",
+      "start": "2026-05-11T19:00:00",
+      "end": null,
+      "description": "Ildsjeler arrangerer humorshow med auksjon til inntekt for «Stiftelsen Petter Uteligger»",
+      "image_url": "https://detandreteatret.no/assets/images/_landscape/1000007690.png",
+      "ticket_url": "https://detandreteatret.ticketco.events/no/nb/e/storshow_paa_torshov_m_halvor_johansson",
+      "detail_url": "https://detandreteatret.no/forestillinger/storshow-på-torshov?spilletid=176313",
+      "stage": "Hovedscenen",
+      "genre": "Gjestespill",
+      "sold_out": false,
+      "scraped_at": "2026-05-06T11:33:55.865123"
+    },
+    {
+      "id": "1f9e0cc63cd3ed9e",
+      "title": "Superheltverksted",
+      "venue": "Nordic Black Theatre",
+      "venue_slug": "nordic-black",
+      "start": "2026-05-11T19:00:00",
+      "end": null,
+      "description": null,
+      "image_url": "/_next/image?url=https%3A%2F%2Fcdn.sanity.io%2Fimages%2Fl794s5ct%2Fproduction%2Ffaec0a1cc7c7052175e252666cf9b4ab3e167823-1440x810.jpg%3Frect%3D315%2C0%2C810%2C810%26w%3D1000%26h%3D1000%26q%3D92%26fit%3Dmax%26auto%3Dformat&w=3840&q=75",
+      "ticket_url": "https://nordicblacktheatre.no/program/superheltverksted-11-05-2026",
+      "detail_url": "https://nordicblacktheatre.no/program/superheltverksted-11-05-2026",
+      "stage": null,
+      "genre": null,
+      "sold_out": false,
+      "scraped_at": "2026-05-06T11:34:05.908458"
     },
     {
       "id": "b8ded138b185c890",
@@ -773,7 +709,7 @@
       "stage": null,
       "genre": null,
       "sold_out": false,
-      "scraped_at": "2026-05-05T11:02:36.196168"
+      "scraped_at": "2026-05-06T11:34:05.908544"
     },
     {
       "id": "f0264ac4fdf8eac9",
@@ -789,7 +725,7 @@
       "stage": "Hovudscenen",
       "genre": null,
       "sold_out": false,
-      "scraped_at": "2026-05-05T11:00:45.627311"
+      "scraped_at": "2026-05-06T11:32:44.361999"
     },
     {
       "id": "416a125a1f9aabc4",
@@ -799,13 +735,13 @@
       "start": "2026-05-12T18:00:00",
       "end": null,
       "description": "«Gled deg, pappa, her er jeg!» Sitatet stammer fra den elleville farsen Den spanske flue , som nå settes opp på Nationaltheatret for første gang siden 1970! Forestillingen handler om den tilsynelatende vellykkede familien Klinke, der far Ludwig har slått seg opp som sennepsfabrikkeier. Men han ha…",
-      "image_url": "https://cdn.sanity.io/images/4hthkcie/production/cdf32b1e7acec1c1b8df0b898f39e3cab861ac00-1920x1080.jpg",
+      "image_url": "https://cdn.sanity.io/images/4hthkcie/production/3500a6ff03f083eccf698f4597c8029b68c3a161-1920x1080.png",
       "ticket_url": "https://www.nationaltheatret.no/forestillinger/den-spanske-flue#billetter",
       "detail_url": "https://www.nationaltheatret.no/forestillinger/den-spanske-flue",
       "stage": "Hovedscenen",
       "genre": null,
       "sold_out": true,
-      "scraped_at": "2026-05-05T10:59:58.937969"
+      "scraped_at": "2026-05-06T11:31:44.169521"
     },
     {
       "id": "c768f86240722052",
@@ -821,7 +757,7 @@
       "stage": "Torshovteatret",
       "genre": null,
       "sold_out": true,
-      "scraped_at": "2026-05-05T11:00:00.765530"
+      "scraped_at": "2026-05-06T11:31:46.342256"
     },
     {
       "id": "34c5adb323eec36a",
@@ -837,7 +773,7 @@
       "stage": "Scene 2",
       "genre": null,
       "sold_out": false,
-      "scraped_at": "2026-05-05T11:01:15.694276"
+      "scraped_at": "2026-05-06T11:32:53.183641"
     },
     {
       "id": "2a5def31b8ecd2e0",
@@ -853,7 +789,7 @@
       "stage": "Amfiscenen",
       "genre": null,
       "sold_out": true,
-      "scraped_at": "2026-05-05T11:00:02.652837"
+      "scraped_at": "2026-05-06T11:31:48.569379"
     },
     {
       "id": "579a952b83504bb1",
@@ -869,7 +805,7 @@
       "stage": "Black Box teater Foajé\n    \n      (Black Box teater)",
       "genre": null,
       "sold_out": false,
-      "scraped_at": "2026-05-05T11:01:50.251454"
+      "scraped_at": "2026-05-06T11:33:14.517118"
     },
     {
       "id": "9aaa9afdb928af6f",
@@ -885,7 +821,7 @@
       "stage": "Scene 2",
       "genre": null,
       "sold_out": false,
-      "scraped_at": "2026-05-05T11:01:15.521117"
+      "scraped_at": "2026-05-06T11:32:52.980773"
     },
     {
       "id": "1767e5ff2ad75dca",
@@ -901,7 +837,7 @@
       "stage": null,
       "genre": null,
       "sold_out": false,
-      "scraped_at": "2026-05-05T11:02:22.994593"
+      "scraped_at": "2026-05-06T11:33:47.770231"
     },
     {
       "id": "49feec268ec52db9",
@@ -917,7 +853,7 @@
       "stage": "Hovudscenen",
       "genre": null,
       "sold_out": false,
-      "scraped_at": "2026-05-05T11:00:45.627322"
+      "scraped_at": "2026-05-06T11:32:44.362013"
     },
     {
       "id": "3878b4967d893a34",
@@ -927,13 +863,13 @@
       "start": "2026-05-13T18:00:00",
       "end": null,
       "description": "«Gled deg, pappa, her er jeg!» Sitatet stammer fra den elleville farsen Den spanske flue , som nå settes opp på Nationaltheatret for første gang siden 1970! Forestillingen handler om den tilsynelatende vellykkede familien Klinke, der far Ludwig har slått seg opp som sennepsfabrikkeier. Men han ha…",
-      "image_url": "https://cdn.sanity.io/images/4hthkcie/production/cdf32b1e7acec1c1b8df0b898f39e3cab861ac00-1920x1080.jpg",
+      "image_url": "https://cdn.sanity.io/images/4hthkcie/production/3500a6ff03f083eccf698f4597c8029b68c3a161-1920x1080.png",
       "ticket_url": "https://www.nationaltheatret.no/velg-seter?performanceId=25327",
       "detail_url": "https://www.nationaltheatret.no/forestillinger/den-spanske-flue",
       "stage": "Hovedscenen",
       "genre": null,
       "sold_out": false,
-      "scraped_at": "2026-05-05T10:59:58.938010"
+      "scraped_at": "2026-05-06T11:31:44.169560"
     },
     {
       "id": "a16cb0242760e744",
@@ -949,7 +885,7 @@
       "stage": "Torshovteatret",
       "genre": null,
       "sold_out": true,
-      "scraped_at": "2026-05-05T11:00:00.765544"
+      "scraped_at": "2026-05-06T11:31:46.342270"
     },
     {
       "id": "121a454c787c08ff",
@@ -965,7 +901,7 @@
       "stage": null,
       "genre": null,
       "sold_out": false,
-      "scraped_at": "2026-05-05T11:02:36.196246"
+      "scraped_at": "2026-05-06T11:34:05.908640"
     },
     {
       "id": "516dbc9351d3545a",
@@ -981,7 +917,7 @@
       "stage": "Amfiscenen",
       "genre": null,
       "sold_out": true,
-      "scraped_at": "2026-05-05T11:00:02.652852"
+      "scraped_at": "2026-05-06T11:31:48.569394"
     },
     {
       "id": "891845f96314b10e",
@@ -997,7 +933,7 @@
       "stage": "Hovedscenen",
       "genre": "Sesongforestilling",
       "sold_out": false,
-      "scraped_at": "2026-05-05T11:02:25.353026"
+      "scraped_at": "2026-05-06T11:33:55.865960"
     },
     {
       "id": "b5d5eb5e69dcb25c",
@@ -1013,23 +949,7 @@
       "stage": "Riksteatret",
       "genre": null,
       "sold_out": false,
-      "scraped_at": "2026-05-05T11:02:24.445492"
-    },
-    {
-      "id": "e05b3c2173689745",
-      "title": "Superheltverksted",
-      "venue": "Nordic Black Theatre",
-      "venue_slug": "nordic-black",
-      "start": "2026-05-14T19:00:00",
-      "end": null,
-      "description": null,
-      "image_url": "/_next/image?url=https%3A%2F%2Fcdn.sanity.io%2Fimages%2Fl794s5ct%2Fproduction%2Fe3b9e148ed8e4237e0ad6f2486933f97e926358b-1440x810.jpg%3Frect%3D315%2C0%2C810%2C810%26w%3D1000%26h%3D1000%26q%3D92%26fit%3Dmax%26auto%3Dformat&w=3840&q=75",
-      "ticket_url": "https://nordicblacktheatre.no/program/superheltverksted-14-05-2026",
-      "detail_url": "https://nordicblacktheatre.no/program/superheltverksted-14-05-2026",
-      "stage": null,
-      "genre": null,
-      "sold_out": false,
-      "scraped_at": "2026-05-05T11:02:36.196096"
+      "scraped_at": "2026-05-06T11:33:49.507169"
     },
     {
       "id": "876e891dc4fc70b6",
@@ -1045,7 +965,7 @@
       "stage": null,
       "genre": null,
       "sold_out": false,
-      "scraped_at": "2026-05-05T11:02:36.196323"
+      "scraped_at": "2026-05-06T11:34:05.908729"
     },
     {
       "id": "fad1f5db477f837d",
@@ -1061,7 +981,7 @@
       "stage": "Hovudscenen",
       "genre": null,
       "sold_out": false,
-      "scraped_at": "2026-05-05T11:00:45.627340"
+      "scraped_at": "2026-05-06T11:32:44.362024"
     },
     {
       "id": "ae66b184f390e97d",
@@ -1077,7 +997,7 @@
       "stage": "Hovedscenen",
       "genre": null,
       "sold_out": true,
-      "scraped_at": "2026-05-05T10:59:53.339478"
+      "scraped_at": "2026-05-06T11:31:38.947699"
     },
     {
       "id": "b502b7f0f9a3ead0",
@@ -1093,7 +1013,7 @@
       "stage": "Torshovteatret",
       "genre": null,
       "sold_out": true,
-      "scraped_at": "2026-05-05T11:00:00.765558"
+      "scraped_at": "2026-05-06T11:31:46.342284"
     },
     {
       "id": "f29563a94e22e7b7",
@@ -1109,7 +1029,7 @@
       "stage": "Amfiscenen",
       "genre": null,
       "sold_out": true,
-      "scraped_at": "2026-05-05T11:00:02.652869"
+      "scraped_at": "2026-05-06T11:31:48.569409"
     },
     {
       "id": "6b6503a88209c75a",
@@ -1125,7 +1045,7 @@
       "stage": "Scene 2",
       "genre": null,
       "sold_out": false,
-      "scraped_at": "2026-05-05T11:01:15.694286"
+      "scraped_at": "2026-05-06T11:32:53.183651"
     },
     {
       "id": "231fc8682b9d72d4",
@@ -1141,7 +1061,7 @@
       "stage": "Riksteatret",
       "genre": null,
       "sold_out": false,
-      "scraped_at": "2026-05-05T11:02:24.445824"
+      "scraped_at": "2026-05-06T11:33:49.507483"
     },
     {
       "id": "07c2758c1fb30fd3",
@@ -1157,7 +1077,7 @@
       "stage": "Hovedscenen",
       "genre": "Sesongforestilling",
       "sold_out": false,
-      "scraped_at": "2026-05-05T11:02:25.354011"
+      "scraped_at": "2026-05-06T11:33:55.866898"
     },
     {
       "id": "513739cd17d88c8c",
@@ -1173,7 +1093,7 @@
       "stage": null,
       "genre": null,
       "sold_out": false,
-      "scraped_at": "2026-05-05T11:02:36.196394"
+      "scraped_at": "2026-05-06T11:34:05.908815"
     },
     {
       "id": "71462b3a2a375c69",
@@ -1189,7 +1109,7 @@
       "stage": null,
       "genre": "Annet",
       "sold_out": false,
-      "scraped_at": "2026-05-05T11:02:42.527275"
+      "scraped_at": "2026-05-06T11:34:19.773719"
     },
     {
       "id": "a74619dca5cc0cbf",
@@ -1205,7 +1125,7 @@
       "stage": "Hovedscenen",
       "genre": "Sesongforestilling",
       "sold_out": false,
-      "scraped_at": "2026-05-05T11:02:25.354650"
+      "scraped_at": "2026-05-06T11:33:55.867516"
     },
     {
       "id": "d8afdfd6a08ac4f7",
@@ -1221,7 +1141,7 @@
       "stage": "Hovedscenen",
       "genre": null,
       "sold_out": true,
-      "scraped_at": "2026-05-05T10:59:53.339493"
+      "scraped_at": "2026-05-06T11:31:38.947716"
     },
     {
       "id": "ee6e03c00361fca1",
@@ -1237,7 +1157,7 @@
       "stage": "Scene 3",
       "genre": null,
       "sold_out": false,
-      "scraped_at": "2026-05-05T11:01:26.667340"
+      "scraped_at": "2026-05-06T11:32:56.446951"
     },
     {
       "id": "7304da26824ee98c",
@@ -1253,7 +1173,7 @@
       "stage": "Torshovteatret",
       "genre": null,
       "sold_out": true,
-      "scraped_at": "2026-05-05T11:00:00.765572"
+      "scraped_at": "2026-05-06T11:31:46.342300"
     },
     {
       "id": "9bfeec25cf0e5da2",
@@ -1269,7 +1189,7 @@
       "stage": "Scene 3",
       "genre": null,
       "sold_out": false,
-      "scraped_at": "2026-05-05T11:01:26.667365"
+      "scraped_at": "2026-05-06T11:32:56.446974"
     },
     {
       "id": "8546953861670fd5",
@@ -1285,7 +1205,7 @@
       "stage": "Hovudscenen",
       "genre": null,
       "sold_out": false,
-      "scraped_at": "2026-05-05T11:00:45.627352"
+      "scraped_at": "2026-05-06T11:32:44.362042"
     },
     {
       "id": "c0c1aa62e51f041e",
@@ -1301,7 +1221,7 @@
       "stage": "Amfiscenen",
       "genre": null,
       "sold_out": true,
-      "scraped_at": "2026-05-05T11:00:02.652884"
+      "scraped_at": "2026-05-06T11:31:48.569424"
     },
     {
       "id": "64092f44e423194b",
@@ -1317,7 +1237,7 @@
       "stage": "Hovudscenen",
       "genre": null,
       "sold_out": false,
-      "scraped_at": "2026-05-05T11:00:45.627364"
+      "scraped_at": "2026-05-06T11:32:44.362055"
     },
     {
       "id": "2a54deeadd39e991",
@@ -1327,13 +1247,13 @@
       "start": "2026-05-16T18:30:00",
       "end": null,
       "description": "«Gled deg, pappa, her er jeg!» Sitatet stammer fra den elleville farsen Den spanske flue , som nå settes opp på Nationaltheatret for første gang siden 1970! Forestillingen handler om den tilsynelatende vellykkede familien Klinke, der far Ludwig har slått seg opp som sennepsfabrikkeier. Men han ha…",
-      "image_url": "https://cdn.sanity.io/images/4hthkcie/production/cdf32b1e7acec1c1b8df0b898f39e3cab861ac00-1920x1080.jpg",
+      "image_url": "https://cdn.sanity.io/images/4hthkcie/production/3500a6ff03f083eccf698f4597c8029b68c3a161-1920x1080.png",
       "ticket_url": "https://www.nationaltheatret.no/velg-seter?performanceId=25328",
       "detail_url": "https://www.nationaltheatret.no/forestillinger/den-spanske-flue",
       "stage": "Hovedscenen",
       "genre": null,
       "sold_out": true,
-      "scraped_at": "2026-05-05T10:59:58.938030"
+      "scraped_at": "2026-05-06T11:31:44.169579"
     },
     {
       "id": "297b6c795ff9bccc",
@@ -1349,7 +1269,7 @@
       "stage": null,
       "genre": null,
       "sold_out": false,
-      "scraped_at": "2026-05-05T11:02:36.196515"
+      "scraped_at": "2026-05-06T11:34:05.908896"
     },
     {
       "id": "593789740adfdb20",
@@ -1359,13 +1279,13 @@
       "start": "2026-05-18T19:30:00",
       "end": null,
       "description": "«Gled deg, pappa, her er jeg!» Sitatet stammer fra den elleville farsen Den spanske flue , som nå settes opp på Nationaltheatret for første gang siden 1970! Forestillingen handler om den tilsynelatende vellykkede familien Klinke, der far Ludwig har slått seg opp som sennepsfabrikkeier. Men han ha…",
-      "image_url": "https://cdn.sanity.io/images/4hthkcie/production/cdf32b1e7acec1c1b8df0b898f39e3cab861ac00-1920x1080.jpg",
+      "image_url": "https://cdn.sanity.io/images/4hthkcie/production/3500a6ff03f083eccf698f4597c8029b68c3a161-1920x1080.png",
       "ticket_url": "https://www.nationaltheatret.no/velg-seter?performanceId=25329",
       "detail_url": "https://www.nationaltheatret.no/forestillinger/den-spanske-flue",
       "stage": "Hovedscenen",
       "genre": null,
       "sold_out": true,
-      "scraped_at": "2026-05-05T10:59:58.938075"
+      "scraped_at": "2026-05-06T11:31:44.169596"
     },
     {
       "id": "ca426614e700c349",
@@ -1375,13 +1295,13 @@
       "start": "2026-05-19T18:30:00",
       "end": null,
       "description": "«Gled deg, pappa, her er jeg!» Sitatet stammer fra den elleville farsen Den spanske flue , som nå settes opp på Nationaltheatret for første gang siden 1970! Forestillingen handler om den tilsynelatende vellykkede familien Klinke, der far Ludwig har slått seg opp som sennepsfabrikkeier. Men han ha…",
-      "image_url": "https://cdn.sanity.io/images/4hthkcie/production/cdf32b1e7acec1c1b8df0b898f39e3cab861ac00-1920x1080.jpg",
+      "image_url": "https://cdn.sanity.io/images/4hthkcie/production/3500a6ff03f083eccf698f4597c8029b68c3a161-1920x1080.png",
       "ticket_url": "https://www.nationaltheatret.no/velg-seter?performanceId=25330",
       "detail_url": "https://www.nationaltheatret.no/forestillinger/den-spanske-flue",
       "stage": "Hovedscenen",
       "genre": null,
-      "sold_out": true,
-      "scraped_at": "2026-05-05T10:59:58.938092"
+      "sold_out": false,
+      "scraped_at": "2026-05-06T11:31:44.169628"
     },
     {
       "id": "0a6f423aba7779c4",
@@ -1397,7 +1317,7 @@
       "stage": "Torshovteatret",
       "genre": null,
       "sold_out": true,
-      "scraped_at": "2026-05-05T11:00:00.765585"
+      "scraped_at": "2026-05-06T11:31:46.342319"
     },
     {
       "id": "994b6437e4cce646",
@@ -1413,7 +1333,7 @@
       "stage": "Scene 2",
       "genre": null,
       "sold_out": false,
-      "scraped_at": "2026-05-05T11:01:15.694297"
+      "scraped_at": "2026-05-06T11:32:53.183660"
     },
     {
       "id": "2a1fde9a03ecbc13",
@@ -1429,7 +1349,7 @@
       "stage": null,
       "genre": null,
       "sold_out": false,
-      "scraped_at": "2026-05-05T11:02:36.196601"
+      "scraped_at": "2026-05-06T11:34:05.908994"
     },
     {
       "id": "d95839dd2c9f90da",
@@ -1445,7 +1365,7 @@
       "stage": "Hovudscenen",
       "genre": null,
       "sold_out": false,
-      "scraped_at": "2026-05-05T11:00:45.627377"
+      "scraped_at": "2026-05-06T11:32:44.362066"
     },
     {
       "id": "a0efbb890e03ad2f",
@@ -1461,7 +1381,7 @@
       "stage": "Torshovteatret",
       "genre": null,
       "sold_out": true,
-      "scraped_at": "2026-05-05T11:00:00.765599"
+      "scraped_at": "2026-05-06T11:31:46.342333"
     },
     {
       "id": "ca24de93065be740",
@@ -1477,7 +1397,7 @@
       "stage": "Østmarka",
       "genre": null,
       "sold_out": false,
-      "scraped_at": "2026-05-05T11:01:50.251710"
+      "scraped_at": "2026-05-06T11:33:14.517419"
     },
     {
       "id": "9f77d0e2538e3751",
@@ -1493,7 +1413,7 @@
       "stage": null,
       "genre": null,
       "sold_out": false,
-      "scraped_at": "2026-05-05T11:02:36.196676"
+      "scraped_at": "2026-05-06T11:34:05.909079"
     },
     {
       "id": "4cb48533d40735bc",
@@ -1509,7 +1429,7 @@
       "stage": "Hovedscenen",
       "genre": null,
       "sold_out": false,
-      "scraped_at": "2026-05-05T11:00:27.643162"
+      "scraped_at": "2026-05-06T11:32:23.684371"
     },
     {
       "id": "bea99f0ec371f052",
@@ -1525,7 +1445,7 @@
       "stage": "Scene 2",
       "genre": null,
       "sold_out": false,
-      "scraped_at": "2026-05-05T11:01:19.558697"
+      "scraped_at": "2026-05-06T11:32:54.094478"
     },
     {
       "id": "a641582c9bf33909",
@@ -1541,7 +1461,7 @@
       "stage": "Hovedscenen",
       "genre": "Sesongforestilling",
       "sold_out": false,
-      "scraped_at": "2026-05-05T11:02:25.355499"
+      "scraped_at": "2026-05-06T11:33:55.868356"
     },
     {
       "id": "b3d86bf2a65830dd",
@@ -1557,7 +1477,7 @@
       "stage": "Hovudscenen",
       "genre": null,
       "sold_out": false,
-      "scraped_at": "2026-05-05T11:00:45.627389"
+      "scraped_at": "2026-05-06T11:32:44.362077"
     },
     {
       "id": "8980304ff84a13fa",
@@ -1573,7 +1493,7 @@
       "stage": "Amfiscenen",
       "genre": null,
       "sold_out": false,
-      "scraped_at": "2026-05-05T11:00:05.603289"
+      "scraped_at": "2026-05-06T11:31:52.078278"
     },
     {
       "id": "0474a58765d64ef5",
@@ -1589,7 +1509,7 @@
       "stage": "Riksteatret",
       "genre": null,
       "sold_out": false,
-      "scraped_at": "2026-05-05T11:02:24.446141"
+      "scraped_at": "2026-05-06T11:33:49.507782"
     },
     {
       "id": "a81c6595c4d9b09a",
@@ -1605,7 +1525,7 @@
       "stage": "Torshovteatret",
       "genre": null,
       "sold_out": true,
-      "scraped_at": "2026-05-05T11:00:00.765612"
+      "scraped_at": "2026-05-06T11:31:46.342352"
     },
     {
       "id": "50170d613a78f150",
@@ -1615,13 +1535,13 @@
       "start": "2026-05-21T19:00:00",
       "end": null,
       "description": "«Gled deg, pappa, her er jeg!» Sitatet stammer fra den elleville farsen Den spanske flue , som nå settes opp på Nationaltheatret for første gang siden 1970! Forestillingen handler om den tilsynelatende vellykkede familien Klinke, der far Ludwig har slått seg opp som sennepsfabrikkeier. Men han ha…",
-      "image_url": "https://cdn.sanity.io/images/4hthkcie/production/cdf32b1e7acec1c1b8df0b898f39e3cab861ac00-1920x1080.jpg",
+      "image_url": "https://cdn.sanity.io/images/4hthkcie/production/3500a6ff03f083eccf698f4597c8029b68c3a161-1920x1080.png",
       "ticket_url": "https://www.nationaltheatret.no/velg-seter?performanceId=25331",
       "detail_url": "https://www.nationaltheatret.no/forestillinger/den-spanske-flue",
       "stage": "Hovedscenen",
       "genre": null,
       "sold_out": true,
-      "scraped_at": "2026-05-05T10:59:58.938107"
+      "scraped_at": "2026-05-06T11:31:44.169644"
     },
     {
       "id": "ec0e948591477973",
@@ -1637,7 +1557,7 @@
       "stage": "Scene 2",
       "genre": null,
       "sold_out": false,
-      "scraped_at": "2026-05-05T11:01:17.871959"
+      "scraped_at": "2026-05-06T11:32:53.889584"
     },
     {
       "id": "bc5c8142d7fc158d",
@@ -1653,7 +1573,7 @@
       "stage": "Østmarka",
       "genre": null,
       "sold_out": false,
-      "scraped_at": "2026-05-05T11:01:50.251925"
+      "scraped_at": "2026-05-06T11:33:14.517666"
     },
     {
       "id": "4dfb3e79b6313153",
@@ -1669,7 +1589,7 @@
       "stage": null,
       "genre": null,
       "sold_out": false,
-      "scraped_at": "2026-05-05T11:02:36.196751"
+      "scraped_at": "2026-05-06T11:34:05.909166"
     },
     {
       "id": "ff9223ccc99dc9ea",
@@ -1685,7 +1605,7 @@
       "stage": "Hovudscenen",
       "genre": null,
       "sold_out": false,
-      "scraped_at": "2026-05-05T11:00:45.627399"
+      "scraped_at": "2026-05-06T11:32:44.362087"
     },
     {
       "id": "6e9dbf5630d68865",
@@ -1695,13 +1615,13 @@
       "start": "2026-05-22T18:30:00",
       "end": null,
       "description": "«Gled deg, pappa, her er jeg!» Sitatet stammer fra den elleville farsen Den spanske flue , som nå settes opp på Nationaltheatret for første gang siden 1970! Forestillingen handler om den tilsynelatende vellykkede familien Klinke, der far Ludwig har slått seg opp som sennepsfabrikkeier. Men han ha…",
-      "image_url": "https://cdn.sanity.io/images/4hthkcie/production/cdf32b1e7acec1c1b8df0b898f39e3cab861ac00-1920x1080.jpg",
+      "image_url": "https://cdn.sanity.io/images/4hthkcie/production/3500a6ff03f083eccf698f4597c8029b68c3a161-1920x1080.png",
       "ticket_url": "https://www.nationaltheatret.no/velg-seter?performanceId=25332",
       "detail_url": "https://www.nationaltheatret.no/forestillinger/den-spanske-flue",
       "stage": "Hovedscenen",
       "genre": null,
       "sold_out": true,
-      "scraped_at": "2026-05-05T10:59:58.938121"
+      "scraped_at": "2026-05-06T11:31:44.169659"
     },
     {
       "id": "d7b3d4e6ba62bfdb",
@@ -1717,7 +1637,7 @@
       "stage": "Torshovteatret",
       "genre": null,
       "sold_out": true,
-      "scraped_at": "2026-05-05T11:00:00.765626"
+      "scraped_at": "2026-05-06T11:31:46.342366"
     },
     {
       "id": "f1adcef04cd81865",
@@ -1733,7 +1653,7 @@
       "stage": "Amfiscenen",
       "genre": null,
       "sold_out": true,
-      "scraped_at": "2026-05-05T11:00:05.603319"
+      "scraped_at": "2026-05-06T11:31:52.078307"
     },
     {
       "id": "887998fa03606fb9",
@@ -1749,7 +1669,7 @@
       "stage": "Midtgolvet",
       "genre": null,
       "sold_out": false,
-      "scraped_at": "2026-05-05T11:01:37.985124"
+      "scraped_at": "2026-05-06T11:33:03.575829"
     },
     {
       "id": "4f534653d79065a4",
@@ -1765,7 +1685,7 @@
       "stage": "Østmarka",
       "genre": null,
       "sold_out": false,
-      "scraped_at": "2026-05-05T11:01:50.252155"
+      "scraped_at": "2026-05-06T11:33:14.517897"
     },
     {
       "id": "ff1cccc1be46658a",
@@ -1781,7 +1701,7 @@
       "stage": "Hovedscenen",
       "genre": "Sesongforestilling",
       "sold_out": false,
-      "scraped_at": "2026-05-05T11:02:25.356473"
+      "scraped_at": "2026-05-06T11:33:55.869297"
     },
     {
       "id": "b3569d04616a5a6b",
@@ -1797,7 +1717,7 @@
       "stage": null,
       "genre": null,
       "sold_out": false,
-      "scraped_at": "2026-05-05T11:02:36.196820"
+      "scraped_at": "2026-05-06T11:34:05.909249"
     },
     {
       "id": "39302d0346072e61",
@@ -1813,7 +1733,7 @@
       "stage": null,
       "genre": "Standup",
       "sold_out": false,
-      "scraped_at": "2026-05-05T11:02:42.803422"
+      "scraped_at": "2026-05-06T11:34:20.098704"
     },
     {
       "id": "7baf199c68b727a0",
@@ -1829,7 +1749,7 @@
       "stage": "Hovedscenen",
       "genre": "Sesongforestilling",
       "sold_out": false,
-      "scraped_at": "2026-05-05T11:02:25.357109"
+      "scraped_at": "2026-05-06T11:33:55.869904"
     },
     {
       "id": "822c04983b3c93c2",
@@ -1845,7 +1765,7 @@
       "stage": "Hovedscenen",
       "genre": "Sesongforestilling",
       "sold_out": false,
-      "scraped_at": "2026-05-05T11:02:25.358139"
+      "scraped_at": "2026-05-06T11:33:55.870844"
     },
     {
       "id": "731c11ee75e0c507",
@@ -1861,7 +1781,7 @@
       "stage": "Hovedscenen",
       "genre": "Sesongforestilling",
       "sold_out": false,
-      "scraped_at": "2026-05-05T11:02:25.358761"
+      "scraped_at": "2026-05-06T11:33:55.871453"
     },
     {
       "id": "a438b8c3818dc8b0",
@@ -1877,7 +1797,7 @@
       "stage": null,
       "genre": null,
       "sold_out": false,
-      "scraped_at": "2026-05-05T11:02:36.196889"
+      "scraped_at": "2026-05-06T11:34:05.909330"
     },
     {
       "id": "708e36bb1e3fc61c",
@@ -1887,13 +1807,13 @@
       "start": "2026-05-25T19:00:00",
       "end": null,
       "description": null,
-      "image_url": "/_next/image?url=https%3A%2F%2Fcdn.sanity.io%2Fimages%2Fl794s5ct%2Fproduction%2F561364727ebb0682acc427d44bca0351526b25ad-1080x1080.jpg%3Fw%3D1000%26h%3D1000%26q%3D92%26fit%3Dmax%26auto%3Dformat&w=3840&q=75",
+      "image_url": "/_next/image?url=https%3A%2F%2Fcdn.sanity.io%2Fimages%2Fl794s5ct%2Fproduction%2F23141b7095d834fe6c3736fc848297d0beb2440e-1440x810.jpg%3Frect%3D315%2C0%2C810%2C810%26w%3D1000%26h%3D1000%26q%3D92%26fit%3Dmax%26auto%3Dformat&w=3840&q=75",
       "ticket_url": "https://nordicblacktheatre.no/program/africa-day-25-05-2026",
       "detail_url": "https://nordicblacktheatre.no/program/africa-day-25-05-2026",
       "stage": null,
       "genre": null,
       "sold_out": false,
-      "scraped_at": "2026-05-05T11:02:36.196955"
+      "scraped_at": "2026-05-06T11:34:05.909411"
     },
     {
       "id": "c19d0e8c2ddc62f3",
@@ -1909,7 +1829,7 @@
       "stage": "Bikuben",
       "genre": null,
       "sold_out": false,
-      "scraped_at": "2026-05-05T11:01:35.227812"
+      "scraped_at": "2026-05-06T11:33:00.154898"
     },
     {
       "id": "3a440c1740ff7b4e",
@@ -1925,7 +1845,7 @@
       "stage": "Amfiscenen",
       "genre": null,
       "sold_out": true,
-      "scraped_at": "2026-05-05T11:00:05.603337"
+      "scraped_at": "2026-05-06T11:31:52.078325"
     },
     {
       "id": "0dba73b923a5ce0b",
@@ -1941,7 +1861,7 @@
       "stage": "Hovudscenen",
       "genre": null,
       "sold_out": false,
-      "scraped_at": "2026-05-05T11:00:50.758242"
+      "scraped_at": "2026-05-06T11:32:44.797746"
     },
     {
       "id": "4dae86260d9c0438",
@@ -1957,7 +1877,7 @@
       "stage": "Scene 2",
       "genre": null,
       "sold_out": false,
-      "scraped_at": "2026-05-05T11:01:17.871969"
+      "scraped_at": "2026-05-06T11:32:53.889595"
     },
     {
       "id": "88e654e11e73176c",
@@ -1973,7 +1893,7 @@
       "stage": "Hovedscenen",
       "genre": null,
       "sold_out": false,
-      "scraped_at": "2026-05-05T11:00:27.643194"
+      "scraped_at": "2026-05-06T11:32:23.684399"
     },
     {
       "id": "ef7710b4ff4c4374",
@@ -1989,7 +1909,7 @@
       "stage": "Hovudscenen",
       "genre": null,
       "sold_out": false,
-      "scraped_at": "2026-05-05T11:00:45.627409"
+      "scraped_at": "2026-05-06T11:32:44.362101"
     },
     {
       "id": "b25133cfc6b245b1",
@@ -2005,7 +1925,7 @@
       "stage": "Teater Manu",
       "genre": null,
       "sold_out": false,
-      "scraped_at": "2026-05-05T11:02:29.012095"
+      "scraped_at": "2026-05-06T11:33:59.677665"
     },
     {
       "id": "eaecc03ca09eb9b1",
@@ -2021,7 +1941,7 @@
       "stage": "Torshovteatret",
       "genre": null,
       "sold_out": true,
-      "scraped_at": "2026-05-05T11:00:00.765645"
+      "scraped_at": "2026-05-06T11:31:46.342380"
     },
     {
       "id": "042103d2345b905c",
@@ -2037,7 +1957,7 @@
       "stage": "Amfiscenen",
       "genre": null,
       "sold_out": true,
-      "scraped_at": "2026-05-05T11:00:05.603353"
+      "scraped_at": "2026-05-06T11:31:52.078340"
     },
     {
       "id": "fd25d975efc90392",
@@ -2053,7 +1973,7 @@
       "stage": "Scene 2",
       "genre": null,
       "sold_out": false,
-      "scraped_at": "2026-05-05T11:01:15.694307"
+      "scraped_at": "2026-05-06T11:32:53.183671"
     },
     {
       "id": "de79a27a8da378d5",
@@ -2069,7 +1989,7 @@
       "stage": "Hovedscenen",
       "genre": null,
       "sold_out": true,
-      "scraped_at": "2026-05-05T10:59:53.339509"
+      "scraped_at": "2026-05-06T11:31:38.947732"
     },
     {
       "id": "aa241c98c4f3395b",
@@ -2085,7 +2005,7 @@
       "stage": "Midtgolvet",
       "genre": null,
       "sold_out": false,
-      "scraped_at": "2026-05-05T11:01:37.985149"
+      "scraped_at": "2026-05-06T11:33:03.575851"
     },
     {
       "id": "a0ad53757fed8e36",
@@ -2101,7 +2021,7 @@
       "stage": null,
       "genre": null,
       "sold_out": false,
-      "scraped_at": "2026-05-05T11:02:22.994729"
+      "scraped_at": "2026-05-06T11:33:47.770368"
     },
     {
       "id": "bff50bd5f805c22d",
@@ -2117,7 +2037,7 @@
       "stage": "Teater Manu",
       "genre": null,
       "sold_out": false,
-      "scraped_at": "2026-05-05T11:02:29.012281"
+      "scraped_at": "2026-05-06T11:33:59.677871"
     },
     {
       "id": "318c83bdd78abfc5",
@@ -2133,7 +2053,7 @@
       "stage": "Hovedscenen",
       "genre": null,
       "sold_out": true,
-      "scraped_at": "2026-05-05T10:59:55.584400"
+      "scraped_at": "2026-05-06T11:31:40.030189"
     },
     {
       "id": "8e1baec6644d4e96",
@@ -2149,7 +2069,7 @@
       "stage": "Torshovteatret",
       "genre": null,
       "sold_out": true,
-      "scraped_at": "2026-05-05T11:00:00.765659"
+      "scraped_at": "2026-05-06T11:31:46.342396"
     },
     {
       "id": "9e059026b9636c09",
@@ -2165,7 +2085,7 @@
       "stage": "Scene 2",
       "genre": null,
       "sold_out": false,
-      "scraped_at": "2026-05-05T11:01:17.871979"
+      "scraped_at": "2026-05-06T11:32:53.889605"
     },
     {
       "id": "111365782205dd0e",
@@ -2181,7 +2101,7 @@
       "stage": null,
       "genre": null,
       "sold_out": false,
-      "scraped_at": "2026-05-05T11:02:36.197024"
+      "scraped_at": "2026-05-06T11:34:05.909493"
     },
     {
       "id": "a4f38c19b12f232a",
@@ -2197,7 +2117,7 @@
       "stage": "Hovudscenen",
       "genre": null,
       "sold_out": false,
-      "scraped_at": "2026-05-05T11:00:45.627418"
+      "scraped_at": "2026-05-06T11:32:44.362112"
     },
     {
       "id": "97a9ee8c49cf50fc",
@@ -2213,7 +2133,7 @@
       "stage": "Scene 2",
       "genre": null,
       "sold_out": false,
-      "scraped_at": "2026-05-05T11:01:15.694318"
+      "scraped_at": "2026-05-06T11:32:53.183681"
     },
     {
       "id": "7f544e070301c0b2",
@@ -2223,13 +2143,13 @@
       "start": "2026-05-29T18:30:00",
       "end": null,
       "description": "«Gled deg, pappa, her er jeg!» Sitatet stammer fra den elleville farsen Den spanske flue , som nå settes opp på Nationaltheatret for første gang siden 1970! Forestillingen handler om den tilsynelatende vellykkede familien Klinke, der far Ludwig har slått seg opp som sennepsfabrikkeier. Men han ha…",
-      "image_url": "https://cdn.sanity.io/images/4hthkcie/production/cdf32b1e7acec1c1b8df0b898f39e3cab861ac00-1920x1080.jpg",
+      "image_url": "https://cdn.sanity.io/images/4hthkcie/production/3500a6ff03f083eccf698f4597c8029b68c3a161-1920x1080.png",
       "ticket_url": "https://www.nationaltheatret.no/velg-seter?performanceId=25333",
       "detail_url": "https://www.nationaltheatret.no/forestillinger/den-spanske-flue",
       "stage": "Hovedscenen",
       "genre": null,
       "sold_out": false,
-      "scraped_at": "2026-05-05T10:59:58.938139"
+      "scraped_at": "2026-05-06T11:31:44.169674"
     },
     {
       "id": "dd84ab0946ff00d0",
@@ -2245,7 +2165,7 @@
       "stage": "Torshovteatret",
       "genre": null,
       "sold_out": true,
-      "scraped_at": "2026-05-05T11:00:00.765673"
+      "scraped_at": "2026-05-06T11:31:46.342410"
     },
     {
       "id": "8875acaed910b57f",
@@ -2261,7 +2181,7 @@
       "stage": "Amfiscenen",
       "genre": null,
       "sold_out": true,
-      "scraped_at": "2026-05-05T11:00:02.652899"
+      "scraped_at": "2026-05-06T11:31:48.569438"
     },
     {
       "id": "7e8f897c40df6293",
@@ -2277,7 +2197,7 @@
       "stage": "Black Box teater Foajé\n    \n      (Black Box teater)",
       "genre": null,
       "sold_out": false,
-      "scraped_at": "2026-05-05T11:01:50.252371"
+      "scraped_at": "2026-05-06T11:33:14.518153"
     },
     {
       "id": "2a2f8ff14414c5e0",
@@ -2293,7 +2213,7 @@
       "stage": "Hovedscenen",
       "genre": "Sesongforestilling",
       "sold_out": false,
-      "scraped_at": "2026-05-05T11:02:25.359735"
+      "scraped_at": "2026-05-06T11:33:55.872393"
     },
     {
       "id": "27fb8d4e17927b06",
@@ -2309,7 +2229,7 @@
       "stage": "Midtgolvet",
       "genre": null,
       "sold_out": false,
-      "scraped_at": "2026-05-05T11:01:37.985162"
+      "scraped_at": "2026-05-06T11:33:03.575864"
     },
     {
       "id": "5b3106e53fdbe21f",
@@ -2325,7 +2245,7 @@
       "stage": "Hovedscenen",
       "genre": "Sesongforestilling",
       "sold_out": false,
-      "scraped_at": "2026-05-05T11:02:25.360361"
+      "scraped_at": "2026-05-06T11:33:55.873035"
     },
     {
       "id": "118d27c78381d4e1",
@@ -2341,7 +2261,7 @@
       "stage": "Scene 2",
       "genre": null,
       "sold_out": false,
-      "scraped_at": "2026-05-05T11:01:15.521129"
+      "scraped_at": "2026-05-06T11:32:52.980784"
     },
     {
       "id": "802d3d29c5f5f003",
@@ -2351,13 +2271,13 @@
       "start": "2026-05-30T13:30:00",
       "end": null,
       "description": "«Gled deg, pappa, her er jeg!» Sitatet stammer fra den elleville farsen Den spanske flue , som nå settes opp på Nationaltheatret for første gang siden 1970! Forestillingen handler om den tilsynelatende vellykkede familien Klinke, der far Ludwig har slått seg opp som sennepsfabrikkeier. Men han ha…",
-      "image_url": "https://cdn.sanity.io/images/4hthkcie/production/cdf32b1e7acec1c1b8df0b898f39e3cab861ac00-1920x1080.jpg",
+      "image_url": "https://cdn.sanity.io/images/4hthkcie/production/3500a6ff03f083eccf698f4597c8029b68c3a161-1920x1080.png",
       "ticket_url": "https://www.nationaltheatret.no/velg-seter?performanceId=25334",
       "detail_url": "https://www.nationaltheatret.no/forestillinger/den-spanske-flue",
       "stage": "Hovedscenen",
       "genre": null,
       "sold_out": false,
-      "scraped_at": "2026-05-05T10:59:58.938155"
+      "scraped_at": "2026-05-06T11:31:44.169692"
     },
     {
       "id": "fd4061aebf12f4c2",
@@ -2373,7 +2293,7 @@
       "stage": "Scene 3",
       "genre": null,
       "sold_out": false,
-      "scraped_at": "2026-05-05T11:01:26.667378"
+      "scraped_at": "2026-05-06T11:32:56.446985"
     },
     {
       "id": "3fb25d04ef2891b4",
@@ -2389,7 +2309,7 @@
       "stage": "Scene 3",
       "genre": null,
       "sold_out": false,
-      "scraped_at": "2026-05-05T11:01:26.667389"
+      "scraped_at": "2026-05-06T11:32:56.446996"
     },
     {
       "id": "e51acfe7ba1c59e5",
@@ -2405,7 +2325,7 @@
       "stage": "Hovudscenen",
       "genre": null,
       "sold_out": false,
-      "scraped_at": "2026-05-05T11:00:45.627431"
+      "scraped_at": "2026-05-06T11:32:44.362122"
     },
     {
       "id": "fe3c100a86b445bb",
@@ -2421,7 +2341,7 @@
       "stage": "Torshovteatret",
       "genre": null,
       "sold_out": true,
-      "scraped_at": "2026-05-05T11:00:00.765687"
+      "scraped_at": "2026-05-06T11:31:46.342424"
     },
     {
       "id": "e2527d7ec8f4f2bf",
@@ -2437,7 +2357,7 @@
       "stage": "Amfiscenen",
       "genre": null,
       "sold_out": true,
-      "scraped_at": "2026-05-05T11:00:02.652914"
+      "scraped_at": "2026-05-06T11:31:48.569453"
     },
     {
       "id": "36fe853bf0d1465c",
@@ -2453,7 +2373,7 @@
       "stage": "Hovedscenen",
       "genre": null,
       "sold_out": true,
-      "scraped_at": "2026-05-05T10:59:53.339527"
+      "scraped_at": "2026-05-06T11:31:38.947748"
     },
     {
       "id": "d622da3574474f6a",
@@ -2469,7 +2389,7 @@
       "stage": "Torshovteatret",
       "genre": null,
       "sold_out": true,
-      "scraped_at": "2026-05-05T11:00:00.765701"
+      "scraped_at": "2026-05-06T11:31:46.342438"
     },
     {
       "id": "045c2fe2b59e679c",
@@ -2485,7 +2405,7 @@
       "stage": "Midtgolvet",
       "genre": null,
       "sold_out": false,
-      "scraped_at": "2026-05-05T11:01:37.985173"
+      "scraped_at": "2026-05-06T11:33:03.575874"
     },
     {
       "id": "bbfec51d3d9a7851",
@@ -2501,7 +2421,7 @@
       "stage": "Hovedscenen",
       "genre": "Sesongforestilling",
       "sold_out": false,
-      "scraped_at": "2026-05-05T11:02:25.361332"
+      "scraped_at": "2026-05-06T11:33:55.873995"
     },
     {
       "id": "421136b1bda46b88",
@@ -2517,7 +2437,7 @@
       "stage": "Hovedscenen",
       "genre": "Sesongforestilling",
       "sold_out": false,
-      "scraped_at": "2026-05-05T11:02:25.361954"
+      "scraped_at": "2026-05-06T11:33:55.874599"
     },
     {
       "id": "e88e245a02320149",
@@ -2533,7 +2453,7 @@
       "stage": null,
       "genre": "Barnearrangement",
       "sold_out": false,
-      "scraped_at": "2026-05-05T11:02:43.076428"
+      "scraped_at": "2026-05-06T11:34:21.355509"
     },
     {
       "id": "d1eab23eb3bdac42",
@@ -2549,7 +2469,7 @@
       "stage": "Hovudscenen",
       "genre": null,
       "sold_out": false,
-      "scraped_at": "2026-05-05T11:00:45.627441"
+      "scraped_at": "2026-05-06T11:32:44.362132"
     },
     {
       "id": "72236b6f18821ef4",
@@ -2565,7 +2485,7 @@
       "stage": null,
       "genre": "Barnearrangement",
       "sold_out": false,
-      "scraped_at": "2026-05-05T11:02:43.076473"
+      "scraped_at": "2026-05-06T11:34:21.355553"
     },
     {
       "id": "4103543318a89411",
@@ -2581,7 +2501,7 @@
       "stage": "Midtgolvet",
       "genre": null,
       "sold_out": false,
-      "scraped_at": "2026-05-05T11:01:37.985184"
+      "scraped_at": "2026-05-06T11:33:03.575885"
     },
     {
       "id": "160e68b0955d4e6d",
@@ -2597,7 +2517,7 @@
       "stage": null,
       "genre": null,
       "sold_out": false,
-      "scraped_at": "2026-05-05T11:02:36.197155"
+      "scraped_at": "2026-05-06T11:34:05.909620"
     },
     {
       "id": "dd04da18555a3f6d",
@@ -2613,7 +2533,7 @@
       "stage": "Bikuben",
       "genre": null,
       "sold_out": false,
-      "scraped_at": "2026-05-05T11:01:35.227824"
+      "scraped_at": "2026-05-06T11:33:00.154919"
     },
     {
       "id": "e6b0109b7df1fbc2",
@@ -2629,7 +2549,7 @@
       "stage": "Hovudscenen",
       "genre": null,
       "sold_out": false,
-      "scraped_at": "2026-05-05T11:00:45.627454"
+      "scraped_at": "2026-05-06T11:32:44.362144"
     },
     {
       "id": "d1129cea72675ad7",
@@ -2645,7 +2565,7 @@
       "stage": "Torshovteatret",
       "genre": null,
       "sold_out": true,
-      "scraped_at": "2026-05-05T11:00:00.765715"
+      "scraped_at": "2026-05-06T11:31:46.342452"
     },
     {
       "id": "3e743b98cc1ab4e2",
@@ -2661,7 +2581,7 @@
       "stage": "Amfiscenen",
       "genre": null,
       "sold_out": true,
-      "scraped_at": "2026-05-05T11:00:05.603368"
+      "scraped_at": "2026-05-06T11:31:52.078355"
     },
     {
       "id": "0e1a14f587660ad3",
@@ -2677,7 +2597,7 @@
       "stage": "Scene 2",
       "genre": null,
       "sold_out": false,
-      "scraped_at": "2026-05-05T11:01:17.871989"
+      "scraped_at": "2026-05-06T11:32:53.889616"
     },
     {
       "id": "8005178036b26b8a",
@@ -2693,7 +2613,7 @@
       "stage": null,
       "genre": null,
       "sold_out": false,
-      "scraped_at": "2026-05-05T11:02:36.197227"
+      "scraped_at": "2026-05-06T11:34:05.909703"
     },
     {
       "id": "7a0aa855e07302c3",
@@ -2709,7 +2629,7 @@
       "stage": "Hovedscenen",
       "genre": null,
       "sold_out": true,
-      "scraped_at": "2026-05-05T10:59:53.339543"
+      "scraped_at": "2026-05-06T11:31:38.947763"
     },
     {
       "id": "b28d657e6ae5abe9",
@@ -2725,7 +2645,7 @@
       "stage": null,
       "genre": "Standup",
       "sold_out": false,
-      "scraped_at": "2026-05-05T11:02:43.347681"
+      "scraped_at": "2026-05-06T11:34:21.989504"
     },
     {
       "id": "e9ddf4a7f6a2f466",
@@ -2741,7 +2661,7 @@
       "stage": "Hovudscenen",
       "genre": null,
       "sold_out": false,
-      "scraped_at": "2026-05-05T11:00:45.627464"
+      "scraped_at": "2026-05-06T11:32:44.362155"
     },
     {
       "id": "3a934b8278265947",
@@ -2757,7 +2677,7 @@
       "stage": "Black Box teater Foajé\n    \n      (Black Box teater)",
       "genre": null,
       "sold_out": false,
-      "scraped_at": "2026-05-05T11:01:50.252582"
+      "scraped_at": "2026-05-06T11:33:14.518395"
     },
     {
       "id": "04be3657a2478a48",
@@ -2773,7 +2693,7 @@
       "stage": "Torshovteatret",
       "genre": null,
       "sold_out": true,
-      "scraped_at": "2026-05-05T11:00:00.765730"
+      "scraped_at": "2026-05-06T11:31:46.342466"
     },
     {
       "id": "b94dc51d969cfb29",
@@ -2789,7 +2709,7 @@
       "stage": "Amfiscenen",
       "genre": null,
       "sold_out": true,
-      "scraped_at": "2026-05-05T11:00:05.603383"
+      "scraped_at": "2026-05-06T11:31:52.078371"
     },
     {
       "id": "ebcb9b3e27fa97bb",
@@ -2805,7 +2725,7 @@
       "stage": "Scene 2",
       "genre": null,
       "sold_out": false,
-      "scraped_at": "2026-05-05T11:01:17.872000"
+      "scraped_at": "2026-05-06T11:32:53.889626"
     },
     {
       "id": "12eef6661e161616",
@@ -2821,7 +2741,7 @@
       "stage": null,
       "genre": null,
       "sold_out": false,
-      "scraped_at": "2026-05-05T11:02:36.197297"
+      "scraped_at": "2026-05-06T11:34:05.909788"
     },
     {
       "id": "5e96852f447440d3",
@@ -2831,13 +2751,13 @@
       "start": "2026-06-03T19:30:00",
       "end": null,
       "description": "«Gled deg, pappa, her er jeg!» Sitatet stammer fra den elleville farsen Den spanske flue , som nå settes opp på Nationaltheatret for første gang siden 1970! Forestillingen handler om den tilsynelatende vellykkede familien Klinke, der far Ludwig har slått seg opp som sennepsfabrikkeier. Men han ha…",
-      "image_url": "https://cdn.sanity.io/images/4hthkcie/production/cdf32b1e7acec1c1b8df0b898f39e3cab861ac00-1920x1080.jpg",
+      "image_url": "https://cdn.sanity.io/images/4hthkcie/production/3500a6ff03f083eccf698f4597c8029b68c3a161-1920x1080.png",
       "ticket_url": "https://www.nationaltheatret.no/velg-seter?performanceId=25335",
       "detail_url": "https://www.nationaltheatret.no/forestillinger/den-spanske-flue",
       "stage": "Hovedscenen",
       "genre": null,
       "sold_out": true,
-      "scraped_at": "2026-05-05T10:59:58.938170"
+      "scraped_at": "2026-05-06T11:31:44.169706"
     },
     {
       "id": "2040795ee6a9bfd8",
@@ -2853,7 +2773,7 @@
       "stage": "Bikuben",
       "genre": null,
       "sold_out": false,
-      "scraped_at": "2026-05-05T11:01:35.227834"
+      "scraped_at": "2026-05-06T11:33:00.154947"
     },
     {
       "id": "63c2f4d251fb7ac6",
@@ -2869,7 +2789,7 @@
       "stage": "Hovudscenen",
       "genre": null,
       "sold_out": false,
-      "scraped_at": "2026-05-05T11:00:45.627477"
+      "scraped_at": "2026-05-06T11:32:44.362166"
     },
     {
       "id": "dfd737514f953ef4",
@@ -2885,7 +2805,7 @@
       "stage": "Torshovteatret",
       "genre": null,
       "sold_out": true,
-      "scraped_at": "2026-05-05T11:00:00.765744"
+      "scraped_at": "2026-05-06T11:31:46.342479"
     },
     {
       "id": "baf733daaa3c0380",
@@ -2901,7 +2821,7 @@
       "stage": "Amfiscenen",
       "genre": null,
       "sold_out": false,
-      "scraped_at": "2026-05-05T11:00:06.857688"
+      "scraped_at": "2026-05-06T11:31:53.541965"
     },
     {
       "id": "f9d5dda48b0dd643",
@@ -2917,7 +2837,7 @@
       "stage": "Scene 2",
       "genre": null,
       "sold_out": false,
-      "scraped_at": "2026-05-05T11:01:15.694327"
+      "scraped_at": "2026-05-06T11:32:53.183691"
     },
     {
       "id": "10e5ab556b83c5f0",
@@ -2933,7 +2853,7 @@
       "stage": null,
       "genre": null,
       "sold_out": false,
-      "scraped_at": "2026-05-05T11:02:36.197365"
+      "scraped_at": "2026-05-06T11:34:05.909869"
     },
     {
       "id": "b7fe3e4368023081",
@@ -2949,7 +2869,7 @@
       "stage": "Hovedscenen",
       "genre": null,
       "sold_out": false,
-      "scraped_at": "2026-05-05T11:00:25.257431"
+      "scraped_at": "2026-05-06T11:32:20.682092"
     },
     {
       "id": "7f8b32702011e98b",
@@ -2965,7 +2885,7 @@
       "stage": "Midtgolvet",
       "genre": null,
       "sold_out": false,
-      "scraped_at": "2026-05-05T11:01:37.985195"
+      "scraped_at": "2026-05-06T11:33:03.575896"
     },
     {
       "id": "0a0de0992badd29d",
@@ -2981,7 +2901,7 @@
       "stage": "Hovudscenen",
       "genre": null,
       "sold_out": false,
-      "scraped_at": "2026-05-05T11:00:50.758266"
+      "scraped_at": "2026-05-06T11:32:44.797780"
     },
     {
       "id": "4303f835abc25d08",
@@ -2991,13 +2911,13 @@
       "start": "2026-06-05T18:00:00",
       "end": null,
       "description": "«Gled deg, pappa, her er jeg!» Sitatet stammer fra den elleville farsen Den spanske flue , som nå settes opp på Nationaltheatret for første gang siden 1970! Forestillingen handler om den tilsynelatende vellykkede familien Klinke, der far Ludwig har slått seg opp som sennepsfabrikkeier. Men han ha…",
-      "image_url": "https://cdn.sanity.io/images/4hthkcie/production/cdf32b1e7acec1c1b8df0b898f39e3cab861ac00-1920x1080.jpg",
+      "image_url": "https://cdn.sanity.io/images/4hthkcie/production/3500a6ff03f083eccf698f4597c8029b68c3a161-1920x1080.png",
       "ticket_url": "https://www.nationaltheatret.no/velg-seter?performanceId=25336",
       "detail_url": "https://www.nationaltheatret.no/forestillinger/den-spanske-flue",
       "stage": "Hovedscenen",
       "genre": null,
       "sold_out": true,
-      "scraped_at": "2026-05-05T10:59:58.938183"
+      "scraped_at": "2026-05-06T11:31:44.169720"
     },
     {
       "id": "c46756e88bc9c926",
@@ -3013,7 +2933,7 @@
       "stage": "Riksteatret",
       "genre": null,
       "sold_out": false,
-      "scraped_at": "2026-05-05T11:02:24.096693"
+      "scraped_at": "2026-05-06T11:33:49.044300"
     },
     {
       "id": "dc41b47b94bb5ad9",
@@ -3029,7 +2949,7 @@
       "stage": "Amfiscenen",
       "genre": null,
       "sold_out": true,
-      "scraped_at": "2026-05-05T11:00:05.603398"
+      "scraped_at": "2026-05-06T11:31:52.078386"
     },
     {
       "id": "649a418b762e5bba",
@@ -3045,7 +2965,7 @@
       "stage": "Scene 2",
       "genre": null,
       "sold_out": false,
-      "scraped_at": "2026-05-05T11:01:17.872010"
+      "scraped_at": "2026-05-06T11:32:53.889637"
     },
     {
       "id": "be40de151a0fcb24",
@@ -3061,7 +2981,7 @@
       "stage": "Hovedscenen",
       "genre": "Sesongforestilling",
       "sold_out": false,
-      "scraped_at": "2026-05-05T11:02:25.362943"
+      "scraped_at": "2026-05-06T11:33:55.875553"
     },
     {
       "id": "9c80d9fa90f39f5b",
@@ -3077,7 +2997,7 @@
       "stage": "Hovedscenen",
       "genre": "Sesongforestilling",
       "sold_out": false,
-      "scraped_at": "2026-05-05T11:02:25.363573"
+      "scraped_at": "2026-05-06T11:33:55.876186"
     },
     {
       "id": "2e213f40ee4da546",
@@ -3093,7 +3013,7 @@
       "stage": "Scene 2",
       "genre": null,
       "sold_out": false,
-      "scraped_at": "2026-05-05T11:01:15.521139"
+      "scraped_at": "2026-05-06T11:32:52.980793"
     },
     {
       "id": "05af000015fdd8a8",
@@ -3109,7 +3029,7 @@
       "stage": "Riksteatret",
       "genre": null,
       "sold_out": false,
-      "scraped_at": "2026-05-05T11:02:24.097039"
+      "scraped_at": "2026-05-06T11:33:49.044630"
     },
     {
       "id": "ab08bad28a84e2c0",
@@ -3119,13 +3039,13 @@
       "start": "2026-06-06T13:30:00",
       "end": null,
       "description": "«Gled deg, pappa, her er jeg!» Sitatet stammer fra den elleville farsen Den spanske flue , som nå settes opp på Nationaltheatret for første gang siden 1970! Forestillingen handler om den tilsynelatende vellykkede familien Klinke, der far Ludwig har slått seg opp som sennepsfabrikkeier. Men han ha…",
-      "image_url": "https://cdn.sanity.io/images/4hthkcie/production/cdf32b1e7acec1c1b8df0b898f39e3cab861ac00-1920x1080.jpg",
+      "image_url": "https://cdn.sanity.io/images/4hthkcie/production/3500a6ff03f083eccf698f4597c8029b68c3a161-1920x1080.png",
       "ticket_url": "https://www.nationaltheatret.no/velg-seter?performanceId=25337",
       "detail_url": "https://www.nationaltheatret.no/forestillinger/den-spanske-flue",
       "stage": "Hovedscenen",
       "genre": null,
       "sold_out": true,
-      "scraped_at": "2026-05-05T10:59:58.938197"
+      "scraped_at": "2026-05-06T11:31:44.169734"
     },
     {
       "id": "c3d27933e3b1e697",
@@ -3141,7 +3061,7 @@
       "stage": "Scene 3",
       "genre": null,
       "sold_out": false,
-      "scraped_at": "2026-05-05T11:01:26.667399"
+      "scraped_at": "2026-05-06T11:32:56.447006"
     },
     {
       "id": "714e4aee4c2017ea",
@@ -3157,7 +3077,7 @@
       "stage": "Scene 3",
       "genre": null,
       "sold_out": false,
-      "scraped_at": "2026-05-05T11:01:26.667411"
+      "scraped_at": "2026-05-06T11:32:56.447016"
     },
     {
       "id": "28ad117a6cd8d829",
@@ -3173,7 +3093,7 @@
       "stage": "Hovudscenen",
       "genre": null,
       "sold_out": false,
-      "scraped_at": "2026-05-05T11:00:45.627489"
+      "scraped_at": "2026-05-06T11:32:44.362176"
     },
     {
       "id": "a04e8bf943c18e78",
@@ -3189,7 +3109,7 @@
       "stage": "Amfiscenen",
       "genre": null,
       "sold_out": true,
-      "scraped_at": "2026-05-05T11:00:05.603411"
+      "scraped_at": "2026-05-06T11:31:52.078400"
     },
     {
       "id": "35eb673e540c0e52",
@@ -3205,7 +3125,7 @@
       "stage": "Hovudscenen",
       "genre": null,
       "sold_out": false,
-      "scraped_at": "2026-05-05T11:00:45.627499"
+      "scraped_at": "2026-05-06T11:32:44.362187"
     },
     {
       "id": "5440a378ab8e6839",
@@ -3221,7 +3141,7 @@
       "stage": "Riksteatret",
       "genre": null,
       "sold_out": false,
-      "scraped_at": "2026-05-05T11:02:24.097355"
+      "scraped_at": "2026-05-06T11:33:49.044918"
     },
     {
       "id": "6a41dca36057d42a",
@@ -3237,7 +3157,7 @@
       "stage": "Hovedscenen",
       "genre": null,
       "sold_out": true,
-      "scraped_at": "2026-05-05T10:59:53.339558"
+      "scraped_at": "2026-05-06T11:31:38.947780"
     },
     {
       "id": "f23a7be908be88f7",
@@ -3253,7 +3173,7 @@
       "stage": "Hovedscenen",
       "genre": "Sesongforestilling",
       "sold_out": false,
-      "scraped_at": "2026-05-05T11:02:25.364572"
+      "scraped_at": "2026-05-06T11:33:55.877153"
     },
     {
       "id": "b4dcf40a05037896",
@@ -3269,7 +3189,7 @@
       "stage": null,
       "genre": null,
       "sold_out": false,
-      "scraped_at": "2026-05-05T11:02:36.197431"
+      "scraped_at": "2026-05-06T11:34:05.909959"
     },
     {
       "id": "883379ea566200e3",
@@ -3285,7 +3205,7 @@
       "stage": "Hovedscenen",
       "genre": "Sesongforestilling",
       "sold_out": false,
-      "scraped_at": "2026-05-05T11:02:25.365198"
+      "scraped_at": "2026-05-06T11:33:55.877756"
     },
     {
       "id": "da3fe80990a8616f",
@@ -3301,7 +3221,7 @@
       "stage": "Riksteatret",
       "genre": null,
       "sold_out": false,
-      "scraped_at": "2026-05-05T11:02:24.097659"
+      "scraped_at": "2026-05-06T11:33:49.045232"
     },
     {
       "id": "849607e4c41484f8",
@@ -3317,7 +3237,7 @@
       "stage": "Hovudscenen",
       "genre": null,
       "sold_out": false,
-      "scraped_at": "2026-05-05T11:00:45.627509"
+      "scraped_at": "2026-05-06T11:32:44.362199"
     },
     {
       "id": "93ff02b4a3ee0a4d",
@@ -3333,7 +3253,7 @@
       "stage": "Riksteatret",
       "genre": null,
       "sold_out": false,
-      "scraped_at": "2026-05-05T11:02:24.097942"
+      "scraped_at": "2026-05-06T11:33:49.045516"
     },
     {
       "id": "ded033ab59ed2350",
@@ -3349,7 +3269,7 @@
       "stage": "Hovedscenen",
       "genre": null,
       "sold_out": true,
-      "scraped_at": "2026-05-05T10:59:55.584417"
+      "scraped_at": "2026-05-06T11:31:40.030205"
     },
     {
       "id": "8a1c58d8088ada26",
@@ -3365,7 +3285,7 @@
       "stage": "Hovudscenen",
       "genre": null,
       "sold_out": false,
-      "scraped_at": "2026-05-05T11:00:51.926713"
+      "scraped_at": "2026-05-06T11:32:44.990944"
     },
     {
       "id": "9e1677117a365240",
@@ -3381,7 +3301,7 @@
       "stage": "Riksteatret",
       "genre": null,
       "sold_out": false,
-      "scraped_at": "2026-05-05T11:02:24.098253"
+      "scraped_at": "2026-05-06T11:33:49.045812"
     },
     {
       "id": "c21d640f4530ee0c",
@@ -3397,7 +3317,7 @@
       "stage": "Teater Manu",
       "genre": null,
       "sold_out": false,
-      "scraped_at": "2026-05-05T11:02:30.216599"
+      "scraped_at": "2026-05-06T11:34:00.693626"
     },
     {
       "id": "0a4511e384cc6f4c",
@@ -3413,7 +3333,7 @@
       "stage": null,
       "genre": null,
       "sold_out": false,
-      "scraped_at": "2026-05-05T11:02:36.197499"
+      "scraped_at": "2026-05-06T11:34:05.910041"
     },
     {
       "id": "fcf3829bae59d920",
@@ -3429,7 +3349,7 @@
       "stage": "Det Norske Teatret",
       "genre": null,
       "sold_out": false,
-      "scraped_at": "2026-05-05T11:01:34.682822"
+      "scraped_at": "2026-05-06T11:32:59.952196"
     },
     {
       "id": "05defc6619f3becb",
@@ -3445,7 +3365,7 @@
       "stage": "Riksteatret",
       "genre": null,
       "sold_out": false,
-      "scraped_at": "2026-05-05T11:02:24.655440"
+      "scraped_at": "2026-05-06T11:33:49.787218"
     },
     {
       "id": "d4c74f8e58921c25",
@@ -3461,7 +3381,7 @@
       "stage": "Det Norske Teatret",
       "genre": null,
       "sold_out": false,
-      "scraped_at": "2026-05-05T11:01:34.682845"
+      "scraped_at": "2026-05-06T11:32:59.952219"
     },
     {
       "id": "ac0ff74d4f1dbb1e",
@@ -3477,7 +3397,7 @@
       "stage": "Riksteatret",
       "genre": null,
       "sold_out": false,
-      "scraped_at": "2026-05-05T11:02:24.655765"
+      "scraped_at": "2026-05-06T11:33:49.787519"
     },
     {
       "id": "1775742aad4a65db",
@@ -3493,7 +3413,7 @@
       "stage": "Scene 2",
       "genre": null,
       "sold_out": false,
-      "scraped_at": "2026-05-05T11:01:15.521149"
+      "scraped_at": "2026-05-06T11:32:52.980803"
     },
     {
       "id": "735f12cd90ea2d70",
@@ -3509,7 +3429,7 @@
       "stage": "Hovudscenen",
       "genre": null,
       "sold_out": false,
-      "scraped_at": "2026-05-05T11:00:45.627519"
+      "scraped_at": "2026-05-06T11:32:44.362210"
     },
     {
       "id": "ba9cb443830ffa68",
@@ -3525,7 +3445,7 @@
       "stage": "Torshovteatret",
       "genre": null,
       "sold_out": false,
-      "scraped_at": "2026-05-05T11:00:34.896304"
+      "scraped_at": "2026-05-06T11:32:32.201209"
     },
     {
       "id": "cef3a0f2a20bb763",
@@ -3541,7 +3461,7 @@
       "stage": "Hovedscenen",
       "genre": null,
       "sold_out": true,
-      "scraped_at": "2026-05-05T10:59:55.584433"
+      "scraped_at": "2026-05-06T11:31:40.030221"
     },
     {
       "id": "72fb193f995697a7",
@@ -3557,7 +3477,7 @@
       "stage": "Scene 3",
       "genre": null,
       "sold_out": false,
-      "scraped_at": "2026-05-05T11:01:29.630114"
+      "scraped_at": "2026-05-06T11:32:58.238290"
     },
     {
       "id": "9ff0f249185cd985",
@@ -3573,7 +3493,7 @@
       "stage": "Midtgolvet",
       "genre": null,
       "sold_out": false,
-      "scraped_at": "2026-05-05T11:01:37.985206"
+      "scraped_at": "2026-05-06T11:33:03.575910"
     },
     {
       "id": "fe96824180a36a0a",
@@ -3589,7 +3509,7 @@
       "stage": "Riksteatret",
       "genre": null,
       "sold_out": false,
-      "scraped_at": "2026-05-05T11:02:24.656093"
+      "scraped_at": "2026-05-06T11:33:49.787824"
     },
     {
       "id": "2d8293db343440fb",
@@ -3605,7 +3525,7 @@
       "stage": "Riksteatret",
       "genre": null,
       "sold_out": false,
-      "scraped_at": "2026-05-05T11:02:24.656381"
+      "scraped_at": "2026-05-06T11:33:49.788143"
     },
     {
       "id": "651380b512d69bfa",
@@ -3621,7 +3541,7 @@
       "stage": "Scene 3",
       "genre": null,
       "sold_out": false,
-      "scraped_at": "2026-05-05T11:01:29.630138"
+      "scraped_at": "2026-05-06T11:32:58.238312"
     },
     {
       "id": "b25f9758f767f7a6",
@@ -3637,7 +3557,7 @@
       "stage": null,
       "genre": null,
       "sold_out": false,
-      "scraped_at": "2026-05-05T11:02:22.994837"
+      "scraped_at": "2026-05-06T11:33:47.770484"
     },
     {
       "id": "94cfe6cc69ee5ec6",
@@ -3653,7 +3573,7 @@
       "stage": "Hovudscenen",
       "genre": null,
       "sold_out": false,
-      "scraped_at": "2026-05-05T11:00:45.627529"
+      "scraped_at": "2026-05-06T11:32:44.362220"
     },
     {
       "id": "3b0bfb3287a3465f",
@@ -3669,7 +3589,7 @@
       "stage": "Amfiscenen",
       "genre": null,
       "sold_out": true,
-      "scraped_at": "2026-05-05T11:00:05.603427"
+      "scraped_at": "2026-05-06T11:31:52.078415"
     },
     {
       "id": "76379ae231a348e8",
@@ -3685,7 +3605,7 @@
       "stage": "Scene 2",
       "genre": null,
       "sold_out": false,
-      "scraped_at": "2026-05-05T11:01:15.694336"
+      "scraped_at": "2026-05-06T11:32:53.183700"
     },
     {
       "id": "e46735e89ecc1328",
@@ -3701,7 +3621,7 @@
       "stage": "Rommen Scene",
       "genre": null,
       "sold_out": false,
-      "scraped_at": "2026-05-05T11:01:23.135311"
+      "scraped_at": "2026-05-06T11:32:55.354670"
     },
     {
       "id": "7b35f023d70534df",
@@ -3717,7 +3637,7 @@
       "stage": "Hovedscenen",
       "genre": null,
       "sold_out": true,
-      "scraped_at": "2026-05-05T11:00:25.257451"
+      "scraped_at": "2026-05-06T11:32:20.682121"
     },
     {
       "id": "addc7bd07c764ed4",
@@ -3733,7 +3653,23 @@
       "stage": "Midtgolvet",
       "genre": null,
       "sold_out": false,
-      "scraped_at": "2026-05-05T11:01:37.985216"
+      "scraped_at": "2026-05-06T11:33:03.575921"
+    },
+    {
+      "id": "dac1ecc037d18bfd",
+      "title": "Vising: Rask skriftleg respons på Sukker",
+      "venue": "Det Norske Teatret",
+      "venue_slug": "det-norske-teatret",
+      "start": "2026-06-10T21:30:00",
+      "end": "2026-06-10T22:30:00",
+      "description": "Opplev eit utvida univers av framsyninga Sukker!",
+      "image_url": "https://s3.eu-north-1.amazonaws.com/detnorsketeatret/media/_1200x630_crop_center-center_82_none/Sukker_kollasj_ferdig-scan.jpg?mtime=1777904030",
+      "ticket_url": "https://www.detnorsketeatret.no/framsyningar/vising-rask-skriftleg-respons",
+      "detail_url": "https://www.detnorsketeatret.no/framsyningar/vising-rask-skriftleg-respons",
+      "stage": "Scene 2",
+      "genre": null,
+      "sold_out": false,
+      "scraped_at": "2026-05-06T11:32:56.248513"
     },
     {
       "id": "38a7534dc3fa5652",
@@ -3749,7 +3685,7 @@
       "stage": "Riksteatret",
       "genre": null,
       "sold_out": false,
-      "scraped_at": "2026-05-05T11:02:24.656681"
+      "scraped_at": "2026-05-06T11:33:49.788443"
     },
     {
       "id": "a975e4ab4ed15b56",
@@ -3765,7 +3701,7 @@
       "stage": "Riksteatret",
       "genre": null,
       "sold_out": false,
-      "scraped_at": "2026-05-05T11:02:24.656968"
+      "scraped_at": "2026-05-06T11:33:49.788728"
     },
     {
       "id": "98a29f99a9781115",
@@ -3781,7 +3717,7 @@
       "stage": "Hovedscenen",
       "genre": null,
       "sold_out": true,
-      "scraped_at": "2026-05-05T10:59:55.584463"
+      "scraped_at": "2026-05-06T11:31:40.030236"
     },
     {
       "id": "e8c265064a5c5f13",
@@ -3797,7 +3733,7 @@
       "stage": "Scene 2",
       "genre": null,
       "sold_out": false,
-      "scraped_at": "2026-05-05T11:01:17.872020"
+      "scraped_at": "2026-05-06T11:32:53.889647"
     },
     {
       "id": "6e652eea016107a7",
@@ -3813,7 +3749,7 @@
       "stage": "Hovudscenen",
       "genre": null,
       "sold_out": false,
-      "scraped_at": "2026-05-05T11:00:50.758279"
+      "scraped_at": "2026-05-06T11:32:44.797791"
     },
     {
       "id": "981ae97db9cd4557",
@@ -3829,7 +3765,7 @@
       "stage": null,
       "genre": "Standup",
       "sold_out": true,
-      "scraped_at": "2026-05-05T11:02:43.621253"
+      "scraped_at": "2026-05-06T11:34:23.293130"
     },
     {
       "id": "b09e8bbc0b3ac8a6",
@@ -3845,7 +3781,7 @@
       "stage": "Riksteatret",
       "genre": null,
       "sold_out": false,
-      "scraped_at": "2026-05-05T11:02:24.771135"
+      "scraped_at": "2026-05-06T11:33:49.993229"
     },
     {
       "id": "0c153e223319c552",
@@ -3861,7 +3797,7 @@
       "stage": "Black Box teater Foajé\n    \n      (Black Box teater)",
       "genre": null,
       "sold_out": false,
-      "scraped_at": "2026-05-05T11:01:50.252796"
+      "scraped_at": "2026-05-06T11:33:14.518645"
     },
     {
       "id": "e367f3cbe48f307f",
@@ -3877,7 +3813,7 @@
       "stage": "Riksteatret",
       "genre": null,
       "sold_out": false,
-      "scraped_at": "2026-05-05T11:02:24.771472"
+      "scraped_at": "2026-05-06T11:33:49.993546"
     },
     {
       "id": "edbc41c7ccaecd5b",
@@ -3893,7 +3829,7 @@
       "stage": "Hovedscenen",
       "genre": null,
       "sold_out": true,
-      "scraped_at": "2026-05-05T10:59:53.339572"
+      "scraped_at": "2026-05-06T11:31:38.947796"
     },
     {
       "id": "f3c58a41d3659221",
@@ -3909,7 +3845,7 @@
       "stage": "Hovudscenen",
       "genre": null,
       "sold_out": false,
-      "scraped_at": "2026-05-05T11:00:45.627539"
+      "scraped_at": "2026-05-06T11:32:44.362230"
     },
     {
       "id": "65ff4e52f26dce55",
@@ -3925,7 +3861,7 @@
       "stage": "Scene 2",
       "genre": null,
       "sold_out": false,
-      "scraped_at": "2026-05-05T11:01:15.694346"
+      "scraped_at": "2026-05-06T11:32:53.183710"
     },
     {
       "id": "0438e789bca4c868",
@@ -3941,7 +3877,7 @@
       "stage": "Amfiscenen",
       "genre": null,
       "sold_out": true,
-      "scraped_at": "2026-05-05T11:00:02.652929"
+      "scraped_at": "2026-05-06T11:31:48.569478"
     },
     {
       "id": "d0ec11b1e8ed52dd",
@@ -3957,23 +3893,7 @@
       "stage": "Rommen Scene",
       "genre": null,
       "sold_out": false,
-      "scraped_at": "2026-05-05T11:01:23.135333"
-    },
-    {
-      "id": "ec55e4b83ee5eb62",
-      "title": "The Kontor",
-      "venue": "Det Andre Teatret",
-      "venue_slug": "det-andre-teatret",
-      "start": "2026-06-12T19:00:00",
-      "end": null,
-      "description": "En improvisert sit-com om ditt kontorfellesskap",
-      "image_url": "https://detandreteatret.no/assets/images/_landscape/Uten_navn-03.jpeg",
-      "ticket_url": "https://detandreteatret.ticketco.events/no/nb/e/the_kontor2616",
-      "detail_url": "https://detandreteatret.no/forestillinger/the-kontor?spilletid=171961",
-      "stage": "Hovedscenen",
-      "genre": "Sesongforestilling",
-      "sold_out": false,
-      "scraped_at": "2026-05-05T11:02:25.366033"
+      "scraped_at": "2026-05-06T11:32:55.354691"
     },
     {
       "id": "3a2d1d8d29c533d0",
@@ -3989,7 +3909,7 @@
       "stage": null,
       "genre": null,
       "sold_out": false,
-      "scraped_at": "2026-05-05T11:02:36.197569"
+      "scraped_at": "2026-05-06T11:34:05.910129"
     },
     {
       "id": "cd8f583f8b0b586f",
@@ -4005,7 +3925,7 @@
       "stage": "Scene 3",
       "genre": null,
       "sold_out": false,
-      "scraped_at": "2026-05-05T11:01:28.113830"
+      "scraped_at": "2026-05-06T11:32:58.044332"
     },
     {
       "id": "7723e7e85f4c2f66",
@@ -4021,7 +3941,7 @@
       "stage": "Midtgolvet",
       "genre": null,
       "sold_out": false,
-      "scraped_at": "2026-05-05T11:01:37.985227"
+      "scraped_at": "2026-05-06T11:33:03.575957"
     },
     {
       "id": "0c5307dc716e1a7f",
@@ -4037,7 +3957,7 @@
       "stage": "Scene 2",
       "genre": null,
       "sold_out": false,
-      "scraped_at": "2026-05-05T11:01:15.521160"
+      "scraped_at": "2026-05-06T11:32:52.980813"
     },
     {
       "id": "cecd86aa4ff93480",
@@ -4047,13 +3967,13 @@
       "start": "2026-06-13T13:30:00",
       "end": null,
       "description": "«Gled deg, pappa, her er jeg!» Sitatet stammer fra den elleville farsen Den spanske flue , som nå settes opp på Nationaltheatret for første gang siden 1970! Forestillingen handler om den tilsynelatende vellykkede familien Klinke, der far Ludwig har slått seg opp som sennepsfabrikkeier. Men han ha…",
-      "image_url": "https://cdn.sanity.io/images/4hthkcie/production/cdf32b1e7acec1c1b8df0b898f39e3cab861ac00-1920x1080.jpg",
+      "image_url": "https://cdn.sanity.io/images/4hthkcie/production/3500a6ff03f083eccf698f4597c8029b68c3a161-1920x1080.png",
       "ticket_url": "https://www.nationaltheatret.no/velg-seter?performanceId=25338",
       "detail_url": "https://www.nationaltheatret.no/forestillinger/den-spanske-flue",
       "stage": "Hovedscenen",
       "genre": null,
       "sold_out": true,
-      "scraped_at": "2026-05-05T10:59:58.938210"
+      "scraped_at": "2026-05-06T11:31:44.169748"
     },
     {
       "id": "e5cc1f3194d15cd8",
@@ -4069,7 +3989,7 @@
       "stage": "Hovudscenen",
       "genre": null,
       "sold_out": false,
-      "scraped_at": "2026-05-05T11:00:45.627548"
+      "scraped_at": "2026-05-06T11:32:44.362241"
     },
     {
       "id": "306c8aa455efd9c6",
@@ -4085,7 +4005,7 @@
       "stage": "Rommen Scene",
       "genre": null,
       "sold_out": false,
-      "scraped_at": "2026-05-05T11:01:23.135345"
+      "scraped_at": "2026-05-06T11:32:55.354702"
     },
     {
       "id": "9dc1e0f8c09ce503",
@@ -4101,7 +4021,7 @@
       "stage": "Amfiscenen",
       "genre": null,
       "sold_out": true,
-      "scraped_at": "2026-05-05T11:00:02.652944"
+      "scraped_at": "2026-05-06T11:31:48.569494"
     },
     {
       "id": "e5995962dbf8656a",
@@ -4117,7 +4037,7 @@
       "stage": "Scene 3",
       "genre": null,
       "sold_out": false,
-      "scraped_at": "2026-05-05T11:01:28.113853"
+      "scraped_at": "2026-05-06T11:32:58.044353"
     },
     {
       "id": "e1b7ffaf1061b008",
@@ -4133,7 +4053,7 @@
       "stage": "Black Box teater Foajé\n    \n      (Black Box teater)",
       "genre": null,
       "sold_out": false,
-      "scraped_at": "2026-05-05T11:01:50.253015"
+      "scraped_at": "2026-05-06T11:33:14.518900"
     },
     {
       "id": "0653ef98525ad1be",
@@ -4149,7 +4069,7 @@
       "stage": "Hovudscenen",
       "genre": null,
       "sold_out": false,
-      "scraped_at": "2026-05-05T11:00:45.627560"
+      "scraped_at": "2026-05-06T11:32:44.362250"
     },
     {
       "id": "43061017802fde06",
@@ -4165,7 +4085,7 @@
       "stage": "Hovedscenen",
       "genre": null,
       "sold_out": true,
-      "scraped_at": "2026-05-05T11:00:25.257468"
+      "scraped_at": "2026-05-06T11:32:20.682138"
     },
     {
       "id": "37098bcd2befa6a3",
@@ -4181,7 +4101,7 @@
       "stage": null,
       "genre": null,
       "sold_out": false,
-      "scraped_at": "2026-05-05T11:02:36.197634"
+      "scraped_at": "2026-05-06T11:34:05.910210"
     },
     {
       "id": "247f51e5c35cbe6e",
@@ -4197,7 +4117,7 @@
       "stage": "Hovedscenen",
       "genre": null,
       "sold_out": false,
-      "scraped_at": "2026-05-05T11:00:38.317698"
+      "scraped_at": "2026-05-06T11:32:37.803653"
     },
     {
       "id": "f380ecc473165cc3",
@@ -4213,7 +4133,7 @@
       "stage": "Lille scene\n    \n      (Black Box teater)",
       "genre": null,
       "sold_out": false,
-      "scraped_at": "2026-05-05T11:01:50.253239"
+      "scraped_at": "2026-05-06T11:33:14.519151"
     },
     {
       "id": "1f254e1c4676a8d1",
@@ -4229,7 +4149,7 @@
       "stage": null,
       "genre": null,
       "sold_out": false,
-      "scraped_at": "2026-05-05T11:02:36.197702"
+      "scraped_at": "2026-05-06T11:34:05.910293"
     },
     {
       "id": "79a14bcb8973420c",
@@ -4245,7 +4165,7 @@
       "stage": null,
       "genre": null,
       "sold_out": false,
-      "scraped_at": "2026-05-05T11:02:36.197768"
+      "scraped_at": "2026-05-06T11:34:05.910373"
     },
     {
       "id": "4a423dc705b82198",
@@ -4261,7 +4181,7 @@
       "stage": "Hovedscenen",
       "genre": null,
       "sold_out": false,
-      "scraped_at": "2026-05-05T11:00:27.643214"
+      "scraped_at": "2026-05-06T11:32:23.684428"
     },
     {
       "id": "34a3608ae97afa0b",
@@ -4277,7 +4197,7 @@
       "stage": "Hovudscenen",
       "genre": null,
       "sold_out": false,
-      "scraped_at": "2026-05-05T11:00:45.627569"
+      "scraped_at": "2026-05-06T11:32:44.362260"
     },
     {
       "id": "c3984854f939571a",
@@ -4287,13 +4207,13 @@
       "start": "2026-06-16T19:00:00",
       "end": null,
       "description": "«Gled deg, pappa, her er jeg!» Sitatet stammer fra den elleville farsen Den spanske flue , som nå settes opp på Nationaltheatret for første gang siden 1970! Forestillingen handler om den tilsynelatende vellykkede familien Klinke, der far Ludwig har slått seg opp som sennepsfabrikkeier. Men han ha…",
-      "image_url": "https://cdn.sanity.io/images/4hthkcie/production/cdf32b1e7acec1c1b8df0b898f39e3cab861ac00-1920x1080.jpg",
+      "image_url": "https://cdn.sanity.io/images/4hthkcie/production/3500a6ff03f083eccf698f4597c8029b68c3a161-1920x1080.png",
       "ticket_url": "https://www.nationaltheatret.no/velg-seter?performanceId=25339",
       "detail_url": "https://www.nationaltheatret.no/forestillinger/den-spanske-flue",
       "stage": "Hovedscenen",
       "genre": null,
       "sold_out": true,
-      "scraped_at": "2026-05-05T10:59:58.938227"
+      "scraped_at": "2026-05-06T11:31:44.169762"
     },
     {
       "id": "fb5a7d0b5c432363",
@@ -4309,7 +4229,7 @@
       "stage": "Hovudscenen",
       "genre": null,
       "sold_out": false,
-      "scraped_at": "2026-05-05T11:00:45.627579"
+      "scraped_at": "2026-05-06T11:32:44.362272"
     },
     {
       "id": "eb805287c127a98c",
@@ -4319,13 +4239,13 @@
       "start": "2026-06-17T19:00:00",
       "end": null,
       "description": "«Gled deg, pappa, her er jeg!» Sitatet stammer fra den elleville farsen Den spanske flue , som nå settes opp på Nationaltheatret for første gang siden 1970! Forestillingen handler om den tilsynelatende vellykkede familien Klinke, der far Ludwig har slått seg opp som sennepsfabrikkeier. Men han ha…",
-      "image_url": "https://cdn.sanity.io/images/4hthkcie/production/cdf32b1e7acec1c1b8df0b898f39e3cab861ac00-1920x1080.jpg",
+      "image_url": "https://cdn.sanity.io/images/4hthkcie/production/3500a6ff03f083eccf698f4597c8029b68c3a161-1920x1080.png",
       "ticket_url": "https://www.nationaltheatret.no/velg-seter?performanceId=25340",
       "detail_url": "https://www.nationaltheatret.no/forestillinger/den-spanske-flue",
       "stage": "Hovedscenen",
       "genre": null,
       "sold_out": true,
-      "scraped_at": "2026-05-05T10:59:58.938242"
+      "scraped_at": "2026-05-06T11:31:44.169778"
     },
     {
       "id": "67744c3f0407e58e",
@@ -4341,7 +4261,7 @@
       "stage": "Amfiscenen",
       "genre": null,
       "sold_out": true,
-      "scraped_at": "2026-05-05T11:00:05.603444"
+      "scraped_at": "2026-05-06T11:31:52.078430"
     },
     {
       "id": "6beb0e19b473c5b4",
@@ -4357,7 +4277,7 @@
       "stage": null,
       "genre": null,
       "sold_out": false,
-      "scraped_at": "2026-05-05T11:02:22.994937"
+      "scraped_at": "2026-05-06T11:33:47.770594"
     },
     {
       "id": "77529e96fe31fa6a",
@@ -4373,7 +4293,7 @@
       "stage": "Hovudscenen",
       "genre": null,
       "sold_out": false,
-      "scraped_at": "2026-05-05T11:00:45.627591"
+      "scraped_at": "2026-05-06T11:32:44.362283"
     },
     {
       "id": "bd2e6f0184512660",
@@ -4389,7 +4309,7 @@
       "stage": "Scene 3",
       "genre": null,
       "sold_out": false,
-      "scraped_at": "2026-05-05T11:01:32.985780"
+      "scraped_at": "2026-05-06T11:32:59.760988"
     },
     {
       "id": "6f413d51a561d24a",
@@ -4405,7 +4325,7 @@
       "stage": "Hovedscenen",
       "genre": null,
       "sold_out": true,
-      "scraped_at": "2026-05-05T10:59:53.339587"
+      "scraped_at": "2026-05-06T11:31:38.947815"
     },
     {
       "id": "ebee02689b2a6616",
@@ -4421,7 +4341,7 @@
       "stage": "Amfiscenen",
       "genre": null,
       "sold_out": true,
-      "scraped_at": "2026-05-05T11:00:05.603460"
+      "scraped_at": "2026-05-06T11:31:52.078446"
     },
     {
       "id": "d5f7a6e2bb6f5298",
@@ -4437,7 +4357,7 @@
       "stage": "Scene 2",
       "genre": null,
       "sold_out": false,
-      "scraped_at": "2026-05-05T11:01:21.192535"
+      "scraped_at": "2026-05-06T11:32:55.168016"
     },
     {
       "id": "7363e9ae0ea31988",
@@ -4453,7 +4373,7 @@
       "stage": "Hovudscenen",
       "genre": null,
       "sold_out": false,
-      "scraped_at": "2026-05-05T11:00:45.627600"
+      "scraped_at": "2026-05-06T11:32:44.362293"
     },
     {
       "id": "55293f9c3b90ee63",
@@ -4463,13 +4383,13 @@
       "start": "2026-06-19T18:30:00",
       "end": null,
       "description": "«Gled deg, pappa, her er jeg!» Sitatet stammer fra den elleville farsen Den spanske flue , som nå settes opp på Nationaltheatret for første gang siden 1970! Forestillingen handler om den tilsynelatende vellykkede familien Klinke, der far Ludwig har slått seg opp som sennepsfabrikkeier. Men han ha…",
-      "image_url": "https://cdn.sanity.io/images/4hthkcie/production/cdf32b1e7acec1c1b8df0b898f39e3cab861ac00-1920x1080.jpg",
+      "image_url": "https://cdn.sanity.io/images/4hthkcie/production/3500a6ff03f083eccf698f4597c8029b68c3a161-1920x1080.png",
       "ticket_url": "https://www.nationaltheatret.no/velg-seter?performanceId=25341",
       "detail_url": "https://www.nationaltheatret.no/forestillinger/den-spanske-flue",
       "stage": "Hovedscenen",
       "genre": null,
       "sold_out": true,
-      "scraped_at": "2026-05-05T10:59:58.938261"
+      "scraped_at": "2026-05-06T11:31:44.169793"
     },
     {
       "id": "019370936556eb25",
@@ -4485,7 +4405,7 @@
       "stage": "Amfiscenen",
       "genre": null,
       "sold_out": true,
-      "scraped_at": "2026-05-05T11:00:05.603476"
+      "scraped_at": "2026-05-06T11:31:52.078462"
     },
     {
       "id": "eab68e6819f0ddf4",
@@ -4495,13 +4415,13 @@
       "start": "2026-06-20T13:30:00",
       "end": null,
       "description": "«Gled deg, pappa, her er jeg!» Sitatet stammer fra den elleville farsen Den spanske flue , som nå settes opp på Nationaltheatret for første gang siden 1970! Forestillingen handler om den tilsynelatende vellykkede familien Klinke, der far Ludwig har slått seg opp som sennepsfabrikkeier. Men han ha…",
-      "image_url": "https://cdn.sanity.io/images/4hthkcie/production/cdf32b1e7acec1c1b8df0b898f39e3cab861ac00-1920x1080.jpg",
+      "image_url": "https://cdn.sanity.io/images/4hthkcie/production/3500a6ff03f083eccf698f4597c8029b68c3a161-1920x1080.png",
       "ticket_url": "https://www.nationaltheatret.no/velg-seter?performanceId=25342",
       "detail_url": "https://www.nationaltheatret.no/forestillinger/den-spanske-flue",
       "stage": "Hovedscenen",
       "genre": null,
       "sold_out": true,
-      "scraped_at": "2026-05-05T10:59:58.938274"
+      "scraped_at": "2026-05-06T11:31:44.169809"
     },
     {
       "id": "a798aaf224be8687",
@@ -4517,7 +4437,7 @@
       "stage": "Hovudscenen",
       "genre": null,
       "sold_out": false,
-      "scraped_at": "2026-05-05T11:00:45.627610"
+      "scraped_at": "2026-05-06T11:32:44.362303"
     },
     {
       "id": "0cebc2712d724a9e",
@@ -4533,7 +4453,7 @@
       "stage": "Amfiscenen",
       "genre": null,
       "sold_out": true,
-      "scraped_at": "2026-05-05T11:00:05.603492"
+      "scraped_at": "2026-05-06T11:31:52.078477"
     },
     {
       "id": "b33ae143ac846685",
@@ -4549,7 +4469,7 @@
       "stage": "Hovedscenen",
       "genre": null,
       "sold_out": true,
-      "scraped_at": "2026-05-05T10:59:53.339603"
+      "scraped_at": "2026-05-06T11:31:38.947830"
     },
     {
       "id": "469cc0588aee8c03",
@@ -4565,7 +4485,7 @@
       "stage": "Hovudscenen",
       "genre": null,
       "sold_out": false,
-      "scraped_at": "2026-05-05T11:01:15.348860"
+      "scraped_at": "2026-05-06T11:32:52.765814"
     },
     {
       "id": "ff717f1d71a05538",
@@ -4581,7 +4501,7 @@
       "stage": "Hovudscenen",
       "genre": null,
       "sold_out": false,
-      "scraped_at": "2026-05-05T11:00:45.627623"
+      "scraped_at": "2026-05-06T11:32:44.362315"
     },
     {
       "id": "b93004d12774eeb9",
@@ -4597,7 +4517,7 @@
       "stage": null,
       "genre": null,
       "sold_out": false,
-      "scraped_at": "2026-05-05T11:02:36.197905"
+      "scraped_at": "2026-05-06T11:34:05.910545"
     },
     {
       "id": "6c56281da6f1dba1",
@@ -4613,7 +4533,23 @@
       "stage": "Hovudscenen",
       "genre": null,
       "sold_out": false,
-      "scraped_at": "2026-05-05T11:00:45.627632"
+      "scraped_at": "2026-05-06T11:32:44.362326"
+    },
+    {
+      "id": "8298ecc5e149d6df",
+      "title": "Dragbingo med Ivana Impeachum",
+      "venue": "Det Norske Teatret",
+      "venue_slug": "det-norske-teatret",
+      "start": "2026-06-23T17:00:00",
+      "end": "2026-06-23T19:00:00",
+      "description": "Velkommen til dragbingo på Det Norske Teatret med Ivana Impeachum!",
+      "image_url": "https://s3.eu-north-1.amazonaws.com/detnorsketeatret/media/framsyningar/dragbingo-med-ivana-impeachum/_1200x630_crop_center-center_82_none/Ivana16.9-Anders-Lærum-Espeseth.jpg?mtime=1777985246",
+      "ticket_url": "https://www.detnorsketeatret.no/framsyningar/dragbingo-med-ivana-impeachum",
+      "detail_url": "https://www.detnorsketeatret.no/framsyningar/dragbingo-med-ivana-impeachum",
+      "stage": "Bikuben",
+      "genre": null,
+      "sold_out": false,
+      "scraped_at": "2026-05-06T11:33:01.548780"
     },
     {
       "id": "9d931592f0ed1354",
@@ -4629,7 +4565,7 @@
       "stage": "Teater Manu",
       "genre": null,
       "sold_out": false,
-      "scraped_at": "2026-05-05T11:02:31.127663"
+      "scraped_at": "2026-05-06T11:34:01.118143"
     },
     {
       "id": "b631dbba87e72b99",
@@ -4645,7 +4581,7 @@
       "stage": null,
       "genre": null,
       "sold_out": false,
-      "scraped_at": "2026-05-05T11:02:36.197974"
+      "scraped_at": "2026-05-06T11:34:05.910629"
     },
     {
       "id": "34e3fae7b12b6604",
@@ -4661,7 +4597,7 @@
       "stage": "Hovudscenen",
       "genre": null,
       "sold_out": false,
-      "scraped_at": "2026-05-05T11:00:45.627645"
+      "scraped_at": "2026-05-06T11:32:44.362337"
     },
     {
       "id": "15dee75e37c851e0",
@@ -4677,7 +4613,7 @@
       "stage": null,
       "genre": null,
       "sold_out": false,
-      "scraped_at": "2026-05-05T11:02:36.198042"
+      "scraped_at": "2026-05-06T11:34:05.910709"
     },
     {
       "id": "5c7398df40466bc1",
@@ -4693,7 +4629,7 @@
       "stage": null,
       "genre": null,
       "sold_out": false,
-      "scraped_at": "2026-05-05T11:02:22.995033"
+      "scraped_at": "2026-05-06T11:33:47.770703"
     },
     {
       "id": "48d0e9c3b69e29d8",
@@ -4709,7 +4645,7 @@
       "stage": "Hovudscenen",
       "genre": null,
       "sold_out": false,
-      "scraped_at": "2026-05-05T11:00:45.627654"
+      "scraped_at": "2026-05-06T11:32:44.362347"
     },
     {
       "id": "556ea99d707be023",
@@ -4725,7 +4661,7 @@
       "stage": null,
       "genre": null,
       "sold_out": false,
-      "scraped_at": "2026-05-05T11:02:36.197837"
+      "scraped_at": "2026-05-06T11:34:05.910460"
     },
     {
       "id": "1c715aa293736138",
@@ -4741,7 +4677,7 @@
       "stage": "Hovudscenen",
       "genre": null,
       "sold_out": false,
-      "scraped_at": "2026-05-05T11:00:45.627664"
+      "scraped_at": "2026-05-06T11:32:44.362360"
     },
     {
       "id": "a38e8d482aa33ebd",
@@ -4757,7 +4693,7 @@
       "stage": "Hovudscenen",
       "genre": null,
       "sold_out": false,
-      "scraped_at": "2026-05-05T11:00:45.627673"
+      "scraped_at": "2026-05-06T11:32:44.362370"
     },
     {
       "id": "5297a306012334ff",
@@ -4773,7 +4709,23 @@
       "stage": "Hovudscenen",
       "genre": null,
       "sold_out": false,
-      "scraped_at": "2026-05-05T11:00:45.627683"
+      "scraped_at": "2026-05-06T11:32:44.362380"
+    },
+    {
+      "id": "7ccbefd3d857ce39",
+      "title": "LTAP ASSOCIATION OF LONG-TERM ART PROJECTS",
+      "venue": "Nordic Black Theatre",
+      "venue_slug": "nordic-black",
+      "start": "2026-06-29T19:00:00",
+      "end": null,
+      "description": null,
+      "image_url": "/_next/image?url=https%3A%2F%2Fcdn.sanity.io%2Fimages%2Fl794s5ct%2Fproduction%2Fd205984422e0b593521e3fa2d6ff8fd7cc20ab91-1440x810.jpg%3Frect%3D315%2C0%2C810%2C810%26w%3D1000%26h%3D1000%26q%3D92%26fit%3Dmax%26auto%3Dformat&w=3840&q=75",
+      "ticket_url": "https://nordicblacktheatre.no/program/ltap-association-of-long-term-art-projects-29-06-2026",
+      "detail_url": "https://nordicblacktheatre.no/program/ltap-association-of-long-term-art-projects-29-06-2026",
+      "stage": null,
+      "genre": null,
+      "sold_out": false,
+      "scraped_at": "2026-05-06T11:34:05.910799"
     },
     {
       "id": "d76e72cde25e6f87",
@@ -4789,7 +4741,7 @@
       "stage": null,
       "genre": null,
       "sold_out": false,
-      "scraped_at": "2026-05-05T11:02:36.198131"
+      "scraped_at": "2026-05-06T11:34:05.910879"
     },
     {
       "id": "0f2f1aea2f4290d4",
@@ -4805,7 +4757,7 @@
       "stage": "Amfiscenen",
       "genre": null,
       "sold_out": true,
-      "scraped_at": "2026-05-05T11:00:05.603509"
+      "scraped_at": "2026-05-06T11:31:52.078492"
     },
     {
       "id": "21a5eb1fdb5e4835",
@@ -4821,7 +4773,7 @@
       "stage": "Hovedscenen",
       "genre": null,
       "sold_out": true,
-      "scraped_at": "2026-05-05T10:59:53.339618"
+      "scraped_at": "2026-05-06T11:31:38.947845"
     },
     {
       "id": "7da8639c1bf309f2",
@@ -4837,7 +4789,7 @@
       "stage": "Amfiscenen",
       "genre": null,
       "sold_out": true,
-      "scraped_at": "2026-05-05T11:00:05.603524"
+      "scraped_at": "2026-05-06T11:31:52.078507"
     },
     {
       "id": "c779a9ed98e78113",
@@ -4853,7 +4805,7 @@
       "stage": null,
       "genre": null,
       "sold_out": false,
-      "scraped_at": "2026-05-05T11:02:36.198300"
+      "scraped_at": "2026-05-06T11:34:05.911089"
     },
     {
       "id": "08dd311cbfccf490",
@@ -4869,7 +4821,7 @@
       "stage": "Hovedscenen",
       "genre": null,
       "sold_out": true,
-      "scraped_at": "2026-05-05T11:00:25.257486"
+      "scraped_at": "2026-05-06T11:32:20.682153"
     },
     {
       "id": "fa6e668038eb53fa",
@@ -4879,13 +4831,13 @@
       "start": "2026-08-18T18:30:00",
       "end": null,
       "description": "«Gled deg, pappa, her er jeg!» Sitatet stammer fra den elleville farsen Den spanske flue , som nå settes opp på Nationaltheatret for første gang siden 1970! Forestillingen handler om den tilsynelatende vellykkede familien Klinke, der far Ludwig har slått seg opp som sennepsfabrikkeier. Men han ha…",
-      "image_url": "https://cdn.sanity.io/images/4hthkcie/production/cdf32b1e7acec1c1b8df0b898f39e3cab861ac00-1920x1080.jpg",
+      "image_url": "https://cdn.sanity.io/images/4hthkcie/production/3500a6ff03f083eccf698f4597c8029b68c3a161-1920x1080.png",
       "ticket_url": "https://www.nationaltheatret.no/velg-seter?performanceId=25789",
       "detail_url": "https://www.nationaltheatret.no/forestillinger/den-spanske-flue",
       "stage": "Hovedscenen",
       "genre": null,
       "sold_out": true,
-      "scraped_at": "2026-05-05T10:59:58.938288"
+      "scraped_at": "2026-05-06T11:31:44.169823"
     },
     {
       "id": "17119be7c073cf0e",
@@ -4901,7 +4853,7 @@
       "stage": "Amfiscenen",
       "genre": null,
       "sold_out": true,
-      "scraped_at": "2026-05-05T11:00:05.603539"
+      "scraped_at": "2026-05-06T11:31:52.078527"
     },
     {
       "id": "1b711a588a9b809c",
@@ -4911,13 +4863,13 @@
       "start": "2026-08-19T19:00:00",
       "end": null,
       "description": "«Gled deg, pappa, her er jeg!» Sitatet stammer fra den elleville farsen Den spanske flue , som nå settes opp på Nationaltheatret for første gang siden 1970! Forestillingen handler om den tilsynelatende vellykkede familien Klinke, der far Ludwig har slått seg opp som sennepsfabrikkeier. Men han ha…",
-      "image_url": "https://cdn.sanity.io/images/4hthkcie/production/cdf32b1e7acec1c1b8df0b898f39e3cab861ac00-1920x1080.jpg",
+      "image_url": "https://cdn.sanity.io/images/4hthkcie/production/3500a6ff03f083eccf698f4597c8029b68c3a161-1920x1080.png",
       "ticket_url": "https://www.nationaltheatret.no/velg-seter?performanceId=25451",
       "detail_url": "https://www.nationaltheatret.no/forestillinger/den-spanske-flue",
       "stage": "Hovedscenen",
       "genre": null,
       "sold_out": true,
-      "scraped_at": "2026-05-05T10:59:58.938302"
+      "scraped_at": "2026-05-06T11:31:44.169838"
     },
     {
       "id": "f07b043d07649d93",
@@ -4933,7 +4885,7 @@
       "stage": "Amfiscenen",
       "genre": null,
       "sold_out": true,
-      "scraped_at": "2026-05-05T11:00:05.603553"
+      "scraped_at": "2026-05-06T11:31:52.078542"
     },
     {
       "id": "95a7632dd443eebe",
@@ -4943,13 +4895,13 @@
       "start": "2026-08-20T19:30:00",
       "end": null,
       "description": "«Gled deg, pappa, her er jeg!» Sitatet stammer fra den elleville farsen Den spanske flue , som nå settes opp på Nationaltheatret for første gang siden 1970! Forestillingen handler om den tilsynelatende vellykkede familien Klinke, der far Ludwig har slått seg opp som sennepsfabrikkeier. Men han ha…",
-      "image_url": "https://cdn.sanity.io/images/4hthkcie/production/cdf32b1e7acec1c1b8df0b898f39e3cab861ac00-1920x1080.jpg",
+      "image_url": "https://cdn.sanity.io/images/4hthkcie/production/3500a6ff03f083eccf698f4597c8029b68c3a161-1920x1080.png",
       "ticket_url": "https://www.nationaltheatret.no/velg-seter?performanceId=25453",
       "detail_url": "https://www.nationaltheatret.no/forestillinger/den-spanske-flue",
       "stage": "Hovedscenen",
       "genre": null,
       "sold_out": true,
-      "scraped_at": "2026-05-05T10:59:58.938319"
+      "scraped_at": "2026-05-06T11:31:44.169852"
     },
     {
       "id": "ee5648a36c8e6045",
@@ -4965,7 +4917,7 @@
       "stage": "Amfiscenen",
       "genre": null,
       "sold_out": true,
-      "scraped_at": "2026-05-05T11:00:05.603567"
+      "scraped_at": "2026-05-06T11:31:52.078556"
     },
     {
       "id": "0b888a5fef7b8417",
@@ -4975,13 +4927,13 @@
       "start": "2026-08-21T19:00:00",
       "end": null,
       "description": "«Gled deg, pappa, her er jeg!» Sitatet stammer fra den elleville farsen Den spanske flue , som nå settes opp på Nationaltheatret for første gang siden 1970! Forestillingen handler om den tilsynelatende vellykkede familien Klinke, der far Ludwig har slått seg opp som sennepsfabrikkeier. Men han ha…",
-      "image_url": "https://cdn.sanity.io/images/4hthkcie/production/cdf32b1e7acec1c1b8df0b898f39e3cab861ac00-1920x1080.jpg",
+      "image_url": "https://cdn.sanity.io/images/4hthkcie/production/3500a6ff03f083eccf698f4597c8029b68c3a161-1920x1080.png",
       "ticket_url": "https://www.nationaltheatret.no/velg-seter?performanceId=25790",
       "detail_url": "https://www.nationaltheatret.no/forestillinger/den-spanske-flue",
       "stage": "Hovedscenen",
       "genre": null,
       "sold_out": true,
-      "scraped_at": "2026-05-05T10:59:58.938333"
+      "scraped_at": "2026-05-06T11:31:44.169868"
     },
     {
       "id": "8a10dd770e5fd0a2",
@@ -4991,13 +4943,13 @@
       "start": "2026-08-22T13:30:00",
       "end": null,
       "description": "«Gled deg, pappa, her er jeg!» Sitatet stammer fra den elleville farsen Den spanske flue , som nå settes opp på Nationaltheatret for første gang siden 1970! Forestillingen handler om den tilsynelatende vellykkede familien Klinke, der far Ludwig har slått seg opp som sennepsfabrikkeier. Men han ha…",
-      "image_url": "https://cdn.sanity.io/images/4hthkcie/production/cdf32b1e7acec1c1b8df0b898f39e3cab861ac00-1920x1080.jpg",
+      "image_url": "https://cdn.sanity.io/images/4hthkcie/production/3500a6ff03f083eccf698f4597c8029b68c3a161-1920x1080.png",
       "ticket_url": "https://www.nationaltheatret.no/velg-seter?performanceId=25791",
       "detail_url": "https://www.nationaltheatret.no/forestillinger/den-spanske-flue",
       "stage": "Hovedscenen",
       "genre": null,
       "sold_out": true,
-      "scraped_at": "2026-05-05T10:59:58.938351"
+      "scraped_at": "2026-05-06T11:31:44.169884"
     },
     {
       "id": "9bcac8dee1cf5f5f",
@@ -5013,7 +4965,7 @@
       "stage": "Amfiscenen",
       "genre": null,
       "sold_out": true,
-      "scraped_at": "2026-05-05T11:00:05.603581"
+      "scraped_at": "2026-05-06T11:31:52.078570"
     },
     {
       "id": "14e76706eeabbd06",
@@ -5029,7 +4981,7 @@
       "stage": "Vega Scene",
       "genre": null,
       "sold_out": false,
-      "scraped_at": "2026-05-05T11:02:24.314531"
+      "scraped_at": "2026-05-06T11:33:49.340031"
     },
     {
       "id": "d4936eeb81e7089f",
@@ -5045,7 +4997,7 @@
       "stage": "Hovedscenen",
       "genre": null,
       "sold_out": true,
-      "scraped_at": "2026-05-05T10:59:53.339632"
+      "scraped_at": "2026-05-06T11:31:38.947859"
     },
     {
       "id": "c8dc4cc007dbc234",
@@ -5061,7 +5013,7 @@
       "stage": "Vega Scene",
       "genre": null,
       "sold_out": false,
-      "scraped_at": "2026-05-05T11:02:24.314869"
+      "scraped_at": "2026-05-06T11:33:49.340359"
     },
     {
       "id": "82474ca76352a9e9",
@@ -5077,7 +5029,7 @@
       "stage": "Hovedscenen",
       "genre": null,
       "sold_out": true,
-      "scraped_at": "2026-05-05T10:59:53.339646"
+      "scraped_at": "2026-05-06T11:31:38.947872"
     },
     {
       "id": "a1be0552df55ab7f",
@@ -5093,7 +5045,7 @@
       "stage": "Hovedscenen",
       "genre": null,
       "sold_out": true,
-      "scraped_at": "2026-05-05T10:59:53.339660"
+      "scraped_at": "2026-05-06T11:31:38.947886"
     },
     {
       "id": "659ac8314d233f52",
@@ -5109,7 +5061,7 @@
       "stage": "Vega Scene",
       "genre": null,
       "sold_out": false,
-      "scraped_at": "2026-05-05T11:02:24.315199"
+      "scraped_at": "2026-05-06T11:33:49.340670"
     },
     {
       "id": "a8a39f94d3504293",
@@ -5125,7 +5077,7 @@
       "stage": null,
       "genre": null,
       "sold_out": false,
-      "scraped_at": "2026-05-05T11:02:36.198367"
+      "scraped_at": "2026-05-06T11:34:05.911173"
     },
     {
       "id": "0883ae0034fe55a4",
@@ -5141,7 +5093,7 @@
       "stage": "Scene 2",
       "genre": null,
       "sold_out": false,
-      "scraped_at": "2026-05-05T11:01:17.704424"
+      "scraped_at": "2026-05-06T11:32:53.688620"
     },
     {
       "id": "96deccd3ae5f020d",
@@ -5157,7 +5109,7 @@
       "stage": "Amfiscenen",
       "genre": null,
       "sold_out": true,
-      "scraped_at": "2026-05-05T11:00:05.603595"
+      "scraped_at": "2026-05-06T11:31:52.078587"
     },
     {
       "id": "dda19f19c09d261e",
@@ -5173,7 +5125,7 @@
       "stage": "Hovedscenen",
       "genre": null,
       "sold_out": false,
-      "scraped_at": "2026-05-05T11:00:27.643230"
+      "scraped_at": "2026-05-06T11:32:23.684445"
     },
     {
       "id": "03175cecdc092e71",
@@ -5189,7 +5141,7 @@
       "stage": "Amfiscenen",
       "genre": null,
       "sold_out": true,
-      "scraped_at": "2026-05-05T11:00:05.603611"
+      "scraped_at": "2026-05-06T11:31:52.078603"
     },
     {
       "id": "afee1f9ad50d1ea0",
@@ -5205,7 +5157,7 @@
       "stage": "Vega Scene",
       "genre": null,
       "sold_out": false,
-      "scraped_at": "2026-05-05T11:02:24.315521"
+      "scraped_at": "2026-05-06T11:33:49.340996"
     },
     {
       "id": "fd244711ce18d8e5",
@@ -5215,13 +5167,13 @@
       "start": "2026-08-27T19:30:00",
       "end": null,
       "description": "«Gled deg, pappa, her er jeg!» Sitatet stammer fra den elleville farsen Den spanske flue , som nå settes opp på Nationaltheatret for første gang siden 1970! Forestillingen handler om den tilsynelatende vellykkede familien Klinke, der far Ludwig har slått seg opp som sennepsfabrikkeier. Men han ha…",
-      "image_url": "https://cdn.sanity.io/images/4hthkcie/production/cdf32b1e7acec1c1b8df0b898f39e3cab861ac00-1920x1080.jpg",
+      "image_url": "https://cdn.sanity.io/images/4hthkcie/production/3500a6ff03f083eccf698f4597c8029b68c3a161-1920x1080.png",
       "ticket_url": "https://www.nationaltheatret.no/velg-seter?performanceId=25454",
       "detail_url": "https://www.nationaltheatret.no/forestillinger/den-spanske-flue",
       "stage": "Hovedscenen",
       "genre": null,
       "sold_out": true,
-      "scraped_at": "2026-05-05T10:59:58.938365"
+      "scraped_at": "2026-05-06T11:31:44.169902"
     },
     {
       "id": "5a0314e5181b4f94",
@@ -5237,7 +5189,7 @@
       "stage": "Scene 2",
       "genre": null,
       "sold_out": false,
-      "scraped_at": "2026-05-05T11:01:23.135356"
+      "scraped_at": "2026-05-06T11:32:55.354712"
     },
     {
       "id": "2187d83ab993368f",
@@ -5247,13 +5199,13 @@
       "start": "2026-08-28T18:30:00",
       "end": null,
       "description": "«Gled deg, pappa, her er jeg!» Sitatet stammer fra den elleville farsen Den spanske flue , som nå settes opp på Nationaltheatret for første gang siden 1970! Forestillingen handler om den tilsynelatende vellykkede familien Klinke, der far Ludwig har slått seg opp som sennepsfabrikkeier. Men han ha…",
-      "image_url": "https://cdn.sanity.io/images/4hthkcie/production/cdf32b1e7acec1c1b8df0b898f39e3cab861ac00-1920x1080.jpg",
+      "image_url": "https://cdn.sanity.io/images/4hthkcie/production/3500a6ff03f083eccf698f4597c8029b68c3a161-1920x1080.png",
       "ticket_url": "https://www.nationaltheatret.no/velg-seter?performanceId=25455",
       "detail_url": "https://www.nationaltheatret.no/forestillinger/den-spanske-flue",
       "stage": "Hovedscenen",
       "genre": null,
       "sold_out": true,
-      "scraped_at": "2026-05-05T10:59:58.938384"
+      "scraped_at": "2026-05-06T11:31:44.169918"
     },
     {
       "id": "c93ba292015f5743",
@@ -5269,7 +5221,7 @@
       "stage": "Scene 2",
       "genre": null,
       "sold_out": false,
-      "scraped_at": "2026-05-05T11:01:17.704450"
+      "scraped_at": "2026-05-06T11:32:53.688641"
     },
     {
       "id": "63d13e7f56e28abe",
@@ -5285,7 +5237,7 @@
       "stage": "Amfiscenen",
       "genre": null,
       "sold_out": true,
-      "scraped_at": "2026-05-05T11:00:05.603625"
+      "scraped_at": "2026-05-06T11:31:52.078623"
     },
     {
       "id": "716c9d09f3d14dd4",
@@ -5301,7 +5253,7 @@
       "stage": "Hovudscenen",
       "genre": null,
       "sold_out": false,
-      "scraped_at": "2026-05-05T11:01:11.580873"
+      "scraped_at": "2026-05-06T11:32:50.173422"
     },
     {
       "id": "d2b5fc3c3aec3bd8",
@@ -5311,13 +5263,13 @@
       "start": "2026-08-29T13:30:00",
       "end": null,
       "description": "«Gled deg, pappa, her er jeg!» Sitatet stammer fra den elleville farsen Den spanske flue , som nå settes opp på Nationaltheatret for første gang siden 1970! Forestillingen handler om den tilsynelatende vellykkede familien Klinke, der far Ludwig har slått seg opp som sennepsfabrikkeier. Men han ha…",
-      "image_url": "https://cdn.sanity.io/images/4hthkcie/production/cdf32b1e7acec1c1b8df0b898f39e3cab861ac00-1920x1080.jpg",
+      "image_url": "https://cdn.sanity.io/images/4hthkcie/production/3500a6ff03f083eccf698f4597c8029b68c3a161-1920x1080.png",
       "ticket_url": "https://www.nationaltheatret.no/velg-seter?performanceId=25456",
       "detail_url": "https://www.nationaltheatret.no/forestillinger/den-spanske-flue",
       "stage": "Hovedscenen",
       "genre": null,
       "sold_out": true,
-      "scraped_at": "2026-05-05T10:59:58.938398"
+      "scraped_at": "2026-05-06T11:31:44.169950"
     },
     {
       "id": "cfac932040213bf3",
@@ -5333,7 +5285,7 @@
       "stage": "Amfiscenen",
       "genre": null,
       "sold_out": true,
-      "scraped_at": "2026-05-05T11:00:05.603640"
+      "scraped_at": "2026-05-06T11:31:52.078640"
     },
     {
       "id": "21831409d0778c49",
@@ -5349,7 +5301,7 @@
       "stage": "Hovudscenen",
       "genre": null,
       "sold_out": false,
-      "scraped_at": "2026-05-05T11:01:11.580897"
+      "scraped_at": "2026-05-06T11:32:50.173443"
     },
     {
       "id": "428a622588b7faf8",
@@ -5365,7 +5317,7 @@
       "stage": "Hovedscenen",
       "genre": null,
       "sold_out": true,
-      "scraped_at": "2026-05-05T10:59:53.339673"
+      "scraped_at": "2026-05-06T11:31:38.947900"
     },
     {
       "id": "93d3f5b674cae69a",
@@ -5375,13 +5327,13 @@
       "start": "2026-08-31T19:30:00",
       "end": null,
       "description": "«Gled deg, pappa, her er jeg!» Sitatet stammer fra den elleville farsen Den spanske flue , som nå settes opp på Nationaltheatret for første gang siden 1970! Forestillingen handler om den tilsynelatende vellykkede familien Klinke, der far Ludwig har slått seg opp som sennepsfabrikkeier. Men han ha…",
-      "image_url": "https://cdn.sanity.io/images/4hthkcie/production/cdf32b1e7acec1c1b8df0b898f39e3cab861ac00-1920x1080.jpg",
+      "image_url": "https://cdn.sanity.io/images/4hthkcie/production/3500a6ff03f083eccf698f4597c8029b68c3a161-1920x1080.png",
       "ticket_url": "https://www.nationaltheatret.no/velg-seter?performanceId=25457",
       "detail_url": "https://www.nationaltheatret.no/forestillinger/den-spanske-flue",
       "stage": "Hovedscenen",
       "genre": null,
       "sold_out": true,
-      "scraped_at": "2026-05-05T10:59:58.938412"
+      "scraped_at": "2026-05-06T11:31:44.169968"
     },
     {
       "id": "91a978663189abb7",
@@ -5397,7 +5349,7 @@
       "stage": "Hovedscenen",
       "genre": null,
       "sold_out": true,
-      "scraped_at": "2026-05-05T10:59:53.339688"
+      "scraped_at": "2026-05-06T11:31:38.947914"
     },
     {
       "id": "33f6cb7eee9dd5c7",
@@ -5413,7 +5365,7 @@
       "stage": "Hovedscenen",
       "genre": null,
       "sold_out": true,
-      "scraped_at": "2026-05-05T10:59:53.339702"
+      "scraped_at": "2026-05-06T11:31:38.947950"
     },
     {
       "id": "7b5dfc6cd39b404e",
@@ -5429,7 +5381,7 @@
       "stage": "Scene 2",
       "genre": null,
       "sold_out": false,
-      "scraped_at": "2026-05-05T11:01:23.135366"
+      "scraped_at": "2026-05-06T11:32:55.354722"
     },
     {
       "id": "c4e4fa9216ac2fc4",
@@ -5445,7 +5397,7 @@
       "stage": "Hovedscenen",
       "genre": null,
       "sold_out": true,
-      "scraped_at": "2026-05-05T10:59:53.339718"
+      "scraped_at": "2026-05-06T11:31:38.947972"
     },
     {
       "id": "76ce3e3a5a74b5df",
@@ -5461,7 +5413,7 @@
       "stage": null,
       "genre": "Musikal ,  Scenekvelder",
       "sold_out": true,
-      "scraped_at": "2026-05-05T11:02:41.615041"
+      "scraped_at": "2026-05-06T11:34:18.653848"
     },
     {
       "id": "4f2a9f1b303e0004",
@@ -5477,7 +5429,7 @@
       "stage": "Amfiscenen",
       "genre": null,
       "sold_out": false,
-      "scraped_at": "2026-05-05T11:00:09.399943"
+      "scraped_at": "2026-05-06T11:31:56.667287"
     },
     {
       "id": "8e19a4e13adc03ff",
@@ -5493,7 +5445,7 @@
       "stage": "Scene 2",
       "genre": null,
       "sold_out": false,
-      "scraped_at": "2026-05-05T11:01:17.704463"
+      "scraped_at": "2026-05-06T11:32:53.688654"
     },
     {
       "id": "37bdfe6c4bef1159",
@@ -5509,7 +5461,7 @@
       "stage": "Hovedscenen",
       "genre": null,
       "sold_out": true,
-      "scraped_at": "2026-05-05T10:59:53.339735"
+      "scraped_at": "2026-05-06T11:31:38.947989"
     },
     {
       "id": "ee4177af8e1beb4d",
@@ -5525,7 +5477,7 @@
       "stage": null,
       "genre": "Musikal ,  Scenekvelder",
       "sold_out": false,
-      "scraped_at": "2026-05-05T11:02:41.615104"
+      "scraped_at": "2026-05-06T11:34:18.653894"
     },
     {
       "id": "ac0374a6a8290f64",
@@ -5541,7 +5493,7 @@
       "stage": "Hovedscenen",
       "genre": null,
       "sold_out": true,
-      "scraped_at": "2026-05-05T10:59:53.339751"
+      "scraped_at": "2026-05-06T11:31:38.948007"
     },
     {
       "id": "655666832dfcdb74",
@@ -5557,7 +5509,7 @@
       "stage": null,
       "genre": "Musikal ,  Scenekvelder",
       "sold_out": false,
-      "scraped_at": "2026-05-05T11:02:41.615140"
+      "scraped_at": "2026-05-06T11:34:18.653946"
     },
     {
       "id": "de49f2b5239eb3c3",
@@ -5573,7 +5525,7 @@
       "stage": "Scene 2",
       "genre": null,
       "sold_out": false,
-      "scraped_at": "2026-05-05T11:01:17.704474"
+      "scraped_at": "2026-05-06T11:32:53.688665"
     },
     {
       "id": "b0dadc81b1d89c55",
@@ -5589,7 +5541,7 @@
       "stage": "Hovudscenen",
       "genre": null,
       "sold_out": false,
-      "scraped_at": "2026-05-05T11:01:09.568039"
+      "scraped_at": "2026-05-06T11:32:49.185649"
     },
     {
       "id": "9f3821f1a0f2cc1a",
@@ -5605,7 +5557,7 @@
       "stage": "Hovedscenen",
       "genre": null,
       "sold_out": true,
-      "scraped_at": "2026-05-05T11:00:25.257502"
+      "scraped_at": "2026-05-06T11:32:20.682171"
     },
     {
       "id": "9146862281e190d4",
@@ -5621,7 +5573,7 @@
       "stage": null,
       "genre": "Musikal ,  Scenekvelder",
       "sold_out": false,
-      "scraped_at": "2026-05-05T11:02:41.615172"
+      "scraped_at": "2026-05-06T11:34:18.653981"
     },
     {
       "id": "001f86c75be8ac90",
@@ -5637,7 +5589,7 @@
       "stage": null,
       "genre": "Musikal ,  Scenekvelder",
       "sold_out": false,
-      "scraped_at": "2026-05-05T11:02:41.615203"
+      "scraped_at": "2026-05-06T11:34:18.654016"
     },
     {
       "id": "c1d30c8f8820dab2",
@@ -5653,7 +5605,7 @@
       "stage": "Hovudscenen",
       "genre": null,
       "sold_out": false,
-      "scraped_at": "2026-05-05T11:01:09.568076"
+      "scraped_at": "2026-05-06T11:32:49.185669"
     },
     {
       "id": "ea8995bca48beb94",
@@ -5669,7 +5621,7 @@
       "stage": null,
       "genre": "Konsert",
       "sold_out": false,
-      "scraped_at": "2026-05-05T11:02:43.893921"
+      "scraped_at": "2026-05-06T11:34:23.748317"
     },
     {
       "id": "febb4ef66b5b5156",
@@ -5685,7 +5637,7 @@
       "stage": null,
       "genre": null,
       "sold_out": false,
-      "scraped_at": "2026-05-05T11:02:36.198438"
+      "scraped_at": "2026-05-06T11:34:05.911259"
     },
     {
       "id": "8d0e9d3e062127d3",
@@ -5701,7 +5653,7 @@
       "stage": "Hovudscenen",
       "genre": null,
       "sold_out": false,
-      "scraped_at": "2026-05-05T11:00:50.758290"
+      "scraped_at": "2026-05-06T11:32:44.797800"
     },
     {
       "id": "3ddcbf59cebcf75f",
@@ -5717,7 +5669,7 @@
       "stage": "Hovedscenen",
       "genre": null,
       "sold_out": false,
-      "scraped_at": "2026-05-05T11:00:19.494895"
+      "scraped_at": "2026-05-06T11:32:13.273274"
     },
     {
       "id": "c1181a331cf5f8f8",
@@ -5733,7 +5685,7 @@
       "stage": "Hovudscenen",
       "genre": null,
       "sold_out": false,
-      "scraped_at": "2026-05-05T11:01:11.580910"
+      "scraped_at": "2026-05-06T11:32:50.173455"
     },
     {
       "id": "b8ef59b3b95f252c",
@@ -5749,7 +5701,7 @@
       "stage": null,
       "genre": "Musikal ,  Scenekvelder",
       "sold_out": false,
-      "scraped_at": "2026-05-05T11:02:41.615232"
+      "scraped_at": "2026-05-06T11:34:18.654049"
     },
     {
       "id": "e3da9cbcf107cc4a",
@@ -5765,7 +5717,7 @@
       "stage": "Hovudscenen",
       "genre": null,
       "sold_out": false,
-      "scraped_at": "2026-05-05T11:01:09.568089"
+      "scraped_at": "2026-05-06T11:32:49.185680"
     },
     {
       "id": "02da9c2378de21de",
@@ -5781,7 +5733,7 @@
       "stage": "Scene 2",
       "genre": null,
       "sold_out": false,
-      "scraped_at": "2026-05-05T11:01:25.030332"
+      "scraped_at": "2026-05-06T11:32:55.543884"
     },
     {
       "id": "8ee184e4d6ab9ab4",
@@ -5797,7 +5749,7 @@
       "stage": null,
       "genre": "Musikal ,  Scenekvelder",
       "sold_out": false,
-      "scraped_at": "2026-05-05T11:02:41.615262"
+      "scraped_at": "2026-05-06T11:34:18.654083"
     },
     {
       "id": "ee9d69c5584c5a53",
@@ -5813,7 +5765,7 @@
       "stage": null,
       "genre": "Musikal ,  Scenekvelder",
       "sold_out": false,
-      "scraped_at": "2026-05-05T11:02:41.615298"
+      "scraped_at": "2026-05-06T11:34:18.654122"
     },
     {
       "id": "5b9925aa1e565de7",
@@ -5829,7 +5781,7 @@
       "stage": "Hovudscenen",
       "genre": null,
       "sold_out": false,
-      "scraped_at": "2026-05-05T11:00:50.758300"
+      "scraped_at": "2026-05-06T11:32:44.797810"
     },
     {
       "id": "c659b8166f8b2de7",
@@ -5845,7 +5797,7 @@
       "stage": "Torshovteatret",
       "genre": null,
       "sold_out": false,
-      "scraped_at": "2026-05-05T11:00:14.730205"
+      "scraped_at": "2026-05-06T11:32:07.752189"
     },
     {
       "id": "5ce398c38d6f34ab",
@@ -5861,7 +5813,7 @@
       "stage": "Scene 2",
       "genre": null,
       "sold_out": false,
-      "scraped_at": "2026-05-05T11:01:25.030357"
+      "scraped_at": "2026-05-06T11:32:55.543904"
     },
     {
       "id": "0c9ef3faf3ba4b37",
@@ -5871,13 +5823,13 @@
       "start": "2026-09-12T18:30:00",
       "end": null,
       "description": "«Gled deg, pappa, her er jeg!» Sitatet stammer fra den elleville farsen Den spanske flue , som nå settes opp på Nationaltheatret for første gang siden 1970! Forestillingen handler om den tilsynelatende vellykkede familien Klinke, der far Ludwig har slått seg opp som sennepsfabrikkeier. Men han ha…",
-      "image_url": "https://cdn.sanity.io/images/4hthkcie/production/cdf32b1e7acec1c1b8df0b898f39e3cab861ac00-1920x1080.jpg",
+      "image_url": "https://cdn.sanity.io/images/4hthkcie/production/3500a6ff03f083eccf698f4597c8029b68c3a161-1920x1080.png",
       "ticket_url": "https://www.nationaltheatret.no/velg-seter?performanceId=25792",
       "detail_url": "https://www.nationaltheatret.no/forestillinger/den-spanske-flue",
       "stage": "Hovedscenen",
       "genre": null,
       "sold_out": true,
-      "scraped_at": "2026-05-05T10:59:58.938429"
+      "scraped_at": "2026-05-06T11:31:44.169986"
     },
     {
       "id": "f5c2b569b110385e",
@@ -5893,7 +5845,7 @@
       "stage": null,
       "genre": "Musikal ,  Scenekvelder",
       "sold_out": false,
-      "scraped_at": "2026-05-05T11:02:41.615328"
+      "scraped_at": "2026-05-06T11:34:18.654155"
     },
     {
       "id": "98c789e9489c8f3a",
@@ -5909,7 +5861,7 @@
       "stage": null,
       "genre": "Musikal ,  Scenekvelder",
       "sold_out": false,
-      "scraped_at": "2026-05-05T11:02:41.615357"
+      "scraped_at": "2026-05-06T11:34:18.654188"
     },
     {
       "id": "a6b34374494dfe23",
@@ -5925,7 +5877,7 @@
       "stage": "Hovudscenen",
       "genre": null,
       "sold_out": false,
-      "scraped_at": "2026-05-05T11:01:11.580922"
+      "scraped_at": "2026-05-06T11:32:50.173466"
     },
     {
       "id": "784c9d74830ba733",
@@ -5941,7 +5893,7 @@
       "stage": "Hovudscenen",
       "genre": null,
       "sold_out": false,
-      "scraped_at": "2026-05-05T11:00:50.758310"
+      "scraped_at": "2026-05-06T11:32:44.797820"
     },
     {
       "id": "ea7d18b0e69485e9",
@@ -5957,7 +5909,7 @@
       "stage": null,
       "genre": "Konsert",
       "sold_out": true,
-      "scraped_at": "2026-05-05T11:02:44.159028"
+      "scraped_at": "2026-05-06T11:34:24.068806"
     },
     {
       "id": "95a802066f3ab735",
@@ -5973,7 +5925,7 @@
       "stage": "Scene 2",
       "genre": null,
       "sold_out": false,
-      "scraped_at": "2026-05-05T11:01:25.030370"
+      "scraped_at": "2026-05-06T11:32:55.543916"
     },
     {
       "id": "16794d7a54a75e40",
@@ -5989,7 +5941,7 @@
       "stage": "Scene 2",
       "genre": null,
       "sold_out": false,
-      "scraped_at": "2026-05-05T11:01:17.704484"
+      "scraped_at": "2026-05-06T11:32:53.688675"
     },
     {
       "id": "42c7f76d92f99045",
@@ -6005,7 +5957,7 @@
       "stage": "Hovudscenen",
       "genre": null,
       "sold_out": false,
-      "scraped_at": "2026-05-05T11:01:11.580932"
+      "scraped_at": "2026-05-06T11:32:50.173476"
     },
     {
       "id": "9dc38a0f1058cf16",
@@ -6021,7 +5973,7 @@
       "stage": "Amfiscenen",
       "genre": null,
       "sold_out": true,
-      "scraped_at": "2026-05-05T11:00:05.603655"
+      "scraped_at": "2026-05-06T11:31:52.078657"
     },
     {
       "id": "e6d7a3a532be2808",
@@ -6037,7 +5989,7 @@
       "stage": null,
       "genre": "Musikal ,  Scenekvelder",
       "sold_out": false,
-      "scraped_at": "2026-05-05T11:02:41.615385"
+      "scraped_at": "2026-05-06T11:34:18.654219"
     },
     {
       "id": "0f5a7709f37d1c98",
@@ -6053,7 +6005,7 @@
       "stage": "Scene 2",
       "genre": null,
       "sold_out": false,
-      "scraped_at": "2026-05-05T11:01:25.030380"
+      "scraped_at": "2026-05-06T11:32:55.543926"
     },
     {
       "id": "ed1bd4e7ce9a95dd",
@@ -6069,7 +6021,7 @@
       "stage": null,
       "genre": "Musikal ,  Scenekvelder",
       "sold_out": false,
-      "scraped_at": "2026-05-05T11:02:41.615415"
+      "scraped_at": "2026-05-06T11:34:18.654252"
     },
     {
       "id": "cdd4cb05b5481cf7",
@@ -6085,7 +6037,7 @@
       "stage": "Amfiscenen",
       "genre": null,
       "sold_out": false,
-      "scraped_at": "2026-05-05T11:00:17.192869"
+      "scraped_at": "2026-05-06T11:32:10.505602"
     },
     {
       "id": "0e953ae96ce324b1",
@@ -6095,13 +6047,13 @@
       "start": "2026-09-18T19:00:00",
       "end": null,
       "description": "«Gled deg, pappa, her er jeg!» Sitatet stammer fra den elleville farsen Den spanske flue , som nå settes opp på Nationaltheatret for første gang siden 1970! Forestillingen handler om den tilsynelatende vellykkede familien Klinke, der far Ludwig har slått seg opp som sennepsfabrikkeier. Men han ha…",
-      "image_url": "https://cdn.sanity.io/images/4hthkcie/production/cdf32b1e7acec1c1b8df0b898f39e3cab861ac00-1920x1080.jpg",
+      "image_url": "https://cdn.sanity.io/images/4hthkcie/production/3500a6ff03f083eccf698f4597c8029b68c3a161-1920x1080.png",
       "ticket_url": "https://www.nationaltheatret.no/velg-seter?performanceId=25793",
       "detail_url": "https://www.nationaltheatret.no/forestillinger/den-spanske-flue",
       "stage": "Hovedscenen",
       "genre": null,
       "sold_out": true,
-      "scraped_at": "2026-05-05T10:59:58.938442"
+      "scraped_at": "2026-05-06T11:31:44.170002"
     },
     {
       "id": "2d06396776e7285c",
@@ -6117,7 +6069,7 @@
       "stage": null,
       "genre": "Musikal ,  Scenekvelder",
       "sold_out": false,
-      "scraped_at": "2026-05-05T11:02:41.615444"
+      "scraped_at": "2026-05-06T11:34:18.654285"
     },
     {
       "id": "faefddf90c85dd2f",
@@ -6133,7 +6085,7 @@
       "stage": "Hovudscenen",
       "genre": null,
       "sold_out": false,
-      "scraped_at": "2026-05-05T11:01:11.580943"
+      "scraped_at": "2026-05-06T11:32:50.173487"
     },
     {
       "id": "ab709353ca0b6bf6",
@@ -6143,13 +6095,13 @@
       "start": "2026-09-19T13:30:00",
       "end": null,
       "description": "«Gled deg, pappa, her er jeg!» Sitatet stammer fra den elleville farsen Den spanske flue , som nå settes opp på Nationaltheatret for første gang siden 1970! Forestillingen handler om den tilsynelatende vellykkede familien Klinke, der far Ludwig har slått seg opp som sennepsfabrikkeier. Men han ha…",
-      "image_url": "https://cdn.sanity.io/images/4hthkcie/production/cdf32b1e7acec1c1b8df0b898f39e3cab861ac00-1920x1080.jpg",
+      "image_url": "https://cdn.sanity.io/images/4hthkcie/production/3500a6ff03f083eccf698f4597c8029b68c3a161-1920x1080.png",
       "ticket_url": "https://www.nationaltheatret.no/velg-seter?performanceId=25794",
       "detail_url": "https://www.nationaltheatret.no/forestillinger/den-spanske-flue",
       "stage": "Hovedscenen",
       "genre": null,
       "sold_out": true,
-      "scraped_at": "2026-05-05T10:59:58.938458"
+      "scraped_at": "2026-05-06T11:31:44.170020"
     },
     {
       "id": "856d6a5e0d1965c3",
@@ -6165,7 +6117,7 @@
       "stage": null,
       "genre": "Musikal ,  Scenekvelder",
       "sold_out": false,
-      "scraped_at": "2026-05-05T11:02:41.615473"
+      "scraped_at": "2026-05-06T11:34:18.654316"
     },
     {
       "id": "07c66a73e510f5b1",
@@ -6181,7 +6133,7 @@
       "stage": "Scene 2",
       "genre": null,
       "sold_out": false,
-      "scraped_at": "2026-05-05T11:01:17.704494"
+      "scraped_at": "2026-05-06T11:32:53.688686"
     },
     {
       "id": "bde56e8dbd838238",
@@ -6197,7 +6149,7 @@
       "stage": "Hovudscenen",
       "genre": null,
       "sold_out": false,
-      "scraped_at": "2026-05-05T11:01:09.568100"
+      "scraped_at": "2026-05-06T11:32:49.185690"
     },
     {
       "id": "3cfd8ea1b76cc165",
@@ -6213,7 +6165,7 @@
       "stage": null,
       "genre": "Musikal ,  Scenekvelder",
       "sold_out": false,
-      "scraped_at": "2026-05-05T11:02:41.615500"
+      "scraped_at": "2026-05-06T11:34:18.654347"
     },
     {
       "id": "f05712d93b4e2492",
@@ -6229,7 +6181,7 @@
       "stage": "Hovudscenen",
       "genre": null,
       "sold_out": false,
-      "scraped_at": "2026-05-05T11:00:50.758321"
+      "scraped_at": "2026-05-06T11:32:44.797830"
     },
     {
       "id": "3c62e5c588e14fbe",
@@ -6245,7 +6197,7 @@
       "stage": "Hovudscenen",
       "genre": null,
       "sold_out": false,
-      "scraped_at": "2026-05-05T11:00:50.758341"
+      "scraped_at": "2026-05-06T11:32:44.797839"
     },
     {
       "id": "5040b36c1d3aba82",
@@ -6261,7 +6213,7 @@
       "stage": "Hovedscenen",
       "genre": null,
       "sold_out": false,
-      "scraped_at": "2026-05-05T11:00:21.458364"
+      "scraped_at": "2026-05-06T11:32:15.734338"
     },
     {
       "id": "c06395b15009721f",
@@ -6277,7 +6229,7 @@
       "stage": "Scene 2",
       "genre": null,
       "sold_out": false,
-      "scraped_at": "2026-05-05T11:01:25.030390"
+      "scraped_at": "2026-05-06T11:32:55.543951"
     },
     {
       "id": "7a26951137e1e3ba",
@@ -6293,7 +6245,7 @@
       "stage": "Hovudscenen",
       "genre": null,
       "sold_out": false,
-      "scraped_at": "2026-05-05T11:01:11.580954"
+      "scraped_at": "2026-05-06T11:32:50.173496"
     },
     {
       "id": "e014063bd1e3d077",
@@ -6309,7 +6261,7 @@
       "stage": "Scene 2",
       "genre": null,
       "sold_out": false,
-      "scraped_at": "2026-05-05T11:01:23.135376"
+      "scraped_at": "2026-05-06T11:32:55.354733"
     },
     {
       "id": "f38f088f0b5cf617",
@@ -6325,7 +6277,7 @@
       "stage": null,
       "genre": "Annet",
       "sold_out": false,
-      "scraped_at": "2026-05-05T11:02:44.432633"
+      "scraped_at": "2026-05-06T11:34:24.403690"
     },
     {
       "id": "69716631f0967105",
@@ -6341,7 +6293,7 @@
       "stage": "Scene 3",
       "genre": null,
       "sold_out": false,
-      "scraped_at": "2026-05-05T11:01:31.535727"
+      "scraped_at": "2026-05-06T11:32:58.431272"
     },
     {
       "id": "70b66095348222bf",
@@ -6357,7 +6309,7 @@
       "stage": "Scene 2",
       "genre": null,
       "sold_out": false,
-      "scraped_at": "2026-05-05T11:01:17.704505"
+      "scraped_at": "2026-05-06T11:32:53.688697"
     },
     {
       "id": "61d9d146f4052364",
@@ -6373,7 +6325,7 @@
       "stage": "Hovudscenen",
       "genre": null,
       "sold_out": false,
-      "scraped_at": "2026-05-05T11:01:09.568109"
+      "scraped_at": "2026-05-06T11:32:49.185700"
     },
     {
       "id": "be30d5e1e4922fce",
@@ -6389,7 +6341,7 @@
       "stage": null,
       "genre": null,
       "sold_out": false,
-      "scraped_at": "2026-05-05T11:02:36.198502"
+      "scraped_at": "2026-05-06T11:34:05.911339"
     },
     {
       "id": "30861fcf07e337a6",
@@ -6405,7 +6357,7 @@
       "stage": null,
       "genre": "Musikal ,  Scenekvelder",
       "sold_out": false,
-      "scraped_at": "2026-05-05T11:02:41.615530"
+      "scraped_at": "2026-05-06T11:34:18.654377"
     },
     {
       "id": "ddd32040a3e1910c",
@@ -6421,7 +6373,7 @@
       "stage": "Scene 3",
       "genre": null,
       "sold_out": false,
-      "scraped_at": "2026-05-05T11:01:31.535748"
+      "scraped_at": "2026-05-06T11:32:58.431292"
     },
     {
       "id": "eb410af86367da50",
@@ -6437,7 +6389,7 @@
       "stage": "Hovudscenen",
       "genre": null,
       "sold_out": false,
-      "scraped_at": "2026-05-05T11:01:09.568120"
+      "scraped_at": "2026-05-06T11:32:49.185710"
     },
     {
       "id": "aa003a0efd384b3a",
@@ -6453,7 +6405,7 @@
       "stage": "Scene 2",
       "genre": null,
       "sold_out": false,
-      "scraped_at": "2026-05-05T11:01:25.030400"
+      "scraped_at": "2026-05-06T11:32:55.543961"
     },
     {
       "id": "d43186a630c1b88b",
@@ -6469,7 +6421,7 @@
       "stage": null,
       "genre": "Musikal ,  Scenekvelder",
       "sold_out": false,
-      "scraped_at": "2026-05-05T11:02:41.615558"
+      "scraped_at": "2026-05-06T11:34:18.654408"
     },
     {
       "id": "32103daf7044d51e",
@@ -6485,7 +6437,7 @@
       "stage": null,
       "genre": "Musikal ,  Scenekvelder",
       "sold_out": false,
-      "scraped_at": "2026-05-05T11:02:41.615587"
+      "scraped_at": "2026-05-06T11:34:18.654438"
     },
     {
       "id": "fbc57b7f27675bdb",
@@ -6501,7 +6453,7 @@
       "stage": "Amfiscenen",
       "genre": null,
       "sold_out": false,
-      "scraped_at": "2026-05-05T11:00:28.804923"
+      "scraped_at": "2026-05-06T11:32:25.244432"
     },
     {
       "id": "aa5df2a23169440a",
@@ -6517,7 +6469,7 @@
       "stage": "Scene 3",
       "genre": null,
       "sold_out": false,
-      "scraped_at": "2026-05-05T11:01:31.535760"
+      "scraped_at": "2026-05-06T11:32:58.431303"
     },
     {
       "id": "4ca7804dee78f1b1",
@@ -6533,7 +6485,7 @@
       "stage": "Hovudscenen",
       "genre": null,
       "sold_out": false,
-      "scraped_at": "2026-05-05T11:01:11.580964"
+      "scraped_at": "2026-05-06T11:32:50.173506"
     },
     {
       "id": "508f3b2fff1a8474",
@@ -6549,7 +6501,7 @@
       "stage": null,
       "genre": "Musikal ,  Scenekvelder",
       "sold_out": false,
-      "scraped_at": "2026-05-05T11:02:41.615617"
+      "scraped_at": "2026-05-06T11:34:18.654468"
     },
     {
       "id": "2d09376428c152e0",
@@ -6565,7 +6517,7 @@
       "stage": "Hovedscenen",
       "genre": null,
       "sold_out": false,
-      "scraped_at": "2026-05-05T11:00:33.414469"
+      "scraped_at": "2026-05-06T11:32:30.634629"
     },
     {
       "id": "c2532524fc36d9f2",
@@ -6581,7 +6533,7 @@
       "stage": null,
       "genre": "Musikal ,  Scenekvelder",
       "sold_out": false,
-      "scraped_at": "2026-05-05T11:02:41.615645"
+      "scraped_at": "2026-05-06T11:34:18.654497"
     },
     {
       "id": "dfcf6b2e10cbe9ab",
@@ -6597,7 +6549,7 @@
       "stage": "Hovudscenen",
       "genre": null,
       "sold_out": false,
-      "scraped_at": "2026-05-05T11:01:11.580975"
+      "scraped_at": "2026-05-06T11:32:50.173515"
     },
     {
       "id": "8f5d508d3f200b4c",
@@ -6613,7 +6565,7 @@
       "stage": "Hovudscenen",
       "genre": null,
       "sold_out": false,
-      "scraped_at": "2026-05-05T11:01:11.580985"
+      "scraped_at": "2026-05-06T11:32:50.173525"
     },
     {
       "id": "a36a05c590f8118d",
@@ -6629,7 +6581,7 @@
       "stage": "Scene 3",
       "genre": null,
       "sold_out": false,
-      "scraped_at": "2026-05-05T11:01:31.535769"
+      "scraped_at": "2026-05-06T11:32:58.431313"
     },
     {
       "id": "63631dfec5f790df",
@@ -6639,13 +6591,13 @@
       "start": "2026-09-29T19:30:00",
       "end": null,
       "description": "«Gled deg, pappa, her er jeg!» Sitatet stammer fra den elleville farsen Den spanske flue , som nå settes opp på Nationaltheatret for første gang siden 1970! Forestillingen handler om den tilsynelatende vellykkede familien Klinke, der far Ludwig har slått seg opp som sennepsfabrikkeier. Men han ha…",
-      "image_url": "https://cdn.sanity.io/images/4hthkcie/production/cdf32b1e7acec1c1b8df0b898f39e3cab861ac00-1920x1080.jpg",
+      "image_url": "https://cdn.sanity.io/images/4hthkcie/production/3500a6ff03f083eccf698f4597c8029b68c3a161-1920x1080.png",
       "ticket_url": "https://www.nationaltheatret.no/velg-seter?performanceId=25795",
       "detail_url": "https://www.nationaltheatret.no/forestillinger/den-spanske-flue",
       "stage": "Hovedscenen",
       "genre": null,
       "sold_out": true,
-      "scraped_at": "2026-05-05T10:59:58.938471"
+      "scraped_at": "2026-05-06T11:31:44.170036"
     },
     {
       "id": "d19cc6ceba7f92c8",
@@ -6661,7 +6613,7 @@
       "stage": "Scene 2",
       "genre": null,
       "sold_out": false,
-      "scraped_at": "2026-05-05T11:01:25.030410"
+      "scraped_at": "2026-05-06T11:32:55.543971"
     },
     {
       "id": "eaf7f1c88fcad365",
@@ -6677,7 +6629,7 @@
       "stage": "Scene 3",
       "genre": null,
       "sold_out": false,
-      "scraped_at": "2026-05-05T11:01:31.535779"
+      "scraped_at": "2026-05-06T11:32:58.431322"
     },
     {
       "id": "30865061610a52b6",
@@ -6693,7 +6645,7 @@
       "stage": "Hovudscenen",
       "genre": null,
       "sold_out": false,
-      "scraped_at": "2026-05-05T11:00:50.758351"
+      "scraped_at": "2026-05-06T11:32:44.797849"
     },
     {
       "id": "a47db889594c9636",
@@ -6703,13 +6655,13 @@
       "start": "2026-10-01T19:00:00",
       "end": null,
       "description": null,
-      "image_url": "/_next/image?url=https%3A%2F%2Fcdn.sanity.io%2Fimages%2Fl794s5ct%2Fproduction%2F7e675c352ea9c8546bf53b579296f7a4de15cce4-1440x810.jpg%3Frect%3D315%2C0%2C810%2C810%26w%3D1000%26h%3D1000%26q%3D92%26fit%3Dmax%26auto%3Dformat&w=3840&q=75",
+      "image_url": "/_next/image?url=https%3A%2F%2Fcdn.sanity.io%2Fimages%2Fl794s5ct%2Fproduction%2F04628cd15543e5c15728a32d59f947628c3319a8-1440x810.jpg%3Frect%3D315%2C0%2C810%2C810%26w%3D1000%26h%3D1000%26q%3D92%26fit%3Dmax%26auto%3Dformat&w=3840&q=75",
       "ticket_url": "https://nordicblacktheatre.no/program/karen-houge-dreamgirl-01-10-2026",
       "detail_url": "https://nordicblacktheatre.no/program/karen-houge-dreamgirl-01-10-2026",
       "stage": null,
       "genre": null,
       "sold_out": false,
-      "scraped_at": "2026-05-05T11:02:36.198569"
+      "scraped_at": "2026-05-06T11:34:05.911422"
     },
     {
       "id": "de37188fce8dd784",
@@ -6725,7 +6677,7 @@
       "stage": "Hovudscenen",
       "genre": null,
       "sold_out": false,
-      "scraped_at": "2026-05-05T11:00:50.758361"
+      "scraped_at": "2026-05-06T11:32:44.797860"
     },
     {
       "id": "fd8e9f085e602221",
@@ -6741,7 +6693,7 @@
       "stage": "Scene 3",
       "genre": null,
       "sold_out": false,
-      "scraped_at": "2026-05-05T11:01:31.535789"
+      "scraped_at": "2026-05-06T11:32:58.431332"
     },
     {
       "id": "893d87a45fb1c1a1",
@@ -6751,13 +6703,13 @@
       "start": "2026-10-02T18:30:00",
       "end": null,
       "description": "«Gled deg, pappa, her er jeg!» Sitatet stammer fra den elleville farsen Den spanske flue , som nå settes opp på Nationaltheatret for første gang siden 1970! Forestillingen handler om den tilsynelatende vellykkede familien Klinke, der far Ludwig har slått seg opp som sennepsfabrikkeier. Men han ha…",
-      "image_url": "https://cdn.sanity.io/images/4hthkcie/production/cdf32b1e7acec1c1b8df0b898f39e3cab861ac00-1920x1080.jpg",
+      "image_url": "https://cdn.sanity.io/images/4hthkcie/production/3500a6ff03f083eccf698f4597c8029b68c3a161-1920x1080.png",
       "ticket_url": "https://www.nationaltheatret.no/velg-seter?performanceId=25796",
       "detail_url": "https://www.nationaltheatret.no/forestillinger/den-spanske-flue",
       "stage": "Hovedscenen",
       "genre": null,
       "sold_out": true,
-      "scraped_at": "2026-05-05T10:59:58.938488"
+      "scraped_at": "2026-05-06T11:31:44.170052"
     },
     {
       "id": "898f37344bdbc214",
@@ -6773,7 +6725,7 @@
       "stage": "Scene 2",
       "genre": null,
       "sold_out": false,
-      "scraped_at": "2026-05-05T11:01:23.135386"
+      "scraped_at": "2026-05-06T11:32:55.354743"
     },
     {
       "id": "111ae7ffd54d113c",
@@ -6789,7 +6741,7 @@
       "stage": null,
       "genre": "Musikal ,  Scenekvelder",
       "sold_out": false,
-      "scraped_at": "2026-05-05T11:02:41.615674"
+      "scraped_at": "2026-05-06T11:34:18.654527"
     },
     {
       "id": "f0aaba4c26dc89ed",
@@ -6799,13 +6751,13 @@
       "start": "2026-10-03T13:30:00",
       "end": null,
       "description": "«Gled deg, pappa, her er jeg!» Sitatet stammer fra den elleville farsen Den spanske flue , som nå settes opp på Nationaltheatret for første gang siden 1970! Forestillingen handler om den tilsynelatende vellykkede familien Klinke, der far Ludwig har slått seg opp som sennepsfabrikkeier. Men han ha…",
-      "image_url": "https://cdn.sanity.io/images/4hthkcie/production/cdf32b1e7acec1c1b8df0b898f39e3cab861ac00-1920x1080.jpg",
+      "image_url": "https://cdn.sanity.io/images/4hthkcie/production/3500a6ff03f083eccf698f4597c8029b68c3a161-1920x1080.png",
       "ticket_url": "https://www.nationaltheatret.no/velg-seter?performanceId=25797",
       "detail_url": "https://www.nationaltheatret.no/forestillinger/den-spanske-flue",
       "stage": "Hovedscenen",
       "genre": null,
       "sold_out": true,
-      "scraped_at": "2026-05-05T10:59:58.938502"
+      "scraped_at": "2026-05-06T11:31:44.170069"
     },
     {
       "id": "01cb28666936cd5d",
@@ -6821,7 +6773,7 @@
       "stage": null,
       "genre": "Musikal ,  Scenekvelder",
       "sold_out": false,
-      "scraped_at": "2026-05-05T11:02:41.615702"
+      "scraped_at": "2026-05-06T11:34:18.654556"
     },
     {
       "id": "4d6383a9de1eb87b",
@@ -6837,7 +6789,7 @@
       "stage": "Scene 3",
       "genre": null,
       "sold_out": false,
-      "scraped_at": "2026-05-05T11:01:31.535799"
+      "scraped_at": "2026-05-06T11:32:58.431341"
     },
     {
       "id": "ecf48455290f921b",
@@ -6853,7 +6805,7 @@
       "stage": "Hovudscenen",
       "genre": null,
       "sold_out": false,
-      "scraped_at": "2026-05-05T11:00:50.758371"
+      "scraped_at": "2026-05-06T11:32:44.797870"
     },
     {
       "id": "b30ed74af597815a",
@@ -6869,7 +6821,7 @@
       "stage": null,
       "genre": "Musikal ,  Scenekvelder",
       "sold_out": false,
-      "scraped_at": "2026-05-05T11:02:41.615730"
+      "scraped_at": "2026-05-06T11:34:18.654586"
     },
     {
       "id": "0fe405e3aa699b32",
@@ -6885,7 +6837,7 @@
       "stage": null,
       "genre": "Musikal ,  Scenekvelder",
       "sold_out": false,
-      "scraped_at": "2026-05-05T11:02:41.615758"
+      "scraped_at": "2026-05-06T11:34:18.654615"
     },
     {
       "id": "6335d44b5c90bd10",
@@ -6901,7 +6853,7 @@
       "stage": null,
       "genre": "Standup",
       "sold_out": false,
-      "scraped_at": "2026-05-05T11:02:44.985366"
+      "scraped_at": "2026-05-06T11:34:25.197523"
     },
     {
       "id": "23b0d8db0f99bcf1",
@@ -6917,7 +6869,7 @@
       "stage": null,
       "genre": "Musikal ,  Scenekvelder",
       "sold_out": false,
-      "scraped_at": "2026-05-05T11:02:41.615785"
+      "scraped_at": "2026-05-06T11:34:18.654644"
     },
     {
       "id": "e28944e18a95f16d",
@@ -6933,7 +6885,7 @@
       "stage": null,
       "genre": "Musikal ,  Scenekvelder",
       "sold_out": false,
-      "scraped_at": "2026-05-05T11:02:41.615813"
+      "scraped_at": "2026-05-06T11:34:18.654674"
     },
     {
       "id": "b9bc3774f258afd5",
@@ -6949,7 +6901,7 @@
       "stage": null,
       "genre": "Musikal ,  Scenekvelder",
       "sold_out": false,
-      "scraped_at": "2026-05-05T11:02:41.615841"
+      "scraped_at": "2026-05-06T11:34:18.654703"
     },
     {
       "id": "e3393a88081ba62e",
@@ -6965,7 +6917,7 @@
       "stage": "Hovudscenen",
       "genre": null,
       "sold_out": false,
-      "scraped_at": "2026-05-05T11:00:50.758381"
+      "scraped_at": "2026-05-06T11:32:44.797879"
     },
     {
       "id": "6775f4e49481e460",
@@ -6981,7 +6933,7 @@
       "stage": null,
       "genre": "Musikal ,  Scenekvelder",
       "sold_out": false,
-      "scraped_at": "2026-05-05T11:02:41.615868"
+      "scraped_at": "2026-05-06T11:34:18.654733"
     },
     {
       "id": "937eb631f6e3b58c",
@@ -6997,7 +6949,7 @@
       "stage": null,
       "genre": "Musikal ,  Scenekvelder",
       "sold_out": false,
-      "scraped_at": "2026-05-05T11:02:41.615896"
+      "scraped_at": "2026-05-06T11:34:18.654762"
     },
     {
       "id": "4fc0f2b26f127c97",
@@ -7013,7 +6965,7 @@
       "stage": "Rommen Scene",
       "genre": null,
       "sold_out": false,
-      "scraped_at": "2026-05-05T11:01:23.135396"
+      "scraped_at": "2026-05-06T11:32:55.354753"
     },
     {
       "id": "630dcccb8a0cdd7d",
@@ -7029,7 +6981,7 @@
       "stage": null,
       "genre": null,
       "sold_out": false,
-      "scraped_at": "2026-05-05T11:02:36.198635"
+      "scraped_at": "2026-05-06T11:34:05.911509"
     },
     {
       "id": "bb5ab0b22cd1c675",
@@ -7045,7 +6997,7 @@
       "stage": "Rommen Scene",
       "genre": null,
       "sold_out": false,
-      "scraped_at": "2026-05-05T11:01:23.135405"
+      "scraped_at": "2026-05-06T11:32:55.354762"
     },
     {
       "id": "5e51b2d154c08f57",
@@ -7061,7 +7013,7 @@
       "stage": "Hovudscenen",
       "genre": null,
       "sold_out": false,
-      "scraped_at": "2026-05-05T11:00:50.758390"
+      "scraped_at": "2026-05-06T11:32:44.797888"
     },
     {
       "id": "c9397fc39c9d0bd8",
@@ -7077,7 +7029,7 @@
       "stage": "Rommen Scene",
       "genre": null,
       "sold_out": false,
-      "scraped_at": "2026-05-05T11:01:23.135415"
+      "scraped_at": "2026-05-06T11:32:55.354772"
     },
     {
       "id": "dd86cfd40b6f6330",
@@ -7093,7 +7045,7 @@
       "stage": "Vega Scene",
       "genre": null,
       "sold_out": false,
-      "scraped_at": "2026-05-05T11:02:24.316245"
+      "scraped_at": "2026-05-06T11:33:49.341752"
     },
     {
       "id": "1a75592541a78a04",
@@ -7109,7 +7061,7 @@
       "stage": null,
       "genre": "Musikal ,  Scenekvelder",
       "sold_out": false,
-      "scraped_at": "2026-05-05T11:02:41.615924"
+      "scraped_at": "2026-05-06T11:34:18.654791"
     },
     {
       "id": "e8299b8d05f7df0d",
@@ -7125,7 +7077,7 @@
       "stage": "Vega Scene",
       "genre": null,
       "sold_out": false,
-      "scraped_at": "2026-05-05T11:02:24.316555"
+      "scraped_at": "2026-05-06T11:33:49.342073"
     },
     {
       "id": "b729f05c084ada20",
@@ -7141,7 +7093,7 @@
       "stage": null,
       "genre": "Musikal ,  Scenekvelder",
       "sold_out": false,
-      "scraped_at": "2026-05-05T11:02:41.615953"
+      "scraped_at": "2026-05-06T11:34:18.654833"
     },
     {
       "id": "a980d73399e1fdb0",
@@ -7157,7 +7109,7 @@
       "stage": null,
       "genre": "Musikal ,  Scenekvelder",
       "sold_out": false,
-      "scraped_at": "2026-05-05T11:02:41.615981"
+      "scraped_at": "2026-05-06T11:34:18.654863"
     },
     {
       "id": "6b70350044d60c3b",
@@ -7173,7 +7125,7 @@
       "stage": "Hovudscenen",
       "genre": null,
       "sold_out": false,
-      "scraped_at": "2026-05-05T11:00:54.550665"
+      "scraped_at": "2026-05-06T11:32:45.197604"
     },
     {
       "id": "924c42d71988bf26",
@@ -7189,7 +7141,7 @@
       "stage": "Vega Scene",
       "genre": null,
       "sold_out": false,
-      "scraped_at": "2026-05-05T11:02:24.316848"
+      "scraped_at": "2026-05-06T11:33:49.342375"
     },
     {
       "id": "fd496b19391d792a",
@@ -7205,7 +7157,7 @@
       "stage": null,
       "genre": "Musikal ,  Scenekvelder",
       "sold_out": false,
-      "scraped_at": "2026-05-05T11:02:41.616009"
+      "scraped_at": "2026-05-06T11:34:18.654892"
     },
     {
       "id": "94168b2f2e4512ef",
@@ -7221,7 +7173,7 @@
       "stage": null,
       "genre": "Musikal ,  Scenekvelder",
       "sold_out": false,
-      "scraped_at": "2026-05-05T11:02:41.616038"
+      "scraped_at": "2026-05-06T11:34:18.654921"
     },
     {
       "id": "9c20dab654946e59",
@@ -7237,7 +7189,7 @@
       "stage": "Hovudscenen",
       "genre": null,
       "sold_out": false,
-      "scraped_at": "2026-05-05T11:00:50.758399"
+      "scraped_at": "2026-05-06T11:32:44.797897"
     },
     {
       "id": "871c7f1c85e1f857",
@@ -7253,7 +7205,7 @@
       "stage": "Vega Scene",
       "genre": null,
       "sold_out": false,
-      "scraped_at": "2026-05-05T11:02:24.317161"
+      "scraped_at": "2026-05-06T11:33:49.342688"
     },
     {
       "id": "e5dff03ead004ab8",
@@ -7269,7 +7221,7 @@
       "stage": "Hovudscenen",
       "genre": null,
       "sold_out": false,
-      "scraped_at": "2026-05-05T11:00:54.550688"
+      "scraped_at": "2026-05-06T11:32:45.197624"
     },
     {
       "id": "c0d3dfb682b687fb",
@@ -7285,7 +7237,7 @@
       "stage": null,
       "genre": "Standup",
       "sold_out": false,
-      "scraped_at": "2026-05-05T11:02:45.255541"
+      "scraped_at": "2026-05-06T11:34:25.520547"
     },
     {
       "id": "6abb3b4cf70a90e4",
@@ -7301,7 +7253,7 @@
       "stage": "Hovudscenen",
       "genre": null,
       "sold_out": false,
-      "scraped_at": "2026-05-05T11:00:50.758408"
+      "scraped_at": "2026-05-06T11:32:44.797906"
     },
     {
       "id": "4b18471a07f643b6",
@@ -7317,7 +7269,7 @@
       "stage": "Teater Manu",
       "genre": null,
       "sold_out": false,
-      "scraped_at": "2026-05-05T11:02:28.378485"
+      "scraped_at": "2026-05-06T11:33:58.982138"
     },
     {
       "id": "1161f9ea81f8779a",
@@ -7333,7 +7285,7 @@
       "stage": "Hovudscenen",
       "genre": null,
       "sold_out": false,
-      "scraped_at": "2026-05-05T11:00:54.550699"
+      "scraped_at": "2026-05-06T11:32:45.197635"
     },
     {
       "id": "984932cab90813ff",
@@ -7349,7 +7301,7 @@
       "stage": "Vega Scene",
       "genre": null,
       "sold_out": false,
-      "scraped_at": "2026-05-05T11:02:24.317463"
+      "scraped_at": "2026-05-06T11:33:49.343006"
     },
     {
       "id": "df678f864a679dec",
@@ -7365,7 +7317,7 @@
       "stage": "Teater Manu",
       "genre": null,
       "sold_out": false,
-      "scraped_at": "2026-05-05T11:02:28.378693"
+      "scraped_at": "2026-05-06T11:33:58.982345"
     },
     {
       "id": "083d432a4969a810",
@@ -7381,7 +7333,7 @@
       "stage": "Vega Scene",
       "genre": null,
       "sold_out": false,
-      "scraped_at": "2026-05-05T11:02:24.317762"
+      "scraped_at": "2026-05-06T11:33:49.343314"
     },
     {
       "id": "954850768d8ed954",
@@ -7397,7 +7349,7 @@
       "stage": "Hovudscenen",
       "genre": null,
       "sold_out": false,
-      "scraped_at": "2026-05-05T11:00:54.550709"
+      "scraped_at": "2026-05-06T11:32:45.197645"
     },
     {
       "id": "a094b3cbad4676bd",
@@ -7413,7 +7365,7 @@
       "stage": null,
       "genre": "Musikal ,  Scenekvelder",
       "sold_out": false,
-      "scraped_at": "2026-05-05T11:02:41.616076"
+      "scraped_at": "2026-05-06T11:34:18.654958"
     },
     {
       "id": "f33a8ac601290694",
@@ -7429,7 +7381,7 @@
       "stage": "Teater Manu",
       "genre": null,
       "sold_out": false,
-      "scraped_at": "2026-05-05T11:02:28.378870"
+      "scraped_at": "2026-05-06T11:33:58.982545"
     },
     {
       "id": "7c458bbc6d32ab48",
@@ -7445,7 +7397,7 @@
       "stage": null,
       "genre": "Musikal ,  Scenekvelder",
       "sold_out": false,
-      "scraped_at": "2026-05-05T11:02:41.616104"
+      "scraped_at": "2026-05-06T11:34:18.654986"
     },
     {
       "id": "916e6eaef11f4b9b",
@@ -7461,7 +7413,7 @@
       "stage": "Hovudscenen",
       "genre": null,
       "sold_out": false,
-      "scraped_at": "2026-05-05T11:00:54.550719"
+      "scraped_at": "2026-05-06T11:32:45.197654"
     },
     {
       "id": "6d7e58ee83254806",
@@ -7477,7 +7429,7 @@
       "stage": "Vega Scene",
       "genre": null,
       "sold_out": false,
-      "scraped_at": "2026-05-05T11:02:24.318080"
+      "scraped_at": "2026-05-06T11:33:49.343621"
     },
     {
       "id": "2592a34e72a76d4a",
@@ -7493,7 +7445,7 @@
       "stage": null,
       "genre": "Musikal ,  Scenekvelder",
       "sold_out": false,
-      "scraped_at": "2026-05-05T11:02:41.616133"
+      "scraped_at": "2026-05-06T11:34:18.655013"
     },
     {
       "id": "155afcb64e9ed9f8",
@@ -7509,7 +7461,7 @@
       "stage": "Hovudscenen",
       "genre": null,
       "sold_out": false,
-      "scraped_at": "2026-05-05T11:00:54.550730"
+      "scraped_at": "2026-05-06T11:32:45.197665"
     },
     {
       "id": "0a1a33b20f2d0a11",
@@ -7525,7 +7477,7 @@
       "stage": "Vega Scene",
       "genre": null,
       "sold_out": false,
-      "scraped_at": "2026-05-05T11:02:24.318387"
+      "scraped_at": "2026-05-06T11:33:49.343941"
     },
     {
       "id": "322195b8c42b4c9d",
@@ -7541,7 +7493,7 @@
       "stage": "Hovudscenen",
       "genre": null,
       "sold_out": false,
-      "scraped_at": "2026-05-05T11:00:54.550742"
+      "scraped_at": "2026-05-06T11:32:45.197676"
     },
     {
       "id": "827aff499188c61a",
@@ -7557,7 +7509,7 @@
       "stage": "Hovedscenen",
       "genre": null,
       "sold_out": false,
-      "scraped_at": "2026-05-05T11:00:11.842608"
+      "scraped_at": "2026-05-06T11:31:59.777091"
     },
     {
       "id": "d1ad7c9e489bf2df",
@@ -7573,7 +7525,7 @@
       "stage": "Vega Scene",
       "genre": null,
       "sold_out": false,
-      "scraped_at": "2026-05-05T11:02:24.318685"
+      "scraped_at": "2026-05-06T11:33:49.344253"
     },
     {
       "id": "a8efcf96f589f360",
@@ -7589,7 +7541,7 @@
       "stage": "Vega Scene",
       "genre": null,
       "sold_out": false,
-      "scraped_at": "2026-05-05T11:02:24.318986"
+      "scraped_at": "2026-05-06T11:33:49.344561"
     },
     {
       "id": "9674e54de5fc7a65",
@@ -7605,7 +7557,7 @@
       "stage": "Hovudscenen",
       "genre": null,
       "sold_out": false,
-      "scraped_at": "2026-05-05T11:00:54.550752"
+      "scraped_at": "2026-05-06T11:32:45.197686"
     },
     {
       "id": "f1e7b355879f9bc9",
@@ -7621,7 +7573,7 @@
       "stage": null,
       "genre": "Musikal ,  Scenekvelder",
       "sold_out": false,
-      "scraped_at": "2026-05-05T11:02:41.616162"
+      "scraped_at": "2026-05-06T11:34:18.655040"
     },
     {
       "id": "6a49992ec30cb6c5",
@@ -7637,7 +7589,7 @@
       "stage": null,
       "genre": "Musikal ,  Scenekvelder",
       "sold_out": false,
-      "scraped_at": "2026-05-05T11:02:41.616191"
+      "scraped_at": "2026-05-06T11:34:18.655067"
     },
     {
       "id": "6e2f56eed120ce44",
@@ -7653,7 +7605,7 @@
       "stage": "Hovudscenen",
       "genre": null,
       "sold_out": false,
-      "scraped_at": "2026-05-05T11:00:54.550761"
+      "scraped_at": "2026-05-06T11:32:45.197696"
     },
     {
       "id": "ed15cd0048f645c9",
@@ -7669,7 +7621,7 @@
       "stage": "Vega Scene",
       "genre": null,
       "sold_out": false,
-      "scraped_at": "2026-05-05T11:02:24.319312"
+      "scraped_at": "2026-05-06T11:33:49.344871"
     },
     {
       "id": "5478919c57c37423",
@@ -7685,7 +7637,23 @@
       "stage": "Vega Scene",
       "genre": null,
       "sold_out": false,
-      "scraped_at": "2026-05-05T11:02:24.319617"
+      "scraped_at": "2026-05-06T11:33:49.345187"
+    },
+    {
+      "id": "2b6f5c1082f4011f",
+      "title": "Relæxt julefortelling",
+      "venue": "Nationaltheatret",
+      "venue_slug": "nationaltheatret",
+      "start": "2026-11-03T17:00:00",
+      "end": null,
+      "description": "Opplev historien om gnieren Scrooge på dine premisser! Under relæxte forestillinger er det helt lov å både snakke høyt, le, gråte, ticse og rope. Det eneste som ikke er lov er å hysje på andre. Flere justeringer er gjort for å gjøre opplevelsen så avslappet som mulig: Lyset i salen vil være dempe…",
+      "image_url": "https://cdn.sanity.io/images/4hthkcie/production/ba4b68d0c6ccc2df2b58dd1a12a7609d1c4a6bba-1920x1080.png",
+      "ticket_url": "https://www.nationaltheatret.no/forestillinger/relaext-julefortelling#billetter",
+      "detail_url": "https://www.nationaltheatret.no/forestillinger/relaext-julefortelling",
+      "stage": "Hovedscenen",
+      "genre": null,
+      "sold_out": false,
+      "scraped_at": "2026-05-06T11:32:05.328363"
     },
     {
       "id": "45919cff5ba1aefa",
@@ -7701,7 +7669,7 @@
       "stage": "Hovudscenen",
       "genre": null,
       "sold_out": false,
-      "scraped_at": "2026-05-05T11:00:54.550771"
+      "scraped_at": "2026-05-06T11:32:45.197705"
     },
     {
       "id": "0c1e3104a72ea03b",
@@ -7717,7 +7685,7 @@
       "stage": "Scene 2",
       "genre": null,
       "sold_out": false,
-      "scraped_at": "2026-05-05T11:01:19.558719"
+      "scraped_at": "2026-05-06T11:32:54.094498"
     },
     {
       "id": "5077b7964536c506",
@@ -7733,7 +7701,7 @@
       "stage": "Hovedscenen",
       "genre": null,
       "sold_out": true,
-      "scraped_at": "2026-05-05T11:00:25.257517"
+      "scraped_at": "2026-05-06T11:32:20.682186"
     },
     {
       "id": "82936bcbf7b544a6",
@@ -7749,7 +7717,7 @@
       "stage": "Vega Scene",
       "genre": null,
       "sold_out": false,
-      "scraped_at": "2026-05-05T11:02:24.319919"
+      "scraped_at": "2026-05-06T11:33:49.345498"
     },
     {
       "id": "f3a300ca4263b4fd",
@@ -7765,7 +7733,7 @@
       "stage": "Hovudscenen",
       "genre": null,
       "sold_out": false,
-      "scraped_at": "2026-05-05T11:00:54.550781"
+      "scraped_at": "2026-05-06T11:32:45.197714"
     },
     {
       "id": "2197a2d9788b2d08",
@@ -7781,7 +7749,7 @@
       "stage": "Vega Scene",
       "genre": null,
       "sold_out": false,
-      "scraped_at": "2026-05-05T11:02:24.320234"
+      "scraped_at": "2026-05-06T11:33:49.345805"
     },
     {
       "id": "36047188ffc13065",
@@ -7797,7 +7765,7 @@
       "stage": null,
       "genre": "Musikal ,  Scenekvelder",
       "sold_out": false,
-      "scraped_at": "2026-05-05T11:02:41.616220"
+      "scraped_at": "2026-05-06T11:34:18.655094"
     },
     {
       "id": "d77ed04f0e9c2f23",
@@ -7813,7 +7781,7 @@
       "stage": "Hovudscenen",
       "genre": null,
       "sold_out": false,
-      "scraped_at": "2026-05-05T11:00:54.550790"
+      "scraped_at": "2026-05-06T11:32:45.197724"
     },
     {
       "id": "2d1efe5100f7074d",
@@ -7829,7 +7797,7 @@
       "stage": null,
       "genre": "Musikal ,  Scenekvelder",
       "sold_out": false,
-      "scraped_at": "2026-05-05T11:02:41.616248"
+      "scraped_at": "2026-05-06T11:34:18.655121"
     },
     {
       "id": "7f73b7c6ef52f2a2",
@@ -7845,7 +7813,7 @@
       "stage": "Amfiscenen",
       "genre": null,
       "sold_out": false,
-      "scraped_at": "2026-05-05T11:00:10.032547"
+      "scraped_at": "2026-05-06T11:31:57.475229"
     },
     {
       "id": "2624fe83473811f3",
@@ -7861,7 +7829,7 @@
       "stage": "Hovudscenen",
       "genre": null,
       "sold_out": false,
-      "scraped_at": "2026-05-05T11:00:54.550800"
+      "scraped_at": "2026-05-06T11:32:45.197733"
     },
     {
       "id": "1c138da770d62058",
@@ -7877,7 +7845,7 @@
       "stage": "Vega Scene",
       "genre": null,
       "sold_out": false,
-      "scraped_at": "2026-05-05T11:02:24.320536"
+      "scraped_at": "2026-05-06T11:33:49.346124"
     },
     {
       "id": "52fda529b85141ab",
@@ -7893,7 +7861,7 @@
       "stage": null,
       "genre": "Musikal ,  Scenekvelder",
       "sold_out": false,
-      "scraped_at": "2026-05-05T11:02:41.616276"
+      "scraped_at": "2026-05-06T11:34:18.655149"
     },
     {
       "id": "09110261321b37c3",
@@ -7909,7 +7877,7 @@
       "stage": "Hovudscenen",
       "genre": null,
       "sold_out": false,
-      "scraped_at": "2026-05-05T11:00:54.550809"
+      "scraped_at": "2026-05-06T11:32:45.197742"
     },
     {
       "id": "a4e435af87bf840f",
@@ -7925,7 +7893,7 @@
       "stage": "Vega Scene",
       "genre": null,
       "sold_out": false,
-      "scraped_at": "2026-05-05T11:02:24.320833"
+      "scraped_at": "2026-05-06T11:33:49.346434"
     },
     {
       "id": "7637f0280ee44fda",
@@ -7941,7 +7909,7 @@
       "stage": null,
       "genre": "Foredrag/Kurs",
       "sold_out": false,
-      "scraped_at": "2026-05-05T11:02:45.532784"
+      "scraped_at": "2026-05-06T11:34:25.864020"
     },
     {
       "id": "7c57da2cfaae5d1d",
@@ -7957,7 +7925,7 @@
       "stage": "Hovudscenen",
       "genre": null,
       "sold_out": false,
-      "scraped_at": "2026-05-05T11:00:54.550819"
+      "scraped_at": "2026-05-06T11:32:45.197752"
     },
     {
       "id": "fd4e0f731f3cd0ee",
@@ -7973,7 +7941,7 @@
       "stage": "Hovudscenen",
       "genre": null,
       "sold_out": false,
-      "scraped_at": "2026-05-05T11:00:54.550829"
+      "scraped_at": "2026-05-06T11:32:45.197761"
     },
     {
       "id": "5dbbe0b440d5b692",
@@ -7989,7 +7957,7 @@
       "stage": "Hovudscenen",
       "genre": null,
       "sold_out": false,
-      "scraped_at": "2026-05-05T11:00:54.550838"
+      "scraped_at": "2026-05-06T11:32:45.197771"
     },
     {
       "id": "6b57f091890313ab",
@@ -8005,7 +7973,7 @@
       "stage": "Hovudscenen",
       "genre": null,
       "sold_out": false,
-      "scraped_at": "2026-05-05T11:00:54.550849"
+      "scraped_at": "2026-05-06T11:32:45.197780"
     },
     {
       "id": "bb332859610f1049",
@@ -8021,7 +7989,7 @@
       "stage": null,
       "genre": "Musikal ,  Scenekvelder",
       "sold_out": false,
-      "scraped_at": "2026-05-05T11:02:41.616305"
+      "scraped_at": "2026-05-06T11:34:18.655176"
     },
     {
       "id": "a394af8246ff03cc",
@@ -8037,7 +8005,7 @@
       "stage": null,
       "genre": "Musikal ,  Scenekvelder",
       "sold_out": false,
-      "scraped_at": "2026-05-05T11:02:41.616332"
+      "scraped_at": "2026-05-06T11:34:18.655204"
     },
     {
       "id": "7881c9ee2df563a7",
@@ -8053,7 +8021,7 @@
       "stage": null,
       "genre": "Musikal ,  Scenekvelder",
       "sold_out": false,
-      "scraped_at": "2026-05-05T11:02:41.616360"
+      "scraped_at": "2026-05-06T11:34:18.655231"
     },
     {
       "id": "14cd10d4fb7c272c",
@@ -8069,7 +8037,7 @@
       "stage": "Hovudscenen",
       "genre": null,
       "sold_out": false,
-      "scraped_at": "2026-05-05T11:00:54.550858"
+      "scraped_at": "2026-05-06T11:32:45.197790"
     },
     {
       "id": "e0c1ade75b7238aa",
@@ -8085,7 +8053,7 @@
       "stage": "Hovudscenen",
       "genre": null,
       "sold_out": false,
-      "scraped_at": "2026-05-05T11:00:54.550867"
+      "scraped_at": "2026-05-06T11:32:45.197799"
     },
     {
       "id": "2a15d6f692988577",
@@ -8101,7 +8069,7 @@
       "stage": null,
       "genre": "Musikal ,  Scenekvelder",
       "sold_out": true,
-      "scraped_at": "2026-05-05T11:02:41.616379"
+      "scraped_at": "2026-05-06T11:34:18.655250"
     },
     {
       "id": "f4f13194f5a7d414",
@@ -8117,7 +8085,7 @@
       "stage": "Hovudscenen",
       "genre": null,
       "sold_out": false,
-      "scraped_at": "2026-05-05T11:00:54.550877"
+      "scraped_at": "2026-05-06T11:32:45.197808"
     },
     {
       "id": "fee50a3f47ac9095",
@@ -8133,7 +8101,7 @@
       "stage": "Hovudscenen",
       "genre": null,
       "sold_out": false,
-      "scraped_at": "2026-05-05T11:00:54.550886"
+      "scraped_at": "2026-05-06T11:32:45.197817"
     },
     {
       "id": "1be1ac803d13e946",
@@ -8149,7 +8117,7 @@
       "stage": null,
       "genre": "Musikal ,  Scenekvelder",
       "sold_out": false,
-      "scraped_at": "2026-05-05T11:02:41.616406"
+      "scraped_at": "2026-05-06T11:34:18.655286"
     },
     {
       "id": "264d6676674bf10d",
@@ -8165,7 +8133,7 @@
       "stage": "Hovudscenen",
       "genre": null,
       "sold_out": false,
-      "scraped_at": "2026-05-05T11:00:54.550895"
+      "scraped_at": "2026-05-06T11:32:45.197827"
     },
     {
       "id": "a602d3e1fa179398",
@@ -8181,7 +8149,7 @@
       "stage": null,
       "genre": "Musikal ,  Scenekvelder",
       "sold_out": false,
-      "scraped_at": "2026-05-05T11:02:41.616434"
+      "scraped_at": "2026-05-06T11:34:18.655328"
     },
     {
       "id": "b8091063f34836aa",
@@ -8197,7 +8165,7 @@
       "stage": null,
       "genre": "Musikal ,  Scenekvelder",
       "sold_out": false,
-      "scraped_at": "2026-05-05T11:02:41.616463"
+      "scraped_at": "2026-05-06T11:34:18.655379"
     },
     {
       "id": "a9e79a14c2fcd452",
@@ -8213,7 +8181,7 @@
       "stage": "Hovudscenen",
       "genre": null,
       "sold_out": false,
-      "scraped_at": "2026-05-05T11:00:54.550905"
+      "scraped_at": "2026-05-06T11:32:45.197836"
     },
     {
       "id": "a7566b21c620b983",
@@ -8229,7 +8197,7 @@
       "stage": null,
       "genre": "Musikal ,  Scenekvelder",
       "sold_out": false,
-      "scraped_at": "2026-05-05T11:02:41.616491"
+      "scraped_at": "2026-05-06T11:34:18.655420"
     },
     {
       "id": "facb29c04e681a12",
@@ -8245,7 +8213,7 @@
       "stage": "Hovudscenen",
       "genre": null,
       "sold_out": false,
-      "scraped_at": "2026-05-05T11:00:56.681265"
+      "scraped_at": "2026-05-06T11:32:46.338611"
     },
     {
       "id": "7bfbd60972be4fbc",
@@ -8261,7 +8229,7 @@
       "stage": null,
       "genre": "Konsert",
       "sold_out": false,
-      "scraped_at": "2026-05-05T11:02:45.801519"
+      "scraped_at": "2026-05-06T11:34:26.182544"
     },
     {
       "id": "e941b3626d42dcc0",
@@ -8277,7 +8245,7 @@
       "stage": null,
       "genre": "Konsert",
       "sold_out": false,
-      "scraped_at": "2026-05-05T11:02:46.073824"
+      "scraped_at": "2026-05-06T11:34:26.521650"
     },
     {
       "id": "b313640d6cd08acf",
@@ -8293,7 +8261,7 @@
       "stage": "Hovedscenen",
       "genre": null,
       "sold_out": true,
-      "scraped_at": "2026-05-05T11:00:25.257532"
+      "scraped_at": "2026-05-06T11:32:20.682202"
     },
     {
       "id": "2235f7e1f64dbb2d",
@@ -8309,7 +8277,7 @@
       "stage": null,
       "genre": "Musikal ,  Scenekvelder",
       "sold_out": false,
-      "scraped_at": "2026-05-05T11:02:44.703691"
+      "scraped_at": "2026-05-06T11:34:24.855827"
     },
     {
       "id": "9971662e5da392ae",
@@ -8325,7 +8293,7 @@
       "stage": null,
       "genre": "Musikal ,  Scenekvelder",
       "sold_out": false,
-      "scraped_at": "2026-05-05T11:02:44.703738"
+      "scraped_at": "2026-05-06T11:34:24.855871"
     },
     {
       "id": "44bb60d87c4a2d90",
@@ -8341,7 +8309,7 @@
       "stage": null,
       "genre": "Musikal ,  Scenekvelder",
       "sold_out": false,
-      "scraped_at": "2026-05-05T11:02:44.703772"
+      "scraped_at": "2026-05-06T11:34:24.855901"
     },
     {
       "id": "0801c14e655549ab",
@@ -8357,7 +8325,7 @@
       "stage": "Hovudscenen",
       "genre": null,
       "sold_out": false,
-      "scraped_at": "2026-05-05T11:00:56.681290"
+      "scraped_at": "2026-05-06T11:32:46.338632"
     },
     {
       "id": "d696c9a4918599f2",
@@ -8373,7 +8341,7 @@
       "stage": "Hovedscenen",
       "genre": null,
       "sold_out": false,
-      "scraped_at": "2026-05-05T11:00:13.154143"
+      "scraped_at": "2026-05-06T11:32:06.943203"
     },
     {
       "id": "ef69e9b4cd4b2e34",
@@ -8389,7 +8357,7 @@
       "stage": null,
       "genre": "Musikal ,  Scenekvelder",
       "sold_out": false,
-      "scraped_at": "2026-05-05T11:02:44.703803"
+      "scraped_at": "2026-05-06T11:34:24.855965"
     },
     {
       "id": "3a798e1633fc12a8",
@@ -8405,7 +8373,7 @@
       "stage": null,
       "genre": "Musikal ,  Scenekvelder",
       "sold_out": false,
-      "scraped_at": "2026-05-05T11:02:44.703833"
+      "scraped_at": "2026-05-06T11:34:24.855996"
     },
     {
       "id": "32787e1354844509",
@@ -8421,7 +8389,7 @@
       "stage": null,
       "genre": "Musikal ,  Scenekvelder",
       "sold_out": false,
-      "scraped_at": "2026-05-05T11:02:44.703862"
+      "scraped_at": "2026-05-06T11:34:24.856026"
     },
     {
       "id": "6ddc580d96940f0c",
@@ -8437,7 +8405,7 @@
       "stage": null,
       "genre": "Musikal ,  Scenekvelder",
       "sold_out": false,
-      "scraped_at": "2026-05-05T11:02:44.703890"
+      "scraped_at": "2026-05-06T11:34:24.856056"
     },
     {
       "id": "85f18e1cd6b1fa39",
@@ -8453,7 +8421,7 @@
       "stage": null,
       "genre": "Musikal ,  Scenekvelder",
       "sold_out": false,
-      "scraped_at": "2026-05-05T11:02:44.703918"
+      "scraped_at": "2026-05-06T11:34:24.856085"
     },
     {
       "id": "935d6e35e34ccc1a",
@@ -8469,7 +8437,7 @@
       "stage": "Hovudscenen",
       "genre": null,
       "sold_out": false,
-      "scraped_at": "2026-05-05T11:00:56.681302"
+      "scraped_at": "2026-05-06T11:32:46.338643"
     },
     {
       "id": "3c8913bdd0425b3f",
@@ -8485,7 +8453,7 @@
       "stage": null,
       "genre": null,
       "sold_out": false,
-      "scraped_at": "2026-05-05T11:02:22.996754"
+      "scraped_at": "2026-05-06T11:33:47.772756"
     },
     {
       "id": "80d9dbccc067b857",
@@ -8501,7 +8469,7 @@
       "stage": null,
       "genre": null,
       "sold_out": false,
-      "scraped_at": "2026-05-05T11:02:22.996838"
+      "scraped_at": "2026-05-06T11:33:47.772860"
     },
     {
       "id": "def015ab6973256f",
@@ -8517,7 +8485,7 @@
       "stage": null,
       "genre": null,
       "sold_out": false,
-      "scraped_at": "2026-05-05T11:02:22.996669"
+      "scraped_at": "2026-05-06T11:33:47.772648"
     },
     {
       "id": "7f75695da2a8c388",
@@ -8533,7 +8501,7 @@
       "stage": null,
       "genre": null,
       "sold_out": false,
-      "scraped_at": "2026-05-05T11:02:22.996585"
+      "scraped_at": "2026-05-06T11:33:47.772543"
     },
     {
       "id": "a71ae08f13c81485",
@@ -8549,7 +8517,7 @@
       "stage": null,
       "genre": null,
       "sold_out": false,
-      "scraped_at": "2026-05-05T11:02:22.996501"
+      "scraped_at": "2026-05-06T11:33:47.772435"
     },
     {
       "id": "669e865b87b2dc1d",
@@ -8565,7 +8533,7 @@
       "stage": null,
       "genre": null,
       "sold_out": false,
-      "scraped_at": "2026-05-05T11:02:22.996417"
+      "scraped_at": "2026-05-06T11:33:47.772329"
     },
     {
       "id": "2fc942a6e01d03b9",
@@ -8581,7 +8549,7 @@
       "stage": null,
       "genre": null,
       "sold_out": false,
-      "scraped_at": "2026-05-05T11:02:22.996332"
+      "scraped_at": "2026-05-06T11:33:47.772225"
     },
     {
       "id": "d6050404b72ac18a",
@@ -8597,7 +8565,7 @@
       "stage": null,
       "genre": null,
       "sold_out": false,
-      "scraped_at": "2026-05-05T11:02:22.996247"
+      "scraped_at": "2026-05-06T11:33:47.772116"
     },
     {
       "id": "18654073b8f5886a",
@@ -8613,7 +8581,7 @@
       "stage": null,
       "genre": null,
       "sold_out": false,
-      "scraped_at": "2026-05-05T11:02:22.996159"
+      "scraped_at": "2026-05-06T11:33:47.772009"
     },
     {
       "id": "47d27ebba126706b",
@@ -8629,7 +8597,7 @@
       "stage": null,
       "genre": null,
       "sold_out": false,
-      "scraped_at": "2026-05-05T11:02:22.996069"
+      "scraped_at": "2026-05-06T11:33:47.771895"
     },
     {
       "id": "65b4bd5aface9c5f",
@@ -8645,7 +8613,7 @@
       "stage": "Hovudscenen",
       "genre": null,
       "sold_out": false,
-      "scraped_at": "2026-05-05T11:01:13.714990"
+      "scraped_at": "2026-05-06T11:32:51.351565"
     },
     {
       "id": "f2abbf81ac74f48b",
@@ -8661,7 +8629,7 @@
       "stage": "Hovudscenen",
       "genre": null,
       "sold_out": false,
-      "scraped_at": "2026-05-05T11:01:13.715014"
+      "scraped_at": "2026-05-06T11:32:51.351586"
     },
     {
       "id": "4386e447d619a688",
@@ -8677,7 +8645,7 @@
       "stage": "Hovudscenen",
       "genre": null,
       "sold_out": false,
-      "scraped_at": "2026-05-05T11:01:13.715026"
+      "scraped_at": "2026-05-06T11:32:51.351610"
     },
     {
       "id": "866dd4c8b5aa1904",
@@ -8693,7 +8661,7 @@
       "stage": "Hovudscenen",
       "genre": null,
       "sold_out": false,
-      "scraped_at": "2026-05-05T11:01:13.715036"
+      "scraped_at": "2026-05-06T11:32:51.351620"
     },
     {
       "id": "7808d6bf9a65e537",
@@ -8709,7 +8677,7 @@
       "stage": "Hovudscenen",
       "genre": null,
       "sold_out": false,
-      "scraped_at": "2026-05-05T11:01:13.715046"
+      "scraped_at": "2026-05-06T11:32:51.351630"
     },
     {
       "id": "eabb2bf3ed9b62c4",
@@ -8725,7 +8693,7 @@
       "stage": "Hovudscenen",
       "genre": null,
       "sold_out": false,
-      "scraped_at": "2026-05-05T11:01:13.715071"
+      "scraped_at": "2026-05-06T11:32:51.351641"
     },
     {
       "id": "126cfca5c813407f",
@@ -8741,7 +8709,7 @@
       "stage": "Hovudscenen",
       "genre": null,
       "sold_out": false,
-      "scraped_at": "2026-05-05T11:01:13.715082"
+      "scraped_at": "2026-05-06T11:32:51.351650"
     },
     {
       "id": "ebd55229c8b65fb3",
@@ -8757,7 +8725,7 @@
       "stage": "Hovudscenen",
       "genre": null,
       "sold_out": false,
-      "scraped_at": "2026-05-05T11:01:13.715093"
+      "scraped_at": "2026-05-06T11:32:51.351660"
     },
     {
       "id": "6c72284c7dfdce0b",
@@ -8773,7 +8741,7 @@
       "stage": null,
       "genre": "Musikal ,  Scenekvelder",
       "sold_out": false,
-      "scraped_at": "2026-05-05T11:02:46.349633"
+      "scraped_at": "2026-05-06T11:34:26.840900"
     },
     {
       "id": "55ec5b53bfa7af8c",
@@ -8789,7 +8757,7 @@
       "stage": null,
       "genre": "Musikal ,  Scenekvelder",
       "sold_out": false,
-      "scraped_at": "2026-05-05T11:02:46.349681"
+      "scraped_at": "2026-05-06T11:34:26.840964"
     },
     {
       "id": "1be336e66d5f5965",
@@ -8805,7 +8773,7 @@
       "stage": null,
       "genre": "Musikal ,  Scenekvelder",
       "sold_out": false,
-      "scraped_at": "2026-05-05T11:02:46.349713"
+      "scraped_at": "2026-05-06T11:34:26.840997"
     },
     {
       "id": "9232199b4440039a",
@@ -8821,7 +8789,7 @@
       "stage": null,
       "genre": "Musikal ,  Scenekvelder",
       "sold_out": false,
-      "scraped_at": "2026-05-05T11:02:46.349742"
+      "scraped_at": "2026-05-06T11:34:26.841027"
     },
     {
       "id": "48f9db842fd5f305",
@@ -8837,7 +8805,7 @@
       "stage": null,
       "genre": "Musikal ,  Scenekvelder",
       "sold_out": false,
-      "scraped_at": "2026-05-05T11:02:46.349770"
+      "scraped_at": "2026-05-06T11:34:26.841056"
     },
     {
       "id": "0707bbdb74df8a7f",
@@ -8853,7 +8821,7 @@
       "stage": null,
       "genre": "Musikal ,  Scenekvelder",
       "sold_out": false,
-      "scraped_at": "2026-05-05T11:02:46.349799"
+      "scraped_at": "2026-05-06T11:34:26.841085"
     },
     {
       "id": "53994560c90c9a1d",
@@ -8869,7 +8837,7 @@
       "stage": null,
       "genre": "Musikal ,  Scenekvelder",
       "sold_out": false,
-      "scraped_at": "2026-05-05T11:02:46.349827"
+      "scraped_at": "2026-05-06T11:34:26.841114"
     },
     {
       "id": "b50a4e3a0b6f00ff",
@@ -8885,7 +8853,7 @@
       "stage": null,
       "genre": "Musikal ,  Scenekvelder",
       "sold_out": false,
-      "scraped_at": "2026-05-05T11:02:46.349855"
+      "scraped_at": "2026-05-06T11:34:26.841143"
     },
     {
       "id": "c3cfdae59e9a3a04",
@@ -8901,7 +8869,7 @@
       "stage": null,
       "genre": "Musikal ,  Scenekvelder",
       "sold_out": false,
-      "scraped_at": "2026-05-05T11:02:46.349884"
+      "scraped_at": "2026-05-06T11:34:26.841172"
     },
     {
       "id": "8be3418cf13ccd99",
@@ -8917,7 +8885,7 @@
       "stage": null,
       "genre": "Musikal ,  Scenekvelder",
       "sold_out": false,
-      "scraped_at": "2026-05-05T11:02:46.349912"
+      "scraped_at": "2026-05-06T11:34:26.841201"
     },
     {
       "id": "3e81eef77a24a27a",
@@ -8933,7 +8901,7 @@
       "stage": null,
       "genre": "Musikal ,  Scenekvelder",
       "sold_out": false,
-      "scraped_at": "2026-05-05T11:02:46.349940"
+      "scraped_at": "2026-05-06T11:34:26.841231"
     },
     {
       "id": "6f1a57b52391bc59",
@@ -8949,7 +8917,7 @@
       "stage": null,
       "genre": "Musikal ,  Scenekvelder",
       "sold_out": false,
-      "scraped_at": "2026-05-05T11:02:46.349968"
+      "scraped_at": "2026-05-06T11:34:26.841259"
     },
     {
       "id": "75de2f68d6cb4062",
@@ -8965,7 +8933,7 @@
       "stage": null,
       "genre": "Musikal ,  Scenekvelder",
       "sold_out": false,
-      "scraped_at": "2026-05-05T11:02:46.349995"
+      "scraped_at": "2026-05-06T11:34:26.841288"
     },
     {
       "id": "3572893813c7dba4",
@@ -8981,7 +8949,7 @@
       "stage": null,
       "genre": "Musikal ,  Scenekvelder",
       "sold_out": false,
-      "scraped_at": "2026-05-05T11:02:46.350023"
+      "scraped_at": "2026-05-06T11:34:26.841317"
     }
   ],
   "errors": [
