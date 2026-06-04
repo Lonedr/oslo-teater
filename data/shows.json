@@ -1,18 +1,18 @@
 {
-  "generated_at": "2026-06-03T09:28:27.026910+00:00",
-  "show_count": 532,
+  "generated_at": "2026-06-04T08:49:52.740578+00:00",
+  "show_count": 578,
   "venues": [
     {
       "slug": "nationaltheatret",
       "name": "Nationaltheatret",
       "url": "https://www.nationaltheatret.no",
-      "show_count": 94
+      "show_count": 90
     },
     {
       "slug": "det-norske-teatret",
       "name": "Det Norske Teatret",
       "url": "https://www.detnorsketeatret.no",
-      "show_count": 197
+      "show_count": 238
     },
     {
       "slug": "oslo-nye",
@@ -24,7 +24,7 @@
       "slug": "black-box",
       "name": "Black Box teater",
       "url": "https://blackbox.no",
-      "show_count": 24
+      "show_count": 23
     },
     {
       "slug": "operaen",
@@ -55,8 +55,7 @@
       "slug": "teater-manu",
       "name": "Teater Manu",
       "url": "https://teatermanu.no",
-      "show_count": 0,
-      "error": "HTTPSConnectionPool(host='teatermanu.no', port=443): Max retries exceeded with url: /produksjoner/ (Caused by ConnectTimeoutError(<HTTPSConnection(host='teatermanu.no', port=443) at 0x7faf667d25d0>, 'Connection to teatermanu.no timed out. (connect timeout=30)'))"
+      "show_count": 10
     },
     {
       "slug": "nordic-black",
@@ -73,118 +72,6 @@
   ],
   "shows": [
     {
-      "id": "8005178036b26b8a",
-      "title": "Støttekonsert GAMLEBYEN FOR GAZA",
-      "venue": "Nordic Black Theatre",
-      "venue_slug": "nordic-black",
-      "start": "2026-06-02T19:00:00",
-      "end": null,
-      "description": null,
-      "image_url": "/_next/image?url=https%3A%2F%2Fcdn.sanity.io%2Fimages%2Fl794s5ct%2Fproduction%2Fdcfcdd76d743345f20710a8489db5b84153ef62f-1440x810.jpg%3Frect%3D315%2C0%2C810%2C810%26w%3D1000%26h%3D1000%26q%3D92%26fit%3Dmax%26auto%3Dformat&w=3840&q=75",
-      "ticket_url": "https://nordicblacktheatre.no/program/stttekonsert-gamlebyen-for-gaza-02-06-2026",
-      "detail_url": "https://nordicblacktheatre.no/program/stttekonsert-gamlebyen-for-gaza-02-06-2026",
-      "stage": null,
-      "genre": null,
-      "sold_out": false,
-      "scraped_at": "2026-06-03T09:28:14.870210"
-    },
-    {
-      "id": "6873541f1e5f28e5",
-      "title": "Meliorisme",
-      "venue": "Nationaltheatret",
-      "venue_slug": "nationaltheatret",
-      "start": "2026-06-03T16:30:00",
-      "end": null,
-      "description": "Hvordan kan vi bli bedre, både som enkeltindivider, kollektivt og som art? Inspirert av Valkyrien Allstars låt slutte og byne leter aktørene etter hva som skal til for å oppnå positiv endring. For tittelen på forestillingen, Meliorisme , handler om nettopp det. En filosofisk idé midt mellom pessi…",
-      "image_url": "https://cdn.sanity.io/images/4hthkcie/production/3a3970540c7d6aa01f66fe38b32f9c4e85618fcc-8256x5504.jpg",
-      "ticket_url": "https://www.nationaltheatret.no/velg-seter/d782b376-45ac-4fea-a3fd-fed3a5b545cf/25139",
-      "detail_url": "https://www.nationaltheatret.no/forestillinger/meliorisme",
-      "stage": "Torshovteatret",
-      "genre": null,
-      "sold_out": true,
-      "scraped_at": "2026-06-03T09:25:03.533437"
-    },
-    {
-      "id": "65e1532fcb4207bd",
-      "title": "Uendelig liv",
-      "venue": "Nationaltheatret",
-      "venue_slug": "nationaltheatret",
-      "start": "2026-06-03T17:00:00",
-      "end": null,
-      "description": "Sofi har lagt seg inn på en småluguber fasteklinikk i Nord-California, rett vis-à-vis et bakeri. Hun er nyseparert, forvirret og med konstante smerter i underlivet. Her møter hun fire erfarne kronikere med lange og dels alvorlige diagnoselister. Fastebehandling er et siste forsøk for flere av dem…",
-      "image_url": "https://cdn.sanity.io/images/4hthkcie/production/34c9b43f2403d59a2b82d3bcdd67af3b1d2177e7-9047x7231.jpg",
-      "ticket_url": "https://www.nationaltheatret.no/velg-seter/870f9289-159f-4372-a2b8-87dbeb9510ae/25309",
-      "detail_url": "https://www.nationaltheatret.no/forestillinger/uendelig-liv",
-      "stage": "Amfiscenen",
-      "genre": null,
-      "sold_out": true,
-      "scraped_at": "2026-06-03T09:24:59.602386"
-    },
-    {
-      "id": "e9ddf4a7f6a2f466",
-      "title": "Pippi på sirkus",
-      "venue": "Det Norske Teatret",
-      "venue_slug": "det-norske-teatret",
-      "start": "2026-06-03T17:00:00",
-      "end": "2026-06-03T18:30:00",
-      "description": "Tjolahopp! I april 2026 kjem Pippi til Det Norske Teatret i ein musikalversjon med musikk av ABBA sin Björn Ulvaeus! Kjem du?",
-      "image_url": "https://s3.eu-north-1.amazonaws.com/detnorsketeatret/media/_1200x630_crop_center-center_82_none/DSC03241mindre.gif?mtime=1778067441",
-      "ticket_url": "https://www.detnorsketeatret.no/framsyningar/pippi-pa-sirkus",
-      "detail_url": "https://www.detnorsketeatret.no/framsyningar/pippi-pa-sirkus",
-      "stage": "Hovudscenen",
-      "genre": null,
-      "sold_out": false,
-      "scraped_at": "2026-06-03T09:26:13.787975"
-    },
-    {
-      "id": "6db869276577288a",
-      "title": "Den spanske flue",
-      "venue": "Nationaltheatret",
-      "venue_slug": "nationaltheatret",
-      "start": "2026-06-03T17:30:00",
-      "end": null,
-      "description": "«Gled deg, pappa, her er jeg!» Sitatet stammer fra den elleville farsen Den spanske flue , som nå settes opp på Nationaltheatret for første gang siden 1970! Forestillingen handler om den tilsynelatende vellykkede familien Klinke, der far Ludwig har slått seg opp som sennepsfabrikkeier. Men han ha…",
-      "image_url": "https://cdn.sanity.io/images/4hthkcie/production/3500a6ff03f083eccf698f4597c8029b68c3a161-1920x1080.png",
-      "ticket_url": "https://www.nationaltheatret.no/velg-seter/22084cc7-950d-42b5-8e06-538f3d1c6a08/25335",
-      "detail_url": "https://www.nationaltheatret.no/forestillinger/den-spanske-flue",
-      "stage": "Hovedscenen",
-      "genre": null,
-      "sold_out": false,
-      "scraped_at": "2026-06-03T09:24:55.841077"
-    },
-    {
-      "id": "3a934b8278265947",
-      "title": "Dobbel boklansering / Scenekunstklassikere Utvidet program Samtale",
-      "venue": "Black Box teater",
-      "venue_slug": "black-box",
-      "start": "2026-06-03T18:00:00",
-      "end": null,
-      "description": null,
-      "image_url": null,
-      "ticket_url": "https://blackbox.no/nb/dobbel-boklansering-scenekunstklassikere/",
-      "detail_url": "https://blackbox.no/nb/dobbel-boklansering-scenekunstklassikere/",
-      "stage": "Black Box teater Foajé\n    \n      (Black Box teater)",
-      "genre": null,
-      "sold_out": false,
-      "scraped_at": "2026-06-03T09:27:01.464267"
-    },
-    {
-      "id": "ebcb9b3e27fa97bb",
-      "title": "Da vi var yngre",
-      "venue": "Det Norske Teatret",
-      "venue_slug": "det-norske-teatret",
-      "start": "2026-06-03T19:00:00",
-      "end": "2026-06-03T20:30:00",
-      "description": "Oliver Lovrenski brakdebuterte med romanen Da vi var yngre. No kjem den til scenen med Aksel Hennie i registolen og rapparen Jonas Benyoub i rolla som Ivor.",
-      "image_url": "https://s3.eu-north-1.amazonaws.com/detnorsketeatret/media/framsyningar/arv-og-miljo/_1200x630_crop_center-center_82_none/Da-vi-var-yngre_OHA-19.jpg?mtime=1771367338",
-      "ticket_url": "https://www.detnorsketeatret.no/framsyningar/da-vi-var-yngre",
-      "detail_url": "https://www.detnorsketeatret.no/framsyningar/da-vi-var-yngre",
-      "stage": "Scene 2",
-      "genre": null,
-      "sold_out": false,
-      "scraped_at": "2026-06-03T09:26:35.965804"
-    },
-    {
       "id": "12eef6661e161616",
       "title": "Det Norske Kammerorkester // Cafekonsert",
       "venue": "Nordic Black Theatre",
@@ -198,7 +85,7 @@
       "stage": null,
       "genre": null,
       "sold_out": false,
-      "scraped_at": "2026-06-03T09:28:14.870342"
+      "scraped_at": "2026-06-04T08:49:44.056163"
     },
     {
       "id": "2040795ee6a9bfd8",
@@ -214,7 +101,7 @@
       "stage": "Bikuben",
       "genre": null,
       "sold_out": false,
-      "scraped_at": "2026-06-03T09:26:47.273181"
+      "scraped_at": "2026-06-04T08:48:41.745510"
     },
     {
       "id": "a5bff0964e7198aa",
@@ -230,7 +117,7 @@
       "stage": "Torshovteatret",
       "genre": null,
       "sold_out": true,
-      "scraped_at": "2026-06-03T09:25:03.533469"
+      "scraped_at": "2026-06-04T08:47:34.249512"
     },
     {
       "id": "9b6583b5f2a71c3c",
@@ -246,7 +133,7 @@
       "stage": "Amfiscenen",
       "genre": null,
       "sold_out": false,
-      "scraped_at": "2026-06-03T09:25:06.163796"
+      "scraped_at": "2026-06-04T08:47:36.264194"
     },
     {
       "id": "63c2f4d251fb7ac6",
@@ -262,7 +149,7 @@
       "stage": "Hovudscenen",
       "genre": null,
       "sold_out": false,
-      "scraped_at": "2026-06-03T09:26:13.788005"
+      "scraped_at": "2026-06-04T08:48:20.205555"
     },
     {
       "id": "156bb6406003beed",
@@ -278,7 +165,7 @@
       "stage": "Hovedscenen",
       "genre": null,
       "sold_out": false,
-      "scraped_at": "2026-06-03T09:25:48.087017"
+      "scraped_at": "2026-06-04T08:48:00.734690"
     },
     {
       "id": "f9d5dda48b0dd643",
@@ -294,7 +181,7 @@
       "stage": "Scene 2",
       "genre": null,
       "sold_out": false,
-      "scraped_at": "2026-06-03T09:26:33.483970"
+      "scraped_at": "2026-06-04T08:48:32.639473"
     },
     {
       "id": "1f446e40ab2d25d8",
@@ -310,7 +197,7 @@
       "stage": null,
       "genre": null,
       "sold_out": false,
-      "scraped_at": "2026-06-03T09:28:14.870457"
+      "scraped_at": "2026-06-04T08:49:44.056250"
     },
     {
       "id": "10e5ab556b83c5f0",
@@ -326,7 +213,7 @@
       "stage": null,
       "genre": null,
       "sold_out": false,
-      "scraped_at": "2026-06-03T09:28:14.870560"
+      "scraped_at": "2026-06-04T08:49:44.056329"
     },
     {
       "id": "7f8b32702011e98b",
@@ -342,7 +229,7 @@
       "stage": "Midtgolvet",
       "genre": null,
       "sold_out": false,
-      "scraped_at": "2026-06-03T09:26:49.440197"
+      "scraped_at": "2026-06-04T08:48:42.319724"
     },
     {
       "id": "20599bb704fd7177",
@@ -358,7 +245,7 @@
       "stage": "Hovedscenen",
       "genre": null,
       "sold_out": false,
-      "scraped_at": "2026-06-03T09:24:55.841108"
+      "scraped_at": "2026-06-04T08:47:25.675227"
     },
     {
       "id": "18b90dd12804ba3c",
@@ -374,7 +261,7 @@
       "stage": "Amfiscenen",
       "genre": null,
       "sold_out": true,
-      "scraped_at": "2026-06-03T09:24:59.602418"
+      "scraped_at": "2026-06-04T08:47:27.118701"
     },
     {
       "id": "0a0de0992badd29d",
@@ -390,7 +277,7 @@
       "stage": "Hovudscenen",
       "genre": null,
       "sold_out": false,
-      "scraped_at": "2026-06-03T09:26:15.628853"
+      "scraped_at": "2026-06-04T08:48:20.378811"
     },
     {
       "id": "c46756e88bc9c926",
@@ -406,7 +293,7 @@
       "stage": "Riksteatret",
       "genre": null,
       "sold_out": false,
-      "scraped_at": "2026-06-03T09:27:38.799625"
+      "scraped_at": "2026-06-04T08:49:29.634749"
     },
     {
       "id": "649a418b762e5bba",
@@ -422,7 +309,7 @@
       "stage": "Scene 2",
       "genre": null,
       "sold_out": false,
-      "scraped_at": "2026-06-03T09:26:35.965828"
+      "scraped_at": "2026-06-04T08:48:36.384763"
     },
     {
       "id": "be40de151a0fcb24",
@@ -438,7 +325,7 @@
       "stage": "Hovedscenen",
       "genre": "Sesongforestilling",
       "sold_out": false,
-      "scraped_at": "2026-06-03T09:27:39.967380"
+      "scraped_at": "2026-06-04T08:49:30.370887"
     },
     {
       "id": "ff6ad693a4aa1281",
@@ -454,7 +341,7 @@
       "stage": null,
       "genre": null,
       "sold_out": false,
-      "scraped_at": "2026-06-03T09:28:14.870666"
+      "scraped_at": "2026-06-04T08:49:44.056409"
     },
     {
       "id": "9c80d9fa90f39f5b",
@@ -470,7 +357,7 @@
       "stage": "Hovedscenen",
       "genre": "Sesongforestilling",
       "sold_out": false,
-      "scraped_at": "2026-06-03T09:27:39.968197"
+      "scraped_at": "2026-06-04T08:49:30.371571"
     },
     {
       "id": "8b5d93f0829997d0",
@@ -486,7 +373,7 @@
       "stage": "Hovedscenen",
       "genre": null,
       "sold_out": false,
-      "scraped_at": "2026-06-03T09:24:55.841128"
+      "scraped_at": "2026-06-04T08:47:25.675258"
     },
     {
       "id": "2e213f40ee4da546",
@@ -502,7 +389,7 @@
       "stage": "Scene 2",
       "genre": null,
       "sold_out": false,
-      "scraped_at": "2026-06-03T09:26:32.085082"
+      "scraped_at": "2026-06-04T08:48:31.431496"
     },
     {
       "id": "05af000015fdd8a8",
@@ -518,7 +405,7 @@
       "stage": "Riksteatret",
       "genre": null,
       "sold_out": false,
-      "scraped_at": "2026-06-03T09:27:38.800025"
+      "scraped_at": "2026-06-04T08:49:29.635084"
     },
     {
       "id": "a4c670c468830fc1",
@@ -534,7 +421,7 @@
       "stage": "Omvising",
       "genre": null,
       "sold_out": false,
-      "scraped_at": "2026-06-03T09:26:49.199910"
+      "scraped_at": "2026-06-04T08:48:42.121000"
     },
     {
       "id": "28ad117a6cd8d829",
@@ -550,7 +437,7 @@
       "stage": "Hovudscenen",
       "genre": null,
       "sold_out": false,
-      "scraped_at": "2026-06-03T09:26:13.788021"
+      "scraped_at": "2026-06-04T08:48:20.205583"
     },
     {
       "id": "b0dd811594a53852",
@@ -566,7 +453,7 @@
       "stage": "Amfiscenen",
       "genre": null,
       "sold_out": true,
-      "scraped_at": "2026-06-03T09:24:59.602438"
+      "scraped_at": "2026-06-04T08:47:27.118747"
     },
     {
       "id": "1bb85049bc7613d5",
@@ -582,7 +469,7 @@
       "stage": "Hovedscenen",
       "genre": null,
       "sold_out": true,
-      "scraped_at": "2026-06-03T09:24:51.298057"
+      "scraped_at": "2026-06-04T08:47:22.431386"
     },
     {
       "id": "35eb673e540c0e52",
@@ -598,7 +485,7 @@
       "stage": "Hovudscenen",
       "genre": null,
       "sold_out": false,
-      "scraped_at": "2026-06-03T09:26:13.788036"
+      "scraped_at": "2026-06-04T08:48:20.205599"
     },
     {
       "id": "5440a378ab8e6839",
@@ -614,7 +501,7 @@
       "stage": "Riksteatret",
       "genre": null,
       "sold_out": false,
-      "scraped_at": "2026-06-03T09:27:38.800387"
+      "scraped_at": "2026-06-04T08:49:29.635392"
     },
     {
       "id": "f23a7be908be88f7",
@@ -630,7 +517,7 @@
       "stage": "Hovedscenen",
       "genre": "Sesongforestilling",
       "sold_out": false,
-      "scraped_at": "2026-06-03T09:27:39.969393"
+      "scraped_at": "2026-06-04T08:49:30.372580"
     },
     {
       "id": "b4dcf40a05037896",
@@ -646,7 +533,7 @@
       "stage": null,
       "genre": null,
       "sold_out": false,
-      "scraped_at": "2026-06-03T09:28:14.870768"
+      "scraped_at": "2026-06-04T08:49:44.056521"
     },
     {
       "id": "883379ea566200e3",
@@ -662,7 +549,7 @@
       "stage": "Hovedscenen",
       "genre": "Sesongforestilling",
       "sold_out": false,
-      "scraped_at": "2026-06-03T09:27:39.970180"
+      "scraped_at": "2026-06-04T08:49:30.373199"
     },
     {
       "id": "da3fe80990a8616f",
@@ -678,7 +565,7 @@
       "stage": "Riksteatret",
       "genre": null,
       "sold_out": false,
-      "scraped_at": "2026-06-03T09:27:38.800744"
+      "scraped_at": "2026-06-04T08:49:29.635723"
     },
     {
       "id": "849607e4c41484f8",
@@ -694,7 +581,7 @@
       "stage": "Hovudscenen",
       "genre": null,
       "sold_out": false,
-      "scraped_at": "2026-06-03T09:26:13.788048"
+      "scraped_at": "2026-06-04T08:48:20.205629"
     },
     {
       "id": "93ff02b4a3ee0a4d",
@@ -710,7 +597,7 @@
       "stage": "Riksteatret",
       "genre": null,
       "sold_out": false,
-      "scraped_at": "2026-06-03T09:27:38.801123"
+      "scraped_at": "2026-06-04T08:49:29.636037"
     },
     {
       "id": "d1284b77edaa1e0a",
@@ -726,7 +613,7 @@
       "stage": "Hovedscenen",
       "genre": null,
       "sold_out": true,
-      "scraped_at": "2026-06-03T09:25:01.490730"
+      "scraped_at": "2026-06-04T08:47:28.896091"
     },
     {
       "id": "8a1c58d8088ada26",
@@ -742,7 +629,7 @@
       "stage": "Hovudscenen",
       "genre": null,
       "sold_out": false,
-      "scraped_at": "2026-06-03T09:26:16.983162"
+      "scraped_at": "2026-06-04T08:48:21.513677"
     },
     {
       "id": "9e1677117a365240",
@@ -758,7 +645,23 @@
       "stage": "Riksteatret",
       "genre": null,
       "sold_out": false,
-      "scraped_at": "2026-06-03T09:27:38.801483"
+      "scraped_at": "2026-06-04T08:49:29.636335"
+    },
+    {
+      "id": "c21d640f4530ee0c",
+      "title": "De utålmodige av hjertet",
+      "venue": "Teater Manu",
+      "venue_slug": "teater-manu",
+      "start": "2026-06-08T18:00:00",
+      "end": null,
+      "description": null,
+      "image_url": "https://www.facebook.com/tr?id=117370848822729&ev=PageView&noscript=1",
+      "ticket_url": "https://billetto.no/e/de-utalmodige-av-hjertet-billetter-1910150?utm_source=organiser&utm_medium=share&utm_campaign=copy_link&utm_content=1",
+      "detail_url": "https://teatermanu.no/produksjoner/de-utalmodige-av-hjertet/",
+      "stage": "Teater Manu",
+      "genre": null,
+      "sold_out": false,
+      "scraped_at": "2026-06-04T08:49:38.134607"
     },
     {
       "id": "0a4511e384cc6f4c",
@@ -774,7 +677,7 @@
       "stage": null,
       "genre": null,
       "sold_out": false,
-      "scraped_at": "2026-06-03T09:28:14.870871"
+      "scraped_at": "2026-06-04T08:49:44.056602"
     },
     {
       "id": "fcf3829bae59d920",
@@ -790,7 +693,7 @@
       "stage": "Det Norske Teatret",
       "genre": null,
       "sold_out": false,
-      "scraped_at": "2026-06-03T09:26:46.052569"
+      "scraped_at": "2026-06-04T08:48:39.572922"
     },
     {
       "id": "05defc6619f3becb",
@@ -806,7 +709,7 @@
       "stage": "Riksteatret",
       "genre": null,
       "sold_out": false,
-      "scraped_at": "2026-06-03T09:27:38.969815"
+      "scraped_at": "2026-06-04T08:49:29.748019"
     },
     {
       "id": "d4c74f8e58921c25",
@@ -822,7 +725,7 @@
       "stage": "Det Norske Teatret",
       "genre": null,
       "sold_out": false,
-      "scraped_at": "2026-06-03T09:26:46.052593"
+      "scraped_at": "2026-06-04T08:48:39.572946"
     },
     {
       "id": "ac0ff74d4f1dbb1e",
@@ -838,7 +741,7 @@
       "stage": "Riksteatret",
       "genre": null,
       "sold_out": false,
-      "scraped_at": "2026-06-03T09:27:38.970204"
+      "scraped_at": "2026-06-04T08:49:29.748337"
     },
     {
       "id": "1775742aad4a65db",
@@ -854,7 +757,7 @@
       "stage": "Scene 2",
       "genre": null,
       "sold_out": false,
-      "scraped_at": "2026-06-03T09:26:32.085105"
+      "scraped_at": "2026-06-04T08:48:31.431520"
     },
     {
       "id": "1bdc11e9e4275bd1",
@@ -870,7 +773,7 @@
       "stage": "Torshovteatret",
       "genre": null,
       "sold_out": false,
-      "scraped_at": "2026-06-03T09:25:59.379541"
+      "scraped_at": "2026-06-04T08:48:08.629773"
     },
     {
       "id": "c06fac8cd8f2b496",
@@ -886,7 +789,7 @@
       "stage": "Hovedscenen",
       "genre": null,
       "sold_out": true,
-      "scraped_at": "2026-06-03T09:25:01.490762"
+      "scraped_at": "2026-06-04T08:47:28.896121"
     },
     {
       "id": "735f12cd90ea2d70",
@@ -902,7 +805,23 @@
       "stage": "Hovudscenen",
       "genre": null,
       "sold_out": false,
-      "scraped_at": "2026-06-03T09:26:13.788060"
+      "scraped_at": "2026-06-04T08:48:20.205641"
+    },
+    {
+      "id": "f95582ce522bffe9",
+      "title": "Prinsessa & de tre gåtene",
+      "venue": "Nordic Black Theatre",
+      "venue_slug": "nordic-black",
+      "start": "2026-06-09T19:00:00",
+      "end": null,
+      "description": null,
+      "image_url": "/_next/image?url=https%3A%2F%2Fcdn.sanity.io%2Fimages%2Fl794s5ct%2Fproduction%2F858dd5bcb551f298b82f336264d16eb5425d4be0-1440x810.jpg%3Frect%3D315%2C0%2C810%2C810%26w%3D1000%26h%3D1000%26q%3D92%26fit%3Dmax%26auto%3Dformat&w=3840&q=75",
+      "ticket_url": "https://nordicblacktheatre.no/program/prinsessa-de-tre-gtene-09-06-2026",
+      "detail_url": "https://nordicblacktheatre.no/program/prinsessa-de-tre-gtene-09-06-2026",
+      "stage": null,
+      "genre": null,
+      "sold_out": false,
+      "scraped_at": "2026-06-04T08:49:44.056688"
     },
     {
       "id": "72fb193f995697a7",
@@ -918,7 +837,7 @@
       "stage": "Scene 3",
       "genre": null,
       "sold_out": false,
-      "scraped_at": "2026-06-03T09:26:41.566922"
+      "scraped_at": "2026-06-04T08:48:38.015054"
     },
     {
       "id": "9ff0f249185cd985",
@@ -934,7 +853,7 @@
       "stage": "Midtgolvet",
       "genre": null,
       "sold_out": false,
-      "scraped_at": "2026-06-03T09:26:49.440222"
+      "scraped_at": "2026-06-04T08:48:42.319750"
     },
     {
       "id": "fe96824180a36a0a",
@@ -950,7 +869,7 @@
       "stage": "Riksteatret",
       "genre": null,
       "sold_out": false,
-      "scraped_at": "2026-06-03T09:27:38.970564"
+      "scraped_at": "2026-06-04T08:49:29.748663"
     },
     {
       "id": "2d8293db343440fb",
@@ -966,7 +885,7 @@
       "stage": "Riksteatret",
       "genre": null,
       "sold_out": false,
-      "scraped_at": "2026-06-03T09:27:38.970932"
+      "scraped_at": "2026-06-04T08:49:29.748960"
     },
     {
       "id": "651380b512d69bfa",
@@ -982,7 +901,7 @@
       "stage": "Scene 3",
       "genre": null,
       "sold_out": false,
-      "scraped_at": "2026-06-03T09:26:41.566948"
+      "scraped_at": "2026-06-04T08:48:38.015079"
     },
     {
       "id": "5894e3fec077d383",
@@ -998,7 +917,7 @@
       "stage": "Torshovteatret",
       "genre": null,
       "sold_out": false,
-      "scraped_at": "2026-06-03T09:25:59.379576"
+      "scraped_at": "2026-06-04T08:48:08.629804"
     },
     {
       "id": "69173cb484c4b85c",
@@ -1013,8 +932,8 @@
       "detail_url": "https://www.nationaltheatret.no/forestillinger/uendelig-liv",
       "stage": "Amfiscenen",
       "genre": null,
-      "sold_out": true,
-      "scraped_at": "2026-06-03T09:24:59.602457"
+      "sold_out": false,
+      "scraped_at": "2026-06-04T08:47:27.118766"
     },
     {
       "id": "9cfdb6e7db7cf3de",
@@ -1030,7 +949,7 @@
       "stage": null,
       "genre": null,
       "sold_out": false,
-      "scraped_at": "2026-06-03T09:27:35.609123"
+      "scraped_at": "2026-06-04T08:49:27.576508"
     },
     {
       "id": "0b3dd01809af7a9b",
@@ -1046,7 +965,7 @@
       "stage": "Hovedscenen",
       "genre": null,
       "sold_out": false,
-      "scraped_at": "2026-06-03T09:25:48.087050"
+      "scraped_at": "2026-06-04T08:48:00.734722"
     },
     {
       "id": "94cfe6cc69ee5ec6",
@@ -1062,7 +981,7 @@
       "stage": "Hovudscenen",
       "genre": null,
       "sold_out": false,
-      "scraped_at": "2026-06-03T09:26:13.788072"
+      "scraped_at": "2026-06-04T08:48:20.205654"
     },
     {
       "id": "76379ae231a348e8",
@@ -1078,7 +997,7 @@
       "stage": "Scene 2",
       "genre": null,
       "sold_out": false,
-      "scraped_at": "2026-06-03T09:26:33.483994"
+      "scraped_at": "2026-06-04T08:48:32.639496"
     },
     {
       "id": "e46735e89ecc1328",
@@ -1094,7 +1013,7 @@
       "stage": "Rommen Scene",
       "genre": null,
       "sold_out": false,
-      "scraped_at": "2026-06-03T09:26:34.498957"
+      "scraped_at": "2026-06-04T08:48:33.622026"
     },
     {
       "id": "addc7bd07c764ed4",
@@ -1110,7 +1029,7 @@
       "stage": "Midtgolvet",
       "genre": null,
       "sold_out": false,
-      "scraped_at": "2026-06-03T09:26:49.440236"
+      "scraped_at": "2026-06-04T08:48:42.319763"
     },
     {
       "id": "dac1ecc037d18bfd",
@@ -1126,7 +1045,7 @@
       "stage": "Scene 2",
       "genre": null,
       "sold_out": false,
-      "scraped_at": "2026-06-03T09:26:34.262732"
+      "scraped_at": "2026-06-04T08:48:33.460062"
     },
     {
       "id": "38a7534dc3fa5652",
@@ -1142,7 +1061,7 @@
       "stage": "Riksteatret",
       "genre": null,
       "sold_out": false,
-      "scraped_at": "2026-06-03T09:27:38.971292"
+      "scraped_at": "2026-06-04T08:49:29.749260"
     },
     {
       "id": "a975e4ab4ed15b56",
@@ -1158,7 +1077,7 @@
       "stage": "Riksteatret",
       "genre": null,
       "sold_out": false,
-      "scraped_at": "2026-06-03T09:27:38.971629"
+      "scraped_at": "2026-06-04T08:49:29.749557"
     },
     {
       "id": "64f01d45b9303bc0",
@@ -1174,7 +1093,7 @@
       "stage": "Torshovteatret",
       "genre": null,
       "sold_out": false,
-      "scraped_at": "2026-06-03T09:25:59.379596"
+      "scraped_at": "2026-06-04T08:48:08.629823"
     },
     {
       "id": "443297d733dbcffa",
@@ -1190,7 +1109,7 @@
       "stage": "Hovedscenen",
       "genre": null,
       "sold_out": true,
-      "scraped_at": "2026-06-03T09:25:01.490782"
+      "scraped_at": "2026-06-04T08:47:28.896138"
     },
     {
       "id": "a2d8cebc1bdd48f7",
@@ -1206,7 +1125,7 @@
       "stage": null,
       "genre": null,
       "sold_out": false,
-      "scraped_at": "2026-06-03T09:27:35.609284"
+      "scraped_at": "2026-06-04T08:49:27.576653"
     },
     {
       "id": "e8c265064a5c5f13",
@@ -1222,7 +1141,7 @@
       "stage": "Scene 2",
       "genre": null,
       "sold_out": false,
-      "scraped_at": "2026-06-03T09:26:35.965842"
+      "scraped_at": "2026-06-04T08:48:36.384786"
     },
     {
       "id": "6e652eea016107a7",
@@ -1238,7 +1157,7 @@
       "stage": "Hovudscenen",
       "genre": null,
       "sold_out": false,
-      "scraped_at": "2026-06-03T09:26:15.628896"
+      "scraped_at": "2026-06-04T08:48:20.378834"
     },
     {
       "id": "981ae97db9cd4557",
@@ -1253,8 +1172,8 @@
       "detail_url": "https://folketeateret.no/forestilling/kevin-bridges-2026",
       "stage": null,
       "genre": "Standup",
-      "sold_out": true,
-      "scraped_at": "2026-06-03T09:28:21.560544"
+      "sold_out": false,
+      "scraped_at": "2026-06-04T08:49:49.977006"
     },
     {
       "id": "b09e8bbc0b3ac8a6",
@@ -1270,7 +1189,7 @@
       "stage": "Riksteatret",
       "genre": null,
       "sold_out": false,
-      "scraped_at": "2026-06-03T09:27:39.148142"
+      "scraped_at": "2026-06-04T08:49:29.862716"
     },
     {
       "id": "72563779f7dbddec",
@@ -1286,7 +1205,7 @@
       "stage": null,
       "genre": null,
       "sold_out": false,
-      "scraped_at": "2026-06-03T09:27:35.609425"
+      "scraped_at": "2026-06-04T08:49:27.576773"
     },
     {
       "id": "141c625fbcce9384",
@@ -1302,7 +1221,7 @@
       "stage": "Hovedscenen",
       "genre": null,
       "sold_out": true,
-      "scraped_at": "2026-06-03T09:24:51.298104"
+      "scraped_at": "2026-06-04T08:47:22.431430"
     },
     {
       "id": "436efa49972d919a",
@@ -1318,7 +1237,7 @@
       "stage": "Black Box teater Foajé\n    \n      (Black Box teater)",
       "genre": null,
       "sold_out": false,
-      "scraped_at": "2026-06-03T09:27:01.464588"
+      "scraped_at": "2026-06-04T08:48:54.830910"
     },
     {
       "id": "412ec139e0c41990",
@@ -1334,7 +1253,7 @@
       "stage": "Amfiscenen",
       "genre": null,
       "sold_out": true,
-      "scraped_at": "2026-06-03T09:25:05.650286"
+      "scraped_at": "2026-06-04T08:47:35.951114"
     },
     {
       "id": "e367f3cbe48f307f",
@@ -1350,7 +1269,23 @@
       "stage": "Riksteatret",
       "genre": null,
       "sold_out": false,
-      "scraped_at": "2026-06-03T09:27:39.148524"
+      "scraped_at": "2026-06-04T08:49:29.863055"
+    },
+    {
+      "id": "176d364183f73fca",
+      "title": "FINANS",
+      "venue": "Teater Manu",
+      "venue_slug": "teater-manu",
+      "start": "2026-06-12T17:00:00",
+      "end": null,
+      "description": null,
+      "image_url": "https://www.facebook.com/tr?id=117370848822729&ev=PageView&noscript=1",
+      "ticket_url": "https://billetto.no/e/finans-billetter-1918509?utm_source=organiser&utm_medium=share&utm_campaign=copy_link&utm_content=2",
+      "detail_url": "https://teatermanu.no/produksjoner/finans/",
+      "stage": "Teater Manu",
+      "genre": null,
+      "sold_out": false,
+      "scraped_at": "2026-06-04T08:49:39.350926"
     },
     {
       "id": "f3c58a41d3659221",
@@ -1366,7 +1301,7 @@
       "stage": "Hovudscenen",
       "genre": null,
       "sold_out": false,
-      "scraped_at": "2026-06-03T09:26:13.788094"
+      "scraped_at": "2026-06-04T08:48:20.205666"
     },
     {
       "id": "65ff4e52f26dce55",
@@ -1382,7 +1317,7 @@
       "stage": "Scene 2",
       "genre": null,
       "sold_out": false,
-      "scraped_at": "2026-06-03T09:26:33.484007"
+      "scraped_at": "2026-06-04T08:48:32.639508"
     },
     {
       "id": "d0ec11b1e8ed52dd",
@@ -1398,7 +1333,7 @@
       "stage": "Rommen Scene",
       "genre": null,
       "sold_out": false,
-      "scraped_at": "2026-06-03T09:26:34.498980"
+      "scraped_at": "2026-06-04T08:48:33.622051"
     },
     {
       "id": "ec55e4b83ee5eb62",
@@ -1414,7 +1349,7 @@
       "stage": "Hovedscenen",
       "genre": "Sesongforestilling",
       "sold_out": false,
-      "scraped_at": "2026-06-03T09:27:39.971217"
+      "scraped_at": "2026-06-04T08:49:30.374074"
     },
     {
       "id": "699e00d1b9d89d25",
@@ -1430,7 +1365,7 @@
       "stage": null,
       "genre": null,
       "sold_out": false,
-      "scraped_at": "2026-06-03T09:28:14.871031"
+      "scraped_at": "2026-06-04T08:49:44.056766"
     },
     {
       "id": "3a2d1d8d29c533d0",
@@ -1446,7 +1381,7 @@
       "stage": null,
       "genre": null,
       "sold_out": false,
-      "scraped_at": "2026-06-03T09:28:14.871136"
+      "scraped_at": "2026-06-04T08:49:44.056834"
     },
     {
       "id": "cd8f583f8b0b586f",
@@ -1462,7 +1397,7 @@
       "stage": "Scene 3",
       "genre": null,
       "sold_out": false,
-      "scraped_at": "2026-06-03T09:26:40.527052"
+      "scraped_at": "2026-06-04T08:48:37.807479"
     },
     {
       "id": "7723e7e85f4c2f66",
@@ -1478,7 +1413,23 @@
       "stage": "Midtgolvet",
       "genre": null,
       "sold_out": false,
-      "scraped_at": "2026-06-03T09:26:49.440256"
+      "scraped_at": "2026-06-04T08:48:42.319775"
+    },
+    {
+      "id": "9fcf451858dcad9d",
+      "title": "FINANS",
+      "venue": "Teater Manu",
+      "venue_slug": "teater-manu",
+      "start": "2026-06-12T20:00:00",
+      "end": null,
+      "description": null,
+      "image_url": "https://www.facebook.com/tr?id=117370848822729&ev=PageView&noscript=1",
+      "ticket_url": "https://billetto.no/e/finans-billetter-1918510?utm_source=organiser&utm_medium=share&utm_campaign=copy_link&utm_content=1",
+      "detail_url": "https://teatermanu.no/produksjoner/finans/",
+      "stage": "Teater Manu",
+      "genre": null,
+      "sold_out": false,
+      "scraped_at": "2026-06-04T08:49:39.351107"
     },
     {
       "id": "247d519e47d3720f",
@@ -1494,7 +1445,7 @@
       "stage": "Hovedscenen",
       "genre": null,
       "sold_out": true,
-      "scraped_at": "2026-06-03T09:24:55.841146"
+      "scraped_at": "2026-06-04T08:47:25.675277"
     },
     {
       "id": "0c5307dc716e1a7f",
@@ -1510,7 +1461,7 @@
       "stage": "Scene 2",
       "genre": null,
       "sold_out": false,
-      "scraped_at": "2026-06-03T09:26:32.085118"
+      "scraped_at": "2026-06-04T08:48:31.431533"
     },
     {
       "id": "e5cc1f3194d15cd8",
@@ -1526,7 +1477,7 @@
       "stage": "Hovudscenen",
       "genre": null,
       "sold_out": false,
-      "scraped_at": "2026-06-03T09:26:13.788107"
+      "scraped_at": "2026-06-04T08:48:20.205686"
     },
     {
       "id": "fc3a56edfe2d3a8d",
@@ -1542,7 +1493,7 @@
       "stage": "Amfiscenen",
       "genre": null,
       "sold_out": true,
-      "scraped_at": "2026-06-03T09:25:05.650317"
+      "scraped_at": "2026-06-04T08:47:35.951144"
     },
     {
       "id": "dce77e07b56bc235",
@@ -1558,7 +1509,7 @@
       "stage": "Hovedscenen",
       "genre": null,
       "sold_out": true,
-      "scraped_at": "2026-06-03T09:25:48.087071"
+      "scraped_at": "2026-06-04T08:48:00.734741"
     },
     {
       "id": "306c8aa455efd9c6",
@@ -1574,7 +1525,7 @@
       "stage": "Rommen Scene",
       "genre": null,
       "sold_out": false,
-      "scraped_at": "2026-06-03T09:26:34.498994"
+      "scraped_at": "2026-06-04T08:48:33.622064"
     },
     {
       "id": "e5995962dbf8656a",
@@ -1590,7 +1541,7 @@
       "stage": "Scene 3",
       "genre": null,
       "sold_out": false,
-      "scraped_at": "2026-06-03T09:26:40.527075"
+      "scraped_at": "2026-06-04T08:48:37.807504"
     },
     {
       "id": "41050a672796d33a",
@@ -1606,7 +1557,7 @@
       "stage": "Black Box teater Foajé\n    \n      (Black Box teater)",
       "genre": null,
       "sold_out": false,
-      "scraped_at": "2026-06-03T09:27:01.464905"
+      "scraped_at": "2026-06-04T08:48:54.831184"
     },
     {
       "id": "0653ef98525ad1be",
@@ -1622,7 +1573,7 @@
       "stage": "Hovudscenen",
       "genre": null,
       "sold_out": false,
-      "scraped_at": "2026-06-03T09:26:13.788119"
+      "scraped_at": "2026-06-04T08:48:20.205699"
     },
     {
       "id": "37098bcd2befa6a3",
@@ -1638,7 +1589,7 @@
       "stage": null,
       "genre": null,
       "sold_out": false,
-      "scraped_at": "2026-06-03T09:28:14.871247"
+      "scraped_at": "2026-06-04T08:49:44.056904"
     },
     {
       "id": "c589942ee2e9bf91",
@@ -1654,7 +1605,7 @@
       "stage": null,
       "genre": null,
       "sold_out": false,
-      "scraped_at": "2026-06-03T09:28:14.871355"
+      "scraped_at": "2026-06-04T08:49:44.056977"
     },
     {
       "id": "2c0469a5f77c313b",
@@ -1670,7 +1621,7 @@
       "stage": "Hovedscenen",
       "genre": "Sesongforestilling",
       "sold_out": false,
-      "scraped_at": "2026-06-03T09:27:39.972258"
+      "scraped_at": "2026-06-04T08:49:30.374939"
     },
     {
       "id": "3b12938c17bbfca0",
@@ -1686,7 +1637,7 @@
       "stage": "Hovedscenen",
       "genre": null,
       "sold_out": false,
-      "scraped_at": "2026-06-03T09:26:05.944485"
+      "scraped_at": "2026-06-04T08:48:13.034365"
     },
     {
       "id": "f380ecc473165cc3",
@@ -1702,7 +1653,7 @@
       "stage": "Lille scene\n    \n      (Black Box teater)",
       "genre": null,
       "sold_out": false,
-      "scraped_at": "2026-06-03T09:27:01.465211"
+      "scraped_at": "2026-06-04T08:48:54.831415"
     },
     {
       "id": "1f254e1c4676a8d1",
@@ -1718,7 +1669,7 @@
       "stage": null,
       "genre": null,
       "sold_out": false,
-      "scraped_at": "2026-06-03T09:28:14.871553"
+      "scraped_at": "2026-06-04T08:49:44.057108"
     },
     {
       "id": "79a14bcb8973420c",
@@ -1734,7 +1685,7 @@
       "stage": null,
       "genre": null,
       "sold_out": false,
-      "scraped_at": "2026-06-03T09:28:14.871651"
+      "scraped_at": "2026-06-04T08:49:44.057173"
     },
     {
       "id": "0a97bfb3eb663eed",
@@ -1750,7 +1701,7 @@
       "stage": "Torshovteatret",
       "genre": null,
       "sold_out": false,
-      "scraped_at": "2026-06-03T09:25:59.379616"
+      "scraped_at": "2026-06-04T08:48:08.629840"
     },
     {
       "id": "4e82603506e01241",
@@ -1766,7 +1717,7 @@
       "stage": "Hovedscenen",
       "genre": null,
       "sold_out": false,
-      "scraped_at": "2026-06-03T09:25:53.004371"
+      "scraped_at": "2026-06-04T08:48:04.240843"
     },
     {
       "id": "bc12a3bcc3fd701f",
@@ -1782,7 +1733,7 @@
       "stage": null,
       "genre": null,
       "sold_out": false,
-      "scraped_at": "2026-06-03T09:28:14.871755"
+      "scraped_at": "2026-06-04T08:49:44.057246"
     },
     {
       "id": "75a0801bb8cb1aa8",
@@ -1798,7 +1749,7 @@
       "stage": "Torshovteatret",
       "genre": null,
       "sold_out": false,
-      "scraped_at": "2026-06-03T09:25:59.379634"
+      "scraped_at": "2026-06-04T08:48:08.629856"
     },
     {
       "id": "3abb585384d7d512",
@@ -1814,7 +1765,7 @@
       "stage": "Hovedscenen",
       "genre": null,
       "sold_out": true,
-      "scraped_at": "2026-06-03T09:24:55.841169"
+      "scraped_at": "2026-06-04T08:47:25.675292"
     },
     {
       "id": "34a3608ae97afa0b",
@@ -1830,7 +1781,7 @@
       "stage": "Hovudscenen",
       "genre": null,
       "sold_out": false,
-      "scraped_at": "2026-06-03T09:26:13.788129"
+      "scraped_at": "2026-06-04T08:48:20.205715"
     },
     {
       "id": "d864519893f913d7",
@@ -1846,7 +1797,7 @@
       "stage": "Hovedscenen",
       "genre": null,
       "sold_out": true,
-      "scraped_at": "2026-06-03T09:24:55.841187"
+      "scraped_at": "2026-06-04T08:47:25.675311"
     },
     {
       "id": "9c593bfdd22258bc",
@@ -1862,7 +1813,7 @@
       "stage": "Amfiscenen",
       "genre": null,
       "sold_out": true,
-      "scraped_at": "2026-06-03T09:24:59.602495"
+      "scraped_at": "2026-06-04T08:47:27.118783"
     },
     {
       "id": "fb5a7d0b5c432363",
@@ -1878,7 +1829,7 @@
       "stage": "Hovudscenen",
       "genre": null,
       "sold_out": false,
-      "scraped_at": "2026-06-03T09:26:13.788140"
+      "scraped_at": "2026-06-04T08:48:20.205727"
     },
     {
       "id": "11da2b59513adb81",
@@ -1894,7 +1845,7 @@
       "stage": "Hovedscenen",
       "genre": null,
       "sold_out": false,
-      "scraped_at": "2026-06-03T09:27:39.973255"
+      "scraped_at": "2026-06-04T08:49:30.375772"
     },
     {
       "id": "6beb0e19b473c5b4",
@@ -1910,7 +1861,7 @@
       "stage": null,
       "genre": null,
       "sold_out": false,
-      "scraped_at": "2026-06-03T09:27:35.609566"
+      "scraped_at": "2026-06-04T08:49:27.576886"
     },
     {
       "id": "6c6dd5bbffb09363",
@@ -1926,7 +1877,7 @@
       "stage": "Torshovteatret",
       "genre": null,
       "sold_out": false,
-      "scraped_at": "2026-06-03T09:25:59.379651"
+      "scraped_at": "2026-06-04T08:48:08.629872"
     },
     {
       "id": "c704c21160c52157",
@@ -1942,7 +1893,7 @@
       "stage": "Hovedscenen",
       "genre": null,
       "sold_out": true,
-      "scraped_at": "2026-06-03T09:24:51.298128"
+      "scraped_at": "2026-06-04T08:47:22.431450"
     },
     {
       "id": "77529e96fe31fa6a",
@@ -1958,7 +1909,7 @@
       "stage": "Hovudscenen",
       "genre": null,
       "sold_out": false,
-      "scraped_at": "2026-06-03T09:26:13.788151"
+      "scraped_at": "2026-06-04T08:48:20.205741"
     },
     {
       "id": "72ee75fe8e84ec27",
@@ -1974,7 +1925,7 @@
       "stage": "Amfiscenen",
       "genre": null,
       "sold_out": true,
-      "scraped_at": "2026-06-03T09:24:59.602512"
+      "scraped_at": "2026-06-04T08:47:27.118798"
     },
     {
       "id": "bd2e6f0184512660",
@@ -1990,7 +1941,7 @@
       "stage": "Scene 3",
       "genre": null,
       "sold_out": false,
-      "scraped_at": "2026-06-03T09:26:42.351661"
+      "scraped_at": "2026-06-04T08:48:38.190578"
     },
     {
       "id": "006b9850fb470865",
@@ -2006,7 +1957,7 @@
       "stage": "Hovedscenen",
       "genre": null,
       "sold_out": false,
-      "scraped_at": "2026-06-03T09:27:39.974252"
+      "scraped_at": "2026-06-04T08:49:30.376609"
     },
     {
       "id": "d5f7a6e2bb6f5298",
@@ -2022,7 +1973,7 @@
       "stage": "Scene 2",
       "genre": null,
       "sold_out": false,
-      "scraped_at": "2026-06-03T09:26:38.297968"
+      "scraped_at": "2026-06-04T08:48:36.749065"
     },
     {
       "id": "b008e4bd301be3ce",
@@ -2038,7 +1989,7 @@
       "stage": "Hovedscenen",
       "genre": null,
       "sold_out": true,
-      "scraped_at": "2026-06-03T09:24:55.841203"
+      "scraped_at": "2026-06-04T08:47:25.675325"
     },
     {
       "id": "564d43827b2f1449",
@@ -2054,7 +2005,7 @@
       "stage": "Amfiscenen",
       "genre": null,
       "sold_out": true,
-      "scraped_at": "2026-06-03T09:24:59.602529"
+      "scraped_at": "2026-06-04T08:47:27.118816"
     },
     {
       "id": "7363e9ae0ea31988",
@@ -2070,7 +2021,7 @@
       "stage": "Hovudscenen",
       "genre": null,
       "sold_out": false,
-      "scraped_at": "2026-06-03T09:26:13.788161"
+      "scraped_at": "2026-06-04T08:48:20.205750"
     },
     {
       "id": "cd4fab264c7ded2b",
@@ -2086,7 +2037,7 @@
       "stage": "Hovedscenen",
       "genre": null,
       "sold_out": false,
-      "scraped_at": "2026-06-03T09:27:39.975270"
+      "scraped_at": "2026-06-04T08:49:30.377448"
     },
     {
       "id": "c5ec4d948bf4b140",
@@ -2102,7 +2053,7 @@
       "stage": "Hovedscenen",
       "genre": null,
       "sold_out": true,
-      "scraped_at": "2026-06-03T09:24:55.841219"
+      "scraped_at": "2026-06-04T08:47:25.675339"
     },
     {
       "id": "2ef150a93cfa38f0",
@@ -2118,7 +2069,7 @@
       "stage": "Omvising",
       "genre": null,
       "sold_out": false,
-      "scraped_at": "2026-06-03T09:26:49.199940"
+      "scraped_at": "2026-06-04T08:48:42.121026"
     },
     {
       "id": "a798aaf224be8687",
@@ -2134,7 +2085,7 @@
       "stage": "Hovudscenen",
       "genre": null,
       "sold_out": false,
-      "scraped_at": "2026-06-03T09:26:13.788171"
+      "scraped_at": "2026-06-04T08:48:20.205760"
     },
     {
       "id": "b9bfbce7fa876beb",
@@ -2150,7 +2101,7 @@
       "stage": "Amfiscenen",
       "genre": null,
       "sold_out": true,
-      "scraped_at": "2026-06-03T09:24:59.602545"
+      "scraped_at": "2026-06-04T08:47:27.118830"
     },
     {
       "id": "60218a2ee931ff76",
@@ -2166,7 +2117,7 @@
       "stage": "Hovedscenen",
       "genre": null,
       "sold_out": true,
-      "scraped_at": "2026-06-03T09:24:51.298147"
+      "scraped_at": "2026-06-04T08:47:22.431485"
     },
     {
       "id": "469cc0588aee8c03",
@@ -2182,7 +2133,7 @@
       "stage": "Hovudscenen",
       "genre": null,
       "sold_out": false,
-      "scraped_at": "2026-06-03T09:26:23.159271"
+      "scraped_at": "2026-06-04T08:48:25.062624"
     },
     {
       "id": "ff717f1d71a05538",
@@ -2198,7 +2149,7 @@
       "stage": "Hovudscenen",
       "genre": null,
       "sold_out": false,
-      "scraped_at": "2026-06-03T09:26:13.788182"
+      "scraped_at": "2026-06-04T08:48:20.205770"
     },
     {
       "id": "7070236c688f86e3",
@@ -2214,7 +2165,7 @@
       "stage": null,
       "genre": null,
       "sold_out": false,
-      "scraped_at": "2026-06-03T09:28:14.871862"
+      "scraped_at": "2026-06-04T08:49:44.057318"
     },
     {
       "id": "ae8ebf10b9b439fd",
@@ -2230,7 +2181,7 @@
       "stage": null,
       "genre": null,
       "sold_out": false,
-      "scraped_at": "2026-06-03T09:28:14.871990"
+      "scraped_at": "2026-06-04T08:49:44.057384"
     },
     {
       "id": "b93004d12774eeb9",
@@ -2246,7 +2197,7 @@
       "stage": null,
       "genre": null,
       "sold_out": false,
-      "scraped_at": "2026-06-03T09:28:14.872091"
+      "scraped_at": "2026-06-04T08:49:44.057467"
     },
     {
       "id": "6c56281da6f1dba1",
@@ -2262,7 +2213,23 @@
       "stage": "Hovudscenen",
       "genre": null,
       "sold_out": false,
-      "scraped_at": "2026-06-03T09:26:13.788192"
+      "scraped_at": "2026-06-04T08:48:20.205780"
+    },
+    {
+      "id": "9d931592f0ed1354",
+      "title": "Manu Talk, PRIDE",
+      "venue": "Teater Manu",
+      "venue_slug": "teater-manu",
+      "start": "2026-06-23T18:00:00",
+      "end": null,
+      "description": null,
+      "image_url": "https://www.facebook.com/tr?id=117370848822729&ev=PageView&noscript=1",
+      "ticket_url": "https://billetto.no/e/manu-talk-pride-drag-moter-tegnsprak-billetter-1910886?utm_source=organiser&utm_medium=share&utm_campaign=copy_link&utm_content=1",
+      "detail_url": "https://teatermanu.no/produksjoner/manu-talk-pride/",
+      "stage": "Teater Manu",
+      "genre": null,
+      "sold_out": false,
+      "scraped_at": "2026-06-04T08:49:38.797018"
     },
     {
       "id": "ec700401153a06ee",
@@ -2278,7 +2245,7 @@
       "stage": "Bikuben",
       "genre": null,
       "sold_out": false,
-      "scraped_at": "2026-06-03T09:26:48.203389"
+      "scraped_at": "2026-06-04T08:48:41.934398"
     },
     {
       "id": "b631dbba87e72b99",
@@ -2294,7 +2261,7 @@
       "stage": null,
       "genre": null,
       "sold_out": false,
-      "scraped_at": "2026-06-03T09:28:14.872194"
+      "scraped_at": "2026-06-04T08:49:44.057542"
     },
     {
       "id": "34e3fae7b12b6604",
@@ -2310,7 +2277,7 @@
       "stage": "Hovudscenen",
       "genre": null,
       "sold_out": false,
-      "scraped_at": "2026-06-03T09:26:13.788203"
+      "scraped_at": "2026-06-04T08:48:20.205790"
     },
     {
       "id": "10088189652f4a9e",
@@ -2326,7 +2293,7 @@
       "stage": "Hovedscenen",
       "genre": null,
       "sold_out": false,
-      "scraped_at": "2026-06-03T09:27:39.976265"
+      "scraped_at": "2026-06-04T08:49:30.378278"
     },
     {
       "id": "15dee75e37c851e0",
@@ -2342,7 +2309,7 @@
       "stage": null,
       "genre": null,
       "sold_out": false,
-      "scraped_at": "2026-06-03T09:28:14.872293"
+      "scraped_at": "2026-06-04T08:49:44.057609"
     },
     {
       "id": "5c7398df40466bc1",
@@ -2358,7 +2325,7 @@
       "stage": null,
       "genre": null,
       "sold_out": false,
-      "scraped_at": "2026-06-03T09:27:35.609702"
+      "scraped_at": "2026-06-04T08:49:27.576990"
     },
     {
       "id": "48d0e9c3b69e29d8",
@@ -2374,7 +2341,7 @@
       "stage": "Hovudscenen",
       "genre": null,
       "sold_out": false,
-      "scraped_at": "2026-06-03T09:26:13.788213"
+      "scraped_at": "2026-06-04T08:48:20.205800"
     },
     {
       "id": "9b7e60b64179a5a6",
@@ -2390,7 +2357,7 @@
       "stage": "Hovedscenen",
       "genre": null,
       "sold_out": false,
-      "scraped_at": "2026-06-03T09:27:39.977273"
+      "scraped_at": "2026-06-04T08:49:30.379120"
     },
     {
       "id": "1c715aa293736138",
@@ -2406,7 +2373,7 @@
       "stage": "Hovudscenen",
       "genre": null,
       "sold_out": false,
-      "scraped_at": "2026-06-03T09:26:13.788223"
+      "scraped_at": "2026-06-04T08:48:20.205809"
     },
     {
       "id": "d4f88054b7202d61",
@@ -2422,7 +2389,7 @@
       "stage": null,
       "genre": null,
       "sold_out": false,
-      "scraped_at": "2026-06-03T09:27:35.609832"
+      "scraped_at": "2026-06-04T08:49:27.577088"
     },
     {
       "id": "a38e8d482aa33ebd",
@@ -2438,7 +2405,7 @@
       "stage": "Hovudscenen",
       "genre": null,
       "sold_out": false,
-      "scraped_at": "2026-06-03T09:26:13.788234"
+      "scraped_at": "2026-06-04T08:48:20.205819"
     },
     {
       "id": "5297a306012334ff",
@@ -2454,7 +2421,7 @@
       "stage": "Hovudscenen",
       "genre": null,
       "sold_out": false,
-      "scraped_at": "2026-06-03T09:26:13.788244"
+      "scraped_at": "2026-06-04T08:48:20.205829"
     },
     {
       "id": "a65da48e09d1c304",
@@ -2470,7 +2437,7 @@
       "stage": null,
       "genre": null,
       "sold_out": false,
-      "scraped_at": "2026-06-03T09:28:14.871451"
+      "scraped_at": "2026-06-04T08:49:44.057040"
     },
     {
       "id": "7ccbefd3d857ce39",
@@ -2486,7 +2453,7 @@
       "stage": null,
       "genre": null,
       "sold_out": false,
-      "scraped_at": "2026-06-03T09:28:14.872402"
+      "scraped_at": "2026-06-04T08:49:44.057681"
     },
     {
       "id": "b9bee50212a20ac1",
@@ -2502,7 +2469,7 @@
       "stage": null,
       "genre": null,
       "sold_out": false,
-      "scraped_at": "2026-06-03T09:28:14.872503"
+      "scraped_at": "2026-06-04T08:49:44.057746"
     },
     {
       "id": "d76e72cde25e6f87",
@@ -2518,7 +2485,7 @@
       "stage": null,
       "genre": null,
       "sold_out": false,
-      "scraped_at": "2026-06-03T09:28:14.872605"
+      "scraped_at": "2026-06-04T08:49:44.057811"
     },
     {
       "id": "93055097e51e239c",
@@ -2534,7 +2501,7 @@
       "stage": "Hovedscenen",
       "genre": null,
       "sold_out": false,
-      "scraped_at": "2026-06-03T09:27:39.978288"
+      "scraped_at": "2026-06-04T08:49:30.379950"
     },
     {
       "id": "f8dddb4e7165be02",
@@ -2550,7 +2517,7 @@
       "stage": "Hovedscenen",
       "genre": null,
       "sold_out": false,
-      "scraped_at": "2026-06-03T09:27:39.979275"
+      "scraped_at": "2026-06-04T08:49:30.380773"
     },
     {
       "id": "0a8ecb17fd19d38e",
@@ -2566,7 +2533,7 @@
       "stage": "Hovedscenen",
       "genre": null,
       "sold_out": false,
-      "scraped_at": "2026-06-03T09:27:39.980277"
+      "scraped_at": "2026-06-04T08:49:30.381603"
     },
     {
       "id": "fc4a154d6493d6ce",
@@ -2576,13 +2543,13 @@
       "start": "2026-07-05T19:00:00",
       "end": null,
       "description": null,
-      "image_url": null,
+      "image_url": "/_next/image?url=https%3A%2F%2Fcdn.sanity.io%2Fimages%2Fl794s5ct%2Fproduction%2F842441601127b0d1493f43bd48960b9836cf984f-1440x810.jpg%3Frect%3D315%2C0%2C810%2C810%26w%3D1000%26h%3D1000%26q%3D92%26fit%3Dmax%26auto%3Dformat&w=3840&q=75",
       "ticket_url": "https://nordicblacktheatre.no/program/mr-toons-05-07-2026",
       "detail_url": "https://nordicblacktheatre.no/program/mr-toons-05-07-2026",
       "stage": null,
       "genre": null,
       "sold_out": false,
-      "scraped_at": "2026-06-03T09:28:14.872763"
+      "scraped_at": "2026-06-04T08:49:44.057922"
     },
     {
       "id": "be064c0072615aaf",
@@ -2598,7 +2565,7 @@
       "stage": null,
       "genre": null,
       "sold_out": false,
-      "scraped_at": "2026-06-03T09:28:14.872910"
+      "scraped_at": "2026-06-04T08:49:44.057990"
     },
     {
       "id": "524c01984ecdf9a5",
@@ -2614,7 +2581,7 @@
       "stage": null,
       "genre": null,
       "sold_out": false,
-      "scraped_at": "2026-06-03T09:28:14.873031"
+      "scraped_at": "2026-06-04T08:49:44.058060"
     },
     {
       "id": "0d16bc215e187354",
@@ -2630,7 +2597,7 @@
       "stage": "Hovedscenen",
       "genre": null,
       "sold_out": false,
-      "scraped_at": "2026-06-03T09:27:39.981262"
+      "scraped_at": "2026-06-04T08:49:30.382405"
     },
     {
       "id": "b95fce56a186164a",
@@ -2646,7 +2613,7 @@
       "stage": "Hovedscenen",
       "genre": null,
       "sold_out": false,
-      "scraped_at": "2026-06-03T09:27:39.982251"
+      "scraped_at": "2026-06-04T08:49:30.383237"
     },
     {
       "id": "4daed99996bc0e95",
@@ -2662,7 +2629,7 @@
       "stage": "Hovedscenen",
       "genre": null,
       "sold_out": false,
-      "scraped_at": "2026-06-03T09:27:39.983263"
+      "scraped_at": "2026-06-04T08:49:30.384074"
     },
     {
       "id": "d3c949f289af72b7",
@@ -2678,7 +2645,7 @@
       "stage": null,
       "genre": null,
       "sold_out": false,
-      "scraped_at": "2026-06-03T09:28:14.873206"
+      "scraped_at": "2026-06-04T08:49:44.058131"
     },
     {
       "id": "ffc848cc693b6f15",
@@ -2694,7 +2661,7 @@
       "stage": null,
       "genre": null,
       "sold_out": false,
-      "scraped_at": "2026-06-03T09:28:14.873303"
+      "scraped_at": "2026-06-04T08:49:44.058196"
     },
     {
       "id": "ef1cf1baa10ca17c",
@@ -2710,7 +2677,7 @@
       "stage": "Hovedscenen",
       "genre": null,
       "sold_out": false,
-      "scraped_at": "2026-06-03T09:27:39.984262"
+      "scraped_at": "2026-06-04T08:49:30.384944"
     },
     {
       "id": "b2211dd4fe78d855",
@@ -2726,7 +2693,7 @@
       "stage": "Hovedscenen",
       "genre": null,
       "sold_out": false,
-      "scraped_at": "2026-06-03T09:27:39.985259"
+      "scraped_at": "2026-06-04T08:49:30.385769"
     },
     {
       "id": "3122590e8c26df04",
@@ -2742,7 +2709,7 @@
       "stage": "Hovedscenen",
       "genre": null,
       "sold_out": false,
-      "scraped_at": "2026-06-03T09:27:39.986274"
+      "scraped_at": "2026-06-04T08:49:30.386600"
     },
     {
       "id": "c78b473e7a45b0e4",
@@ -2758,7 +2725,7 @@
       "stage": null,
       "genre": null,
       "sold_out": false,
-      "scraped_at": "2026-06-03T09:28:14.873398"
+      "scraped_at": "2026-06-04T08:49:44.058259"
     },
     {
       "id": "59b2a70348f6af52",
@@ -2774,7 +2741,7 @@
       "stage": "Amfiscenen",
       "genre": null,
       "sold_out": true,
-      "scraped_at": "2026-06-03T09:24:59.602561"
+      "scraped_at": "2026-06-04T08:47:27.118844"
     },
     {
       "id": "ea4d1dc17ab941bb",
@@ -2790,7 +2757,7 @@
       "stage": "Hovedscenen",
       "genre": null,
       "sold_out": true,
-      "scraped_at": "2026-06-03T09:24:51.298166"
+      "scraped_at": "2026-06-04T08:47:22.431501"
     },
     {
       "id": "e6f370321b61cb4d",
@@ -2806,7 +2773,7 @@
       "stage": "Amfiscenen",
       "genre": null,
       "sold_out": true,
-      "scraped_at": "2026-06-03T09:24:59.602577"
+      "scraped_at": "2026-06-04T08:47:27.118858"
     },
     {
       "id": "7b7394221f83baf2",
@@ -2822,7 +2789,7 @@
       "stage": "Hovedscenen",
       "genre": null,
       "sold_out": true,
-      "scraped_at": "2026-06-03T09:25:48.087090"
+      "scraped_at": "2026-06-04T08:48:00.734759"
     },
     {
       "id": "c779a9ed98e78113",
@@ -2838,7 +2805,7 @@
       "stage": null,
       "genre": null,
       "sold_out": false,
-      "scraped_at": "2026-06-03T09:28:14.873498"
+      "scraped_at": "2026-06-04T08:49:44.058323"
     },
     {
       "id": "735cf3469004ef18",
@@ -2854,7 +2821,7 @@
       "stage": null,
       "genre": null,
       "sold_out": false,
-      "scraped_at": "2026-06-03T09:28:14.873598"
+      "scraped_at": "2026-06-04T08:49:44.058388"
     },
     {
       "id": "e1e04d9bcb33ec9c",
@@ -2870,7 +2837,7 @@
       "stage": "Hovedscenen",
       "genre": null,
       "sold_out": true,
-      "scraped_at": "2026-06-03T09:24:55.841239"
+      "scraped_at": "2026-06-04T08:47:25.675354"
     },
     {
       "id": "adba9db83dc3fdab",
@@ -2886,7 +2853,7 @@
       "stage": "Amfiscenen",
       "genre": null,
       "sold_out": true,
-      "scraped_at": "2026-06-03T09:24:59.602598"
+      "scraped_at": "2026-06-04T08:47:27.118873"
     },
     {
       "id": "5dbdfd57e68389c6",
@@ -2902,7 +2869,7 @@
       "stage": "Midtgolvet",
       "genre": null,
       "sold_out": false,
-      "scraped_at": "2026-06-03T09:26:49.440269"
+      "scraped_at": "2026-06-04T08:48:42.319786"
     },
     {
       "id": "e7e0e0bfab004867",
@@ -2918,7 +2885,7 @@
       "stage": "Hovedscenen",
       "genre": null,
       "sold_out": true,
-      "scraped_at": "2026-06-03T09:24:55.841256"
+      "scraped_at": "2026-06-04T08:47:25.675369"
     },
     {
       "id": "c554cae7a22ea7ec",
@@ -2934,7 +2901,7 @@
       "stage": "Midtgolvet",
       "genre": null,
       "sold_out": false,
-      "scraped_at": "2026-06-03T09:26:49.440281"
+      "scraped_at": "2026-06-04T08:48:42.319797"
     },
     {
       "id": "f27aba7d331b0db7",
@@ -2950,7 +2917,7 @@
       "stage": "Amfiscenen",
       "genre": null,
       "sold_out": true,
-      "scraped_at": "2026-06-03T09:24:59.602617"
+      "scraped_at": "2026-06-04T08:47:27.118887"
     },
     {
       "id": "32438bf10e830526",
@@ -2966,7 +2933,7 @@
       "stage": "Hovedscenen",
       "genre": null,
       "sold_out": true,
-      "scraped_at": "2026-06-03T09:24:55.841271"
+      "scraped_at": "2026-06-04T08:47:25.675383"
     },
     {
       "id": "580b82411a95c50e",
@@ -2982,7 +2949,7 @@
       "stage": "Lille scene\n    \n      (Black Box teater)",
       "genre": null,
       "sold_out": false,
-      "scraped_at": "2026-06-03T09:27:01.465496"
+      "scraped_at": "2026-06-04T08:48:54.831677"
     },
     {
       "id": "8c4a7559f07bd4ab",
@@ -2998,7 +2965,7 @@
       "stage": "Amfiscenen",
       "genre": null,
       "sold_out": true,
-      "scraped_at": "2026-06-03T09:24:59.602635"
+      "scraped_at": "2026-06-04T08:47:27.118906"
     },
     {
       "id": "05c46a237dd1634f",
@@ -3014,7 +2981,7 @@
       "stage": "Hovedscenen",
       "genre": null,
       "sold_out": true,
-      "scraped_at": "2026-06-03T09:24:55.841293"
+      "scraped_at": "2026-06-04T08:47:25.675401"
     },
     {
       "id": "dc016f5850a15246",
@@ -3030,7 +2997,7 @@
       "stage": "Lille scene\n    \n      (Black Box teater)",
       "genre": null,
       "sold_out": false,
-      "scraped_at": "2026-06-03T09:27:01.465770"
+      "scraped_at": "2026-06-04T08:48:54.831894"
     },
     {
       "id": "5086b5c7120326eb",
@@ -3046,7 +3013,7 @@
       "stage": "Hovedscenen",
       "genre": null,
       "sold_out": true,
-      "scraped_at": "2026-06-03T09:24:55.841313"
+      "scraped_at": "2026-06-04T08:47:25.675415"
     },
     {
       "id": "376a6470b2b050dd",
@@ -3062,7 +3029,7 @@
       "stage": "Amfiscenen",
       "genre": null,
       "sold_out": true,
-      "scraped_at": "2026-06-03T09:24:59.602651"
+      "scraped_at": "2026-06-04T08:47:27.118921"
     },
     {
       "id": "5bf67546d1aee147",
@@ -3078,7 +3045,7 @@
       "stage": "Hovedscenen",
       "genre": null,
       "sold_out": true,
-      "scraped_at": "2026-06-03T09:24:51.298183"
+      "scraped_at": "2026-06-04T08:47:22.431516"
     },
     {
       "id": "be65c308e706c10d",
@@ -3094,7 +3061,7 @@
       "stage": "Midtgolvet",
       "genre": null,
       "sold_out": false,
-      "scraped_at": "2026-06-03T09:26:49.440293"
+      "scraped_at": "2026-06-04T08:48:42.319808"
     },
     {
       "id": "14e76706eeabbd06",
@@ -3110,7 +3077,7 @@
       "stage": "Vega Scene",
       "genre": null,
       "sold_out": false,
-      "scraped_at": "2026-06-03T09:27:38.016974"
+      "scraped_at": "2026-06-04T08:49:29.108257"
     },
     {
       "id": "dc644fa72b392b7a",
@@ -3126,7 +3093,7 @@
       "stage": "Lille scene\n    \n      (Black Box teater)",
       "genre": null,
       "sold_out": false,
-      "scraped_at": "2026-06-03T09:27:01.466079"
+      "scraped_at": "2026-06-04T08:48:54.832099"
     },
     {
       "id": "01504c92046a5e0b",
@@ -3142,7 +3109,7 @@
       "stage": "Hovedscenen",
       "genre": null,
       "sold_out": true,
-      "scraped_at": "2026-06-03T09:24:51.298200"
+      "scraped_at": "2026-06-04T08:47:22.431532"
     },
     {
       "id": "c8dc4cc007dbc234",
@@ -3158,7 +3125,7 @@
       "stage": "Vega Scene",
       "genre": null,
       "sold_out": false,
-      "scraped_at": "2026-06-03T09:27:38.017379"
+      "scraped_at": "2026-06-04T08:49:29.108614"
     },
     {
       "id": "6550d2f2bca72a09",
@@ -3174,7 +3141,7 @@
       "stage": "Hovedscenen",
       "genre": null,
       "sold_out": true,
-      "scraped_at": "2026-06-03T09:24:51.298219"
+      "scraped_at": "2026-06-04T08:47:22.431549"
     },
     {
       "id": "c065747aa2cea574",
@@ -3190,7 +3157,7 @@
       "stage": "Hovudscenen",
       "genre": null,
       "sold_out": false,
-      "scraped_at": "2026-06-03T09:26:26.846592"
+      "scraped_at": "2026-06-04T08:48:29.545171"
     },
     {
       "id": "659ac8314d233f52",
@@ -3206,7 +3173,7 @@
       "stage": "Vega Scene",
       "genre": null,
       "sold_out": false,
-      "scraped_at": "2026-06-03T09:27:38.017759"
+      "scraped_at": "2026-06-04T08:49:29.108937"
     },
     {
       "id": "a8a39f94d3504293",
@@ -3222,15 +3189,15 @@
       "stage": null,
       "genre": null,
       "sold_out": false,
-      "scraped_at": "2026-06-03T09:28:14.873700"
+      "scraped_at": "2026-06-04T08:49:44.058465"
     },
     {
-      "id": "28ee1ca7af7f8a93",
+      "id": "780c3a82cb0131d3",
       "title": "Det har vore eit fantastisk år",
       "venue": "Det Norske Teatret",
       "venue_slug": "det-norske-teatret",
-      "start": "2026-08-25T20:30:00",
-      "end": "2026-08-25T22:15:00",
+      "start": "2026-08-25T20:45:00",
+      "end": "2026-08-25T22:45:00",
       "description": "Ein crazy-komedie laga på berre tre veker av gjengen bak Europavisjonar, om eit av dei store paradoksa i fredsnasjonen Noreg. Dette blir dødsmoro!",
       "image_url": "https://s3.eu-north-1.amazonaws.com/detnorsketeatret/media/_1200x630_crop_center-center_82_none/EirikMalmo_DNT_DetHarVoreEitFantastiskAr_MAA9580_02_LogobytteLiggende.jpg?mtime=1776074990",
       "ticket_url": "https://www.detnorsketeatret.no/framsyningar/det-har-vore-eit-fantastisk-ar",
@@ -3238,7 +3205,7 @@
       "stage": "Midtgolvet",
       "genre": null,
       "sold_out": false,
-      "scraped_at": "2026-06-03T09:26:49.440305"
+      "scraped_at": "2026-06-04T08:48:42.319820"
     },
     {
       "id": "e1e7be317595418c",
@@ -3254,7 +3221,7 @@
       "stage": "Amfiscenen",
       "genre": null,
       "sold_out": true,
-      "scraped_at": "2026-06-03T09:24:59.602666"
+      "scraped_at": "2026-06-04T08:47:27.118935"
     },
     {
       "id": "f432215264a04363",
@@ -3270,7 +3237,7 @@
       "stage": "Hovedscenen",
       "genre": null,
       "sold_out": false,
-      "scraped_at": "2026-06-03T09:25:53.004409"
+      "scraped_at": "2026-06-04T08:48:04.240875"
     },
     {
       "id": "0883ae0034fe55a4",
@@ -3286,7 +3253,7 @@
       "stage": "Scene 2",
       "genre": null,
       "sold_out": false,
-      "scraped_at": "2026-06-03T09:26:35.736220"
+      "scraped_at": "2026-06-04T08:48:35.026054"
     },
     {
       "id": "23c99ca48a5611f3",
@@ -3302,7 +3269,7 @@
       "stage": "Amfiscenen",
       "genre": null,
       "sold_out": true,
-      "scraped_at": "2026-06-03T09:24:59.602682"
+      "scraped_at": "2026-06-04T08:47:27.118948"
     },
     {
       "id": "c7c14089c48650b2",
@@ -3318,7 +3285,7 @@
       "stage": "Hovedscenen",
       "genre": null,
       "sold_out": true,
-      "scraped_at": "2026-06-03T09:24:55.841329"
+      "scraped_at": "2026-06-04T08:47:25.675433"
     },
     {
       "id": "c9fb2cace4254b05",
@@ -3334,7 +3301,7 @@
       "stage": "Lille scene\n    \n      (Black Box teater)",
       "genre": null,
       "sold_out": false,
-      "scraped_at": "2026-06-03T09:27:01.466363"
+      "scraped_at": "2026-06-04T08:48:54.832306"
     },
     {
       "id": "afee1f9ad50d1ea0",
@@ -3350,7 +3317,7 @@
       "stage": "Vega Scene",
       "genre": null,
       "sold_out": false,
-      "scraped_at": "2026-06-03T09:27:38.018161"
+      "scraped_at": "2026-06-04T08:49:29.109252"
     },
     {
       "id": "5a0314e5181b4f94",
@@ -3366,7 +3333,7 @@
       "stage": "Scene 2",
       "genre": null,
       "sold_out": false,
-      "scraped_at": "2026-06-03T09:26:34.499006"
+      "scraped_at": "2026-06-04T08:48:33.622075"
     },
     {
       "id": "e3217e003ef75593",
@@ -3382,7 +3349,7 @@
       "stage": "Midtgolvet",
       "genre": null,
       "sold_out": false,
-      "scraped_at": "2026-06-03T09:26:49.440316"
+      "scraped_at": "2026-06-04T08:48:42.319831"
     },
     {
       "id": "9e356dfa4dee02e5",
@@ -3398,7 +3365,7 @@
       "stage": "Hovedscenen",
       "genre": null,
       "sold_out": true,
-      "scraped_at": "2026-06-03T09:24:55.841346"
+      "scraped_at": "2026-06-04T08:47:25.675450"
     },
     {
       "id": "3b6afa81257c16a1",
@@ -3414,7 +3381,7 @@
       "stage": "Amfiscenen",
       "genre": null,
       "sold_out": true,
-      "scraped_at": "2026-06-03T09:24:59.602702"
+      "scraped_at": "2026-06-04T08:47:27.118962"
     },
     {
       "id": "c93ba292015f5743",
@@ -3430,7 +3397,7 @@
       "stage": "Scene 2",
       "genre": null,
       "sold_out": false,
-      "scraped_at": "2026-06-03T09:26:35.736244"
+      "scraped_at": "2026-06-04T08:48:35.026096"
     },
     {
       "id": "716c9d09f3d14dd4",
@@ -3446,7 +3413,7 @@
       "stage": "Hovudscenen",
       "genre": null,
       "sold_out": false,
-      "scraped_at": "2026-06-03T09:26:28.095221"
+      "scraped_at": "2026-06-04T08:48:29.713012"
     },
     {
       "id": "cfcd6d3052ea7c5f",
@@ -3462,7 +3429,7 @@
       "stage": "Store scene\n    \n      (Black Box teater)",
       "genre": null,
       "sold_out": false,
-      "scraped_at": "2026-06-03T09:27:01.466643"
+      "scraped_at": "2026-06-04T08:48:54.832546"
     },
     {
       "id": "131d8c2e5291750a",
@@ -3478,7 +3445,7 @@
       "stage": "Hovedscenen",
       "genre": null,
       "sold_out": true,
-      "scraped_at": "2026-06-03T09:24:55.841365"
+      "scraped_at": "2026-06-04T08:47:25.675482"
     },
     {
       "id": "a715d424e47782f1",
@@ -3494,7 +3461,7 @@
       "stage": "Amfiscenen",
       "genre": null,
       "sold_out": true,
-      "scraped_at": "2026-06-03T09:24:59.602718"
+      "scraped_at": "2026-06-04T08:47:27.118975"
     },
     {
       "id": "af54583c0d0a8323",
@@ -3510,7 +3477,7 @@
       "stage": "Hovedscenen",
       "genre": null,
       "sold_out": true,
-      "scraped_at": "2026-06-03T09:24:51.298237"
+      "scraped_at": "2026-06-04T08:47:22.431565"
     },
     {
       "id": "21831409d0778c49",
@@ -3526,7 +3493,7 @@
       "stage": "Hovudscenen",
       "genre": null,
       "sold_out": false,
-      "scraped_at": "2026-06-03T09:26:28.095245"
+      "scraped_at": "2026-06-04T08:48:29.713041"
     },
     {
       "id": "8f672e46a9e8005c",
@@ -3542,7 +3509,7 @@
       "stage": "Lille scene\n    \n      (Black Box teater)",
       "genre": null,
       "sold_out": false,
-      "scraped_at": "2026-06-03T09:27:01.466958"
+      "scraped_at": "2026-06-04T08:48:54.832755"
     },
     {
       "id": "1dcb1221378ba16f",
@@ -3558,7 +3525,7 @@
       "stage": "Hovedscenen",
       "genre": null,
       "sold_out": true,
-      "scraped_at": "2026-06-03T09:24:55.841388"
+      "scraped_at": "2026-06-04T08:47:25.675499"
     },
     {
       "id": "1822ec3491d9104d",
@@ -3574,7 +3541,23 @@
       "stage": "Hovedscenen",
       "genre": null,
       "sold_out": true,
-      "scraped_at": "2026-06-03T09:24:51.298255"
+      "scraped_at": "2026-06-04T08:47:22.431589"
+    },
+    {
+      "id": "789312fee09491cf",
+      "title": "Da vi var yngre",
+      "venue": "Det Norske Teatret",
+      "venue_slug": "det-norske-teatret",
+      "start": "2026-09-01T19:30:00",
+      "end": "2026-09-01T21:00:00",
+      "description": "Oliver Lovrenski brakdebuterte med romanen Da vi var yngre. No kjem den til scenen med Aksel Hennie i registolen og rapparen Jonas Benyoub i rolla som Ivor.",
+      "image_url": "https://s3.eu-north-1.amazonaws.com/detnorsketeatret/media/framsyningar/arv-og-miljo/_1200x630_crop_center-center_82_none/Da-vi-var-yngre_OHA-19.jpg?mtime=1771367338",
+      "ticket_url": "https://www.detnorsketeatret.no/framsyningar/da-vi-var-yngre",
+      "detail_url": "https://www.detnorsketeatret.no/framsyningar/da-vi-var-yngre",
+      "stage": "Scene 2",
+      "genre": null,
+      "sold_out": false,
+      "scraped_at": "2026-06-04T08:48:36.384799"
     },
     {
       "id": "464a062bc61d602a",
@@ -3590,7 +3573,7 @@
       "stage": "Hovedscenen",
       "genre": null,
       "sold_out": true,
-      "scraped_at": "2026-06-03T09:24:51.298272"
+      "scraped_at": "2026-06-04T08:47:22.431603"
     },
     {
       "id": "7b5dfc6cd39b404e",
@@ -3606,7 +3589,7 @@
       "stage": "Scene 2",
       "genre": null,
       "sold_out": false,
-      "scraped_at": "2026-06-03T09:26:34.499017"
+      "scraped_at": "2026-06-04T08:48:33.622085"
     },
     {
       "id": "849dd769ff581b37",
@@ -3622,7 +3605,7 @@
       "stage": "Midtgolvet",
       "genre": null,
       "sold_out": false,
-      "scraped_at": "2026-06-03T09:26:49.440327"
+      "scraped_at": "2026-06-04T08:48:42.319842"
     },
     {
       "id": "b8b1621709d79591",
@@ -3638,7 +3621,23 @@
       "stage": "Hovedscenen",
       "genre": null,
       "sold_out": true,
-      "scraped_at": "2026-06-03T09:24:51.298299"
+      "scraped_at": "2026-06-04T08:47:22.431621"
+    },
+    {
+      "id": "d44b32f1c7d45c5a",
+      "title": "Da vi var yngre",
+      "venue": "Det Norske Teatret",
+      "venue_slug": "det-norske-teatret",
+      "start": "2026-09-03T19:30:00",
+      "end": "2026-09-03T21:00:00",
+      "description": "Oliver Lovrenski brakdebuterte med romanen Da vi var yngre. No kjem den til scenen med Aksel Hennie i registolen og rapparen Jonas Benyoub i rolla som Ivor.",
+      "image_url": "https://s3.eu-north-1.amazonaws.com/detnorsketeatret/media/framsyningar/arv-og-miljo/_1200x630_crop_center-center_82_none/Da-vi-var-yngre_OHA-19.jpg?mtime=1771367338",
+      "ticket_url": "https://www.detnorsketeatret.no/framsyningar/da-vi-var-yngre",
+      "detail_url": "https://www.detnorsketeatret.no/framsyningar/da-vi-var-yngre",
+      "stage": "Scene 2",
+      "genre": null,
+      "sold_out": false,
+      "scraped_at": "2026-06-04T08:48:36.384810"
     },
     {
       "id": "76ce3e3a5a74b5df",
@@ -3654,7 +3653,7 @@
       "stage": null,
       "genre": "Musikal ,  Scenekvelder",
       "sold_out": true,
-      "scraped_at": "2026-06-03T09:28:21.024331"
+      "scraped_at": "2026-06-04T08:49:49.599488"
     },
     {
       "id": "6107f78a8174fd3f",
@@ -3670,7 +3669,7 @@
       "stage": "Hovedscenen",
       "genre": null,
       "sold_out": true,
-      "scraped_at": "2026-06-03T09:24:51.298322"
+      "scraped_at": "2026-06-04T08:47:22.431640"
     },
     {
       "id": "8e19a4e13adc03ff",
@@ -3686,7 +3685,7 @@
       "stage": "Scene 2",
       "genre": null,
       "sold_out": false,
-      "scraped_at": "2026-06-03T09:26:35.736258"
+      "scraped_at": "2026-06-04T08:48:35.026109"
     },
     {
       "id": "ee4177af8e1beb4d",
@@ -3702,7 +3701,7 @@
       "stage": null,
       "genre": "Musikal ,  Scenekvelder",
       "sold_out": false,
-      "scraped_at": "2026-06-03T09:28:21.024384"
+      "scraped_at": "2026-06-04T08:49:49.599539"
     },
     {
       "id": "e4c1f4ef2fd3771c",
@@ -3718,7 +3717,7 @@
       "stage": "Hovedscenen",
       "genre": null,
       "sold_out": true,
-      "scraped_at": "2026-06-03T09:24:51.298339"
+      "scraped_at": "2026-06-04T08:47:22.431655"
     },
     {
       "id": "655666832dfcdb74",
@@ -3734,7 +3733,7 @@
       "stage": null,
       "genre": "Musikal ,  Scenekvelder",
       "sold_out": false,
-      "scraped_at": "2026-06-03T09:28:21.024426"
+      "scraped_at": "2026-06-04T08:49:49.599575"
     },
     {
       "id": "de49f2b5239eb3c3",
@@ -3750,7 +3749,7 @@
       "stage": "Scene 2",
       "genre": null,
       "sold_out": false,
-      "scraped_at": "2026-06-03T09:26:35.736270"
+      "scraped_at": "2026-06-04T08:48:35.026121"
     },
     {
       "id": "3d30ecd253be8628",
@@ -3766,7 +3765,7 @@
       "stage": "Hovedscenen",
       "genre": null,
       "sold_out": true,
-      "scraped_at": "2026-06-03T09:25:48.087109"
+      "scraped_at": "2026-06-04T08:48:00.734775"
     },
     {
       "id": "b0dadc81b1d89c55",
@@ -3776,13 +3775,13 @@
       "start": "2026-09-05T17:00:00",
       "end": "2026-09-05T20:30:00",
       "description": "Opplev teaterversjonen av Jonas Hassen Khemiris kritikarroste roman - eit eit storslått familiedrama på Hovudscenen hausten 2026!",
-      "image_url": "https://s3.eu-north-1.amazonaws.com/detnorsketeatret/media/_1200x630_crop_center-center_82_none/Sostrene-forebels.jpg?mtime=1775654966",
+      "image_url": "https://s3.eu-north-1.amazonaws.com/detnorsketeatret/media/_1200x630_crop_center-center_82_none/EirikMalmo_DNT_Søstrere_M5A2614_Utkast_01.jpg?mtime=1779963754",
       "ticket_url": "https://www.detnorsketeatret.no/framsyningar/sostrene",
       "detail_url": "https://www.detnorsketeatret.no/framsyningar/sostrene",
       "stage": "Hovudscenen",
       "genre": null,
       "sold_out": false,
-      "scraped_at": "2026-06-03T09:26:29.371865"
+      "scraped_at": "2026-06-04T08:48:29.875852"
     },
     {
       "id": "9146862281e190d4",
@@ -3798,7 +3797,7 @@
       "stage": null,
       "genre": "Musikal ,  Scenekvelder",
       "sold_out": false,
-      "scraped_at": "2026-06-03T09:28:21.024467"
+      "scraped_at": "2026-06-04T08:49:49.599607"
     },
     {
       "id": "001f86c75be8ac90",
@@ -3814,7 +3813,7 @@
       "stage": null,
       "genre": "Musikal ,  Scenekvelder",
       "sold_out": false,
-      "scraped_at": "2026-06-03T09:28:21.024505"
+      "scraped_at": "2026-06-04T08:49:49.599637"
     },
     {
       "id": "c1d30c8f8820dab2",
@@ -3824,13 +3823,13 @@
       "start": "2026-09-08T19:00:00",
       "end": "2026-09-08T22:30:00",
       "description": "Opplev teaterversjonen av Jonas Hassen Khemiris kritikarroste roman - eit eit storslått familiedrama på Hovudscenen hausten 2026!",
-      "image_url": "https://s3.eu-north-1.amazonaws.com/detnorsketeatret/media/_1200x630_crop_center-center_82_none/Sostrene-forebels.jpg?mtime=1775654966",
+      "image_url": "https://s3.eu-north-1.amazonaws.com/detnorsketeatret/media/_1200x630_crop_center-center_82_none/EirikMalmo_DNT_Søstrere_M5A2614_Utkast_01.jpg?mtime=1779963754",
       "ticket_url": "https://www.detnorsketeatret.no/framsyningar/sostrene",
       "detail_url": "https://www.detnorsketeatret.no/framsyningar/sostrene",
       "stage": "Hovudscenen",
       "genre": null,
       "sold_out": false,
-      "scraped_at": "2026-06-03T09:26:29.371915"
+      "scraped_at": "2026-06-04T08:48:29.875876"
     },
     {
       "id": "4179800971c8febb",
@@ -3846,7 +3845,7 @@
       "stage": null,
       "genre": null,
       "sold_out": false,
-      "scraped_at": "2026-06-03T09:28:14.873818"
+      "scraped_at": "2026-06-04T08:49:44.058556"
     },
     {
       "id": "ea8995bca48beb94",
@@ -3862,7 +3861,7 @@
       "stage": null,
       "genre": "Konsert",
       "sold_out": false,
-      "scraped_at": "2026-06-03T09:28:22.104744"
+      "scraped_at": "2026-06-04T08:49:50.246623"
     },
     {
       "id": "febb4ef66b5b5156",
@@ -3878,7 +3877,7 @@
       "stage": null,
       "genre": null,
       "sold_out": false,
-      "scraped_at": "2026-06-03T09:28:14.873943"
+      "scraped_at": "2026-06-04T08:49:44.058622"
     },
     {
       "id": "8d0e9d3e062127d3",
@@ -3894,7 +3893,7 @@
       "stage": "Hovudscenen",
       "genre": null,
       "sold_out": false,
-      "scraped_at": "2026-06-03T09:26:15.628913"
+      "scraped_at": "2026-06-04T08:48:20.378846"
     },
     {
       "id": "cd8be6371fe921f7",
@@ -3910,7 +3909,7 @@
       "stage": "Hovedscenen",
       "genre": null,
       "sold_out": false,
-      "scraped_at": "2026-06-03T09:25:09.991835"
+      "scraped_at": "2026-06-04T08:47:37.497259"
     },
     {
       "id": "c1181a331cf5f8f8",
@@ -3926,7 +3925,7 @@
       "stage": "Hovudscenen",
       "genre": null,
       "sold_out": false,
-      "scraped_at": "2026-06-03T09:26:28.095258"
+      "scraped_at": "2026-06-04T08:48:29.713053"
     },
     {
       "id": "b8ef59b3b95f252c",
@@ -3942,7 +3941,7 @@
       "stage": null,
       "genre": "Musikal ,  Scenekvelder",
       "sold_out": false,
-      "scraped_at": "2026-06-03T09:28:21.024538"
+      "scraped_at": "2026-06-04T08:49:49.599668"
     },
     {
       "id": "e3da9cbcf107cc4a",
@@ -3952,13 +3951,13 @@
       "start": "2026-09-11T19:00:00",
       "end": "2026-09-11T22:30:00",
       "description": "Opplev teaterversjonen av Jonas Hassen Khemiris kritikarroste roman - eit eit storslått familiedrama på Hovudscenen hausten 2026!",
-      "image_url": "https://s3.eu-north-1.amazonaws.com/detnorsketeatret/media/_1200x630_crop_center-center_82_none/Sostrene-forebels.jpg?mtime=1775654966",
+      "image_url": "https://s3.eu-north-1.amazonaws.com/detnorsketeatret/media/_1200x630_crop_center-center_82_none/EirikMalmo_DNT_Søstrere_M5A2614_Utkast_01.jpg?mtime=1779963754",
       "ticket_url": "https://www.detnorsketeatret.no/framsyningar/sostrene",
       "detail_url": "https://www.detnorsketeatret.no/framsyningar/sostrene",
       "stage": "Hovudscenen",
       "genre": null,
       "sold_out": false,
-      "scraped_at": "2026-06-03T09:26:29.371930"
+      "scraped_at": "2026-06-04T08:48:29.875887"
     },
     {
       "id": "02da9c2378de21de",
@@ -3974,7 +3973,7 @@
       "stage": "Scene 2",
       "genre": null,
       "sold_out": false,
-      "scraped_at": "2026-06-03T09:26:39.513778"
+      "scraped_at": "2026-06-04T08:48:36.959117"
     },
     {
       "id": "8ee184e4d6ab9ab4",
@@ -3990,7 +3989,7 @@
       "stage": null,
       "genre": "Musikal ,  Scenekvelder",
       "sold_out": false,
-      "scraped_at": "2026-06-03T09:28:21.024570"
+      "scraped_at": "2026-06-04T08:49:49.599698"
     },
     {
       "id": "ee9d69c5584c5a53",
@@ -4006,7 +4005,7 @@
       "stage": null,
       "genre": "Musikal ,  Scenekvelder",
       "sold_out": false,
-      "scraped_at": "2026-06-03T09:28:21.024608"
+      "scraped_at": "2026-06-04T08:49:49.599735"
     },
     {
       "id": "a0903f5a1709c9d3",
@@ -4022,7 +4021,7 @@
       "stage": "Torshovteatret",
       "genre": null,
       "sold_out": false,
-      "scraped_at": "2026-06-03T09:25:39.907578"
+      "scraped_at": "2026-06-04T08:47:55.348184"
     },
     {
       "id": "aa05130e9621a361",
@@ -4038,7 +4037,7 @@
       "stage": "Hovedscenen",
       "genre": null,
       "sold_out": true,
-      "scraped_at": "2026-06-03T09:24:55.841404"
+      "scraped_at": "2026-06-04T08:47:25.675516"
     },
     {
       "id": "5b9925aa1e565de7",
@@ -4054,7 +4053,7 @@
       "stage": "Hovudscenen",
       "genre": null,
       "sold_out": false,
-      "scraped_at": "2026-06-03T09:26:15.628924"
+      "scraped_at": "2026-06-04T08:48:20.378856"
     },
     {
       "id": "5ce398c38d6f34ab",
@@ -4070,7 +4069,7 @@
       "stage": "Scene 2",
       "genre": null,
       "sold_out": false,
-      "scraped_at": "2026-06-03T09:26:39.513803"
+      "scraped_at": "2026-06-04T08:48:36.959140"
     },
     {
       "id": "f5c2b569b110385e",
@@ -4086,7 +4085,7 @@
       "stage": null,
       "genre": "Musikal ,  Scenekvelder",
       "sold_out": false,
-      "scraped_at": "2026-06-03T09:28:21.024641"
+      "scraped_at": "2026-06-04T08:49:49.599765"
     },
     {
       "id": "98c789e9489c8f3a",
@@ -4102,7 +4101,7 @@
       "stage": null,
       "genre": "Musikal ,  Scenekvelder",
       "sold_out": false,
-      "scraped_at": "2026-06-03T09:28:21.024674"
+      "scraped_at": "2026-06-04T08:49:49.599796"
     },
     {
       "id": "a6b34374494dfe23",
@@ -4118,7 +4117,7 @@
       "stage": "Hovudscenen",
       "genre": null,
       "sold_out": false,
-      "scraped_at": "2026-06-03T09:26:28.095270"
+      "scraped_at": "2026-06-04T08:48:29.713064"
     },
     {
       "id": "ba514081d07560cb",
@@ -4134,7 +4133,7 @@
       "stage": "Bikuben",
       "genre": null,
       "sold_out": false,
-      "scraped_at": "2026-06-03T09:26:47.273204"
+      "scraped_at": "2026-06-04T08:48:41.745548"
     },
     {
       "id": "a70d330e4b70a706",
@@ -4150,7 +4149,7 @@
       "stage": "Riksteatret",
       "genre": null,
       "sold_out": false,
-      "scraped_at": "2026-06-03T09:27:37.084047"
+      "scraped_at": "2026-06-04T08:49:28.557485"
     },
     {
       "id": "784c9d74830ba733",
@@ -4166,7 +4165,7 @@
       "stage": "Hovudscenen",
       "genre": null,
       "sold_out": false,
-      "scraped_at": "2026-06-03T09:26:15.628935"
+      "scraped_at": "2026-06-04T08:48:20.378866"
     },
     {
       "id": "ea7d18b0e69485e9",
@@ -4182,7 +4181,7 @@
       "stage": null,
       "genre": "Konsert",
       "sold_out": true,
-      "scraped_at": "2026-06-03T09:28:22.640401"
+      "scraped_at": "2026-06-04T08:49:50.520200"
     },
     {
       "id": "95a802066f3ab735",
@@ -4198,7 +4197,7 @@
       "stage": "Scene 2",
       "genre": null,
       "sold_out": false,
-      "scraped_at": "2026-06-03T09:26:39.513816"
+      "scraped_at": "2026-06-04T08:48:36.959152"
     },
     {
       "id": "ee12bf79c3bde7be",
@@ -4214,7 +4213,7 @@
       "stage": "Riksteatret",
       "genre": null,
       "sold_out": false,
-      "scraped_at": "2026-06-03T09:27:37.084449"
+      "scraped_at": "2026-06-04T08:49:28.558012"
     },
     {
       "id": "17c71cbefc800c00",
@@ -4230,7 +4229,7 @@
       "stage": "Amfiscenen",
       "genre": null,
       "sold_out": true,
-      "scraped_at": "2026-06-03T09:24:59.602733"
+      "scraped_at": "2026-06-04T08:47:27.118989"
     },
     {
       "id": "16794d7a54a75e40",
@@ -4246,7 +4245,7 @@
       "stage": "Scene 2",
       "genre": null,
       "sold_out": false,
-      "scraped_at": "2026-06-03T09:26:35.736281"
+      "scraped_at": "2026-06-04T08:48:35.026131"
     },
     {
       "id": "42c7f76d92f99045",
@@ -4262,7 +4261,7 @@
       "stage": "Hovudscenen",
       "genre": null,
       "sold_out": false,
-      "scraped_at": "2026-06-03T09:26:28.095281"
+      "scraped_at": "2026-06-04T08:48:29.713074"
     },
     {
       "id": "e6d7a3a532be2808",
@@ -4278,7 +4277,7 @@
       "stage": null,
       "genre": "Musikal ,  Scenekvelder",
       "sold_out": false,
-      "scraped_at": "2026-06-03T09:28:21.024705"
+      "scraped_at": "2026-06-04T08:49:49.599825"
     },
     {
       "id": "d7f8af4e04f47f13",
@@ -4294,7 +4293,7 @@
       "stage": "Bikuben",
       "genre": null,
       "sold_out": false,
-      "scraped_at": "2026-06-03T09:26:47.273217"
+      "scraped_at": "2026-06-04T08:48:41.745561"
     },
     {
       "id": "da30bb203b4cabfc",
@@ -4310,7 +4309,7 @@
       "stage": "Riksteatret",
       "genre": null,
       "sold_out": false,
-      "scraped_at": "2026-06-03T09:27:37.084931"
+      "scraped_at": "2026-06-04T08:49:28.558710"
     },
     {
       "id": "0f5a7709f37d1c98",
@@ -4326,7 +4325,7 @@
       "stage": "Scene 2",
       "genre": null,
       "sold_out": false,
-      "scraped_at": "2026-06-03T09:26:39.513828"
+      "scraped_at": "2026-06-04T08:48:36.959162"
     },
     {
       "id": "ed1bd4e7ce9a95dd",
@@ -4342,7 +4341,7 @@
       "stage": null,
       "genre": "Musikal ,  Scenekvelder",
       "sold_out": false,
-      "scraped_at": "2026-06-03T09:28:21.024739"
+      "scraped_at": "2026-06-04T08:49:49.599855"
     },
     {
       "id": "baafd4b410ddd82f",
@@ -4358,7 +4357,7 @@
       "stage": "Amfiscenen",
       "genre": null,
       "sold_out": false,
-      "scraped_at": "2026-06-03T09:25:43.055116"
+      "scraped_at": "2026-06-04T08:47:57.612558"
     },
     {
       "id": "06011f63a9549748",
@@ -4374,7 +4373,7 @@
       "stage": "Hovedscenen",
       "genre": null,
       "sold_out": true,
-      "scraped_at": "2026-06-03T09:24:55.841419"
+      "scraped_at": "2026-06-04T08:47:25.675530"
     },
     {
       "id": "2d06396776e7285c",
@@ -4390,7 +4389,7 @@
       "stage": null,
       "genre": "Musikal ,  Scenekvelder",
       "sold_out": false,
-      "scraped_at": "2026-06-03T09:28:21.024770"
+      "scraped_at": "2026-06-04T08:49:49.599884"
     },
     {
       "id": "faefddf90c85dd2f",
@@ -4406,7 +4405,7 @@
       "stage": "Hovudscenen",
       "genre": null,
       "sold_out": false,
-      "scraped_at": "2026-06-03T09:26:28.095293"
+      "scraped_at": "2026-06-04T08:48:29.713085"
     },
     {
       "id": "ff05cfd8572c208e",
@@ -4422,7 +4421,7 @@
       "stage": "Scene 2",
       "genre": null,
       "sold_out": false,
-      "scraped_at": "2026-06-03T09:26:39.513840"
+      "scraped_at": "2026-06-04T08:48:36.959173"
     },
     {
       "id": "699e7b9e7bf27f19",
@@ -4438,7 +4437,7 @@
       "stage": "Hovedscenen",
       "genre": null,
       "sold_out": true,
-      "scraped_at": "2026-06-03T09:24:55.841438"
+      "scraped_at": "2026-06-04T08:47:25.675544"
     },
     {
       "id": "856d6a5e0d1965c3",
@@ -4454,7 +4453,7 @@
       "stage": null,
       "genre": "Musikal ,  Scenekvelder",
       "sold_out": false,
-      "scraped_at": "2026-06-03T09:28:21.024802"
+      "scraped_at": "2026-06-04T08:49:49.599914"
     },
     {
       "id": "07c66a73e510f5b1",
@@ -4470,7 +4469,7 @@
       "stage": "Scene 2",
       "genre": null,
       "sold_out": false,
-      "scraped_at": "2026-06-03T09:26:35.736293"
+      "scraped_at": "2026-06-04T08:48:35.026142"
     },
     {
       "id": "bde56e8dbd838238",
@@ -4480,13 +4479,13 @@
       "start": "2026-09-19T17:00:00",
       "end": "2026-09-19T20:30:00",
       "description": "Opplev teaterversjonen av Jonas Hassen Khemiris kritikarroste roman - eit eit storslått familiedrama på Hovudscenen hausten 2026!",
-      "image_url": "https://s3.eu-north-1.amazonaws.com/detnorsketeatret/media/_1200x630_crop_center-center_82_none/Sostrene-forebels.jpg?mtime=1775654966",
+      "image_url": "https://s3.eu-north-1.amazonaws.com/detnorsketeatret/media/_1200x630_crop_center-center_82_none/EirikMalmo_DNT_Søstrere_M5A2614_Utkast_01.jpg?mtime=1779963754",
       "ticket_url": "https://www.detnorsketeatret.no/framsyningar/sostrene",
       "detail_url": "https://www.detnorsketeatret.no/framsyningar/sostrene",
       "stage": "Hovudscenen",
       "genre": null,
       "sold_out": false,
-      "scraped_at": "2026-06-03T09:26:29.371941"
+      "scraped_at": "2026-06-04T08:48:29.875901"
     },
     {
       "id": "ed88c9084b20a5fb",
@@ -4502,7 +4501,7 @@
       "stage": "Hovedscenen",
       "genre": "Kun én kveld!",
       "sold_out": false,
-      "scraped_at": "2026-06-03T09:27:39.987312"
+      "scraped_at": "2026-06-04T08:49:30.387442"
     },
     {
       "id": "3cfd8ea1b76cc165",
@@ -4518,7 +4517,7 @@
       "stage": null,
       "genre": "Musikal ,  Scenekvelder",
       "sold_out": false,
-      "scraped_at": "2026-06-03T09:28:21.024833"
+      "scraped_at": "2026-06-04T08:49:49.599942"
     },
     {
       "id": "f05712d93b4e2492",
@@ -4534,7 +4533,7 @@
       "stage": "Hovudscenen",
       "genre": null,
       "sold_out": false,
-      "scraped_at": "2026-06-03T09:26:15.628947"
+      "scraped_at": "2026-06-04T08:48:20.378876"
     },
     {
       "id": "5f7a60493e269380",
@@ -4550,7 +4549,7 @@
       "stage": "Bikuben",
       "genre": null,
       "sold_out": false,
-      "scraped_at": "2026-06-03T09:26:47.273228"
+      "scraped_at": "2026-06-04T08:48:41.745571"
     },
     {
       "id": "7ac037a50f575c5f",
@@ -4566,7 +4565,7 @@
       "stage": "Hovedscenen",
       "genre": null,
       "sold_out": false,
-      "scraped_at": "2026-06-03T09:25:13.053921"
+      "scraped_at": "2026-06-04T08:47:39.361629"
     },
     {
       "id": "3c62e5c588e14fbe",
@@ -4582,7 +4581,7 @@
       "stage": "Hovudscenen",
       "genre": null,
       "sold_out": false,
-      "scraped_at": "2026-06-03T09:26:15.628958"
+      "scraped_at": "2026-06-04T08:48:20.378887"
     },
     {
       "id": "c06395b15009721f",
@@ -4598,7 +4597,7 @@
       "stage": "Scene 2",
       "genre": null,
       "sold_out": false,
-      "scraped_at": "2026-06-03T09:26:39.513851"
+      "scraped_at": "2026-06-04T08:48:36.959183"
     },
     {
       "id": "7a26951137e1e3ba",
@@ -4614,7 +4613,7 @@
       "stage": "Hovudscenen",
       "genre": null,
       "sold_out": false,
-      "scraped_at": "2026-06-03T09:26:28.095305"
+      "scraped_at": "2026-06-04T08:48:29.713096"
     },
     {
       "id": "e014063bd1e3d077",
@@ -4630,7 +4629,7 @@
       "stage": "Scene 2",
       "genre": null,
       "sold_out": false,
-      "scraped_at": "2026-06-03T09:26:34.499029"
+      "scraped_at": "2026-06-04T08:48:33.622097"
     },
     {
       "id": "f38f088f0b5cf617",
@@ -4646,7 +4645,7 @@
       "stage": null,
       "genre": "Annet",
       "sold_out": false,
-      "scraped_at": "2026-06-03T09:28:23.171006"
+      "scraped_at": "2026-06-04T08:49:50.811378"
     },
     {
       "id": "69716631f0967105",
@@ -4662,7 +4661,7 @@
       "stage": "Scene 3",
       "genre": null,
       "sold_out": false,
-      "scraped_at": "2026-06-03T09:26:43.880848"
+      "scraped_at": "2026-06-04T08:48:38.370009"
     },
     {
       "id": "70b66095348222bf",
@@ -4678,7 +4677,7 @@
       "stage": "Scene 2",
       "genre": null,
       "sold_out": false,
-      "scraped_at": "2026-06-03T09:26:35.736303"
+      "scraped_at": "2026-06-04T08:48:35.026153"
     },
     {
       "id": "61d9d146f4052364",
@@ -4688,13 +4687,13 @@
       "start": "2026-09-24T19:00:00",
       "end": "2026-09-24T22:30:00",
       "description": "Opplev teaterversjonen av Jonas Hassen Khemiris kritikarroste roman - eit eit storslått familiedrama på Hovudscenen hausten 2026!",
-      "image_url": "https://s3.eu-north-1.amazonaws.com/detnorsketeatret/media/_1200x630_crop_center-center_82_none/Sostrene-forebels.jpg?mtime=1775654966",
+      "image_url": "https://s3.eu-north-1.amazonaws.com/detnorsketeatret/media/_1200x630_crop_center-center_82_none/EirikMalmo_DNT_Søstrere_M5A2614_Utkast_01.jpg?mtime=1779963754",
       "ticket_url": "https://www.detnorsketeatret.no/framsyningar/sostrene",
       "detail_url": "https://www.detnorsketeatret.no/framsyningar/sostrene",
       "stage": "Hovudscenen",
       "genre": null,
       "sold_out": false,
-      "scraped_at": "2026-06-03T09:26:29.371952"
+      "scraped_at": "2026-06-04T08:48:29.875911"
     },
     {
       "id": "be30d5e1e4922fce",
@@ -4710,7 +4709,7 @@
       "stage": null,
       "genre": null,
       "sold_out": false,
-      "scraped_at": "2026-06-03T09:28:14.874043"
+      "scraped_at": "2026-06-04T08:49:44.058686"
     },
     {
       "id": "30861fcf07e337a6",
@@ -4726,7 +4725,7 @@
       "stage": null,
       "genre": "Musikal ,  Scenekvelder",
       "sold_out": false,
-      "scraped_at": "2026-06-03T09:28:21.024863"
+      "scraped_at": "2026-06-04T08:49:49.599971"
     },
     {
       "id": "ddd32040a3e1910c",
@@ -4742,7 +4741,7 @@
       "stage": "Scene 3",
       "genre": null,
       "sold_out": false,
-      "scraped_at": "2026-06-03T09:26:43.880890"
+      "scraped_at": "2026-06-04T08:48:38.370033"
     },
     {
       "id": "eb410af86367da50",
@@ -4752,13 +4751,13 @@
       "start": "2026-09-25T19:00:00",
       "end": "2026-09-25T22:30:00",
       "description": "Opplev teaterversjonen av Jonas Hassen Khemiris kritikarroste roman - eit eit storslått familiedrama på Hovudscenen hausten 2026!",
-      "image_url": "https://s3.eu-north-1.amazonaws.com/detnorsketeatret/media/_1200x630_crop_center-center_82_none/Sostrene-forebels.jpg?mtime=1775654966",
+      "image_url": "https://s3.eu-north-1.amazonaws.com/detnorsketeatret/media/_1200x630_crop_center-center_82_none/EirikMalmo_DNT_Søstrere_M5A2614_Utkast_01.jpg?mtime=1779963754",
       "ticket_url": "https://www.detnorsketeatret.no/framsyningar/sostrene",
       "detail_url": "https://www.detnorsketeatret.no/framsyningar/sostrene",
       "stage": "Hovudscenen",
       "genre": null,
       "sold_out": false,
-      "scraped_at": "2026-06-03T09:26:29.371964"
+      "scraped_at": "2026-06-04T08:48:29.875922"
     },
     {
       "id": "679a308d600ebe27",
@@ -4774,7 +4773,7 @@
       "stage": "Store scene\n    \n      (Black Box teater)",
       "genre": null,
       "sold_out": false,
-      "scraped_at": "2026-06-03T09:27:01.467246"
+      "scraped_at": "2026-06-04T08:48:54.832960"
     },
     {
       "id": "aa003a0efd384b3a",
@@ -4790,7 +4789,7 @@
       "stage": "Scene 2",
       "genre": null,
       "sold_out": false,
-      "scraped_at": "2026-06-03T09:26:39.513863"
+      "scraped_at": "2026-06-04T08:48:36.959194"
     },
     {
       "id": "d43186a630c1b88b",
@@ -4806,7 +4805,7 @@
       "stage": null,
       "genre": "Musikal ,  Scenekvelder",
       "sold_out": false,
-      "scraped_at": "2026-06-03T09:28:21.024912"
+      "scraped_at": "2026-06-04T08:49:49.600000"
     },
     {
       "id": "32103daf7044d51e",
@@ -4822,7 +4821,7 @@
       "stage": null,
       "genre": "Musikal ,  Scenekvelder",
       "sold_out": false,
-      "scraped_at": "2026-06-03T09:28:21.024943"
+      "scraped_at": "2026-06-04T08:49:49.600028"
     },
     {
       "id": "02effdd9ac7b03b1",
@@ -4838,7 +4837,7 @@
       "stage": "Amfiscenen",
       "genre": null,
       "sold_out": false,
-      "scraped_at": "2026-06-03T09:25:54.859604"
+      "scraped_at": "2026-06-04T08:48:05.573445"
     },
     {
       "id": "aa5df2a23169440a",
@@ -4854,7 +4853,23 @@
       "stage": "Scene 3",
       "genre": null,
       "sold_out": false,
-      "scraped_at": "2026-06-03T09:26:43.880908"
+      "scraped_at": "2026-06-04T08:48:38.370045"
+    },
+    {
+      "id": "e7611a795d007783",
+      "title": "Da vi var yngre",
+      "venue": "Det Norske Teatret",
+      "venue_slug": "det-norske-teatret",
+      "start": "2026-09-26T17:30:00",
+      "end": "2026-09-26T19:00:00",
+      "description": "Oliver Lovrenski brakdebuterte med romanen Da vi var yngre. No kjem den til scenen med Aksel Hennie i registolen og rapparen Jonas Benyoub i rolla som Ivor.",
+      "image_url": "https://s3.eu-north-1.amazonaws.com/detnorsketeatret/media/framsyningar/arv-og-miljo/_1200x630_crop_center-center_82_none/Da-vi-var-yngre_OHA-19.jpg?mtime=1771367338",
+      "ticket_url": "https://www.detnorsketeatret.no/framsyningar/da-vi-var-yngre",
+      "detail_url": "https://www.detnorsketeatret.no/framsyningar/da-vi-var-yngre",
+      "stage": "Scene 2",
+      "genre": null,
+      "sold_out": false,
+      "scraped_at": "2026-06-04T08:48:36.384820"
     },
     {
       "id": "4ca7804dee78f1b1",
@@ -4870,7 +4885,7 @@
       "stage": "Hovudscenen",
       "genre": null,
       "sold_out": false,
-      "scraped_at": "2026-06-03T09:26:28.095316"
+      "scraped_at": "2026-06-04T08:48:29.713107"
     },
     {
       "id": "e2bee2b6afeca32a",
@@ -4886,7 +4901,7 @@
       "stage": "Store scene\n    \n      (Black Box teater)",
       "genre": null,
       "sold_out": false,
-      "scraped_at": "2026-06-03T09:27:01.467519"
+      "scraped_at": "2026-06-04T08:48:54.833160"
     },
     {
       "id": "508f3b2fff1a8474",
@@ -4902,7 +4917,7 @@
       "stage": null,
       "genre": "Musikal ,  Scenekvelder",
       "sold_out": false,
-      "scraped_at": "2026-06-03T09:28:21.024975"
+      "scraped_at": "2026-06-04T08:49:49.600059"
     },
     {
       "id": "ff88bcf9156214c4",
@@ -4918,7 +4933,7 @@
       "stage": "Hovedscenen",
       "genre": null,
       "sold_out": false,
-      "scraped_at": "2026-06-03T09:25:25.873039"
+      "scraped_at": "2026-06-04T08:47:46.495737"
     },
     {
       "id": "c2532524fc36d9f2",
@@ -4934,7 +4949,7 @@
       "stage": null,
       "genre": "Musikal ,  Scenekvelder",
       "sold_out": false,
-      "scraped_at": "2026-06-03T09:28:21.025006"
+      "scraped_at": "2026-06-04T08:49:49.600088"
     },
     {
       "id": "dfcf6b2e10cbe9ab",
@@ -4950,7 +4965,7 @@
       "stage": "Hovudscenen",
       "genre": null,
       "sold_out": false,
-      "scraped_at": "2026-06-03T09:26:28.095340"
+      "scraped_at": "2026-06-04T08:48:29.713117"
     },
     {
       "id": "8f5d508d3f200b4c",
@@ -4966,7 +4981,7 @@
       "stage": "Hovudscenen",
       "genre": null,
       "sold_out": false,
-      "scraped_at": "2026-06-03T09:26:28.095351"
+      "scraped_at": "2026-06-04T08:48:29.713128"
     },
     {
       "id": "113fb2637d942af1",
@@ -4982,7 +4997,7 @@
       "stage": "Store scene\n    \n      (Black Box teater)",
       "genre": null,
       "sold_out": false,
-      "scraped_at": "2026-06-03T09:27:01.467792"
+      "scraped_at": "2026-06-04T08:48:54.833353"
     },
     {
       "id": "bbd951d2ba26f784",
@@ -4998,7 +5013,7 @@
       "stage": "Bikuben",
       "genre": null,
       "sold_out": false,
-      "scraped_at": "2026-06-03T09:26:47.273239"
+      "scraped_at": "2026-06-04T08:48:41.745582"
     },
     {
       "id": "ef01e07910fd2fd6",
@@ -5014,7 +5029,7 @@
       "stage": "Scene 3",
       "genre": null,
       "sold_out": false,
-      "scraped_at": "2026-06-03T09:26:43.880919"
+      "scraped_at": "2026-06-04T08:48:38.370055"
     },
     {
       "id": "bc8ff0848d333960",
@@ -5030,7 +5045,23 @@
       "stage": "Hovedscenen",
       "genre": null,
       "sold_out": true,
-      "scraped_at": "2026-06-03T09:24:55.841454"
+      "scraped_at": "2026-06-04T08:47:25.675561"
+    },
+    {
+      "id": "7ef05c477ee19e77",
+      "title": "Søstrene",
+      "venue": "Det Norske Teatret",
+      "venue_slug": "det-norske-teatret",
+      "start": "2026-09-29T19:00:00",
+      "end": "2026-09-29T22:30:00",
+      "description": "Opplev teaterversjonen av Jonas Hassen Khemiris kritikarroste roman - eit eit storslått familiedrama på Hovudscenen hausten 2026!",
+      "image_url": "https://s3.eu-north-1.amazonaws.com/detnorsketeatret/media/_1200x630_crop_center-center_82_none/EirikMalmo_DNT_Søstrere_M5A2614_Utkast_01.jpg?mtime=1779963754",
+      "ticket_url": "https://www.detnorsketeatret.no/framsyningar/sostrene",
+      "detail_url": "https://www.detnorsketeatret.no/framsyningar/sostrene",
+      "stage": "Hovudscenen",
+      "genre": null,
+      "sold_out": false,
+      "scraped_at": "2026-06-04T08:48:29.875932"
     },
     {
       "id": "d19cc6ceba7f92c8",
@@ -5046,7 +5077,7 @@
       "stage": "Scene 2",
       "genre": null,
       "sold_out": false,
-      "scraped_at": "2026-06-03T09:26:39.513896"
+      "scraped_at": "2026-06-04T08:48:36.959204"
     },
     {
       "id": "eaf7f1c88fcad365",
@@ -5062,7 +5093,7 @@
       "stage": "Scene 3",
       "genre": null,
       "sold_out": false,
-      "scraped_at": "2026-06-03T09:26:43.880935"
+      "scraped_at": "2026-06-04T08:48:38.370065"
     },
     {
       "id": "30865061610a52b6",
@@ -5078,7 +5109,7 @@
       "stage": "Hovudscenen",
       "genre": null,
       "sold_out": false,
-      "scraped_at": "2026-06-03T09:26:15.628968"
+      "scraped_at": "2026-06-04T08:48:20.378896"
     },
     {
       "id": "25d5ed34309fd876",
@@ -5094,7 +5125,7 @@
       "stage": "Scene 2",
       "genre": null,
       "sold_out": false,
-      "scraped_at": "2026-06-03T09:26:39.513912"
+      "scraped_at": "2026-06-04T08:48:36.959214"
     },
     {
       "id": "e38d5884b89fa81c",
@@ -5110,7 +5141,7 @@
       "stage": "Bikuben",
       "genre": null,
       "sold_out": false,
-      "scraped_at": "2026-06-03T09:26:47.273251"
+      "scraped_at": "2026-06-04T08:48:41.745592"
     },
     {
       "id": "9fb6e9f708176567",
@@ -5126,7 +5157,7 @@
       "stage": "Lille scene\n    \n      (Black Box teater)",
       "genre": null,
       "sold_out": false,
-      "scraped_at": "2026-06-03T09:27:01.468100"
+      "scraped_at": "2026-06-04T08:48:54.833570"
     },
     {
       "id": "a47db889594c9636",
@@ -5142,7 +5173,7 @@
       "stage": null,
       "genre": null,
       "sold_out": false,
-      "scraped_at": "2026-06-03T09:28:14.874147"
+      "scraped_at": "2026-06-04T08:49:44.058754"
     },
     {
       "id": "de37188fce8dd784",
@@ -5158,7 +5189,7 @@
       "stage": "Hovudscenen",
       "genre": null,
       "sold_out": false,
-      "scraped_at": "2026-06-03T09:26:15.628979"
+      "scraped_at": "2026-06-04T08:48:20.378906"
     },
     {
       "id": "a40c0de3f9e351a6",
@@ -5174,7 +5205,7 @@
       "stage": "Scene 2",
       "genre": null,
       "sold_out": false,
-      "scraped_at": "2026-06-03T09:26:39.513924"
+      "scraped_at": "2026-06-04T08:48:36.959224"
     },
     {
       "id": "eb4764e0092306df",
@@ -5190,7 +5221,7 @@
       "stage": "Hovedscenen",
       "genre": null,
       "sold_out": true,
-      "scraped_at": "2026-06-03T09:24:55.841468"
+      "scraped_at": "2026-06-04T08:47:25.675575"
     },
     {
       "id": "fd8e9f085e602221",
@@ -5206,7 +5237,23 @@
       "stage": "Scene 3",
       "genre": null,
       "sold_out": false,
-      "scraped_at": "2026-06-03T09:26:43.880946"
+      "scraped_at": "2026-06-04T08:48:38.370075"
+    },
+    {
+      "id": "5b9692fdf728b984",
+      "title": "Søstrene",
+      "venue": "Det Norske Teatret",
+      "venue_slug": "det-norske-teatret",
+      "start": "2026-10-02T19:00:00",
+      "end": "2026-10-02T22:30:00",
+      "description": "Opplev teaterversjonen av Jonas Hassen Khemiris kritikarroste roman - eit eit storslått familiedrama på Hovudscenen hausten 2026!",
+      "image_url": "https://s3.eu-north-1.amazonaws.com/detnorsketeatret/media/_1200x630_crop_center-center_82_none/EirikMalmo_DNT_Søstrere_M5A2614_Utkast_01.jpg?mtime=1779963754",
+      "ticket_url": "https://www.detnorsketeatret.no/framsyningar/sostrene",
+      "detail_url": "https://www.detnorsketeatret.no/framsyningar/sostrene",
+      "stage": "Hovudscenen",
+      "genre": null,
+      "sold_out": false,
+      "scraped_at": "2026-06-04T08:48:29.875942"
     },
     {
       "id": "6d848178fddb72cb",
@@ -5222,7 +5269,7 @@
       "stage": "Lille scene\n    \n      (Black Box teater)",
       "genre": null,
       "sold_out": false,
-      "scraped_at": "2026-06-03T09:27:01.468369"
+      "scraped_at": "2026-06-04T08:48:54.833764"
     },
     {
       "id": "898f37344bdbc214",
@@ -5238,7 +5285,7 @@
       "stage": "Scene 2",
       "genre": null,
       "sold_out": false,
-      "scraped_at": "2026-06-03T09:26:34.499039"
+      "scraped_at": "2026-06-04T08:48:33.622108"
     },
     {
       "id": "111ae7ffd54d113c",
@@ -5254,7 +5301,7 @@
       "stage": null,
       "genre": "Musikal ,  Scenekvelder",
       "sold_out": false,
-      "scraped_at": "2026-06-03T09:28:21.025037"
+      "scraped_at": "2026-06-04T08:49:49.600117"
     },
     {
       "id": "9697f8bf40933b2c",
@@ -5270,7 +5317,7 @@
       "stage": "Hovedscenen",
       "genre": null,
       "sold_out": true,
-      "scraped_at": "2026-06-03T09:24:55.841483"
+      "scraped_at": "2026-06-04T08:47:25.675589"
     },
     {
       "id": "01cb28666936cd5d",
@@ -5286,7 +5333,7 @@
       "stage": null,
       "genre": "Musikal ,  Scenekvelder",
       "sold_out": false,
-      "scraped_at": "2026-06-03T09:28:21.025068"
+      "scraped_at": "2026-06-04T08:49:49.600147"
     },
     {
       "id": "ecf48455290f921b",
@@ -5302,7 +5349,23 @@
       "stage": "Hovudscenen",
       "genre": null,
       "sold_out": false,
-      "scraped_at": "2026-06-03T09:26:15.628990"
+      "scraped_at": "2026-06-04T08:48:20.378915"
+    },
+    {
+      "id": "7f816897ba552e57",
+      "title": "Da vi var yngre",
+      "venue": "Det Norske Teatret",
+      "venue_slug": "det-norske-teatret",
+      "start": "2026-10-03T17:30:00",
+      "end": "2026-10-03T19:00:00",
+      "description": "Oliver Lovrenski brakdebuterte med romanen Da vi var yngre. No kjem den til scenen med Aksel Hennie i registolen og rapparen Jonas Benyoub i rolla som Ivor.",
+      "image_url": "https://s3.eu-north-1.amazonaws.com/detnorsketeatret/media/framsyningar/arv-og-miljo/_1200x630_crop_center-center_82_none/Da-vi-var-yngre_OHA-19.jpg?mtime=1771367338",
+      "ticket_url": "https://www.detnorsketeatret.no/framsyningar/da-vi-var-yngre",
+      "detail_url": "https://www.detnorsketeatret.no/framsyningar/da-vi-var-yngre",
+      "stage": "Scene 2",
+      "genre": null,
+      "sold_out": false,
+      "scraped_at": "2026-06-04T08:48:36.384831"
     },
     {
       "id": "f1a0279abf6ac120",
@@ -5318,7 +5381,7 @@
       "stage": "Lille scene\n    \n      (Black Box teater)",
       "genre": null,
       "sold_out": false,
-      "scraped_at": "2026-06-03T09:27:01.468636"
+      "scraped_at": "2026-06-04T08:48:54.833955"
     },
     {
       "id": "b30ed74af597815a",
@@ -5334,7 +5397,7 @@
       "stage": null,
       "genre": "Musikal ,  Scenekvelder",
       "sold_out": false,
-      "scraped_at": "2026-06-03T09:28:21.025098"
+      "scraped_at": "2026-06-04T08:49:49.600175"
     },
     {
       "id": "0fe405e3aa699b32",
@@ -5350,7 +5413,23 @@
       "stage": null,
       "genre": "Musikal ,  Scenekvelder",
       "sold_out": false,
-      "scraped_at": "2026-06-03T09:28:21.025128"
+      "scraped_at": "2026-06-04T08:49:49.600204"
+    },
+    {
+      "id": "8c924643da7b58ec",
+      "title": "Søstrene",
+      "venue": "Det Norske Teatret",
+      "venue_slug": "det-norske-teatret",
+      "start": "2026-10-04T16:00:00",
+      "end": "2026-10-04T19:30:00",
+      "description": "Opplev teaterversjonen av Jonas Hassen Khemiris kritikarroste roman - eit eit storslått familiedrama på Hovudscenen hausten 2026!",
+      "image_url": "https://s3.eu-north-1.amazonaws.com/detnorsketeatret/media/_1200x630_crop_center-center_82_none/EirikMalmo_DNT_Søstrere_M5A2614_Utkast_01.jpg?mtime=1779963754",
+      "ticket_url": "https://www.detnorsketeatret.no/framsyningar/sostrene",
+      "detail_url": "https://www.detnorsketeatret.no/framsyningar/sostrene",
+      "stage": "Hovudscenen",
+      "genre": null,
+      "sold_out": false,
+      "scraped_at": "2026-06-04T08:48:29.875953"
     },
     {
       "id": "fa57cad3b45d7dc5",
@@ -5366,7 +5445,7 @@
       "stage": "Lille scene\n    \n      (Black Box teater)",
       "genre": null,
       "sold_out": false,
-      "scraped_at": "2026-06-03T09:27:01.468922"
+      "scraped_at": "2026-06-04T08:48:54.834146"
     },
     {
       "id": "6335d44b5c90bd10",
@@ -5382,7 +5461,7 @@
       "stage": null,
       "genre": "Standup",
       "sold_out": false,
-      "scraped_at": "2026-06-03T09:28:24.237411"
+      "scraped_at": "2026-06-04T08:49:51.361698"
     },
     {
       "id": "8bd58ca2011c847b",
@@ -5398,7 +5477,7 @@
       "stage": "Bikuben",
       "genre": null,
       "sold_out": false,
-      "scraped_at": "2026-06-03T09:26:47.273262"
+      "scraped_at": "2026-06-04T08:48:41.745602"
     },
     {
       "id": "0260c25c44ad16e2",
@@ -5414,7 +5493,7 @@
       "stage": "Scene 3",
       "genre": null,
       "sold_out": false,
-      "scraped_at": "2026-06-03T09:26:43.880957"
+      "scraped_at": "2026-06-04T08:48:38.370085"
     },
     {
       "id": "943d25fde53a0566",
@@ -5430,7 +5509,23 @@
       "stage": "Riksteatret",
       "genre": null,
       "sold_out": false,
-      "scraped_at": "2026-06-03T09:27:37.606608"
+      "scraped_at": "2026-06-04T08:49:28.887985"
+    },
+    {
+      "id": "107451366a264fb9",
+      "title": "Søstrene",
+      "venue": "Det Norske Teatret",
+      "venue_slug": "det-norske-teatret",
+      "start": "2026-10-06T19:00:00",
+      "end": "2026-10-06T22:30:00",
+      "description": "Opplev teaterversjonen av Jonas Hassen Khemiris kritikarroste roman - eit eit storslått familiedrama på Hovudscenen hausten 2026!",
+      "image_url": "https://s3.eu-north-1.amazonaws.com/detnorsketeatret/media/_1200x630_crop_center-center_82_none/EirikMalmo_DNT_Søstrere_M5A2614_Utkast_01.jpg?mtime=1779963754",
+      "ticket_url": "https://www.detnorsketeatret.no/framsyningar/sostrene",
+      "detail_url": "https://www.detnorsketeatret.no/framsyningar/sostrene",
+      "stage": "Hovudscenen",
+      "genre": null,
+      "sold_out": false,
+      "scraped_at": "2026-06-04T08:48:29.875964"
     },
     {
       "id": "91e127375ae7b202",
@@ -5446,7 +5541,23 @@
       "stage": "Riksteatret",
       "genre": null,
       "sold_out": false,
-      "scraped_at": "2026-06-03T09:27:37.607032"
+      "scraped_at": "2026-06-04T08:49:28.888317"
+    },
+    {
+      "id": "99a02bccb8d85a63",
+      "title": "Søstrene",
+      "venue": "Det Norske Teatret",
+      "venue_slug": "det-norske-teatret",
+      "start": "2026-10-07T19:00:00",
+      "end": "2026-10-07T22:30:00",
+      "description": "Opplev teaterversjonen av Jonas Hassen Khemiris kritikarroste roman - eit eit storslått familiedrama på Hovudscenen hausten 2026!",
+      "image_url": "https://s3.eu-north-1.amazonaws.com/detnorsketeatret/media/_1200x630_crop_center-center_82_none/EirikMalmo_DNT_Søstrere_M5A2614_Utkast_01.jpg?mtime=1779963754",
+      "ticket_url": "https://www.detnorsketeatret.no/framsyningar/sostrene",
+      "detail_url": "https://www.detnorsketeatret.no/framsyningar/sostrene",
+      "stage": "Hovudscenen",
+      "genre": null,
+      "sold_out": false,
+      "scraped_at": "2026-06-04T08:48:29.875973"
     },
     {
       "id": "be55c598d26008c5",
@@ -5462,7 +5573,7 @@
       "stage": "Bikuben",
       "genre": null,
       "sold_out": false,
-      "scraped_at": "2026-06-03T09:26:47.273272"
+      "scraped_at": "2026-06-04T08:48:41.745612"
     },
     {
       "id": "72d16907c2d5433d",
@@ -5478,7 +5589,23 @@
       "stage": "Riksteatret",
       "genre": null,
       "sold_out": false,
-      "scraped_at": "2026-06-03T09:27:37.607412"
+      "scraped_at": "2026-06-04T08:49:28.888639"
+    },
+    {
+      "id": "ecc9692c779ce3cb",
+      "title": "Søstrene",
+      "venue": "Det Norske Teatret",
+      "venue_slug": "det-norske-teatret",
+      "start": "2026-10-08T19:00:00",
+      "end": "2026-10-08T22:30:00",
+      "description": "Opplev teaterversjonen av Jonas Hassen Khemiris kritikarroste roman - eit eit storslått familiedrama på Hovudscenen hausten 2026!",
+      "image_url": "https://s3.eu-north-1.amazonaws.com/detnorsketeatret/media/_1200x630_crop_center-center_82_none/EirikMalmo_DNT_Søstrere_M5A2614_Utkast_01.jpg?mtime=1779963754",
+      "ticket_url": "https://www.detnorsketeatret.no/framsyningar/sostrene",
+      "detail_url": "https://www.detnorsketeatret.no/framsyningar/sostrene",
+      "stage": "Hovudscenen",
+      "genre": null,
+      "sold_out": false,
+      "scraped_at": "2026-06-04T08:48:29.875985"
     },
     {
       "id": "23b0d8db0f99bcf1",
@@ -5494,7 +5621,7 @@
       "stage": null,
       "genre": "Musikal ,  Scenekvelder",
       "sold_out": false,
-      "scraped_at": "2026-06-03T09:28:21.025159"
+      "scraped_at": "2026-06-04T08:49:49.600233"
     },
     {
       "id": "84629659f46c83dc",
@@ -5510,7 +5637,39 @@
       "stage": "Scene 3",
       "genre": null,
       "sold_out": false,
-      "scraped_at": "2026-06-03T09:26:43.880968"
+      "scraped_at": "2026-06-04T08:48:38.370096"
+    },
+    {
+      "id": "f00b7eacd5215796",
+      "title": "Søstrene",
+      "venue": "Det Norske Teatret",
+      "venue_slug": "det-norske-teatret",
+      "start": "2026-10-09T19:00:00",
+      "end": "2026-10-09T22:30:00",
+      "description": "Opplev teaterversjonen av Jonas Hassen Khemiris kritikarroste roman - eit eit storslått familiedrama på Hovudscenen hausten 2026!",
+      "image_url": "https://s3.eu-north-1.amazonaws.com/detnorsketeatret/media/_1200x630_crop_center-center_82_none/EirikMalmo_DNT_Søstrere_M5A2614_Utkast_01.jpg?mtime=1779963754",
+      "ticket_url": "https://www.detnorsketeatret.no/framsyningar/sostrene",
+      "detail_url": "https://www.detnorsketeatret.no/framsyningar/sostrene",
+      "stage": "Hovudscenen",
+      "genre": null,
+      "sold_out": false,
+      "scraped_at": "2026-06-04T08:48:29.875994"
+    },
+    {
+      "id": "093158cfcbedb16d",
+      "title": "\"Gutta\"",
+      "venue": "Det Norske Teatret",
+      "venue_slug": "det-norske-teatret",
+      "start": "2026-10-09T19:30:00",
+      "end": "2026-10-09T22:00:00",
+      "description": "Ein bekmørk komedie om «gutta» og den nye verdsordenen. Sjå \"Gutta\" av Even Torgan på Det Norske Teatret!",
+      "image_url": "https://s3.eu-north-1.amazonaws.com/detnorsketeatret/media/framsyningar/gutta/_1200x630_crop_center-center_82_none/EirikMalmo_DNT_Gutta_M5A3182_01.jpg?mtime=1780400146",
+      "ticket_url": "https://www.detnorsketeatret.no/framsyningar/gutta",
+      "detail_url": "https://www.detnorsketeatret.no/framsyningar/gutta",
+      "stage": "Scene 2",
+      "genre": null,
+      "sold_out": false,
+      "scraped_at": "2026-06-04T08:48:34.663130"
     },
     {
       "id": "e28944e18a95f16d",
@@ -5526,7 +5685,7 @@
       "stage": null,
       "genre": "Musikal ,  Scenekvelder",
       "sold_out": false,
-      "scraped_at": "2026-06-03T09:28:21.025189"
+      "scraped_at": "2026-06-04T08:49:49.600262"
     },
     {
       "id": "b9bc3774f258afd5",
@@ -5542,7 +5701,7 @@
       "stage": null,
       "genre": "Musikal ,  Scenekvelder",
       "sold_out": false,
-      "scraped_at": "2026-06-03T09:28:21.025219"
+      "scraped_at": "2026-06-04T08:49:49.600291"
     },
     {
       "id": "e3393a88081ba62e",
@@ -5558,7 +5717,7 @@
       "stage": "Hovudscenen",
       "genre": null,
       "sold_out": false,
-      "scraped_at": "2026-06-03T09:26:15.629001"
+      "scraped_at": "2026-06-04T08:48:20.378925"
     },
     {
       "id": "36bf042d97a36a3a",
@@ -5574,7 +5733,7 @@
       "stage": "Scene 2",
       "genre": null,
       "sold_out": false,
-      "scraped_at": "2026-06-03T09:26:39.513935"
+      "scraped_at": "2026-06-04T08:48:36.959240"
     },
     {
       "id": "6775f4e49481e460",
@@ -5590,7 +5749,7 @@
       "stage": null,
       "genre": "Musikal ,  Scenekvelder",
       "sold_out": false,
-      "scraped_at": "2026-06-03T09:28:21.025250"
+      "scraped_at": "2026-06-04T08:49:49.600320"
     },
     {
       "id": "74889b9a3bf92326",
@@ -5606,7 +5765,7 @@
       "stage": "Store scene\n    \n      (Black Box teater)",
       "genre": null,
       "sold_out": false,
-      "scraped_at": "2026-06-03T09:27:01.469221"
+      "scraped_at": "2026-06-04T08:48:54.834343"
     },
     {
       "id": "937eb631f6e3b58c",
@@ -5622,7 +5781,7 @@
       "stage": null,
       "genre": "Musikal ,  Scenekvelder",
       "sold_out": false,
-      "scraped_at": "2026-06-03T09:28:21.025280"
+      "scraped_at": "2026-06-04T08:49:49.600347"
     },
     {
       "id": "b392aef5fea436b8",
@@ -5638,7 +5797,7 @@
       "stage": "Store scene\n    \n      (Black Box teater)",
       "genre": null,
       "sold_out": false,
-      "scraped_at": "2026-06-03T09:27:01.469489"
+      "scraped_at": "2026-06-04T08:48:54.834553"
     },
     {
       "id": "a86d0c451c3b4c7f",
@@ -5654,7 +5813,7 @@
       "stage": "Bikuben",
       "genre": null,
       "sold_out": false,
-      "scraped_at": "2026-06-03T09:26:47.273283"
+      "scraped_at": "2026-06-04T08:48:41.745622"
     },
     {
       "id": "4fc0f2b26f127c97",
@@ -5670,7 +5829,7 @@
       "stage": "Rommen Scene",
       "genre": null,
       "sold_out": false,
-      "scraped_at": "2026-06-03T09:26:34.499050"
+      "scraped_at": "2026-06-04T08:48:33.622118"
     },
     {
       "id": "630dcccb8a0cdd7d",
@@ -5686,7 +5845,7 @@
       "stage": null,
       "genre": null,
       "sold_out": false,
-      "scraped_at": "2026-06-03T09:28:14.874249"
+      "scraped_at": "2026-06-04T08:49:44.058823"
     },
     {
       "id": "3bffc520c0fb3891",
@@ -5702,7 +5861,7 @@
       "stage": "Scene 2",
       "genre": null,
       "sold_out": false,
-      "scraped_at": "2026-06-03T09:26:39.513946"
+      "scraped_at": "2026-06-04T08:48:36.959249"
     },
     {
       "id": "bb5ab0b22cd1c675",
@@ -5718,7 +5877,7 @@
       "stage": "Rommen Scene",
       "genre": null,
       "sold_out": false,
-      "scraped_at": "2026-06-03T09:26:34.499061"
+      "scraped_at": "2026-06-04T08:48:33.622128"
     },
     {
       "id": "5e51b2d154c08f57",
@@ -5734,7 +5893,7 @@
       "stage": "Hovudscenen",
       "genre": null,
       "sold_out": false,
-      "scraped_at": "2026-06-03T09:26:15.629013"
+      "scraped_at": "2026-06-04T08:48:20.378935"
     },
     {
       "id": "965c6059d0523ecb",
@@ -5750,7 +5909,7 @@
       "stage": "Scene 2",
       "genre": null,
       "sold_out": false,
-      "scraped_at": "2026-06-03T09:26:39.513956"
+      "scraped_at": "2026-06-04T08:48:36.959259"
     },
     {
       "id": "19538a6ff1dd379b",
@@ -5766,7 +5925,7 @@
       "stage": "Bikuben",
       "genre": null,
       "sold_out": false,
-      "scraped_at": "2026-06-03T09:26:47.273293"
+      "scraped_at": "2026-06-04T08:48:41.745633"
     },
     {
       "id": "c9397fc39c9d0bd8",
@@ -5782,7 +5941,7 @@
       "stage": "Rommen Scene",
       "genre": null,
       "sold_out": false,
-      "scraped_at": "2026-06-03T09:26:34.499072"
+      "scraped_at": "2026-06-04T08:48:33.622138"
     },
     {
       "id": "dd86cfd40b6f6330",
@@ -5798,7 +5957,7 @@
       "stage": "Vega Scene",
       "genre": null,
       "sold_out": false,
-      "scraped_at": "2026-06-03T09:27:38.019066"
+      "scraped_at": "2026-06-04T08:49:29.109988"
     },
     {
       "id": "6a9256393e93f4b3",
@@ -5814,7 +5973,7 @@
       "stage": "Scene 2",
       "genre": null,
       "sold_out": false,
-      "scraped_at": "2026-06-03T09:26:39.513967"
+      "scraped_at": "2026-06-04T08:48:36.959268"
     },
     {
       "id": "1a75592541a78a04",
@@ -5830,7 +5989,7 @@
       "stage": null,
       "genre": "Musikal ,  Scenekvelder",
       "sold_out": false,
-      "scraped_at": "2026-06-03T09:28:21.025311"
+      "scraped_at": "2026-06-04T08:49:49.600377"
     },
     {
       "id": "5f725dcaa00c8c32",
@@ -5846,7 +6005,7 @@
       "stage": "Store scene\n    \n      (Black Box teater)",
       "genre": null,
       "sold_out": false,
-      "scraped_at": "2026-06-03T09:27:01.469762"
+      "scraped_at": "2026-06-04T08:48:54.834753"
     },
     {
       "id": "e8299b8d05f7df0d",
@@ -5862,7 +6021,23 @@
       "stage": "Vega Scene",
       "genre": null,
       "sold_out": false,
-      "scraped_at": "2026-06-03T09:27:38.019443"
+      "scraped_at": "2026-06-04T08:49:29.110298"
+    },
+    {
+      "id": "f56b22670a281b12",
+      "title": "\"Gutta\"",
+      "venue": "Det Norske Teatret",
+      "venue_slug": "det-norske-teatret",
+      "start": "2026-10-16T19:30:00",
+      "end": "2026-10-16T22:00:00",
+      "description": "Ein bekmørk komedie om «gutta» og den nye verdsordenen. Sjå \"Gutta\" av Even Torgan på Det Norske Teatret!",
+      "image_url": "https://s3.eu-north-1.amazonaws.com/detnorsketeatret/media/framsyningar/gutta/_1200x630_crop_center-center_82_none/EirikMalmo_DNT_Gutta_M5A3182_01.jpg?mtime=1780400146",
+      "ticket_url": "https://www.detnorsketeatret.no/framsyningar/gutta",
+      "detail_url": "https://www.detnorsketeatret.no/framsyningar/gutta",
+      "stage": "Scene 2",
+      "genre": null,
+      "sold_out": false,
+      "scraped_at": "2026-06-04T08:48:34.663152"
     },
     {
       "id": "b729f05c084ada20",
@@ -5878,7 +6053,7 @@
       "stage": null,
       "genre": "Musikal ,  Scenekvelder",
       "sold_out": false,
-      "scraped_at": "2026-06-03T09:28:21.025342"
+      "scraped_at": "2026-06-04T08:49:49.600406"
     },
     {
       "id": "a980d73399e1fdb0",
@@ -5894,7 +6069,7 @@
       "stage": null,
       "genre": "Musikal ,  Scenekvelder",
       "sold_out": false,
-      "scraped_at": "2026-06-03T09:28:21.025372"
+      "scraped_at": "2026-06-04T08:49:49.600435"
     },
     {
       "id": "0284d24753fe08d3",
@@ -5910,7 +6085,7 @@
       "stage": "Scene 3",
       "genre": null,
       "sold_out": false,
-      "scraped_at": "2026-06-03T09:26:43.880978"
+      "scraped_at": "2026-06-04T08:48:38.370105"
     },
     {
       "id": "dcc8ab3809f22fcb",
@@ -5926,7 +6101,7 @@
       "stage": "Scene 2",
       "genre": null,
       "sold_out": false,
-      "scraped_at": "2026-06-03T09:26:39.513977"
+      "scraped_at": "2026-06-04T08:48:36.959278"
     },
     {
       "id": "6b70350044d60c3b",
@@ -5942,7 +6117,7 @@
       "stage": "Hovudscenen",
       "genre": null,
       "sold_out": false,
-      "scraped_at": "2026-06-03T09:26:18.271385"
+      "scraped_at": "2026-06-04T08:48:21.688172"
     },
     {
       "id": "924c42d71988bf26",
@@ -5958,7 +6133,7 @@
       "stage": "Vega Scene",
       "genre": null,
       "sold_out": false,
-      "scraped_at": "2026-06-03T09:27:38.019799"
+      "scraped_at": "2026-06-04T08:49:29.110603"
     },
     {
       "id": "daa13304f818a4ed",
@@ -5974,7 +6149,7 @@
       "stage": "Scene 3",
       "genre": null,
       "sold_out": false,
-      "scraped_at": "2026-06-03T09:26:43.880989"
+      "scraped_at": "2026-06-04T08:48:38.370114"
     },
     {
       "id": "fd496b19391d792a",
@@ -5990,7 +6165,7 @@
       "stage": null,
       "genre": "Musikal ,  Scenekvelder",
       "sold_out": false,
-      "scraped_at": "2026-06-03T09:28:21.025402"
+      "scraped_at": "2026-06-04T08:49:49.600474"
     },
     {
       "id": "94168b2f2e4512ef",
@@ -6006,7 +6181,7 @@
       "stage": null,
       "genre": "Musikal ,  Scenekvelder",
       "sold_out": false,
-      "scraped_at": "2026-06-03T09:28:21.025435"
+      "scraped_at": "2026-06-04T08:49:49.600505"
     },
     {
       "id": "9c20dab654946e59",
@@ -6022,7 +6197,7 @@
       "stage": "Hovudscenen",
       "genre": null,
       "sold_out": false,
-      "scraped_at": "2026-06-03T09:26:15.629023"
+      "scraped_at": "2026-06-04T08:48:20.378945"
     },
     {
       "id": "871c7f1c85e1f857",
@@ -6038,7 +6213,7 @@
       "stage": "Vega Scene",
       "genre": null,
       "sold_out": false,
-      "scraped_at": "2026-06-03T09:27:38.020195"
+      "scraped_at": "2026-06-04T08:49:29.110906"
     },
     {
       "id": "e5dff03ead004ab8",
@@ -6054,7 +6229,23 @@
       "stage": "Hovudscenen",
       "genre": null,
       "sold_out": false,
-      "scraped_at": "2026-06-03T09:26:18.271408"
+      "scraped_at": "2026-06-04T08:48:21.688193"
+    },
+    {
+      "id": "302179bd07b503f4",
+      "title": "\"Gutta\"",
+      "venue": "Det Norske Teatret",
+      "venue_slug": "det-norske-teatret",
+      "start": "2026-10-20T19:30:00",
+      "end": "2026-10-20T22:00:00",
+      "description": "Ein bekmørk komedie om «gutta» og den nye verdsordenen. Sjå \"Gutta\" av Even Torgan på Det Norske Teatret!",
+      "image_url": "https://s3.eu-north-1.amazonaws.com/detnorsketeatret/media/framsyningar/gutta/_1200x630_crop_center-center_82_none/EirikMalmo_DNT_Gutta_M5A3182_01.jpg?mtime=1780400146",
+      "ticket_url": "https://www.detnorsketeatret.no/framsyningar/gutta",
+      "detail_url": "https://www.detnorsketeatret.no/framsyningar/gutta",
+      "stage": "Scene 2",
+      "genre": null,
+      "sold_out": false,
+      "scraped_at": "2026-06-04T08:48:34.663164"
     },
     {
       "id": "c0d3dfb682b687fb",
@@ -6070,7 +6261,7 @@
       "stage": null,
       "genre": "Standup",
       "sold_out": false,
-      "scraped_at": "2026-06-03T09:28:24.762089"
+      "scraped_at": "2026-06-04T08:49:51.639028"
     },
     {
       "id": "6abb3b4cf70a90e4",
@@ -6086,7 +6277,7 @@
       "stage": "Hovudscenen",
       "genre": null,
       "sold_out": false,
-      "scraped_at": "2026-06-03T09:26:15.629034"
+      "scraped_at": "2026-06-04T08:48:20.378955"
     },
     {
       "id": "ec925763cf7b0692",
@@ -6102,7 +6293,23 @@
       "stage": "Scene 3",
       "genre": null,
       "sold_out": false,
-      "scraped_at": "2026-06-03T09:26:43.880999"
+      "scraped_at": "2026-06-04T08:48:38.370124"
+    },
+    {
+      "id": "4b18471a07f643b6",
+      "title": "Peter Pan - Under en magisk måne",
+      "venue": "Teater Manu",
+      "venue_slug": "teater-manu",
+      "start": "2026-10-22T18:00:00",
+      "end": null,
+      "description": null,
+      "image_url": "https://www.facebook.com/tr?id=117370848822729&ev=PageView&noscript=1",
+      "ticket_url": "https://billetto.no/e/under-en-magisk-mane-peter-pan-billetter-1898170?utm_source=organiser&utm_medium=share&utm_campaign=copy_link&utm_content=1",
+      "detail_url": "https://teatermanu.no/produksjoner/peter-pan-under-en-magisk-mane/",
+      "stage": "Teater Manu",
+      "genre": null,
+      "sold_out": false,
+      "scraped_at": "2026-06-04T08:49:36.430521"
     },
     {
       "id": "1161f9ea81f8779a",
@@ -6118,7 +6325,7 @@
       "stage": "Hovudscenen",
       "genre": null,
       "sold_out": false,
-      "scraped_at": "2026-06-03T09:26:18.271421"
+      "scraped_at": "2026-06-04T08:48:21.688205"
     },
     {
       "id": "984932cab90813ff",
@@ -6134,7 +6341,23 @@
       "stage": "Vega Scene",
       "genre": null,
       "sold_out": false,
-      "scraped_at": "2026-06-03T09:27:38.020563"
+      "scraped_at": "2026-06-04T08:49:29.111209"
+    },
+    {
+      "id": "609675d8c678ad2e",
+      "title": "\"Gutta\"",
+      "venue": "Det Norske Teatret",
+      "venue_slug": "det-norske-teatret",
+      "start": "2026-10-22T19:30:00",
+      "end": "2026-10-22T22:00:00",
+      "description": "Ein bekmørk komedie om «gutta» og den nye verdsordenen. Sjå \"Gutta\" av Even Torgan på Det Norske Teatret!",
+      "image_url": "https://s3.eu-north-1.amazonaws.com/detnorsketeatret/media/framsyningar/gutta/_1200x630_crop_center-center_82_none/EirikMalmo_DNT_Gutta_M5A3182_01.jpg?mtime=1780400146",
+      "ticket_url": "https://www.detnorsketeatret.no/framsyningar/gutta",
+      "detail_url": "https://www.detnorsketeatret.no/framsyningar/gutta",
+      "stage": "Scene 2",
+      "genre": null,
+      "sold_out": false,
+      "scraped_at": "2026-06-04T08:48:34.663174"
     },
     {
       "id": "083d432a4969a810",
@@ -6150,7 +6373,7 @@
       "stage": "Vega Scene",
       "genre": null,
       "sold_out": false,
-      "scraped_at": "2026-06-03T09:27:38.020953"
+      "scraped_at": "2026-06-04T08:49:29.111525"
     },
     {
       "id": "954850768d8ed954",
@@ -6166,7 +6389,23 @@
       "stage": "Hovudscenen",
       "genre": null,
       "sold_out": false,
-      "scraped_at": "2026-06-03T09:26:18.271432"
+      "scraped_at": "2026-06-04T08:48:21.688214"
+    },
+    {
+      "id": "829b2209c258d9d7",
+      "title": "\"Gutta\"",
+      "venue": "Det Norske Teatret",
+      "venue_slug": "det-norske-teatret",
+      "start": "2026-10-23T19:30:00",
+      "end": "2026-10-23T22:00:00",
+      "description": "Ein bekmørk komedie om «gutta» og den nye verdsordenen. Sjå \"Gutta\" av Even Torgan på Det Norske Teatret!",
+      "image_url": "https://s3.eu-north-1.amazonaws.com/detnorsketeatret/media/framsyningar/gutta/_1200x630_crop_center-center_82_none/EirikMalmo_DNT_Gutta_M5A3182_01.jpg?mtime=1780400146",
+      "ticket_url": "https://www.detnorsketeatret.no/framsyningar/gutta",
+      "detail_url": "https://www.detnorsketeatret.no/framsyningar/gutta",
+      "stage": "Scene 2",
+      "genre": null,
+      "sold_out": false,
+      "scraped_at": "2026-06-04T08:48:34.663184"
     },
     {
       "id": "a094b3cbad4676bd",
@@ -6182,7 +6421,23 @@
       "stage": null,
       "genre": "Musikal ,  Scenekvelder",
       "sold_out": false,
-      "scraped_at": "2026-06-03T09:28:21.025466"
+      "scraped_at": "2026-06-04T08:49:49.600535"
+    },
+    {
+      "id": "f33a8ac601290694",
+      "title": "Peter Pan - Under en magisk måne",
+      "venue": "Teater Manu",
+      "venue_slug": "teater-manu",
+      "start": "2026-10-24T14:00:00",
+      "end": null,
+      "description": null,
+      "image_url": "https://www.facebook.com/tr?id=117370848822729&ev=PageView&noscript=1",
+      "ticket_url": "https://billetto.no/e/under-en-magisk-mane-peter-pan-billetter-1900540?utm_source=organiser&utm_medium=share&utm_campaign=copy_link&utm_content=1",
+      "detail_url": "https://teatermanu.no/produksjoner/peter-pan-under-en-magisk-mane/",
+      "stage": "Teater Manu",
+      "genre": null,
+      "sold_out": false,
+      "scraped_at": "2026-06-04T08:49:36.430721"
     },
     {
       "id": "7c458bbc6d32ab48",
@@ -6198,7 +6453,7 @@
       "stage": null,
       "genre": "Musikal ,  Scenekvelder",
       "sold_out": false,
-      "scraped_at": "2026-06-03T09:28:21.025497"
+      "scraped_at": "2026-06-04T08:49:49.600564"
     },
     {
       "id": "a7117f7432300832",
@@ -6214,7 +6469,7 @@
       "stage": "Scene 3",
       "genre": null,
       "sold_out": false,
-      "scraped_at": "2026-06-03T09:26:43.881009"
+      "scraped_at": "2026-06-04T08:48:38.370133"
     },
     {
       "id": "916e6eaef11f4b9b",
@@ -6230,7 +6485,7 @@
       "stage": "Hovudscenen",
       "genre": null,
       "sold_out": false,
-      "scraped_at": "2026-06-03T09:26:18.271443"
+      "scraped_at": "2026-06-04T08:48:21.688224"
     },
     {
       "id": "6d7e58ee83254806",
@@ -6246,7 +6501,7 @@
       "stage": "Vega Scene",
       "genre": null,
       "sold_out": false,
-      "scraped_at": "2026-06-03T09:27:38.021336"
+      "scraped_at": "2026-06-04T08:49:29.111832"
     },
     {
       "id": "8b05b08b6f2cab87",
@@ -6262,7 +6517,7 @@
       "stage": "Scene 3",
       "genre": null,
       "sold_out": false,
-      "scraped_at": "2026-06-03T09:26:43.881022"
+      "scraped_at": "2026-06-04T08:48:38.370142"
     },
     {
       "id": "2592a34e72a76d4a",
@@ -6278,7 +6533,23 @@
       "stage": null,
       "genre": "Musikal ,  Scenekvelder",
       "sold_out": false,
-      "scraped_at": "2026-06-03T09:28:21.025527"
+      "scraped_at": "2026-06-04T08:49:49.600593"
+    },
+    {
+      "id": "0c52d63720d1d195",
+      "title": "Peter Pan - Under en magisk måne",
+      "venue": "Teater Manu",
+      "venue_slug": "teater-manu",
+      "start": "2026-10-25T13:00:00",
+      "end": null,
+      "description": null,
+      "image_url": "https://www.facebook.com/tr?id=117370848822729&ev=PageView&noscript=1",
+      "ticket_url": "https://billetto.no/e/under-en-magisk-mane-peter-pan-billetter-1900539?utm_source=organiser&utm_medium=share&utm_campaign=copy_link&utm_content=1",
+      "detail_url": "https://teatermanu.no/produksjoner/peter-pan-under-en-magisk-mane/",
+      "stage": "Teater Manu",
+      "genre": null,
+      "sold_out": false,
+      "scraped_at": "2026-06-04T08:49:36.430886"
     },
     {
       "id": "155afcb64e9ed9f8",
@@ -6294,7 +6565,7 @@
       "stage": "Hovudscenen",
       "genre": null,
       "sold_out": false,
-      "scraped_at": "2026-06-03T09:26:18.271453"
+      "scraped_at": "2026-06-04T08:48:21.688234"
     },
     {
       "id": "6f2b5948b12b77a8",
@@ -6310,7 +6581,7 @@
       "stage": null,
       "genre": "Musikal ,  Scenekvelder",
       "sold_out": false,
-      "scraped_at": "2026-06-03T09:28:21.025558"
+      "scraped_at": "2026-06-04T08:49:49.600622"
     },
     {
       "id": "0a1a33b20f2d0a11",
@@ -6326,7 +6597,7 @@
       "stage": "Vega Scene",
       "genre": null,
       "sold_out": false,
-      "scraped_at": "2026-06-03T09:27:38.021707"
+      "scraped_at": "2026-06-04T08:49:29.112135"
     },
     {
       "id": "ed03d1f9f972364f",
@@ -6342,7 +6613,23 @@
       "stage": "Bikuben",
       "genre": null,
       "sold_out": false,
-      "scraped_at": "2026-06-03T09:26:47.273303"
+      "scraped_at": "2026-06-04T08:48:41.745644"
+    },
+    {
+      "id": "e06601ca0ed2aa5e",
+      "title": "\"Gutta\"",
+      "venue": "Det Norske Teatret",
+      "venue_slug": "det-norske-teatret",
+      "start": "2026-10-27T19:30:00",
+      "end": "2026-10-27T22:00:00",
+      "description": "Ein bekmørk komedie om «gutta» og den nye verdsordenen. Sjå \"Gutta\" av Even Torgan på Det Norske Teatret!",
+      "image_url": "https://s3.eu-north-1.amazonaws.com/detnorsketeatret/media/framsyningar/gutta/_1200x630_crop_center-center_82_none/EirikMalmo_DNT_Gutta_M5A3182_01.jpg?mtime=1780400146",
+      "ticket_url": "https://www.detnorsketeatret.no/framsyningar/gutta",
+      "detail_url": "https://www.detnorsketeatret.no/framsyningar/gutta",
+      "stage": "Scene 2",
+      "genre": null,
+      "sold_out": false,
+      "scraped_at": "2026-06-04T08:48:34.663194"
     },
     {
       "id": "322195b8c42b4c9d",
@@ -6358,7 +6645,7 @@
       "stage": "Hovudscenen",
       "genre": null,
       "sold_out": false,
-      "scraped_at": "2026-06-03T09:26:18.271464"
+      "scraped_at": "2026-06-04T08:48:21.688243"
     },
     {
       "id": "cd38d56cb3dc0a67",
@@ -6374,7 +6661,7 @@
       "stage": "Bikuben",
       "genre": null,
       "sold_out": false,
-      "scraped_at": "2026-06-03T09:26:47.273313"
+      "scraped_at": "2026-06-04T08:48:41.745654"
     },
     {
       "id": "780e936483aefd0f",
@@ -6390,7 +6677,7 @@
       "stage": "Hovedscenen",
       "genre": null,
       "sold_out": false,
-      "scraped_at": "2026-06-03T09:25:29.034424"
+      "scraped_at": "2026-06-04T08:47:48.401166"
     },
     {
       "id": "c65b8d9153985546",
@@ -6406,7 +6693,7 @@
       "stage": "Scene 3",
       "genre": null,
       "sold_out": false,
-      "scraped_at": "2026-06-03T09:26:43.881032"
+      "scraped_at": "2026-06-04T08:48:38.370151"
     },
     {
       "id": "d1ad7c9e489bf2df",
@@ -6422,7 +6709,23 @@
       "stage": "Vega Scene",
       "genre": null,
       "sold_out": false,
-      "scraped_at": "2026-06-03T09:27:38.022114"
+      "scraped_at": "2026-06-04T08:49:29.112433"
+    },
+    {
+      "id": "51e96b7341f4b4a8",
+      "title": "\"Gutta\"",
+      "venue": "Det Norske Teatret",
+      "venue_slug": "det-norske-teatret",
+      "start": "2026-10-29T19:30:00",
+      "end": "2026-10-29T22:00:00",
+      "description": "Ein bekmørk komedie om «gutta» og den nye verdsordenen. Sjå \"Gutta\" av Even Torgan på Det Norske Teatret!",
+      "image_url": "https://s3.eu-north-1.amazonaws.com/detnorsketeatret/media/framsyningar/gutta/_1200x630_crop_center-center_82_none/EirikMalmo_DNT_Gutta_M5A3182_01.jpg?mtime=1780400146",
+      "ticket_url": "https://www.detnorsketeatret.no/framsyningar/gutta",
+      "detail_url": "https://www.detnorsketeatret.no/framsyningar/gutta",
+      "stage": "Scene 2",
+      "genre": null,
+      "sold_out": false,
+      "scraped_at": "2026-06-04T08:48:34.663204"
     },
     {
       "id": "6e36076399d2ba76",
@@ -6438,7 +6741,7 @@
       "stage": "Scene 3",
       "genre": null,
       "sold_out": false,
-      "scraped_at": "2026-06-03T09:26:43.881041"
+      "scraped_at": "2026-06-04T08:48:38.370162"
     },
     {
       "id": "a8efcf96f589f360",
@@ -6454,7 +6757,7 @@
       "stage": "Vega Scene",
       "genre": null,
       "sold_out": false,
-      "scraped_at": "2026-06-03T09:27:38.022496"
+      "scraped_at": "2026-06-04T08:49:29.112749"
     },
     {
       "id": "9674e54de5fc7a65",
@@ -6470,7 +6773,23 @@
       "stage": "Hovudscenen",
       "genre": null,
       "sold_out": false,
-      "scraped_at": "2026-06-03T09:26:18.271475"
+      "scraped_at": "2026-06-04T08:48:21.688253"
+    },
+    {
+      "id": "b5ccfcba4618ae9e",
+      "title": "\"Gutta\"",
+      "venue": "Det Norske Teatret",
+      "venue_slug": "det-norske-teatret",
+      "start": "2026-10-30T19:30:00",
+      "end": "2026-10-30T22:00:00",
+      "description": "Ein bekmørk komedie om «gutta» og den nye verdsordenen. Sjå \"Gutta\" av Even Torgan på Det Norske Teatret!",
+      "image_url": "https://s3.eu-north-1.amazonaws.com/detnorsketeatret/media/framsyningar/gutta/_1200x630_crop_center-center_82_none/EirikMalmo_DNT_Gutta_M5A3182_01.jpg?mtime=1780400146",
+      "ticket_url": "https://www.detnorsketeatret.no/framsyningar/gutta",
+      "detail_url": "https://www.detnorsketeatret.no/framsyningar/gutta",
+      "stage": "Scene 2",
+      "genre": null,
+      "sold_out": false,
+      "scraped_at": "2026-06-04T08:48:34.663216"
     },
     {
       "id": "f1e7b355879f9bc9",
@@ -6486,7 +6805,7 @@
       "stage": null,
       "genre": "Musikal ,  Scenekvelder",
       "sold_out": false,
-      "scraped_at": "2026-06-03T09:28:21.025589"
+      "scraped_at": "2026-06-04T08:49:49.600652"
     },
     {
       "id": "553b5e81a452e706",
@@ -6502,7 +6821,7 @@
       "stage": "Scene 3",
       "genre": null,
       "sold_out": false,
-      "scraped_at": "2026-06-03T09:26:43.881051"
+      "scraped_at": "2026-06-04T08:48:38.370171"
     },
     {
       "id": "6a49992ec30cb6c5",
@@ -6518,7 +6837,7 @@
       "stage": null,
       "genre": "Musikal ,  Scenekvelder",
       "sold_out": false,
-      "scraped_at": "2026-06-03T09:28:21.025620"
+      "scraped_at": "2026-06-04T08:49:49.600681"
     },
     {
       "id": "6e2f56eed120ce44",
@@ -6534,7 +6853,23 @@
       "stage": "Hovudscenen",
       "genre": null,
       "sold_out": false,
-      "scraped_at": "2026-06-03T09:26:18.271485"
+      "scraped_at": "2026-06-04T08:48:21.688262"
+    },
+    {
+      "id": "84e3571fc854b064",
+      "title": "\"Gutta\"",
+      "venue": "Det Norske Teatret",
+      "venue_slug": "det-norske-teatret",
+      "start": "2026-10-31T17:30:00",
+      "end": "2026-10-31T20:00:00",
+      "description": "Ein bekmørk komedie om «gutta» og den nye verdsordenen. Sjå \"Gutta\" av Even Torgan på Det Norske Teatret!",
+      "image_url": "https://s3.eu-north-1.amazonaws.com/detnorsketeatret/media/framsyningar/gutta/_1200x630_crop_center-center_82_none/EirikMalmo_DNT_Gutta_M5A3182_01.jpg?mtime=1780400146",
+      "ticket_url": "https://www.detnorsketeatret.no/framsyningar/gutta",
+      "detail_url": "https://www.detnorsketeatret.no/framsyningar/gutta",
+      "stage": "Scene 2",
+      "genre": null,
+      "sold_out": false,
+      "scraped_at": "2026-06-04T08:48:34.663226"
     },
     {
       "id": "ed15cd0048f645c9",
@@ -6550,7 +6885,7 @@
       "stage": "Vega Scene",
       "genre": null,
       "sold_out": false,
-      "scraped_at": "2026-06-03T09:27:38.022867"
+      "scraped_at": "2026-06-04T08:49:29.113063"
     },
     {
       "id": "5478919c57c37423",
@@ -6566,7 +6901,7 @@
       "stage": "Vega Scene",
       "genre": null,
       "sold_out": false,
-      "scraped_at": "2026-06-03T09:27:38.023277"
+      "scraped_at": "2026-06-04T08:49:29.113373"
     },
     {
       "id": "e023d82678966bb3",
@@ -6582,23 +6917,7 @@
       "stage": "Bikuben",
       "genre": null,
       "sold_out": false,
-      "scraped_at": "2026-06-03T09:26:47.273324"
-    },
-    {
-      "id": "d271e48587d0ebc4",
-      "title": "Relæxt julefortelling",
-      "venue": "Nationaltheatret",
-      "venue_slug": "nationaltheatret",
-      "start": "2026-11-03T16:00:00",
-      "end": null,
-      "description": "Opplev historien om gnieren Scrooge på dine premisser! Under relæxte forestillinger er det helt lov å både snakke høyt, le, gråte, ticse og rope. Det eneste som ikke er lov er å hysje på andre. Flere justeringer er gjort for å gjøre opplevelsen så avslappet som mulig: Lyset i salen vil være dempe…",
-      "image_url": "https://cdn.sanity.io/images/4hthkcie/production/ba4b68d0c6ccc2df2b58dd1a12a7609d1c4a6bba-1920x1080.png",
-      "ticket_url": "https://www.nationaltheatret.no/forestillinger/relaext-julefortelling#billetter",
-      "detail_url": "https://www.nationaltheatret.no/forestillinger/relaext-julefortelling",
-      "stage": "Hovedscenen",
-      "genre": null,
-      "sold_out": false,
-      "scraped_at": "2026-06-03T09:25:36.185404"
+      "scraped_at": "2026-06-04T08:48:41.745663"
     },
     {
       "id": "45919cff5ba1aefa",
@@ -6614,7 +6933,7 @@
       "stage": "Hovudscenen",
       "genre": null,
       "sold_out": false,
-      "scraped_at": "2026-06-03T09:26:18.271496"
+      "scraped_at": "2026-06-04T08:48:21.688272"
     },
     {
       "id": "0c1e3104a72ea03b",
@@ -6630,7 +6949,7 @@
       "stage": "Scene 2",
       "genre": null,
       "sold_out": false,
-      "scraped_at": "2026-06-03T09:26:37.153189"
+      "scraped_at": "2026-06-04T08:48:36.565821"
     },
     {
       "id": "cf5900796944d150",
@@ -6646,7 +6965,7 @@
       "stage": "Hovedscenen",
       "genre": null,
       "sold_out": true,
-      "scraped_at": "2026-06-03T09:25:48.087128"
+      "scraped_at": "2026-06-04T08:48:00.734793"
     },
     {
       "id": "7feac32dd93fe855",
@@ -6662,7 +6981,23 @@
       "stage": "Scene 3",
       "genre": null,
       "sold_out": false,
-      "scraped_at": "2026-06-03T09:26:43.881061"
+      "scraped_at": "2026-06-04T08:48:38.370181"
+    },
+    {
+      "id": "8156f16621032638",
+      "title": "\"Gutta\"",
+      "venue": "Det Norske Teatret",
+      "venue_slug": "det-norske-teatret",
+      "start": "2026-11-04T19:30:00",
+      "end": "2026-11-04T22:00:00",
+      "description": "Ein bekmørk komedie om «gutta» og den nye verdsordenen. Sjå \"Gutta\" av Even Torgan på Det Norske Teatret!",
+      "image_url": "https://s3.eu-north-1.amazonaws.com/detnorsketeatret/media/framsyningar/gutta/_1200x630_crop_center-center_82_none/EirikMalmo_DNT_Gutta_M5A3182_01.jpg?mtime=1780400146",
+      "ticket_url": "https://www.detnorsketeatret.no/framsyningar/gutta",
+      "detail_url": "https://www.detnorsketeatret.no/framsyningar/gutta",
+      "stage": "Scene 2",
+      "genre": null,
+      "sold_out": false,
+      "scraped_at": "2026-06-04T08:48:34.663236"
     },
     {
       "id": "f32d43e0915aa996",
@@ -6678,7 +7013,7 @@
       "stage": "Bikuben",
       "genre": null,
       "sold_out": false,
-      "scraped_at": "2026-06-03T09:26:47.273333"
+      "scraped_at": "2026-06-04T08:48:41.745673"
     },
     {
       "id": "82936bcbf7b544a6",
@@ -6694,7 +7029,7 @@
       "stage": "Vega Scene",
       "genre": null,
       "sold_out": false,
-      "scraped_at": "2026-06-03T09:27:38.023645"
+      "scraped_at": "2026-06-04T08:49:29.113687"
     },
     {
       "id": "f3a300ca4263b4fd",
@@ -6710,7 +7045,23 @@
       "stage": "Hovudscenen",
       "genre": null,
       "sold_out": false,
-      "scraped_at": "2026-06-03T09:26:18.271506"
+      "scraped_at": "2026-06-04T08:48:21.688281"
+    },
+    {
+      "id": "3afe7962121b8d66",
+      "title": "\"Gutta\"",
+      "venue": "Det Norske Teatret",
+      "venue_slug": "det-norske-teatret",
+      "start": "2026-11-05T19:30:00",
+      "end": "2026-11-05T22:00:00",
+      "description": "Ein bekmørk komedie om «gutta» og den nye verdsordenen. Sjå \"Gutta\" av Even Torgan på Det Norske Teatret!",
+      "image_url": "https://s3.eu-north-1.amazonaws.com/detnorsketeatret/media/framsyningar/gutta/_1200x630_crop_center-center_82_none/EirikMalmo_DNT_Gutta_M5A3182_01.jpg?mtime=1780400146",
+      "ticket_url": "https://www.detnorsketeatret.no/framsyningar/gutta",
+      "detail_url": "https://www.detnorsketeatret.no/framsyningar/gutta",
+      "stage": "Scene 2",
+      "genre": null,
+      "sold_out": false,
+      "scraped_at": "2026-06-04T08:48:34.663246"
     },
     {
       "id": "a82b54f7282ebb7d",
@@ -6726,7 +7077,7 @@
       "stage": "Scene 3",
       "genre": null,
       "sold_out": false,
-      "scraped_at": "2026-06-03T09:26:43.881072"
+      "scraped_at": "2026-06-04T08:48:38.370190"
     },
     {
       "id": "2197a2d9788b2d08",
@@ -6742,7 +7093,7 @@
       "stage": "Vega Scene",
       "genre": null,
       "sold_out": false,
-      "scraped_at": "2026-06-03T09:27:38.024040"
+      "scraped_at": "2026-06-04T08:49:29.113990"
     },
     {
       "id": "36047188ffc13065",
@@ -6758,7 +7109,7 @@
       "stage": null,
       "genre": "Musikal ,  Scenekvelder",
       "sold_out": false,
-      "scraped_at": "2026-06-03T09:28:21.025650"
+      "scraped_at": "2026-06-04T08:49:49.600709"
     },
     {
       "id": "d77ed04f0e9c2f23",
@@ -6774,7 +7125,7 @@
       "stage": "Hovudscenen",
       "genre": null,
       "sold_out": false,
-      "scraped_at": "2026-06-03T09:26:18.271516"
+      "scraped_at": "2026-06-04T08:48:21.688290"
     },
     {
       "id": "2d1efe5100f7074d",
@@ -6790,7 +7141,7 @@
       "stage": null,
       "genre": "Musikal ,  Scenekvelder",
       "sold_out": false,
-      "scraped_at": "2026-06-03T09:28:21.025681"
+      "scraped_at": "2026-06-04T08:49:49.600738"
     },
     {
       "id": "480ce24d58f881d4",
@@ -6806,7 +7157,7 @@
       "stage": "Amfiscenen",
       "genre": null,
       "sold_out": false,
-      "scraped_at": "2026-06-03T09:25:19.120992"
+      "scraped_at": "2026-06-04T08:47:42.147400"
     },
     {
       "id": "2624fe83473811f3",
@@ -6822,7 +7173,7 @@
       "stage": "Hovudscenen",
       "genre": null,
       "sold_out": false,
-      "scraped_at": "2026-06-03T09:26:18.271526"
+      "scraped_at": "2026-06-04T08:48:21.688300"
     },
     {
       "id": "1c138da770d62058",
@@ -6838,7 +7189,7 @@
       "stage": "Vega Scene",
       "genre": null,
       "sold_out": false,
-      "scraped_at": "2026-06-03T09:27:38.024422"
+      "scraped_at": "2026-06-04T08:49:29.114291"
     },
     {
       "id": "52fda529b85141ab",
@@ -6854,7 +7205,7 @@
       "stage": null,
       "genre": "Musikal ,  Scenekvelder",
       "sold_out": false,
-      "scraped_at": "2026-06-03T09:28:21.025711"
+      "scraped_at": "2026-06-04T08:49:49.600767"
     },
     {
       "id": "09110261321b37c3",
@@ -6870,7 +7221,7 @@
       "stage": "Hovudscenen",
       "genre": null,
       "sold_out": false,
-      "scraped_at": "2026-06-03T09:26:18.271535"
+      "scraped_at": "2026-06-04T08:48:21.688309"
     },
     {
       "id": "a4e435af87bf840f",
@@ -6886,7 +7237,7 @@
       "stage": "Vega Scene",
       "genre": null,
       "sold_out": false,
-      "scraped_at": "2026-06-03T09:27:38.024791"
+      "scraped_at": "2026-06-04T08:49:29.114603"
     },
     {
       "id": "7637f0280ee44fda",
@@ -6902,7 +7253,7 @@
       "stage": null,
       "genre": "Foredrag/Kurs",
       "sold_out": false,
-      "scraped_at": "2026-06-03T09:28:25.305823"
+      "scraped_at": "2026-06-04T08:49:51.914990"
     },
     {
       "id": "27c9a7587793a20f",
@@ -6918,7 +7269,7 @@
       "stage": "Bikuben",
       "genre": null,
       "sold_out": false,
-      "scraped_at": "2026-06-03T09:26:47.273343"
+      "scraped_at": "2026-06-04T08:48:41.745682"
     },
     {
       "id": "7c57da2cfaae5d1d",
@@ -6934,7 +7285,7 @@
       "stage": "Hovudscenen",
       "genre": null,
       "sold_out": false,
-      "scraped_at": "2026-06-03T09:26:18.271545"
+      "scraped_at": "2026-06-04T08:48:21.688318"
     },
     {
       "id": "2fb8056dccc7b690",
@@ -6950,7 +7301,7 @@
       "stage": "Scene 3",
       "genre": null,
       "sold_out": false,
-      "scraped_at": "2026-06-03T09:26:43.881082"
+      "scraped_at": "2026-06-04T08:48:38.370200"
     },
     {
       "id": "fd4e0f731f3cd0ee",
@@ -6966,7 +7317,7 @@
       "stage": "Hovudscenen",
       "genre": null,
       "sold_out": false,
-      "scraped_at": "2026-06-03T09:26:18.271555"
+      "scraped_at": "2026-06-04T08:48:21.688327"
     },
     {
       "id": "a9270ae40cedd370",
@@ -6982,7 +7333,7 @@
       "stage": "Bikuben",
       "genre": null,
       "sold_out": false,
-      "scraped_at": "2026-06-03T09:26:47.273353"
+      "scraped_at": "2026-06-04T08:48:41.745692"
     },
     {
       "id": "5dbbe0b440d5b692",
@@ -6998,7 +7349,7 @@
       "stage": "Hovudscenen",
       "genre": null,
       "sold_out": false,
-      "scraped_at": "2026-06-03T09:26:18.271564"
+      "scraped_at": "2026-06-04T08:48:21.688336"
     },
     {
       "id": "6b57f091890313ab",
@@ -7014,7 +7365,7 @@
       "stage": "Hovudscenen",
       "genre": null,
       "sold_out": false,
-      "scraped_at": "2026-06-03T09:26:18.271574"
+      "scraped_at": "2026-06-04T08:48:21.688353"
     },
     {
       "id": "bb332859610f1049",
@@ -7030,7 +7381,7 @@
       "stage": null,
       "genre": "Musikal ,  Scenekvelder",
       "sold_out": false,
-      "scraped_at": "2026-06-03T09:28:21.025742"
+      "scraped_at": "2026-06-04T08:49:49.600796"
     },
     {
       "id": "a394af8246ff03cc",
@@ -7046,7 +7397,7 @@
       "stage": null,
       "genre": "Musikal ,  Scenekvelder",
       "sold_out": false,
-      "scraped_at": "2026-06-03T09:28:21.025772"
+      "scraped_at": "2026-06-04T08:49:49.600825"
     },
     {
       "id": "ac0d992106713a44",
@@ -7062,7 +7413,23 @@
       "stage": "Scene 3",
       "genre": null,
       "sold_out": false,
-      "scraped_at": "2026-06-03T09:26:43.881093"
+      "scraped_at": "2026-06-04T08:48:38.370209"
+    },
+    {
+      "id": "437970b49f627ded",
+      "title": "\"Gutta\"",
+      "venue": "Det Norske Teatret",
+      "venue_slug": "det-norske-teatret",
+      "start": "2026-11-14T17:30:00",
+      "end": "2026-11-14T20:00:00",
+      "description": "Ein bekmørk komedie om «gutta» og den nye verdsordenen. Sjå \"Gutta\" av Even Torgan på Det Norske Teatret!",
+      "image_url": "https://s3.eu-north-1.amazonaws.com/detnorsketeatret/media/framsyningar/gutta/_1200x630_crop_center-center_82_none/EirikMalmo_DNT_Gutta_M5A3182_01.jpg?mtime=1780400146",
+      "ticket_url": "https://www.detnorsketeatret.no/framsyningar/gutta",
+      "detail_url": "https://www.detnorsketeatret.no/framsyningar/gutta",
+      "stage": "Scene 2",
+      "genre": null,
+      "sold_out": false,
+      "scraped_at": "2026-06-04T08:48:34.663255"
     },
     {
       "id": "9a9166839d906745",
@@ -7078,7 +7445,7 @@
       "stage": "Scene 3",
       "genre": null,
       "sold_out": false,
-      "scraped_at": "2026-06-03T09:26:43.881106"
+      "scraped_at": "2026-06-04T08:48:38.370219"
     },
     {
       "id": "7881c9ee2df563a7",
@@ -7094,7 +7461,7 @@
       "stage": null,
       "genre": "Musikal ,  Scenekvelder",
       "sold_out": false,
-      "scraped_at": "2026-06-03T09:28:21.025803"
+      "scraped_at": "2026-06-04T08:49:49.600853"
     },
     {
       "id": "4eafb952eb417424",
@@ -7110,7 +7477,7 @@
       "stage": "Bikuben",
       "genre": null,
       "sold_out": false,
-      "scraped_at": "2026-06-03T09:26:47.273364"
+      "scraped_at": "2026-06-04T08:48:41.745702"
     },
     {
       "id": "14cd10d4fb7c272c",
@@ -7126,7 +7493,7 @@
       "stage": "Hovudscenen",
       "genre": null,
       "sold_out": false,
-      "scraped_at": "2026-06-03T09:26:18.271584"
+      "scraped_at": "2026-06-04T08:48:21.688362"
     },
     {
       "id": "e0c1ade75b7238aa",
@@ -7142,7 +7509,7 @@
       "stage": "Hovudscenen",
       "genre": null,
       "sold_out": false,
-      "scraped_at": "2026-06-03T09:26:18.271595"
+      "scraped_at": "2026-06-04T08:48:21.688371"
     },
     {
       "id": "2a15d6f692988577",
@@ -7158,7 +7525,7 @@
       "stage": null,
       "genre": "Musikal ,  Scenekvelder",
       "sold_out": true,
-      "scraped_at": "2026-06-03T09:28:21.025824"
+      "scraped_at": "2026-06-04T08:49:49.600873"
     },
     {
       "id": "7d3c0bc6adc926e5",
@@ -7174,7 +7541,23 @@
       "stage": "Bikuben",
       "genre": null,
       "sold_out": false,
-      "scraped_at": "2026-06-03T09:26:47.273374"
+      "scraped_at": "2026-06-04T08:48:41.745712"
+    },
+    {
+      "id": "488124aff1463755",
+      "title": "Den perfekte premieren",
+      "venue": "Det Norske Teatret",
+      "venue_slug": "det-norske-teatret",
+      "start": "2026-11-19T18:00:00",
+      "end": "2026-11-19T19:30:00",
+      "description": "Bli med på ei interaktiv vandreframsyning rundt om på heile teaterhuset, og løys eit spennande mysterium! Passar barn frå 7 år.",
+      "image_url": "https://s3.eu-north-1.amazonaws.com/detnorsketeatret/media/framsyningar/den-fantastiske-premieren-og-det-som-vart-litt-dumt/_1200x630_crop_center-center_82_none/EirikMalmo_DNT_DenPerfektePremieren_M5A2813_01.jpg?mtime=1780053180",
+      "ticket_url": "https://www.detnorsketeatret.no/framsyningar/den-perfekte-premieren-og-det-som-vart-litt-dumt",
+      "detail_url": "https://www.detnorsketeatret.no/framsyningar/den-perfekte-premieren-og-det-som-vart-litt-dumt",
+      "stage": "Scene 3",
+      "genre": null,
+      "sold_out": false,
+      "scraped_at": "2026-06-04T08:48:38.544485"
     },
     {
       "id": "f4f13194f5a7d414",
@@ -7190,7 +7573,7 @@
       "stage": "Hovudscenen",
       "genre": null,
       "sold_out": false,
-      "scraped_at": "2026-06-03T09:26:18.271605"
+      "scraped_at": "2026-06-04T08:48:21.688380"
     },
     {
       "id": "5075698af3ab8c79",
@@ -7206,7 +7589,23 @@
       "stage": "Torshovteatret",
       "genre": null,
       "sold_out": false,
-      "scraped_at": "2026-06-03T09:25:57.212197"
+      "scraped_at": "2026-06-04T08:48:07.288622"
+    },
+    {
+      "id": "f292a652123dc902",
+      "title": "Den perfekte premieren",
+      "venue": "Det Norske Teatret",
+      "venue_slug": "det-norske-teatret",
+      "start": "2026-11-20T18:00:00",
+      "end": "2026-11-20T19:30:00",
+      "description": "Bli med på ei interaktiv vandreframsyning rundt om på heile teaterhuset, og løys eit spennande mysterium! Passar barn frå 7 år.",
+      "image_url": "https://s3.eu-north-1.amazonaws.com/detnorsketeatret/media/framsyningar/den-fantastiske-premieren-og-det-som-vart-litt-dumt/_1200x630_crop_center-center_82_none/EirikMalmo_DNT_DenPerfektePremieren_M5A2813_01.jpg?mtime=1780053180",
+      "ticket_url": "https://www.detnorsketeatret.no/framsyningar/den-perfekte-premieren-og-det-som-vart-litt-dumt",
+      "detail_url": "https://www.detnorsketeatret.no/framsyningar/den-perfekte-premieren-og-det-som-vart-litt-dumt",
+      "stage": "Scene 3",
+      "genre": null,
+      "sold_out": false,
+      "scraped_at": "2026-06-04T08:48:38.544511"
     },
     {
       "id": "fee50a3f47ac9095",
@@ -7222,7 +7621,7 @@
       "stage": "Hovudscenen",
       "genre": null,
       "sold_out": false,
-      "scraped_at": "2026-06-03T09:26:18.271624"
+      "scraped_at": "2026-06-04T08:48:21.688389"
     },
     {
       "id": "1be1ac803d13e946",
@@ -7238,7 +7637,23 @@
       "stage": null,
       "genre": "Musikal ,  Scenekvelder",
       "sold_out": false,
-      "scraped_at": "2026-06-03T09:28:21.025855"
+      "scraped_at": "2026-06-04T08:49:49.600905"
+    },
+    {
+      "id": "91acc308053ac0b9",
+      "title": "Den perfekte premieren",
+      "venue": "Det Norske Teatret",
+      "venue_slug": "det-norske-teatret",
+      "start": "2026-11-21T15:30:00",
+      "end": "2026-11-21T17:00:00",
+      "description": "Bli med på ei interaktiv vandreframsyning rundt om på heile teaterhuset, og løys eit spennande mysterium! Passar barn frå 7 år.",
+      "image_url": "https://s3.eu-north-1.amazonaws.com/detnorsketeatret/media/framsyningar/den-fantastiske-premieren-og-det-som-vart-litt-dumt/_1200x630_crop_center-center_82_none/EirikMalmo_DNT_DenPerfektePremieren_M5A2813_01.jpg?mtime=1780053180",
+      "ticket_url": "https://www.detnorsketeatret.no/framsyningar/den-perfekte-premieren-og-det-som-vart-litt-dumt",
+      "detail_url": "https://www.detnorsketeatret.no/framsyningar/den-perfekte-premieren-og-det-som-vart-litt-dumt",
+      "stage": "Scene 3",
+      "genre": null,
+      "sold_out": false,
+      "scraped_at": "2026-06-04T08:48:38.544523"
     },
     {
       "id": "264d6676674bf10d",
@@ -7254,7 +7669,23 @@
       "stage": "Hovudscenen",
       "genre": null,
       "sold_out": false,
-      "scraped_at": "2026-06-03T09:26:18.271635"
+      "scraped_at": "2026-06-04T08:48:21.688398"
+    },
+    {
+      "id": "76f51ac31f846281",
+      "title": "Den perfekte premieren",
+      "venue": "Det Norske Teatret",
+      "venue_slug": "det-norske-teatret",
+      "start": "2026-11-21T18:00:00",
+      "end": "2026-11-21T19:30:00",
+      "description": "Bli med på ei interaktiv vandreframsyning rundt om på heile teaterhuset, og løys eit spennande mysterium! Passar barn frå 7 år.",
+      "image_url": "https://s3.eu-north-1.amazonaws.com/detnorsketeatret/media/framsyningar/den-fantastiske-premieren-og-det-som-vart-litt-dumt/_1200x630_crop_center-center_82_none/EirikMalmo_DNT_DenPerfektePremieren_M5A2813_01.jpg?mtime=1780053180",
+      "ticket_url": "https://www.detnorsketeatret.no/framsyningar/den-perfekte-premieren-og-det-som-vart-litt-dumt",
+      "detail_url": "https://www.detnorsketeatret.no/framsyningar/den-perfekte-premieren-og-det-som-vart-litt-dumt",
+      "stage": "Scene 3",
+      "genre": null,
+      "sold_out": false,
+      "scraped_at": "2026-06-04T08:48:38.544534"
     },
     {
       "id": "a602d3e1fa179398",
@@ -7270,7 +7701,7 @@
       "stage": null,
       "genre": "Musikal ,  Scenekvelder",
       "sold_out": false,
-      "scraped_at": "2026-06-03T09:28:21.025900"
+      "scraped_at": "2026-06-04T08:49:49.600934"
     },
     {
       "id": "a2e7c65eedc299bb",
@@ -7286,7 +7717,55 @@
       "stage": "Bikuben",
       "genre": null,
       "sold_out": false,
-      "scraped_at": "2026-06-03T09:26:47.273384"
+      "scraped_at": "2026-06-04T08:48:41.745722"
+    },
+    {
+      "id": "ad9e417a9a50b648",
+      "title": "Den perfekte premieren",
+      "venue": "Det Norske Teatret",
+      "venue_slug": "det-norske-teatret",
+      "start": "2026-11-24T18:00:00",
+      "end": "2026-11-24T19:30:00",
+      "description": "Bli med på ei interaktiv vandreframsyning rundt om på heile teaterhuset, og løys eit spennande mysterium! Passar barn frå 7 år.",
+      "image_url": "https://s3.eu-north-1.amazonaws.com/detnorsketeatret/media/framsyningar/den-fantastiske-premieren-og-det-som-vart-litt-dumt/_1200x630_crop_center-center_82_none/EirikMalmo_DNT_DenPerfektePremieren_M5A2813_01.jpg?mtime=1780053180",
+      "ticket_url": "https://www.detnorsketeatret.no/framsyningar/den-perfekte-premieren-og-det-som-vart-litt-dumt",
+      "detail_url": "https://www.detnorsketeatret.no/framsyningar/den-perfekte-premieren-og-det-som-vart-litt-dumt",
+      "stage": "Scene 3",
+      "genre": null,
+      "sold_out": false,
+      "scraped_at": "2026-06-04T08:48:38.544545"
+    },
+    {
+      "id": "9297f21eb940372c",
+      "title": "Den perfekte premieren",
+      "venue": "Det Norske Teatret",
+      "venue_slug": "det-norske-teatret",
+      "start": "2026-11-26T18:00:00",
+      "end": "2026-11-26T19:30:00",
+      "description": "Bli med på ei interaktiv vandreframsyning rundt om på heile teaterhuset, og løys eit spennande mysterium! Passar barn frå 7 år.",
+      "image_url": "https://s3.eu-north-1.amazonaws.com/detnorsketeatret/media/framsyningar/den-fantastiske-premieren-og-det-som-vart-litt-dumt/_1200x630_crop_center-center_82_none/EirikMalmo_DNT_DenPerfektePremieren_M5A2813_01.jpg?mtime=1780053180",
+      "ticket_url": "https://www.detnorsketeatret.no/framsyningar/den-perfekte-premieren-og-det-som-vart-litt-dumt",
+      "detail_url": "https://www.detnorsketeatret.no/framsyningar/den-perfekte-premieren-og-det-som-vart-litt-dumt",
+      "stage": "Scene 3",
+      "genre": null,
+      "sold_out": false,
+      "scraped_at": "2026-06-04T08:48:38.544557"
+    },
+    {
+      "id": "ef735fce8f391fd3",
+      "title": "Peter Pan - Under en magisk måne",
+      "venue": "Teater Manu",
+      "venue_slug": "teater-manu",
+      "start": "2026-11-26T18:00:00",
+      "end": null,
+      "description": null,
+      "image_url": "https://www.facebook.com/tr?id=117370848822729&ev=PageView&noscript=1",
+      "ticket_url": "#",
+      "detail_url": "https://teatermanu.no/produksjoner/peter-pan-under-en-magisk-mane/",
+      "stage": "Teater Manu",
+      "genre": null,
+      "sold_out": false,
+      "scraped_at": "2026-06-04T08:49:36.431403"
     },
     {
       "id": "e93a96f9be248a25",
@@ -7302,7 +7781,23 @@
       "stage": "Praxis Oslo",
       "genre": null,
       "sold_out": false,
-      "scraped_at": "2026-06-03T09:27:01.470068"
+      "scraped_at": "2026-06-04T08:48:54.834947"
+    },
+    {
+      "id": "a39d99ec258b5b66",
+      "title": "Den perfekte premieren",
+      "venue": "Det Norske Teatret",
+      "venue_slug": "det-norske-teatret",
+      "start": "2026-11-27T18:00:00",
+      "end": "2026-11-27T19:30:00",
+      "description": "Bli med på ei interaktiv vandreframsyning rundt om på heile teaterhuset, og løys eit spennande mysterium! Passar barn frå 7 år.",
+      "image_url": "https://s3.eu-north-1.amazonaws.com/detnorsketeatret/media/framsyningar/den-fantastiske-premieren-og-det-som-vart-litt-dumt/_1200x630_crop_center-center_82_none/EirikMalmo_DNT_DenPerfektePremieren_M5A2813_01.jpg?mtime=1780053180",
+      "ticket_url": "https://www.detnorsketeatret.no/framsyningar/den-perfekte-premieren-og-det-som-vart-litt-dumt",
+      "detail_url": "https://www.detnorsketeatret.no/framsyningar/den-perfekte-premieren-og-det-som-vart-litt-dumt",
+      "stage": "Scene 3",
+      "genre": null,
+      "sold_out": false,
+      "scraped_at": "2026-06-04T08:48:38.544568"
     },
     {
       "id": "66f34a48463d7443",
@@ -7318,7 +7813,71 @@
       "stage": "Praxis Oslo",
       "genre": null,
       "sold_out": false,
-      "scraped_at": "2026-06-03T09:27:01.470338"
+      "scraped_at": "2026-06-04T08:48:54.835139"
+    },
+    {
+      "id": "cd64c8032e1bb761",
+      "title": "Peter Pan - Under en magisk måne",
+      "venue": "Teater Manu",
+      "venue_slug": "teater-manu",
+      "start": "2026-11-28T14:00:00",
+      "end": null,
+      "description": null,
+      "image_url": "https://www.facebook.com/tr?id=117370848822729&ev=PageView&noscript=1",
+      "ticket_url": "#",
+      "detail_url": "https://teatermanu.no/produksjoner/peter-pan-under-en-magisk-mane/",
+      "stage": "Teater Manu",
+      "genre": null,
+      "sold_out": false,
+      "scraped_at": "2026-06-04T08:49:36.431583"
+    },
+    {
+      "id": "23e4b91628339685",
+      "title": "Den perfekte premieren",
+      "venue": "Det Norske Teatret",
+      "venue_slug": "det-norske-teatret",
+      "start": "2026-11-28T15:00:00",
+      "end": "2026-11-28T16:30:00",
+      "description": "Bli med på ei interaktiv vandreframsyning rundt om på heile teaterhuset, og løys eit spennande mysterium! Passar barn frå 7 år.",
+      "image_url": "https://s3.eu-north-1.amazonaws.com/detnorsketeatret/media/framsyningar/den-fantastiske-premieren-og-det-som-vart-litt-dumt/_1200x630_crop_center-center_82_none/EirikMalmo_DNT_DenPerfektePremieren_M5A2813_01.jpg?mtime=1780053180",
+      "ticket_url": "https://www.detnorsketeatret.no/framsyningar/den-perfekte-premieren-og-det-som-vart-litt-dumt",
+      "detail_url": "https://www.detnorsketeatret.no/framsyningar/den-perfekte-premieren-og-det-som-vart-litt-dumt",
+      "stage": "Scene 3",
+      "genre": null,
+      "sold_out": false,
+      "scraped_at": "2026-06-04T08:48:38.544578"
+    },
+    {
+      "id": "df057d4dd86b51d6",
+      "title": "Den perfekte premieren",
+      "venue": "Det Norske Teatret",
+      "venue_slug": "det-norske-teatret",
+      "start": "2026-11-28T17:30:00",
+      "end": "2026-11-28T19:00:00",
+      "description": "Bli med på ei interaktiv vandreframsyning rundt om på heile teaterhuset, og løys eit spennande mysterium! Passar barn frå 7 år.",
+      "image_url": "https://s3.eu-north-1.amazonaws.com/detnorsketeatret/media/framsyningar/den-fantastiske-premieren-og-det-som-vart-litt-dumt/_1200x630_crop_center-center_82_none/EirikMalmo_DNT_DenPerfektePremieren_M5A2813_01.jpg?mtime=1780053180",
+      "ticket_url": "https://www.detnorsketeatret.no/framsyningar/den-perfekte-premieren-og-det-som-vart-litt-dumt",
+      "detail_url": "https://www.detnorsketeatret.no/framsyningar/den-perfekte-premieren-og-det-som-vart-litt-dumt",
+      "stage": "Scene 3",
+      "genre": null,
+      "sold_out": false,
+      "scraped_at": "2026-06-04T08:48:38.544588"
+    },
+    {
+      "id": "453e24c8e705c454",
+      "title": "Dommedaggry",
+      "venue": "Det Norske Teatret",
+      "venue_slug": "det-norske-teatret",
+      "start": "2026-11-28T18:00:00",
+      "end": "2026-11-28T20:45:00",
+      "description": "Ekorn ville ikkje drøyme om å samle oss inn og legge oss i hole tre om hausten, men er vi likevel verdt å ta vare på? av Lisa Lie med Witch Club Satan.",
+      "image_url": "https://s3.eu-north-1.amazonaws.com/detnorsketeatret/media/_1200x630_crop_center-center_82_none/EirikMalmo_DNT_Dommedaggry_M5A2190_Utkast_02.jpg?mtime=1780322628",
+      "ticket_url": "https://www.detnorsketeatret.no/framsyningar/dommmedaggry",
+      "detail_url": "https://www.detnorsketeatret.no/framsyningar/dommmedaggry",
+      "stage": "Hovudscenen",
+      "genre": null,
+      "sold_out": false,
+      "scraped_at": "2026-06-04T08:48:21.856185"
     },
     {
       "id": "e671591ede83476f",
@@ -7334,7 +7893,7 @@
       "stage": "Praxis Oslo",
       "genre": null,
       "sold_out": false,
-      "scraped_at": "2026-06-03T09:27:01.470617"
+      "scraped_at": "2026-06-04T08:48:54.835331"
     },
     {
       "id": "b8091063f34836aa",
@@ -7350,7 +7909,23 @@
       "stage": null,
       "genre": "Musikal ,  Scenekvelder",
       "sold_out": false,
-      "scraped_at": "2026-06-03T09:28:21.025933"
+      "scraped_at": "2026-06-04T08:49:49.600963"
+    },
+    {
+      "id": "8917e4bd6809e414",
+      "title": "Peter Pan - Under en magisk måne",
+      "venue": "Teater Manu",
+      "venue_slug": "teater-manu",
+      "start": "2026-11-29T14:00:00",
+      "end": null,
+      "description": null,
+      "image_url": "https://www.facebook.com/tr?id=117370848822729&ev=PageView&noscript=1",
+      "ticket_url": "#",
+      "detail_url": "https://teatermanu.no/produksjoner/peter-pan-under-en-magisk-mane/",
+      "stage": "Teater Manu",
+      "genre": null,
+      "sold_out": false,
+      "scraped_at": "2026-06-04T08:49:36.431744"
     },
     {
       "id": "a9e79a14c2fcd452",
@@ -7366,7 +7941,7 @@
       "stage": "Hovudscenen",
       "genre": null,
       "sold_out": false,
-      "scraped_at": "2026-06-03T09:26:18.271645"
+      "scraped_at": "2026-06-04T08:48:21.688407"
     },
     {
       "id": "237508a2d1d1b2e5",
@@ -7382,7 +7957,7 @@
       "stage": "Praxis Oslo",
       "genre": null,
       "sold_out": false,
-      "scraped_at": "2026-06-03T09:27:01.470918"
+      "scraped_at": "2026-06-04T08:48:54.835546"
     },
     {
       "id": "0ac5f22626234251",
@@ -7398,7 +7973,7 @@
       "stage": "Bikuben",
       "genre": null,
       "sold_out": false,
-      "scraped_at": "2026-06-03T09:26:47.273394"
+      "scraped_at": "2026-06-04T08:48:41.745731"
     },
     {
       "id": "6ccf8951e447d38a",
@@ -7414,7 +7989,7 @@
       "stage": "Amfiscenen",
       "genre": null,
       "sold_out": true,
-      "scraped_at": "2026-06-03T09:25:16.734138"
+      "scraped_at": "2026-06-04T08:47:40.630837"
     },
     {
       "id": "400f00681c6628c6",
@@ -7430,7 +8005,23 @@
       "stage": "Amfiscenen",
       "genre": null,
       "sold_out": true,
-      "scraped_at": "2026-06-03T09:25:16.734170"
+      "scraped_at": "2026-06-04T08:47:40.630871"
+    },
+    {
+      "id": "4b420de958e2d165",
+      "title": "Dommedaggry",
+      "venue": "Det Norske Teatret",
+      "venue_slug": "det-norske-teatret",
+      "start": "2026-12-02T19:30:00",
+      "end": "2026-12-02T22:15:00",
+      "description": "Ekorn ville ikkje drøyme om å samle oss inn og legge oss i hole tre om hausten, men er vi likevel verdt å ta vare på? av Lisa Lie med Witch Club Satan.",
+      "image_url": "https://s3.eu-north-1.amazonaws.com/detnorsketeatret/media/_1200x630_crop_center-center_82_none/EirikMalmo_DNT_Dommedaggry_M5A2190_Utkast_02.jpg?mtime=1780322628",
+      "ticket_url": "https://www.detnorsketeatret.no/framsyningar/dommmedaggry",
+      "detail_url": "https://www.detnorsketeatret.no/framsyningar/dommmedaggry",
+      "stage": "Hovudscenen",
+      "genre": null,
+      "sold_out": false,
+      "scraped_at": "2026-06-04T08:48:21.856208"
     },
     {
       "id": "cbc018d074555227",
@@ -7446,7 +8037,39 @@
       "stage": "Bikuben",
       "genre": null,
       "sold_out": false,
-      "scraped_at": "2026-06-03T09:26:47.273410"
+      "scraped_at": "2026-06-04T08:48:41.745741"
+    },
+    {
+      "id": "43d20ce517421b0e",
+      "title": "Husjomfru",
+      "venue": "Det Norske Teatret",
+      "venue_slug": "det-norske-teatret",
+      "start": "2026-12-03T19:30:00",
+      "end": "2026-12-03T21:15:00",
+      "description": "Opplev siste romanen i Edvard Hoem si rike slektskrønike som teater. Ei varm og høgst levande framsyning om å bli sett, og om å bli hugsa. Billettar her!",
+      "image_url": "https://s3.eu-north-1.amazonaws.com/detnorsketeatret/media/_1200x630_crop_center-center_82_none/Liggende-16-9-uten-tittel.jpg?mtime=1779882847",
+      "ticket_url": "https://www.detnorsketeatret.no/framsyningar/husjomfru",
+      "detail_url": "https://www.detnorsketeatret.no/framsyningar/husjomfru",
+      "stage": "Scene 2",
+      "genre": null,
+      "sold_out": false,
+      "scraped_at": "2026-06-04T08:48:34.841699"
+    },
+    {
+      "id": "d96e16cb8878a465",
+      "title": "Husjomfru",
+      "venue": "Det Norske Teatret",
+      "venue_slug": "det-norske-teatret",
+      "start": "2026-12-04T19:30:00",
+      "end": "2026-12-04T21:15:00",
+      "description": "Opplev siste romanen i Edvard Hoem si rike slektskrønike som teater. Ei varm og høgst levande framsyning om å bli sett, og om å bli hugsa. Billettar her!",
+      "image_url": "https://s3.eu-north-1.amazonaws.com/detnorsketeatret/media/_1200x630_crop_center-center_82_none/Liggende-16-9-uten-tittel.jpg?mtime=1779882847",
+      "ticket_url": "https://www.detnorsketeatret.no/framsyningar/husjomfru",
+      "detail_url": "https://www.detnorsketeatret.no/framsyningar/husjomfru",
+      "stage": "Scene 2",
+      "genre": null,
+      "sold_out": false,
+      "scraped_at": "2026-06-04T08:48:34.841722"
     },
     {
       "id": "a7566b21c620b983",
@@ -7462,7 +8085,55 @@
       "stage": null,
       "genre": "Musikal ,  Scenekvelder",
       "sold_out": false,
-      "scraped_at": "2026-06-03T09:28:21.025964"
+      "scraped_at": "2026-06-04T08:49:49.600992"
+    },
+    {
+      "id": "b662b9bd21d4513e",
+      "title": "Husjomfru",
+      "venue": "Det Norske Teatret",
+      "venue_slug": "det-norske-teatret",
+      "start": "2026-12-05T15:00:00",
+      "end": "2026-12-05T16:45:00",
+      "description": "Opplev siste romanen i Edvard Hoem si rike slektskrønike som teater. Ei varm og høgst levande framsyning om å bli sett, og om å bli hugsa. Billettar her!",
+      "image_url": "https://s3.eu-north-1.amazonaws.com/detnorsketeatret/media/_1200x630_crop_center-center_82_none/Liggende-16-9-uten-tittel.jpg?mtime=1779882847",
+      "ticket_url": "https://www.detnorsketeatret.no/framsyningar/husjomfru",
+      "detail_url": "https://www.detnorsketeatret.no/framsyningar/husjomfru",
+      "stage": "Scene 2",
+      "genre": null,
+      "sold_out": false,
+      "scraped_at": "2026-06-04T08:48:34.841734"
+    },
+    {
+      "id": "fe9aa85872029cb7",
+      "title": "Dommedaggry",
+      "venue": "Det Norske Teatret",
+      "venue_slug": "det-norske-teatret",
+      "start": "2026-12-05T17:30:00",
+      "end": "2026-12-05T20:15:00",
+      "description": "Ekorn ville ikkje drøyme om å samle oss inn og legge oss i hole tre om hausten, men er vi likevel verdt å ta vare på? av Lisa Lie med Witch Club Satan.",
+      "image_url": "https://s3.eu-north-1.amazonaws.com/detnorsketeatret/media/_1200x630_crop_center-center_82_none/EirikMalmo_DNT_Dommedaggry_M5A2190_Utkast_02.jpg?mtime=1780322628",
+      "ticket_url": "https://www.detnorsketeatret.no/framsyningar/dommmedaggry",
+      "detail_url": "https://www.detnorsketeatret.no/framsyningar/dommmedaggry",
+      "stage": "Hovudscenen",
+      "genre": null,
+      "sold_out": false,
+      "scraped_at": "2026-06-04T08:48:21.856220"
+    },
+    {
+      "id": "0333be280ae8fdaf",
+      "title": "Husjomfru",
+      "venue": "Det Norske Teatret",
+      "venue_slug": "det-norske-teatret",
+      "start": "2026-12-05T18:00:00",
+      "end": "2026-12-05T19:45:00",
+      "description": "Opplev siste romanen i Edvard Hoem si rike slektskrønike som teater. Ei varm og høgst levande framsyning om å bli sett, og om å bli hugsa. Billettar her!",
+      "image_url": "https://s3.eu-north-1.amazonaws.com/detnorsketeatret/media/_1200x630_crop_center-center_82_none/Liggende-16-9-uten-tittel.jpg?mtime=1779882847",
+      "ticket_url": "https://www.detnorsketeatret.no/framsyningar/husjomfru",
+      "detail_url": "https://www.detnorsketeatret.no/framsyningar/husjomfru",
+      "stage": "Scene 2",
+      "genre": null,
+      "sold_out": false,
+      "scraped_at": "2026-06-04T08:48:34.841745"
     },
     {
       "id": "7bfbd60972be4fbc",
@@ -7478,7 +8149,7 @@
       "stage": null,
       "genre": "Konsert",
       "sold_out": false,
-      "scraped_at": "2026-06-03T09:28:25.853441"
+      "scraped_at": "2026-06-04T08:49:52.189715"
     },
     {
       "id": "a041c2ef0ad6ebb1",
@@ -7494,7 +8165,7 @@
       "stage": "Det Norske Teatret",
       "genre": null,
       "sold_out": false,
-      "scraped_at": "2026-06-03T09:26:44.935165"
+      "scraped_at": "2026-06-04T08:48:40.671315"
     },
     {
       "id": "e941b3626d42dcc0",
@@ -7510,7 +8181,7 @@
       "stage": null,
       "genre": "Konsert",
       "sold_out": false,
-      "scraped_at": "2026-06-03T09:28:26.377185"
+      "scraped_at": "2026-06-04T08:49:52.458436"
     },
     {
       "id": "6ad910a1d911832d",
@@ -7526,7 +8197,23 @@
       "stage": "Hovedscenen",
       "genre": null,
       "sold_out": true,
-      "scraped_at": "2026-06-03T09:25:48.087146"
+      "scraped_at": "2026-06-04T08:48:00.734809"
+    },
+    {
+      "id": "6474c5bdb8dd2c7b",
+      "title": "Dommedaggry",
+      "venue": "Det Norske Teatret",
+      "venue_slug": "det-norske-teatret",
+      "start": "2026-12-10T19:30:00",
+      "end": "2026-12-10T22:15:00",
+      "description": "Ekorn ville ikkje drøyme om å samle oss inn og legge oss i hole tre om hausten, men er vi likevel verdt å ta vare på? av Lisa Lie med Witch Club Satan.",
+      "image_url": "https://s3.eu-north-1.amazonaws.com/detnorsketeatret/media/_1200x630_crop_center-center_82_none/EirikMalmo_DNT_Dommedaggry_M5A2190_Utkast_02.jpg?mtime=1780322628",
+      "ticket_url": "https://www.detnorsketeatret.no/framsyningar/dommmedaggry",
+      "detail_url": "https://www.detnorsketeatret.no/framsyningar/dommmedaggry",
+      "stage": "Hovudscenen",
+      "genre": null,
+      "sold_out": false,
+      "scraped_at": "2026-06-04T08:48:21.856231"
     },
     {
       "id": "2235f7e1f64dbb2d",
@@ -7542,7 +8229,7 @@
       "stage": null,
       "genre": "Musikal ,  Scenekvelder",
       "sold_out": false,
-      "scraped_at": "2026-06-03T09:28:23.705673"
+      "scraped_at": "2026-06-04T08:49:51.088168"
     },
     {
       "id": "9e8ba22d0f7de75f",
@@ -7558,7 +8245,7 @@
       "stage": "Hovudscenen",
       "genre": null,
       "sold_out": false,
-      "scraped_at": "2026-06-03T09:26:19.400780"
+      "scraped_at": "2026-06-04T08:48:22.028777"
     },
     {
       "id": "9971662e5da392ae",
@@ -7574,7 +8261,7 @@
       "stage": null,
       "genre": "Musikal ,  Scenekvelder",
       "sold_out": false,
-      "scraped_at": "2026-06-03T09:28:23.705723"
+      "scraped_at": "2026-06-04T08:49:51.088215"
     },
     {
       "id": "44bb60d87c4a2d90",
@@ -7590,7 +8277,7 @@
       "stage": null,
       "genre": "Musikal ,  Scenekvelder",
       "sold_out": false,
-      "scraped_at": "2026-06-03T09:28:23.705761"
+      "scraped_at": "2026-06-04T08:49:51.088248"
     },
     {
       "id": "0801c14e655549ab",
@@ -7606,7 +8293,7 @@
       "stage": "Hovudscenen",
       "genre": null,
       "sold_out": false,
-      "scraped_at": "2026-06-03T09:26:19.400805"
+      "scraped_at": "2026-06-04T08:48:22.028799"
     },
     {
       "id": "3019efb3593ebf60",
@@ -7622,7 +8309,23 @@
       "stage": "Hovedscenen",
       "genre": null,
       "sold_out": true,
-      "scraped_at": "2026-06-03T09:25:53.004436"
+      "scraped_at": "2026-06-04T08:48:04.240908"
+    },
+    {
+      "id": "e2e9cd19472d0175",
+      "title": "Dommedaggry",
+      "venue": "Det Norske Teatret",
+      "venue_slug": "det-norske-teatret",
+      "start": "2026-12-15T19:30:00",
+      "end": "2026-12-15T22:15:00",
+      "description": "Ekorn ville ikkje drøyme om å samle oss inn og legge oss i hole tre om hausten, men er vi likevel verdt å ta vare på? av Lisa Lie med Witch Club Satan.",
+      "image_url": "https://s3.eu-north-1.amazonaws.com/detnorsketeatret/media/_1200x630_crop_center-center_82_none/EirikMalmo_DNT_Dommedaggry_M5A2190_Utkast_02.jpg?mtime=1780322628",
+      "ticket_url": "https://www.detnorsketeatret.no/framsyningar/dommmedaggry",
+      "detail_url": "https://www.detnorsketeatret.no/framsyningar/dommmedaggry",
+      "stage": "Hovudscenen",
+      "genre": null,
+      "sold_out": false,
+      "scraped_at": "2026-06-04T08:48:21.856242"
     },
     {
       "id": "f8982ca06dcc7d3f",
@@ -7638,7 +8341,7 @@
       "stage": "Hovedscenen",
       "genre": null,
       "sold_out": false,
-      "scraped_at": "2026-06-03T09:25:37.952051"
+      "scraped_at": "2026-06-04T08:47:53.919061"
     },
     {
       "id": "ef69e9b4cd4b2e34",
@@ -7654,7 +8357,23 @@
       "stage": null,
       "genre": "Musikal ,  Scenekvelder",
       "sold_out": false,
-      "scraped_at": "2026-06-03T09:28:23.705796"
+      "scraped_at": "2026-06-04T08:49:51.088278"
+    },
+    {
+      "id": "870d688b20800d68",
+      "title": "Dommedaggry",
+      "venue": "Det Norske Teatret",
+      "venue_slug": "det-norske-teatret",
+      "start": "2026-12-18T19:30:00",
+      "end": "2026-12-18T22:15:00",
+      "description": "Ekorn ville ikkje drøyme om å samle oss inn og legge oss i hole tre om hausten, men er vi likevel verdt å ta vare på? av Lisa Lie med Witch Club Satan.",
+      "image_url": "https://s3.eu-north-1.amazonaws.com/detnorsketeatret/media/_1200x630_crop_center-center_82_none/EirikMalmo_DNT_Dommedaggry_M5A2190_Utkast_02.jpg?mtime=1780322628",
+      "ticket_url": "https://www.detnorsketeatret.no/framsyningar/dommmedaggry",
+      "detail_url": "https://www.detnorsketeatret.no/framsyningar/dommmedaggry",
+      "stage": "Hovudscenen",
+      "genre": null,
+      "sold_out": false,
+      "scraped_at": "2026-06-04T08:48:21.856253"
     },
     {
       "id": "3a798e1633fc12a8",
@@ -7670,7 +8389,23 @@
       "stage": null,
       "genre": "Musikal ,  Scenekvelder",
       "sold_out": false,
-      "scraped_at": "2026-06-03T09:28:23.705831"
+      "scraped_at": "2026-06-04T08:49:51.088309"
+    },
+    {
+      "id": "b3fc6028e858d135",
+      "title": "Dommedaggry",
+      "venue": "Det Norske Teatret",
+      "venue_slug": "det-norske-teatret",
+      "start": "2026-12-19T17:00:00",
+      "end": "2026-12-19T19:45:00",
+      "description": "Ekorn ville ikkje drøyme om å samle oss inn og legge oss i hole tre om hausten, men er vi likevel verdt å ta vare på? av Lisa Lie med Witch Club Satan.",
+      "image_url": "https://s3.eu-north-1.amazonaws.com/detnorsketeatret/media/_1200x630_crop_center-center_82_none/EirikMalmo_DNT_Dommedaggry_M5A2190_Utkast_02.jpg?mtime=1780322628",
+      "ticket_url": "https://www.detnorsketeatret.no/framsyningar/dommmedaggry",
+      "detail_url": "https://www.detnorsketeatret.no/framsyningar/dommmedaggry",
+      "stage": "Hovudscenen",
+      "genre": null,
+      "sold_out": false,
+      "scraped_at": "2026-06-04T08:48:21.856263"
     },
     {
       "id": "32787e1354844509",
@@ -7686,7 +8421,7 @@
       "stage": null,
       "genre": "Musikal ,  Scenekvelder",
       "sold_out": false,
-      "scraped_at": "2026-06-03T09:28:23.705865"
+      "scraped_at": "2026-06-04T08:49:51.088339"
     },
     {
       "id": "6ddc580d96940f0c",
@@ -7702,7 +8437,7 @@
       "stage": null,
       "genre": "Musikal ,  Scenekvelder",
       "sold_out": false,
-      "scraped_at": "2026-06-03T09:28:23.705924"
+      "scraped_at": "2026-06-04T08:49:51.088368"
     },
     {
       "id": "85f18e1cd6b1fa39",
@@ -7718,7 +8453,7 @@
       "stage": null,
       "genre": "Musikal ,  Scenekvelder",
       "sold_out": false,
-      "scraped_at": "2026-06-03T09:28:23.705959"
+      "scraped_at": "2026-06-04T08:49:51.088397"
     },
     {
       "id": "935d6e35e34ccc1a",
@@ -7734,7 +8469,7 @@
       "stage": "Hovudscenen",
       "genre": null,
       "sold_out": false,
-      "scraped_at": "2026-06-03T09:26:19.400818"
+      "scraped_at": "2026-06-04T08:48:22.028811"
     },
     {
       "id": "3c8913bdd0425b3f",
@@ -7750,7 +8485,7 @@
       "stage": null,
       "genre": null,
       "sold_out": false,
-      "scraped_at": "2026-06-03T09:27:35.612798"
+      "scraped_at": "2026-06-04T08:49:27.580131"
     },
     {
       "id": "80d9dbccc067b857",
@@ -7766,7 +8501,7 @@
       "stage": null,
       "genre": null,
       "sold_out": false,
-      "scraped_at": "2026-06-03T09:27:35.612963"
+      "scraped_at": "2026-06-04T08:49:27.580226"
     },
     {
       "id": "fb6c15b75d528fcb",
@@ -7782,7 +8517,7 @@
       "stage": "Riksteatret",
       "genre": null,
       "sold_out": false,
-      "scraped_at": "2026-06-03T09:27:38.601634"
+      "scraped_at": "2026-06-04T08:49:29.501578"
     },
     {
       "id": "34b6922c8f09f2c3",
@@ -7798,7 +8533,7 @@
       "stage": "Riksteatret",
       "genre": null,
       "sold_out": false,
-      "scraped_at": "2026-06-03T09:27:38.602037"
+      "scraped_at": "2026-06-04T08:49:29.501917"
     },
     {
       "id": "5ca6779960efe273",
@@ -7814,7 +8549,7 @@
       "stage": "Riksteatret",
       "genre": null,
       "sold_out": false,
-      "scraped_at": "2026-06-03T09:27:38.602408"
+      "scraped_at": "2026-06-04T08:49:29.502231"
     },
     {
       "id": "def015ab6973256f",
@@ -7830,7 +8565,7 @@
       "stage": null,
       "genre": null,
       "sold_out": false,
-      "scraped_at": "2026-06-03T09:27:35.612671"
+      "scraped_at": "2026-06-04T08:49:27.580019"
     },
     {
       "id": "8afe32606306c0ee",
@@ -7846,7 +8581,7 @@
       "stage": "Riksteatret",
       "genre": null,
       "sold_out": false,
-      "scraped_at": "2026-06-03T09:27:38.434678"
+      "scraped_at": "2026-06-04T08:49:29.392657"
     },
     {
       "id": "7f75695da2a8c388",
@@ -7862,7 +8597,7 @@
       "stage": null,
       "genre": null,
       "sold_out": false,
-      "scraped_at": "2026-06-03T09:27:35.612539"
+      "scraped_at": "2026-06-04T08:49:27.579911"
     },
     {
       "id": "eed8b9df1111215f",
@@ -7878,7 +8613,7 @@
       "stage": "Riksteatret",
       "genre": null,
       "sold_out": false,
-      "scraped_at": "2026-06-03T09:27:38.435092"
+      "scraped_at": "2026-06-04T08:49:29.392992"
     },
     {
       "id": "18db7d19b75ce1c5",
@@ -7894,7 +8629,7 @@
       "stage": "Riksteatret",
       "genre": null,
       "sold_out": false,
-      "scraped_at": "2026-06-03T09:27:38.435537"
+      "scraped_at": "2026-06-04T08:49:29.393301"
     },
     {
       "id": "a71ae08f13c81485",
@@ -7910,7 +8645,7 @@
       "stage": null,
       "genre": null,
       "sold_out": false,
-      "scraped_at": "2026-06-03T09:27:35.612412"
+      "scraped_at": "2026-06-04T08:49:27.579789"
     },
     {
       "id": "669e865b87b2dc1d",
@@ -7926,7 +8661,7 @@
       "stage": null,
       "genre": null,
       "sold_out": false,
-      "scraped_at": "2026-06-03T09:27:35.612286"
+      "scraped_at": "2026-06-04T08:49:27.579637"
     },
     {
       "id": "2fc942a6e01d03b9",
@@ -7942,7 +8677,7 @@
       "stage": null,
       "genre": null,
       "sold_out": false,
-      "scraped_at": "2026-06-03T09:27:35.612161"
+      "scraped_at": "2026-06-04T08:49:27.579386"
     },
     {
       "id": "d6050404b72ac18a",
@@ -7958,7 +8693,7 @@
       "stage": null,
       "genre": null,
       "sold_out": false,
-      "scraped_at": "2026-06-03T09:27:35.612027"
+      "scraped_at": "2026-06-04T08:49:27.579226"
     },
     {
       "id": "18654073b8f5886a",
@@ -7974,7 +8709,7 @@
       "stage": null,
       "genre": null,
       "sold_out": false,
-      "scraped_at": "2026-06-03T09:27:35.611854"
+      "scraped_at": "2026-06-04T08:49:27.579062"
     },
     {
       "id": "f2aa924c418eb629",
@@ -7990,7 +8725,7 @@
       "stage": "Riksteatret",
       "genre": null,
       "sold_out": false,
-      "scraped_at": "2026-06-03T09:27:38.227387"
+      "scraped_at": "2026-06-04T08:49:29.254071"
     },
     {
       "id": "1dc1bcc3e839adc5",
@@ -8006,7 +8741,7 @@
       "stage": "Riksteatret",
       "genre": null,
       "sold_out": false,
-      "scraped_at": "2026-06-03T09:27:38.227777"
+      "scraped_at": "2026-06-04T08:49:29.254407"
     },
     {
       "id": "8db11f1778e9c6e4",
@@ -8022,7 +8757,7 @@
       "stage": "Riksteatret",
       "genre": null,
       "sold_out": false,
-      "scraped_at": "2026-06-03T09:27:38.228182"
+      "scraped_at": "2026-06-04T08:49:29.254816"
     },
     {
       "id": "47d27ebba126706b",
@@ -8038,7 +8773,7 @@
       "stage": null,
       "genre": null,
       "sold_out": false,
-      "scraped_at": "2026-06-03T09:27:35.611685"
+      "scraped_at": "2026-06-04T08:49:27.578898"
     },
     {
       "id": "65b4bd5aface9c5f",
@@ -8054,7 +8789,7 @@
       "stage": "Hovudscenen",
       "genre": null,
       "sold_out": false,
-      "scraped_at": "2026-06-03T09:26:30.668907"
+      "scraped_at": "2026-06-04T08:48:30.045716"
     },
     {
       "id": "3fa3f6200a8d5059",
@@ -8070,7 +8805,7 @@
       "stage": null,
       "genre": null,
       "sold_out": false,
-      "scraped_at": "2026-06-03T09:27:35.611560"
+      "scraped_at": "2026-06-04T08:49:27.578744"
     },
     {
       "id": "f2abbf81ac74f48b",
@@ -8086,7 +8821,7 @@
       "stage": "Hovudscenen",
       "genre": null,
       "sold_out": false,
-      "scraped_at": "2026-06-03T09:26:30.668933"
+      "scraped_at": "2026-06-04T08:48:30.045739"
     },
     {
       "id": "4386e447d619a688",
@@ -8102,7 +8837,7 @@
       "stage": "Hovudscenen",
       "genre": null,
       "sold_out": false,
-      "scraped_at": "2026-06-03T09:26:30.668947"
+      "scraped_at": "2026-06-04T08:48:30.045751"
     },
     {
       "id": "866dd4c8b5aa1904",
@@ -8118,7 +8853,7 @@
       "stage": "Hovudscenen",
       "genre": null,
       "sold_out": false,
-      "scraped_at": "2026-06-03T09:26:30.668958"
+      "scraped_at": "2026-06-04T08:48:30.045761"
     },
     {
       "id": "371192e36e94007c",
@@ -8134,7 +8869,7 @@
       "stage": null,
       "genre": null,
       "sold_out": false,
-      "scraped_at": "2026-06-03T09:27:35.611433"
+      "scraped_at": "2026-06-04T08:49:27.578570"
     },
     {
       "id": "7808d6bf9a65e537",
@@ -8150,7 +8885,7 @@
       "stage": "Hovudscenen",
       "genre": null,
       "sold_out": false,
-      "scraped_at": "2026-06-03T09:26:30.668969"
+      "scraped_at": "2026-06-04T08:48:30.045771"
     },
     {
       "id": "eabb2bf3ed9b62c4",
@@ -8166,7 +8901,7 @@
       "stage": "Hovudscenen",
       "genre": null,
       "sold_out": false,
-      "scraped_at": "2026-06-03T09:26:30.668981"
+      "scraped_at": "2026-06-04T08:48:30.045781"
     },
     {
       "id": "126cfca5c813407f",
@@ -8182,7 +8917,7 @@
       "stage": "Hovudscenen",
       "genre": null,
       "sold_out": false,
-      "scraped_at": "2026-06-03T09:26:30.668992"
+      "scraped_at": "2026-06-04T08:48:30.045791"
     },
     {
       "id": "ebd55229c8b65fb3",
@@ -8198,7 +8933,7 @@
       "stage": "Hovudscenen",
       "genre": null,
       "sold_out": false,
-      "scraped_at": "2026-06-03T09:26:30.669002"
+      "scraped_at": "2026-06-04T08:48:30.045802"
     },
     {
       "id": "9d6ab46f8fdf734c",
@@ -8214,7 +8949,7 @@
       "stage": null,
       "genre": null,
       "sold_out": false,
-      "scraped_at": "2026-06-03T09:27:35.611295"
+      "scraped_at": "2026-06-04T08:49:27.578397"
     },
     {
       "id": "ce36450bc6a98107",
@@ -8230,7 +8965,7 @@
       "stage": null,
       "genre": null,
       "sold_out": false,
-      "scraped_at": "2026-06-03T09:27:35.611172"
+      "scraped_at": "2026-06-04T08:49:27.578270"
     },
     {
       "id": "201466519723abab",
@@ -8246,7 +8981,7 @@
       "stage": null,
       "genre": null,
       "sold_out": false,
-      "scraped_at": "2026-06-03T09:27:35.611047"
+      "scraped_at": "2026-06-04T08:49:27.578139"
     },
     {
       "id": "77082ec440539767",
@@ -8262,7 +8997,7 @@
       "stage": "Riksteatret",
       "genre": null,
       "sold_out": false,
-      "scraped_at": "2026-06-03T09:27:38.437486"
+      "scraped_at": "2026-06-04T08:49:29.394799"
     },
     {
       "id": "9e31440f96005f4c",
@@ -8278,7 +9013,7 @@
       "stage": "Riksteatret",
       "genre": null,
       "sold_out": false,
-      "scraped_at": "2026-06-03T09:27:38.437836"
+      "scraped_at": "2026-06-04T08:49:29.395087"
     },
     {
       "id": "5f83c02e19cc6083",
@@ -8294,7 +9029,7 @@
       "stage": "Riksteatret",
       "genre": null,
       "sold_out": false,
-      "scraped_at": "2026-06-03T09:27:38.438212"
+      "scraped_at": "2026-06-04T08:49:29.395368"
     },
     {
       "id": "e9e27d99e89a1710",
@@ -8310,7 +9045,7 @@
       "stage": "Riksteatret",
       "genre": null,
       "sold_out": false,
-      "scraped_at": "2026-06-03T09:27:38.438558"
+      "scraped_at": "2026-06-04T08:49:29.395657"
     },
     {
       "id": "663374466ed6ca3b",
@@ -8326,7 +9061,7 @@
       "stage": "Riksteatret",
       "genre": null,
       "sold_out": false,
-      "scraped_at": "2026-06-03T09:27:38.229589"
+      "scraped_at": "2026-06-04T08:49:29.255857"
     },
     {
       "id": "d2e5a5927b410f33",
@@ -8342,7 +9077,7 @@
       "stage": "Riksteatret",
       "genre": null,
       "sold_out": false,
-      "scraped_at": "2026-06-03T09:27:38.229966"
+      "scraped_at": "2026-06-04T08:49:29.256142"
     },
     {
       "id": "132d0d7898c416f2",
@@ -8358,7 +9093,7 @@
       "stage": "Riksteatret",
       "genre": null,
       "sold_out": false,
-      "scraped_at": "2026-06-03T09:27:38.230336"
+      "scraped_at": "2026-06-04T08:49:29.256421"
     },
     {
       "id": "6c72284c7dfdce0b",
@@ -8374,7 +9109,7 @@
       "stage": null,
       "genre": "Musikal ,  Scenekvelder",
       "sold_out": false,
-      "scraped_at": "2026-06-03T09:28:27.025173"
+      "scraped_at": "2026-06-04T08:49:52.738926"
     },
     {
       "id": "55ec5b53bfa7af8c",
@@ -8390,7 +9125,7 @@
       "stage": null,
       "genre": "Musikal ,  Scenekvelder",
       "sold_out": false,
-      "scraped_at": "2026-06-03T09:28:27.025224"
+      "scraped_at": "2026-06-04T08:49:52.738973"
     },
     {
       "id": "1be336e66d5f5965",
@@ -8406,7 +9141,7 @@
       "stage": null,
       "genre": "Musikal ,  Scenekvelder",
       "sold_out": false,
-      "scraped_at": "2026-06-03T09:28:27.025263"
+      "scraped_at": "2026-06-04T08:49:52.739006"
     },
     {
       "id": "9232199b4440039a",
@@ -8422,7 +9157,7 @@
       "stage": null,
       "genre": "Musikal ,  Scenekvelder",
       "sold_out": false,
-      "scraped_at": "2026-06-03T09:28:27.025299"
+      "scraped_at": "2026-06-04T08:49:52.739038"
     },
     {
       "id": "48f9db842fd5f305",
@@ -8438,7 +9173,7 @@
       "stage": null,
       "genre": "Musikal ,  Scenekvelder",
       "sold_out": false,
-      "scraped_at": "2026-06-03T09:28:27.025334"
+      "scraped_at": "2026-06-04T08:49:52.739069"
     },
     {
       "id": "0707bbdb74df8a7f",
@@ -8454,7 +9189,7 @@
       "stage": null,
       "genre": "Musikal ,  Scenekvelder",
       "sold_out": false,
-      "scraped_at": "2026-06-03T09:28:27.025369"
+      "scraped_at": "2026-06-04T08:49:52.739099"
     },
     {
       "id": "53994560c90c9a1d",
@@ -8470,7 +9205,7 @@
       "stage": null,
       "genre": "Musikal ,  Scenekvelder",
       "sold_out": false,
-      "scraped_at": "2026-06-03T09:28:27.025404"
+      "scraped_at": "2026-06-04T08:49:52.739129"
     },
     {
       "id": "b50a4e3a0b6f00ff",
@@ -8486,7 +9221,7 @@
       "stage": null,
       "genre": "Musikal ,  Scenekvelder",
       "sold_out": false,
-      "scraped_at": "2026-06-03T09:28:27.025438"
+      "scraped_at": "2026-06-04T08:49:52.739158"
     },
     {
       "id": "c3cfdae59e9a3a04",
@@ -8502,7 +9237,7 @@
       "stage": null,
       "genre": "Musikal ,  Scenekvelder",
       "sold_out": false,
-      "scraped_at": "2026-06-03T09:28:27.025472"
+      "scraped_at": "2026-06-04T08:49:52.739186"
     },
     {
       "id": "8be3418cf13ccd99",
@@ -8518,7 +9253,7 @@
       "stage": null,
       "genre": "Musikal ,  Scenekvelder",
       "sold_out": false,
-      "scraped_at": "2026-06-03T09:28:27.025506"
+      "scraped_at": "2026-06-04T08:49:52.739215"
     },
     {
       "id": "3e81eef77a24a27a",
@@ -8534,7 +9269,7 @@
       "stage": null,
       "genre": "Musikal ,  Scenekvelder",
       "sold_out": false,
-      "scraped_at": "2026-06-03T09:28:27.025540"
+      "scraped_at": "2026-06-04T08:49:52.739244"
     },
     {
       "id": "6f1a57b52391bc59",
@@ -8550,7 +9285,7 @@
       "stage": null,
       "genre": "Musikal ,  Scenekvelder",
       "sold_out": false,
-      "scraped_at": "2026-06-03T09:28:27.025575"
+      "scraped_at": "2026-06-04T08:49:52.739273"
     },
     {
       "id": "75de2f68d6cb4062",
@@ -8566,7 +9301,7 @@
       "stage": null,
       "genre": "Musikal ,  Scenekvelder",
       "sold_out": false,
-      "scraped_at": "2026-06-03T09:28:27.025609"
+      "scraped_at": "2026-06-04T08:49:52.739302"
     },
     {
       "id": "3572893813c7dba4",
@@ -8582,17 +9317,13 @@
       "stage": null,
       "genre": "Musikal ,  Scenekvelder",
       "sold_out": false,
-      "scraped_at": "2026-06-03T09:28:27.025643"
+      "scraped_at": "2026-06-04T08:49:52.739330"
     }
   ],
   "errors": [
     {
       "scraper": "OperaenScraper",
       "error": "Page.goto: Timeout 30000ms exceeded.\nCall log:\n  - navigating to \"https://operaen.no/\", waiting until \"networkidle\"\n"
-    },
-    {
-      "scraper": "TeaterManuScraper",
-      "error": "HTTPSConnectionPool(host='teatermanu.no', port=443): Max retries exceeded with url: /produksjoner/ (Caused by ConnectTimeoutError(<HTTPSConnection(host='teatermanu.no', port=443) at 0x7faf667d25d0>, 'Connection to teatermanu.no timed out. (connect timeout=30)'))"
     }
   ]
 }
