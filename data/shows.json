@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-06-30T08:32:37.157875+00:00",
-  "show_count": 449,
+  "generated_at": "2026-07-01T08:51:40.069894+00:00",
+  "show_count": 456,
   "venues": [
     {
       "slug": "nationaltheatret",
@@ -37,7 +37,7 @@
       "slug": "dramatikkens-hus",
       "name": "Dramatikkens Hus",
       "url": "https://www.dramatikkenshus.no",
-      "show_count": 15
+      "show_count": 20
     },
     {
       "slug": "riksteatret",
@@ -55,14 +55,13 @@
       "slug": "teater-manu",
       "name": "Teater Manu",
       "url": "https://teatermanu.no",
-      "show_count": 0,
-      "error": "HTTPSConnectionPool(host='teatermanu.no', port=443): Max retries exceeded with url: /produksjoner/ (Caused by ConnectTimeoutError(<HTTPSConnection(host='teatermanu.no', port=443) at 0x7f52d1dea8d0>, 'Connection to teatermanu.no timed out. (connect timeout=30)'))"
+      "show_count": 5
     },
     {
       "slug": "nordic-black",
       "name": "Nordic Black Theatre",
       "url": "https://nordicblacktheatre.no",
-      "show_count": 20
+      "show_count": 17
     },
     {
       "slug": "folketeateret",
@@ -72,54 +71,6 @@
     }
   ],
   "shows": [
-    {
-      "id": "7ccbefd3d857ce39",
-      "title": "LTAP ASSOCIATION OF LONG-TERM ART PROJECTS",
-      "venue": "Nordic Black Theatre",
-      "venue_slug": "nordic-black",
-      "start": "2026-06-29T19:00:00",
-      "end": null,
-      "description": null,
-      "image_url": "/_next/image?url=https%3A%2F%2Fcdn.sanity.io%2Fimages%2Fl794s5ct%2Fproduction%2Fabe78535907f2f25b0a5f2862fbe9ca9369146b8-1440x810.jpg%3Frect%3D315%2C0%2C810%2C810%26w%3D1000%26h%3D1000%26q%3D92%26fit%3Dmax%26auto%3Dformat&w=3840&q=75",
-      "ticket_url": "https://nordicblacktheatre.no/program/ltap-association-of-long-term-art-projects-29-06-2026",
-      "detail_url": "https://nordicblacktheatre.no/program/ltap-association-of-long-term-art-projects-29-06-2026",
-      "stage": null,
-      "genre": null,
-      "sold_out": false,
-      "scraped_at": "2026-06-30T08:32:18.043633"
-    },
-    {
-      "id": "b9bee50212a20ac1",
-      "title": "Aureliakvartetten inviterer til sommerkonsert",
-      "venue": "Nordic Black Theatre",
-      "venue_slug": "nordic-black",
-      "start": "2026-06-29T19:00:00",
-      "end": null,
-      "description": null,
-      "image_url": "/_next/image?url=https%3A%2F%2Fcdn.sanity.io%2Fimages%2Fl794s5ct%2Fproduction%2Fe04fb97ca9ffc4046def70cfca78403153629605-1440x810.jpg%3Frect%3D315%2C0%2C810%2C810%26w%3D1000%26h%3D1000%26q%3D92%26fit%3Dmax%26auto%3Dformat&w=3840&q=75",
-      "ticket_url": "https://nordicblacktheatre.no/program/aureliakvartetten-inviterer-til-sommerkonsert-29-06-2026",
-      "detail_url": "https://nordicblacktheatre.no/program/aureliakvartetten-inviterer-til-sommerkonsert-29-06-2026",
-      "stage": null,
-      "genre": null,
-      "sold_out": false,
-      "scraped_at": "2026-06-30T08:32:18.043693"
-    },
-    {
-      "id": "d76e72cde25e6f87",
-      "title": "Kongolesisk nasjonaldagsfeiring",
-      "venue": "Nordic Black Theatre",
-      "venue_slug": "nordic-black",
-      "start": "2026-06-30T19:00:00",
-      "end": null,
-      "description": null,
-      "image_url": "/_next/image?url=https%3A%2F%2Fcdn.sanity.io%2Fimages%2Fl794s5ct%2Fproduction%2F5d50b0d14fe4161c0c3f53ca0355b9250a165feb-1440x810.jpg%3Frect%3D315%2C0%2C810%2C810%26w%3D1000%26h%3D1000%26q%3D92%26fit%3Dmax%26auto%3Dformat&w=3840&q=75",
-      "ticket_url": "https://nordicblacktheatre.no/program/kongolesisk-nasjonaldagsfeiring-30-06-2026",
-      "detail_url": "https://nordicblacktheatre.no/program/kongolesisk-nasjonaldagsfeiring-30-06-2026",
-      "stage": null,
-      "genre": null,
-      "sold_out": false,
-      "scraped_at": "2026-06-30T08:32:18.043752"
-    },
     {
       "id": "93055097e51e239c",
       "title": "Sommerimpro",
@@ -134,7 +85,7 @@
       "stage": "Hovedscenen",
       "genre": null,
       "sold_out": false,
-      "scraped_at": "2026-06-30T08:31:42.340472"
+      "scraped_at": "2026-07-01T08:51:19.733368"
     },
     {
       "id": "f8dddb4e7165be02",
@@ -150,7 +101,7 @@
       "stage": "Hovedscenen",
       "genre": null,
       "sold_out": false,
-      "scraped_at": "2026-06-30T08:31:42.341334"
+      "scraped_at": "2026-07-01T08:51:19.734240"
     },
     {
       "id": "0a8ecb17fd19d38e",
@@ -166,7 +117,7 @@
       "stage": "Hovedscenen",
       "genre": null,
       "sold_out": false,
-      "scraped_at": "2026-06-30T08:31:42.342150"
+      "scraped_at": "2026-07-01T08:51:19.735100"
     },
     {
       "id": "fc4a154d6493d6ce",
@@ -182,7 +133,7 @@
       "stage": null,
       "genre": null,
       "sold_out": false,
-      "scraped_at": "2026-06-30T08:32:18.043867"
+      "scraped_at": "2026-07-01T08:51:30.607304"
     },
     {
       "id": "e22b5fbed39b51ad",
@@ -198,7 +149,7 @@
       "stage": null,
       "genre": null,
       "sold_out": false,
-      "scraped_at": "2026-06-30T08:32:18.043931"
+      "scraped_at": "2026-07-01T08:51:30.607383"
     },
     {
       "id": "be064c0072615aaf",
@@ -214,7 +165,7 @@
       "stage": null,
       "genre": null,
       "sold_out": false,
-      "scraped_at": "2026-06-30T08:32:18.043994"
+      "scraped_at": "2026-07-01T08:51:30.607463"
     },
     {
       "id": "524c01984ecdf9a5",
@@ -230,7 +181,7 @@
       "stage": null,
       "genre": null,
       "sold_out": false,
-      "scraped_at": "2026-06-30T08:32:18.044059"
+      "scraped_at": "2026-07-01T08:51:30.607539"
     },
     {
       "id": "0d16bc215e187354",
@@ -246,7 +197,7 @@
       "stage": "Hovedscenen",
       "genre": null,
       "sold_out": false,
-      "scraped_at": "2026-06-30T08:31:42.342964"
+      "scraped_at": "2026-07-01T08:51:19.735895"
     },
     {
       "id": "b95fce56a186164a",
@@ -262,7 +213,7 @@
       "stage": "Hovedscenen",
       "genre": null,
       "sold_out": false,
-      "scraped_at": "2026-06-30T08:31:42.343777"
+      "scraped_at": "2026-07-01T08:51:19.736703"
     },
     {
       "id": "4daed99996bc0e95",
@@ -278,7 +229,7 @@
       "stage": "Hovedscenen",
       "genre": null,
       "sold_out": false,
-      "scraped_at": "2026-06-30T08:31:42.344589"
+      "scraped_at": "2026-07-01T08:51:19.737522"
     },
     {
       "id": "d3c949f289af72b7",
@@ -294,7 +245,7 @@
       "stage": null,
       "genre": null,
       "sold_out": false,
-      "scraped_at": "2026-06-30T08:32:18.044131"
+      "scraped_at": "2026-07-01T08:51:30.607635"
     },
     {
       "id": "ffc848cc693b6f15",
@@ -310,7 +261,7 @@
       "stage": null,
       "genre": null,
       "sold_out": false,
-      "scraped_at": "2026-06-30T08:32:18.044193"
+      "scraped_at": "2026-07-01T08:51:30.607707"
     },
     {
       "id": "ef1cf1baa10ca17c",
@@ -326,7 +277,7 @@
       "stage": "Hovedscenen",
       "genre": null,
       "sold_out": false,
-      "scraped_at": "2026-06-30T08:31:42.345387"
+      "scraped_at": "2026-07-01T08:51:19.738310"
     },
     {
       "id": "b2211dd4fe78d855",
@@ -342,7 +293,7 @@
       "stage": "Hovedscenen",
       "genre": null,
       "sold_out": false,
-      "scraped_at": "2026-06-30T08:31:42.346175"
+      "scraped_at": "2026-07-01T08:51:19.739104"
     },
     {
       "id": "3122590e8c26df04",
@@ -358,7 +309,7 @@
       "stage": "Hovedscenen",
       "genre": null,
       "sold_out": false,
-      "scraped_at": "2026-06-30T08:31:42.346975"
+      "scraped_at": "2026-07-01T08:51:19.739911"
     },
     {
       "id": "39d2f4ef5c07de9e",
@@ -374,7 +325,7 @@
       "stage": null,
       "genre": null,
       "sold_out": false,
-      "scraped_at": "2026-06-30T08:32:18.044266"
+      "scraped_at": "2026-07-01T08:51:30.607778"
     },
     {
       "id": "ccb429fecc7437dc",
@@ -390,7 +341,7 @@
       "stage": "Hovedscenen",
       "genre": null,
       "sold_out": false,
-      "scraped_at": "2026-06-30T08:29:22.411346"
+      "scraped_at": "2026-07-01T08:49:19.842615"
     },
     {
       "id": "c45bd1d7382afec8",
@@ -406,7 +357,7 @@
       "stage": "Hovedscenen",
       "genre": null,
       "sold_out": false,
-      "scraped_at": "2026-06-30T08:30:00.560049"
+      "scraped_at": "2026-07-01T08:49:49.092132"
     },
     {
       "id": "c779a9ed98e78113",
@@ -422,7 +373,7 @@
       "stage": null,
       "genre": null,
       "sold_out": false,
-      "scraped_at": "2026-06-30T08:32:18.044327"
+      "scraped_at": "2026-07-01T08:51:30.607847"
     },
     {
       "id": "735cf3469004ef18",
@@ -438,7 +389,7 @@
       "stage": null,
       "genre": null,
       "sold_out": false,
-      "scraped_at": "2026-06-30T08:32:18.044388"
+      "scraped_at": "2026-07-01T08:51:30.607945"
     },
     {
       "id": "0838b22fd79cfc36",
@@ -454,7 +405,7 @@
       "stage": "Hovedscenen",
       "genre": null,
       "sold_out": false,
-      "scraped_at": "2026-06-30T08:29:24.833217"
+      "scraped_at": "2026-07-01T08:49:22.199722"
     },
     {
       "id": "5dbdfd57e68389c6",
@@ -470,7 +421,7 @@
       "stage": "Midtgolvet",
       "genre": null,
       "sold_out": false,
-      "scraped_at": "2026-06-30T08:30:41.092015"
+      "scraped_at": "2026-07-01T08:50:18.935766"
     },
     {
       "id": "c554cae7a22ea7ec",
@@ -486,7 +437,7 @@
       "stage": "Midtgolvet",
       "genre": null,
       "sold_out": false,
-      "scraped_at": "2026-06-30T08:30:41.092039"
+      "scraped_at": "2026-07-01T08:50:18.935790"
     },
     {
       "id": "580b82411a95c50e",
@@ -502,7 +453,7 @@
       "stage": "Lille scene\n    \n      (Black Box teater)",
       "genre": null,
       "sold_out": false,
-      "scraped_at": "2026-06-30T08:30:56.577276"
+      "scraped_at": "2026-07-01T08:50:34.369245"
     },
     {
       "id": "61ac811fe6713a76",
@@ -518,7 +469,7 @@
       "stage": null,
       "genre": null,
       "sold_out": false,
-      "scraped_at": "2026-06-30T08:32:18.044451"
+      "scraped_at": "2026-07-01T08:51:30.608100"
     },
     {
       "id": "dc016f5850a15246",
@@ -534,7 +485,7 @@
       "stage": "Lille scene\n    \n      (Black Box teater)",
       "genre": null,
       "sold_out": false,
-      "scraped_at": "2026-06-30T08:30:56.577528"
+      "scraped_at": "2026-07-01T08:50:34.369499"
     },
     {
       "id": "f5a53580df8eaad8",
@@ -550,7 +501,7 @@
       "stage": "Hovedscenen",
       "genre": "Sesongforestilling",
       "sold_out": false,
-      "scraped_at": "2026-06-30T08:31:42.347910"
+      "scraped_at": "2026-07-01T08:51:19.740844"
     },
     {
       "id": "512e7bdebc10fb36",
@@ -566,7 +517,7 @@
       "stage": "Hovedscenen",
       "genre": "Sesongforestilling",
       "sold_out": false,
-      "scraped_at": "2026-06-30T08:31:42.348517"
+      "scraped_at": "2026-07-01T08:51:19.741456"
     },
     {
       "id": "be65c308e706c10d",
@@ -582,7 +533,7 @@
       "stage": "Midtgolvet",
       "genre": null,
       "sold_out": false,
-      "scraped_at": "2026-06-30T08:30:41.092052"
+      "scraped_at": "2026-07-01T08:50:18.935803"
     },
     {
       "id": "14e76706eeabbd06",
@@ -598,7 +549,7 @@
       "stage": "Vega Scene",
       "genre": null,
       "sold_out": false,
-      "scraped_at": "2026-06-30T08:31:31.022499"
+      "scraped_at": "2026-07-01T08:51:08.750989"
     },
     {
       "id": "dc644fa72b392b7a",
@@ -614,7 +565,7 @@
       "stage": "Lille scene\n    \n      (Black Box teater)",
       "genre": null,
       "sold_out": false,
-      "scraped_at": "2026-06-30T08:30:56.577736"
+      "scraped_at": "2026-07-01T08:50:34.369738"
     },
     {
       "id": "3688acfedc090baa",
@@ -630,7 +581,7 @@
       "stage": "Hovedscenen",
       "genre": "Kun én kveld!",
       "sold_out": false,
-      "scraped_at": "2026-06-30T08:31:42.349337"
+      "scraped_at": "2026-07-01T08:51:19.742311"
     },
     {
       "id": "c8dc4cc007dbc234",
@@ -646,7 +597,7 @@
       "stage": "Vega Scene",
       "genre": null,
       "sold_out": false,
-      "scraped_at": "2026-06-30T08:31:31.022830"
+      "scraped_at": "2026-07-01T08:51:08.751325"
     },
     {
       "id": "c065747aa2cea574",
@@ -662,7 +613,7 @@
       "stage": "Hovudscenen",
       "genre": null,
       "sold_out": false,
-      "scraped_at": "2026-06-30T08:30:31.930757"
+      "scraped_at": "2026-07-01T08:50:06.859405"
     },
     {
       "id": "659ac8314d233f52",
@@ -678,7 +629,7 @@
       "stage": "Vega Scene",
       "genre": null,
       "sold_out": false,
-      "scraped_at": "2026-06-30T08:31:31.023146"
+      "scraped_at": "2026-07-01T08:51:08.751636"
     },
     {
       "id": "a8a39f94d3504293",
@@ -694,7 +645,7 @@
       "stage": null,
       "genre": null,
       "sold_out": false,
-      "scraped_at": "2026-06-30T08:32:18.044511"
+      "scraped_at": "2026-07-01T08:51:30.608171"
     },
     {
       "id": "780c3a82cb0131d3",
@@ -710,7 +661,7 @@
       "stage": "Midtgolvet",
       "genre": null,
       "sold_out": false,
-      "scraped_at": "2026-06-30T08:30:41.092063"
+      "scraped_at": "2026-07-01T08:50:18.935814"
     },
     {
       "id": "49679966186c2b85",
@@ -726,7 +677,7 @@
       "stage": "Hovedscenen",
       "genre": null,
       "sold_out": false,
-      "scraped_at": "2026-06-30T08:30:03.407391"
+      "scraped_at": "2026-07-01T08:49:51.403429"
     },
     {
       "id": "0883ae0034fe55a4",
@@ -742,7 +693,7 @@
       "stage": "Scene 2",
       "genre": null,
       "sold_out": false,
-      "scraped_at": "2026-06-30T08:30:33.346857"
+      "scraped_at": "2026-07-01T08:50:12.669531"
     },
     {
       "id": "89e0d099ad86ab07",
@@ -758,7 +709,7 @@
       "stage": "Hovedscenen",
       "genre": "Sesongforestilling",
       "sold_out": false,
-      "scraped_at": "2026-06-30T08:31:42.350138"
+      "scraped_at": "2026-07-01T08:51:19.743144"
     },
     {
       "id": "c9fb2cace4254b05",
@@ -774,7 +725,7 @@
       "stage": "Lille scene\n    \n      (Black Box teater)",
       "genre": null,
       "sold_out": false,
-      "scraped_at": "2026-06-30T08:30:56.577934"
+      "scraped_at": "2026-07-01T08:50:34.369964"
     },
     {
       "id": "afee1f9ad50d1ea0",
@@ -790,7 +741,7 @@
       "stage": "Vega Scene",
       "genre": null,
       "sold_out": false,
-      "scraped_at": "2026-06-30T08:31:31.023478"
+      "scraped_at": "2026-07-01T08:51:08.751970"
     },
     {
       "id": "d4af9816210052ee",
@@ -806,7 +757,7 @@
       "stage": "Hovedscenen",
       "genre": "Sesongforestilling",
       "sold_out": false,
-      "scraped_at": "2026-06-30T08:31:42.350958"
+      "scraped_at": "2026-07-01T08:51:19.743977"
     },
     {
       "id": "5a0314e5181b4f94",
@@ -822,7 +773,7 @@
       "stage": "Scene 2",
       "genre": null,
       "sold_out": false,
-      "scraped_at": "2026-06-30T08:30:32.821945"
+      "scraped_at": "2026-07-01T08:50:07.665440"
     },
     {
       "id": "e3217e003ef75593",
@@ -838,7 +789,7 @@
       "stage": "Midtgolvet",
       "genre": null,
       "sold_out": false,
-      "scraped_at": "2026-06-30T08:30:41.092074"
+      "scraped_at": "2026-07-01T08:50:18.935825"
     },
     {
       "id": "c93ba292015f5743",
@@ -854,7 +805,7 @@
       "stage": "Scene 2",
       "genre": null,
       "sold_out": false,
-      "scraped_at": "2026-06-30T08:30:33.346880"
+      "scraped_at": "2026-07-01T08:50:12.669557"
     },
     {
       "id": "d62262b425ec8ba2",
@@ -870,7 +821,7 @@
       "stage": "Lille scene\n    \n      (Black Box teater)",
       "genre": null,
       "sold_out": false,
-      "scraped_at": "2026-06-30T08:30:56.578123"
+      "scraped_at": "2026-07-01T08:50:34.370169"
     },
     {
       "id": "86edcf336bf4a3e3",
@@ -886,7 +837,7 @@
       "stage": "Hovedscenen",
       "genre": "Sesongforestilling",
       "sold_out": false,
-      "scraped_at": "2026-06-30T08:31:42.351902"
+      "scraped_at": "2026-07-01T08:51:19.744906"
     },
     {
       "id": "716c9d09f3d14dd4",
@@ -902,7 +853,7 @@
       "stage": "Hovudscenen",
       "genre": null,
       "sold_out": false,
-      "scraped_at": "2026-06-30T08:30:23.889910"
+      "scraped_at": "2026-07-01T08:50:04.263518"
     },
     {
       "id": "1691f595717a9dd0",
@@ -918,7 +869,7 @@
       "stage": "Hovedscenen",
       "genre": "Sesongforestilling",
       "sold_out": false,
-      "scraped_at": "2026-06-30T08:31:42.352501"
+      "scraped_at": "2026-07-01T08:51:19.745499"
     },
     {
       "id": "21831409d0778c49",
@@ -934,7 +885,7 @@
       "stage": "Hovudscenen",
       "genre": null,
       "sold_out": false,
-      "scraped_at": "2026-06-30T08:30:23.889934"
+      "scraped_at": "2026-07-01T08:50:04.263542"
     },
     {
       "id": "871b97cf5cac5b9f",
@@ -950,7 +901,7 @@
       "stage": "Hovedscenen",
       "genre": "Sesongforestilling",
       "sold_out": false,
-      "scraped_at": "2026-06-30T08:31:42.353456"
+      "scraped_at": "2026-07-01T08:51:19.746446"
     },
     {
       "id": "8f672e46a9e8005c",
@@ -966,7 +917,7 @@
       "stage": "Lille scene\n    \n      (Black Box teater)",
       "genre": null,
       "sold_out": false,
-      "scraped_at": "2026-06-30T08:30:56.578332"
+      "scraped_at": "2026-07-01T08:50:34.370369"
     },
     {
       "id": "104d6315cb0a355c",
@@ -982,7 +933,7 @@
       "stage": "Hovedscenen",
       "genre": "Sesongforestilling",
       "sold_out": false,
-      "scraped_at": "2026-06-30T08:31:42.354053"
+      "scraped_at": "2026-07-01T08:51:19.747042"
     },
     {
       "id": "36e8bf1f90121344",
@@ -998,7 +949,7 @@
       "stage": "Hovedscenen",
       "genre": "Sesongforestilling",
       "sold_out": false,
-      "scraped_at": "2026-06-30T08:31:42.354871"
+      "scraped_at": "2026-07-01T08:51:19.747855"
     },
     {
       "id": "789312fee09491cf",
@@ -1014,7 +965,7 @@
       "stage": "Scene 2",
       "genre": null,
       "sold_out": false,
-      "scraped_at": "2026-06-30T08:30:38.689042"
+      "scraped_at": "2026-07-01T08:50:18.692905"
     },
     {
       "id": "7b5dfc6cd39b404e",
@@ -1030,7 +981,7 @@
       "stage": "Scene 2",
       "genre": null,
       "sold_out": false,
-      "scraped_at": "2026-06-30T08:30:32.821968"
+      "scraped_at": "2026-07-01T08:50:07.665463"
     },
     {
       "id": "8df1427831429aab",
@@ -1046,7 +997,7 @@
       "stage": "Hovedscenen",
       "genre": "Sesongforestilling",
       "sold_out": false,
-      "scraped_at": "2026-06-30T08:31:42.355687"
+      "scraped_at": "2026-07-01T08:51:19.748681"
     },
     {
       "id": "849dd769ff581b37",
@@ -1062,7 +1013,7 @@
       "stage": "Midtgolvet",
       "genre": null,
       "sold_out": false,
-      "scraped_at": "2026-06-30T08:30:41.092086"
+      "scraped_at": "2026-07-01T08:50:18.935837"
     },
     {
       "id": "5e3a4e15ceaf739d",
@@ -1078,7 +1029,7 @@
       "stage": "Hovedscenen",
       "genre": "Sesongforestilling",
       "sold_out": false,
-      "scraped_at": "2026-06-30T08:31:42.356493"
+      "scraped_at": "2026-07-01T08:51:19.749513"
     },
     {
       "id": "d44b32f1c7d45c5a",
@@ -1094,7 +1045,7 @@
       "stage": "Scene 2",
       "genre": null,
       "sold_out": false,
-      "scraped_at": "2026-06-30T08:30:38.689066"
+      "scraped_at": "2026-07-01T08:50:18.692942"
     },
     {
       "id": "76ce3e3a5a74b5df",
@@ -1110,7 +1061,7 @@
       "stage": null,
       "genre": "Musikal ,  Scenekvelder",
       "sold_out": true,
-      "scraped_at": "2026-06-30T08:32:24.192289"
+      "scraped_at": "2026-07-01T08:51:36.340971"
     },
     {
       "id": "7c0507e97e7b4554",
@@ -1126,7 +1077,7 @@
       "stage": "Amfiscenen",
       "genre": null,
       "sold_out": false,
-      "scraped_at": "2026-06-30T08:29:33.717150"
+      "scraped_at": "2026-07-01T08:49:29.917008"
     },
     {
       "id": "eff454cd1f037654",
@@ -1142,7 +1093,7 @@
       "stage": "Hovedscenen",
       "genre": "Sesongforestilling",
       "sold_out": false,
-      "scraped_at": "2026-06-30T08:31:42.357420"
+      "scraped_at": "2026-07-01T08:51:19.750457"
     },
     {
       "id": "ac85bd7307e87b6f",
@@ -1158,7 +1109,7 @@
       "stage": "Scene 2",
       "genre": null,
       "sold_out": false,
-      "scraped_at": "2026-06-30T08:30:32.821980"
+      "scraped_at": "2026-07-01T08:50:07.665476"
     },
     {
       "id": "ee4177af8e1beb4d",
@@ -1174,7 +1125,7 @@
       "stage": null,
       "genre": "Musikal ,  Scenekvelder",
       "sold_out": false,
-      "scraped_at": "2026-06-30T08:32:24.192338"
+      "scraped_at": "2026-07-01T08:51:36.341020"
     },
     {
       "id": "fc359d723dbb7d11",
@@ -1190,7 +1141,7 @@
       "stage": "Hovedscenen",
       "genre": "Sesongforestilling",
       "sold_out": false,
-      "scraped_at": "2026-06-30T08:31:42.358012"
+      "scraped_at": "2026-07-01T08:51:19.751064"
     },
     {
       "id": "655666832dfcdb74",
@@ -1206,7 +1157,7 @@
       "stage": null,
       "genre": "Musikal ,  Scenekvelder",
       "sold_out": false,
-      "scraped_at": "2026-06-30T08:32:24.192376"
+      "scraped_at": "2026-07-01T08:51:36.341056"
     },
     {
       "id": "b0dadc81b1d89c55",
@@ -1222,7 +1173,7 @@
       "stage": "Hovudscenen",
       "genre": null,
       "sold_out": false,
-      "scraped_at": "2026-06-30T08:30:21.558091"
+      "scraped_at": "2026-07-01T08:50:01.413746"
     },
     {
       "id": "f5549aa2ac0ff36b",
@@ -1238,7 +1189,7 @@
       "stage": "Scene 2",
       "genre": null,
       "sold_out": false,
-      "scraped_at": "2026-06-30T08:30:32.821991"
+      "scraped_at": "2026-07-01T08:50:07.665487"
     },
     {
       "id": "9146862281e190d4",
@@ -1254,7 +1205,7 @@
       "stage": null,
       "genre": "Musikal ,  Scenekvelder",
       "sold_out": false,
-      "scraped_at": "2026-06-30T08:32:24.192409"
+      "scraped_at": "2026-07-01T08:51:36.341090"
     },
     {
       "id": "dbdefc0a32fca696",
@@ -1270,7 +1221,7 @@
       "stage": "Hovedscenen",
       "genre": "Sesongforestilling",
       "sold_out": false,
-      "scraped_at": "2026-06-30T08:31:42.358829"
+      "scraped_at": "2026-07-01T08:51:19.751911"
     },
     {
       "id": "001f86c75be8ac90",
@@ -1286,7 +1237,7 @@
       "stage": null,
       "genre": "Musikal ,  Scenekvelder",
       "sold_out": false,
-      "scraped_at": "2026-06-30T08:32:24.192440"
+      "scraped_at": "2026-07-01T08:51:36.341121"
     },
     {
       "id": "c1d30c8f8820dab2",
@@ -1302,7 +1253,7 @@
       "stage": "Hovudscenen",
       "genre": null,
       "sold_out": false,
-      "scraped_at": "2026-06-30T08:30:21.558119"
+      "scraped_at": "2026-07-01T08:50:01.413774"
     },
     {
       "id": "4179800971c8febb",
@@ -1318,7 +1269,7 @@
       "stage": null,
       "genre": null,
       "sold_out": false,
-      "scraped_at": "2026-06-30T08:32:18.044584"
+      "scraped_at": "2026-07-01T08:51:30.608261"
     },
     {
       "id": "ea8995bca48beb94",
@@ -1334,7 +1285,7 @@
       "stage": null,
       "genre": "Konsert",
       "sold_out": false,
-      "scraped_at": "2026-06-30T08:32:26.168176"
+      "scraped_at": "2026-07-01T08:51:36.713557"
     },
     {
       "id": "febb4ef66b5b5156",
@@ -1350,7 +1301,7 @@
       "stage": null,
       "genre": null,
       "sold_out": false,
-      "scraped_at": "2026-06-30T08:32:18.044644"
+      "scraped_at": "2026-07-01T08:51:30.608327"
     },
     {
       "id": "8d0e9d3e062127d3",
@@ -1366,7 +1317,7 @@
       "stage": "Hovudscenen",
       "genre": null,
       "sold_out": false,
-      "scraped_at": "2026-06-30T08:30:27.869952"
+      "scraped_at": "2026-07-01T08:50:04.498654"
     },
     {
       "id": "cd8be6371fe921f7",
@@ -1382,7 +1333,7 @@
       "stage": "Hovedscenen",
       "genre": null,
       "sold_out": false,
-      "scraped_at": "2026-06-30T08:29:28.781702"
+      "scraped_at": "2026-07-01T08:49:25.424055"
     },
     {
       "id": "c1181a331cf5f8f8",
@@ -1398,7 +1349,7 @@
       "stage": "Hovudscenen",
       "genre": null,
       "sold_out": false,
-      "scraped_at": "2026-06-30T08:30:23.889946"
+      "scraped_at": "2026-07-01T08:50:04.263554"
     },
     {
       "id": "b8ef59b3b95f252c",
@@ -1414,7 +1365,7 @@
       "stage": null,
       "genre": "Musikal ,  Scenekvelder",
       "sold_out": false,
-      "scraped_at": "2026-06-30T08:32:24.192470"
+      "scraped_at": "2026-07-01T08:51:36.341154"
     },
     {
       "id": "978b8ef9cec95b9c",
@@ -1430,7 +1381,7 @@
       "stage": "Amfiscenen",
       "genre": null,
       "sold_out": false,
-      "scraped_at": "2026-06-30T08:29:40.021696"
+      "scraped_at": "2026-07-01T08:49:34.742426"
     },
     {
       "id": "e3da9cbcf107cc4a",
@@ -1446,7 +1397,7 @@
       "stage": "Hovudscenen",
       "genre": null,
       "sold_out": false,
-      "scraped_at": "2026-06-30T08:30:21.558132"
+      "scraped_at": "2026-07-01T08:50:01.413788"
     },
     {
       "id": "02da9c2378de21de",
@@ -1462,7 +1413,7 @@
       "stage": "Scene 2",
       "genre": null,
       "sold_out": false,
-      "scraped_at": "2026-06-30T08:30:32.576194"
+      "scraped_at": "2026-07-01T08:50:07.422794"
     },
     {
       "id": "8ee184e4d6ab9ab4",
@@ -1478,7 +1429,7 @@
       "stage": null,
       "genre": "Musikal ,  Scenekvelder",
       "sold_out": false,
-      "scraped_at": "2026-06-30T08:32:24.192499"
+      "scraped_at": "2026-07-01T08:51:36.341184"
     },
     {
       "id": "ee9d69c5584c5a53",
@@ -1494,7 +1445,7 @@
       "stage": null,
       "genre": "Musikal ,  Scenekvelder",
       "sold_out": false,
-      "scraped_at": "2026-06-30T08:32:24.192535"
+      "scraped_at": "2026-07-01T08:51:36.341220"
     },
     {
       "id": "a0903f5a1709c9d3",
@@ -1510,7 +1461,7 @@
       "stage": "Torshovteatret",
       "genre": null,
       "sold_out": false,
-      "scraped_at": "2026-06-30T08:29:35.980906"
+      "scraped_at": "2026-07-01T08:49:31.581987"
     },
     {
       "id": "5b9925aa1e565de7",
@@ -1526,7 +1477,7 @@
       "stage": "Hovudscenen",
       "genre": null,
       "sold_out": false,
-      "scraped_at": "2026-06-30T08:30:27.869974"
+      "scraped_at": "2026-07-01T08:50:04.498677"
     },
     {
       "id": "5ce398c38d6f34ab",
@@ -1542,7 +1493,7 @@
       "stage": "Scene 2",
       "genre": null,
       "sold_out": false,
-      "scraped_at": "2026-06-30T08:30:32.576217"
+      "scraped_at": "2026-07-01T08:50:07.422818"
     },
     {
       "id": "1b5da540786f95c5",
@@ -1558,7 +1509,7 @@
       "stage": "Store scene\n    \n      (Black Box teater)",
       "genre": null,
       "sold_out": false,
-      "scraped_at": "2026-06-30T08:30:56.578543"
+      "scraped_at": "2026-07-01T08:50:34.370593"
     },
     {
       "id": "f5c2b569b110385e",
@@ -1574,7 +1525,7 @@
       "stage": null,
       "genre": "Musikal ,  Scenekvelder",
       "sold_out": false,
-      "scraped_at": "2026-06-30T08:32:24.192567"
+      "scraped_at": "2026-07-01T08:51:36.341252"
     },
     {
       "id": "98c789e9489c8f3a",
@@ -1590,7 +1541,7 @@
       "stage": null,
       "genre": "Musikal ,  Scenekvelder",
       "sold_out": false,
-      "scraped_at": "2026-06-30T08:32:24.192598"
+      "scraped_at": "2026-07-01T08:51:36.341282"
     },
     {
       "id": "a6b34374494dfe23",
@@ -1606,7 +1557,7 @@
       "stage": "Hovudscenen",
       "genre": null,
       "sold_out": false,
-      "scraped_at": "2026-06-30T08:30:23.889957"
+      "scraped_at": "2026-07-01T08:50:04.263564"
     },
     {
       "id": "ba514081d07560cb",
@@ -1622,7 +1573,7 @@
       "stage": "Bikuben",
       "genre": null,
       "sold_out": false,
-      "scraped_at": "2026-06-30T08:30:45.393203"
+      "scraped_at": "2026-07-01T08:50:23.498632"
     },
     {
       "id": "a70d330e4b70a706",
@@ -1638,7 +1589,7 @@
       "stage": "Riksteatret",
       "genre": null,
       "sold_out": false,
-      "scraped_at": "2026-06-30T08:31:30.835321"
+      "scraped_at": "2026-07-01T08:51:08.592485"
     },
     {
       "id": "784c9d74830ba733",
@@ -1654,7 +1605,7 @@
       "stage": "Hovudscenen",
       "genre": null,
       "sold_out": false,
-      "scraped_at": "2026-06-30T08:30:27.869985"
+      "scraped_at": "2026-07-01T08:50:04.498688"
     },
     {
       "id": "ea7d18b0e69485e9",
@@ -1670,7 +1621,7 @@
       "stage": null,
       "genre": "Konsert",
       "sold_out": true,
-      "scraped_at": "2026-06-30T08:32:26.630200"
+      "scraped_at": "2026-07-01T08:51:36.993362"
     },
     {
       "id": "95a802066f3ab735",
@@ -1686,7 +1637,7 @@
       "stage": "Scene 2",
       "genre": null,
       "sold_out": false,
-      "scraped_at": "2026-06-30T08:30:32.576230"
+      "scraped_at": "2026-07-01T08:50:07.422830"
     },
     {
       "id": "ee12bf79c3bde7be",
@@ -1702,7 +1653,7 @@
       "stage": "Riksteatret",
       "genre": null,
       "sold_out": false,
-      "scraped_at": "2026-06-30T08:31:30.835636"
+      "scraped_at": "2026-07-01T08:51:08.592817"
     },
     {
       "id": "16794d7a54a75e40",
@@ -1718,7 +1669,7 @@
       "stage": "Scene 2",
       "genre": null,
       "sold_out": false,
-      "scraped_at": "2026-06-30T08:30:33.346892"
+      "scraped_at": "2026-07-01T08:50:12.669570"
     },
     {
       "id": "42c7f76d92f99045",
@@ -1734,7 +1685,7 @@
       "stage": "Hovudscenen",
       "genre": null,
       "sold_out": false,
-      "scraped_at": "2026-06-30T08:30:23.889967"
+      "scraped_at": "2026-07-01T08:50:04.263575"
     },
     {
       "id": "e6d7a3a532be2808",
@@ -1750,7 +1701,7 @@
       "stage": null,
       "genre": "Musikal ,  Scenekvelder",
       "sold_out": false,
-      "scraped_at": "2026-06-30T08:32:24.192628"
+      "scraped_at": "2026-07-01T08:51:36.341311"
     },
     {
       "id": "d7f8af4e04f47f13",
@@ -1766,7 +1717,7 @@
       "stage": "Bikuben",
       "genre": null,
       "sold_out": false,
-      "scraped_at": "2026-06-30T08:30:45.393224"
+      "scraped_at": "2026-07-01T08:50:23.498655"
     },
     {
       "id": "da30bb203b4cabfc",
@@ -1782,7 +1733,7 @@
       "stage": "Riksteatret",
       "genre": null,
       "sold_out": false,
-      "scraped_at": "2026-06-30T08:31:30.835927"
+      "scraped_at": "2026-07-01T08:51:08.593135"
     },
     {
       "id": "0f5a7709f37d1c98",
@@ -1798,7 +1749,7 @@
       "stage": "Scene 2",
       "genre": null,
       "sold_out": false,
-      "scraped_at": "2026-06-30T08:30:32.576240"
+      "scraped_at": "2026-07-01T08:50:07.422841"
     },
     {
       "id": "ed1bd4e7ce9a95dd",
@@ -1814,7 +1765,7 @@
       "stage": null,
       "genre": "Musikal ,  Scenekvelder",
       "sold_out": false,
-      "scraped_at": "2026-06-30T08:32:24.192658"
+      "scraped_at": "2026-07-01T08:51:36.341342"
     },
     {
       "id": "baafd4b410ddd82f",
@@ -1830,7 +1781,7 @@
       "stage": "Amfiscenen",
       "genre": null,
       "sold_out": false,
-      "scraped_at": "2026-06-30T08:29:38.401905"
+      "scraped_at": "2026-07-01T08:49:33.455800"
     },
     {
       "id": "2d06396776e7285c",
@@ -1846,7 +1797,7 @@
       "stage": null,
       "genre": "Musikal ,  Scenekvelder",
       "sold_out": false,
-      "scraped_at": "2026-06-30T08:32:24.192687"
+      "scraped_at": "2026-07-01T08:51:36.341371"
     },
     {
       "id": "faefddf90c85dd2f",
@@ -1862,7 +1813,7 @@
       "stage": "Hovudscenen",
       "genre": null,
       "sold_out": false,
-      "scraped_at": "2026-06-30T08:30:23.889978"
+      "scraped_at": "2026-07-01T08:50:04.263586"
     },
     {
       "id": "ff05cfd8572c208e",
@@ -1878,7 +1829,7 @@
       "stage": "Scene 2",
       "genre": null,
       "sold_out": false,
-      "scraped_at": "2026-06-30T08:30:32.576265"
+      "scraped_at": "2026-07-01T08:50:07.422852"
     },
     {
       "id": "4cef932140924221",
@@ -1894,7 +1845,7 @@
       "stage": "Store scene\n    \n      (Black Box teater)",
       "genre": null,
       "sold_out": false,
-      "scraped_at": "2026-06-30T08:30:56.578759"
+      "scraped_at": "2026-07-01T08:50:34.370813"
     },
     {
       "id": "856d6a5e0d1965c3",
@@ -1910,7 +1861,7 @@
       "stage": null,
       "genre": "Musikal ,  Scenekvelder",
       "sold_out": false,
-      "scraped_at": "2026-06-30T08:32:24.192717"
+      "scraped_at": "2026-07-01T08:51:36.341401"
     },
     {
       "id": "07c66a73e510f5b1",
@@ -1926,7 +1877,7 @@
       "stage": "Scene 2",
       "genre": null,
       "sold_out": false,
-      "scraped_at": "2026-06-30T08:30:33.346903"
+      "scraped_at": "2026-07-01T08:50:12.669581"
     },
     {
       "id": "bde56e8dbd838238",
@@ -1942,7 +1893,7 @@
       "stage": "Hovudscenen",
       "genre": null,
       "sold_out": false,
-      "scraped_at": "2026-06-30T08:30:21.558144"
+      "scraped_at": "2026-07-01T08:50:01.413800"
     },
     {
       "id": "d7a6b6c3b878a211",
@@ -1958,7 +1909,7 @@
       "stage": "Store scene\n    \n      (Black Box teater)",
       "genre": null,
       "sold_out": false,
-      "scraped_at": "2026-06-30T08:30:56.578969"
+      "scraped_at": "2026-07-01T08:50:34.371045"
     },
     {
       "id": "3cfd8ea1b76cc165",
@@ -1974,7 +1925,7 @@
       "stage": null,
       "genre": "Musikal ,  Scenekvelder",
       "sold_out": false,
-      "scraped_at": "2026-06-30T08:32:24.192746"
+      "scraped_at": "2026-07-01T08:51:36.341429"
     },
     {
       "id": "f05712d93b4e2492",
@@ -1990,7 +1941,7 @@
       "stage": "Hovudscenen",
       "genre": null,
       "sold_out": false,
-      "scraped_at": "2026-06-30T08:30:27.869995"
+      "scraped_at": "2026-07-01T08:50:04.498699"
     },
     {
       "id": "5f7a60493e269380",
@@ -2006,7 +1957,7 @@
       "stage": "Bikuben",
       "genre": null,
       "sold_out": false,
-      "scraped_at": "2026-06-30T08:30:45.393236"
+      "scraped_at": "2026-07-01T08:50:23.498667"
     },
     {
       "id": "79b34205477c03a0",
@@ -2022,7 +1973,7 @@
       "stage": "Hovedscenen",
       "genre": null,
       "sold_out": false,
-      "scraped_at": "2026-06-30T08:29:30.927751"
+      "scraped_at": "2026-07-01T08:49:27.817115"
     },
     {
       "id": "3c62e5c588e14fbe",
@@ -2038,7 +1989,7 @@
       "stage": "Hovudscenen",
       "genre": null,
       "sold_out": false,
-      "scraped_at": "2026-06-30T08:30:27.870005"
+      "scraped_at": "2026-07-01T08:50:04.498712"
     },
     {
       "id": "c06395b15009721f",
@@ -2054,7 +2005,7 @@
       "stage": "Scene 2",
       "genre": null,
       "sold_out": false,
-      "scraped_at": "2026-06-30T08:30:32.576277"
+      "scraped_at": "2026-07-01T08:50:07.422864"
     },
     {
       "id": "7a26951137e1e3ba",
@@ -2070,7 +2021,7 @@
       "stage": "Hovudscenen",
       "genre": null,
       "sold_out": false,
-      "scraped_at": "2026-06-30T08:30:23.889989"
+      "scraped_at": "2026-07-01T08:50:04.263599"
     },
     {
       "id": "e014063bd1e3d077",
@@ -2086,7 +2037,7 @@
       "stage": "Scene 2",
       "genre": null,
       "sold_out": false,
-      "scraped_at": "2026-06-30T08:30:32.822002"
+      "scraped_at": "2026-07-01T08:50:07.665497"
     },
     {
       "id": "f38f088f0b5cf617",
@@ -2102,7 +2053,7 @@
       "stage": null,
       "genre": "Annet",
       "sold_out": false,
-      "scraped_at": "2026-06-30T08:32:28.072764"
+      "scraped_at": "2026-07-01T08:51:37.269049"
     },
     {
       "id": "69716631f0967105",
@@ -2118,7 +2069,7 @@
       "stage": "Scene 3",
       "genre": null,
       "sold_out": false,
-      "scraped_at": "2026-06-30T08:30:41.353092"
+      "scraped_at": "2026-07-01T08:50:19.222153"
     },
     {
       "id": "70b66095348222bf",
@@ -2134,7 +2085,7 @@
       "stage": "Scene 2",
       "genre": null,
       "sold_out": false,
-      "scraped_at": "2026-06-30T08:30:33.346913"
+      "scraped_at": "2026-07-01T08:50:12.669592"
     },
     {
       "id": "61d9d146f4052364",
@@ -2150,7 +2101,7 @@
       "stage": "Hovudscenen",
       "genre": null,
       "sold_out": false,
-      "scraped_at": "2026-06-30T08:30:21.558155"
+      "scraped_at": "2026-07-01T08:50:01.413812"
     },
     {
       "id": "be30d5e1e4922fce",
@@ -2166,7 +2117,7 @@
       "stage": null,
       "genre": null,
       "sold_out": false,
-      "scraped_at": "2026-06-30T08:32:18.044701"
+      "scraped_at": "2026-07-01T08:51:30.608394"
     },
     {
       "id": "30861fcf07e337a6",
@@ -2182,7 +2133,7 @@
       "stage": null,
       "genre": "Musikal ,  Scenekvelder",
       "sold_out": false,
-      "scraped_at": "2026-06-30T08:32:24.192776"
+      "scraped_at": "2026-07-01T08:51:36.341458"
     },
     {
       "id": "ddd32040a3e1910c",
@@ -2198,7 +2149,7 @@
       "stage": "Scene 3",
       "genre": null,
       "sold_out": false,
-      "scraped_at": "2026-06-30T08:30:41.353114"
+      "scraped_at": "2026-07-01T08:50:19.222175"
     },
     {
       "id": "eb410af86367da50",
@@ -2214,7 +2165,7 @@
       "stage": "Hovudscenen",
       "genre": null,
       "sold_out": false,
-      "scraped_at": "2026-06-30T08:30:21.558167"
+      "scraped_at": "2026-07-01T08:50:01.413826"
     },
     {
       "id": "679a308d600ebe27",
@@ -2230,7 +2181,7 @@
       "stage": "Store scene\n    \n      (Black Box teater)",
       "genre": null,
       "sold_out": false,
-      "scraped_at": "2026-06-30T08:30:56.579182"
+      "scraped_at": "2026-07-01T08:50:34.371255"
     },
     {
       "id": "aa003a0efd384b3a",
@@ -2246,7 +2197,7 @@
       "stage": "Scene 2",
       "genre": null,
       "sold_out": false,
-      "scraped_at": "2026-06-30T08:30:32.576288"
+      "scraped_at": "2026-07-01T08:50:07.422876"
     },
     {
       "id": "d43186a630c1b88b",
@@ -2262,7 +2213,7 @@
       "stage": null,
       "genre": "Musikal ,  Scenekvelder",
       "sold_out": false,
-      "scraped_at": "2026-06-30T08:32:24.192805"
+      "scraped_at": "2026-07-01T08:51:36.341487"
     },
     {
       "id": "32103daf7044d51e",
@@ -2278,7 +2229,7 @@
       "stage": null,
       "genre": "Musikal ,  Scenekvelder",
       "sold_out": false,
-      "scraped_at": "2026-06-30T08:32:24.192833"
+      "scraped_at": "2026-07-01T08:51:36.341516"
     },
     {
       "id": "02effdd9ac7b03b1",
@@ -2294,7 +2245,7 @@
       "stage": "Amfiscenen",
       "genre": null,
       "sold_out": false,
-      "scraped_at": "2026-06-30T08:29:44.858971"
+      "scraped_at": "2026-07-01T08:49:37.589418"
     },
     {
       "id": "aa5df2a23169440a",
@@ -2310,7 +2261,7 @@
       "stage": "Scene 3",
       "genre": null,
       "sold_out": false,
-      "scraped_at": "2026-06-30T08:30:41.353127"
+      "scraped_at": "2026-07-01T08:50:19.222187"
     },
     {
       "id": "e7611a795d007783",
@@ -2326,7 +2277,7 @@
       "stage": "Scene 2",
       "genre": null,
       "sold_out": false,
-      "scraped_at": "2026-06-30T08:30:38.689080"
+      "scraped_at": "2026-07-01T08:50:18.692955"
     },
     {
       "id": "4ca7804dee78f1b1",
@@ -2342,7 +2293,7 @@
       "stage": "Hovudscenen",
       "genre": null,
       "sold_out": false,
-      "scraped_at": "2026-06-30T08:30:23.889999"
+      "scraped_at": "2026-07-01T08:50:04.263608"
     },
     {
       "id": "e2bee2b6afeca32a",
@@ -2358,7 +2309,7 @@
       "stage": "Store scene\n    \n      (Black Box teater)",
       "genre": null,
       "sold_out": false,
-      "scraped_at": "2026-06-30T08:30:56.579392"
+      "scraped_at": "2026-07-01T08:50:34.371451"
     },
     {
       "id": "508f3b2fff1a8474",
@@ -2374,7 +2325,7 @@
       "stage": null,
       "genre": "Musikal ,  Scenekvelder",
       "sold_out": false,
-      "scraped_at": "2026-06-30T08:32:24.192862"
+      "scraped_at": "2026-07-01T08:51:36.341546"
     },
     {
       "id": "ff88bcf9156214c4",
@@ -2390,7 +2341,7 @@
       "stage": "Hovedscenen",
       "genre": null,
       "sold_out": false,
-      "scraped_at": "2026-06-30T08:29:43.276679"
+      "scraped_at": "2026-07-01T08:49:36.255035"
     },
     {
       "id": "c2532524fc36d9f2",
@@ -2406,7 +2357,7 @@
       "stage": null,
       "genre": "Musikal ,  Scenekvelder",
       "sold_out": false,
-      "scraped_at": "2026-06-30T08:32:24.192891"
+      "scraped_at": "2026-07-01T08:51:36.341576"
     },
     {
       "id": "dfcf6b2e10cbe9ab",
@@ -2422,7 +2373,7 @@
       "stage": "Hovudscenen",
       "genre": null,
       "sold_out": false,
-      "scraped_at": "2026-06-30T08:30:23.890009"
+      "scraped_at": "2026-07-01T08:50:04.263619"
     },
     {
       "id": "113fb2637d942af1",
@@ -2438,7 +2389,7 @@
       "stage": "Store scene\n    \n      (Black Box teater)",
       "genre": null,
       "sold_out": false,
-      "scraped_at": "2026-06-30T08:30:56.579583"
+      "scraped_at": "2026-07-01T08:50:34.371648"
     },
     {
       "id": "bbd951d2ba26f784",
@@ -2454,7 +2405,7 @@
       "stage": "Bikuben",
       "genre": null,
       "sold_out": false,
-      "scraped_at": "2026-06-30T08:30:45.393246"
+      "scraped_at": "2026-07-01T08:50:23.498678"
     },
     {
       "id": "ef01e07910fd2fd6",
@@ -2470,7 +2421,7 @@
       "stage": "Scene 3",
       "genre": null,
       "sold_out": false,
-      "scraped_at": "2026-06-30T08:30:41.353137"
+      "scraped_at": "2026-07-01T08:50:19.222197"
     },
     {
       "id": "7ef05c477ee19e77",
@@ -2486,7 +2437,7 @@
       "stage": "Hovudscenen",
       "genre": null,
       "sold_out": false,
-      "scraped_at": "2026-06-30T08:30:21.558180"
+      "scraped_at": "2026-07-01T08:50:01.413837"
     },
     {
       "id": "d19cc6ceba7f92c8",
@@ -2502,7 +2453,7 @@
       "stage": "Scene 2",
       "genre": null,
       "sold_out": false,
-      "scraped_at": "2026-06-30T08:30:32.576298"
+      "scraped_at": "2026-07-01T08:50:07.422886"
     },
     {
       "id": "eaf7f1c88fcad365",
@@ -2518,7 +2469,7 @@
       "stage": "Scene 3",
       "genre": null,
       "sold_out": false,
-      "scraped_at": "2026-06-30T08:30:41.353146"
+      "scraped_at": "2026-07-01T08:50:19.222207"
     },
     {
       "id": "30865061610a52b6",
@@ -2534,7 +2485,7 @@
       "stage": "Hovudscenen",
       "genre": null,
       "sold_out": false,
-      "scraped_at": "2026-06-30T08:30:27.870016"
+      "scraped_at": "2026-07-01T08:50:04.498725"
     },
     {
       "id": "25d5ed34309fd876",
@@ -2550,7 +2501,7 @@
       "stage": "Scene 2",
       "genre": null,
       "sold_out": false,
-      "scraped_at": "2026-06-30T08:30:32.576308"
+      "scraped_at": "2026-07-01T08:50:07.422897"
     },
     {
       "id": "e38d5884b89fa81c",
@@ -2566,7 +2517,7 @@
       "stage": "Bikuben",
       "genre": null,
       "sold_out": false,
-      "scraped_at": "2026-06-30T08:30:45.393272"
+      "scraped_at": "2026-07-01T08:50:23.498687"
     },
     {
       "id": "50d8e4ecabc4e29b",
@@ -2582,7 +2533,7 @@
       "stage": "Amfiscenen",
       "genre": null,
       "sold_out": false,
-      "scraped_at": "2026-06-30T08:29:41.729236"
+      "scraped_at": "2026-07-01T08:49:35.941835"
     },
     {
       "id": "9fb6e9f708176567",
@@ -2598,7 +2549,7 @@
       "stage": "Lille scene\n    \n      (Black Box teater)",
       "genre": null,
       "sold_out": false,
-      "scraped_at": "2026-06-30T08:30:56.579772"
+      "scraped_at": "2026-07-01T08:50:34.371845"
     },
     {
       "id": "a47db889594c9636",
@@ -2614,7 +2565,7 @@
       "stage": null,
       "genre": null,
       "sold_out": false,
-      "scraped_at": "2026-06-30T08:32:18.044764"
+      "scraped_at": "2026-07-01T08:51:30.608462"
     },
     {
       "id": "de37188fce8dd784",
@@ -2630,7 +2581,7 @@
       "stage": "Hovudscenen",
       "genre": null,
       "sold_out": false,
-      "scraped_at": "2026-06-30T08:30:27.870026"
+      "scraped_at": "2026-07-01T08:50:04.498736"
     },
     {
       "id": "a40c0de3f9e351a6",
@@ -2646,7 +2597,7 @@
       "stage": "Scene 2",
       "genre": null,
       "sold_out": false,
-      "scraped_at": "2026-06-30T08:30:32.576319"
+      "scraped_at": "2026-07-01T08:50:07.422907"
     },
     {
       "id": "dded67432ba4fdb5",
@@ -2662,7 +2613,7 @@
       "stage": null,
       "genre": "Musikal ,  Scenekvelder",
       "sold_out": false,
-      "scraped_at": "2026-06-30T08:32:24.192921"
+      "scraped_at": "2026-07-01T08:51:36.341605"
     },
     {
       "id": "fd8e9f085e602221",
@@ -2678,7 +2629,7 @@
       "stage": "Scene 3",
       "genre": null,
       "sold_out": false,
-      "scraped_at": "2026-06-30T08:30:41.353155"
+      "scraped_at": "2026-07-01T08:50:19.222217"
     },
     {
       "id": "5b9692fdf728b984",
@@ -2694,7 +2645,7 @@
       "stage": "Hovudscenen",
       "genre": null,
       "sold_out": false,
-      "scraped_at": "2026-06-30T08:30:21.558197"
+      "scraped_at": "2026-07-01T08:50:01.413854"
     },
     {
       "id": "6d848178fddb72cb",
@@ -2710,7 +2661,7 @@
       "stage": "Lille scene\n    \n      (Black Box teater)",
       "genre": null,
       "sold_out": false,
-      "scraped_at": "2026-06-30T08:30:56.579966"
+      "scraped_at": "2026-07-01T08:50:34.372064"
     },
     {
       "id": "898f37344bdbc214",
@@ -2726,7 +2677,7 @@
       "stage": "Scene 2",
       "genre": null,
       "sold_out": false,
-      "scraped_at": "2026-06-30T08:30:32.822013"
+      "scraped_at": "2026-07-01T08:50:07.665508"
     },
     {
       "id": "111ae7ffd54d113c",
@@ -2742,7 +2693,7 @@
       "stage": null,
       "genre": "Musikal ,  Scenekvelder",
       "sold_out": false,
-      "scraped_at": "2026-06-30T08:32:24.192950"
+      "scraped_at": "2026-07-01T08:51:36.341635"
     },
     {
       "id": "01cb28666936cd5d",
@@ -2758,7 +2709,7 @@
       "stage": null,
       "genre": "Musikal ,  Scenekvelder",
       "sold_out": false,
-      "scraped_at": "2026-06-30T08:32:24.192978"
+      "scraped_at": "2026-07-01T08:51:36.341664"
     },
     {
       "id": "ecf48455290f921b",
@@ -2774,7 +2725,7 @@
       "stage": "Hovudscenen",
       "genre": null,
       "sold_out": false,
-      "scraped_at": "2026-06-30T08:30:27.870036"
+      "scraped_at": "2026-07-01T08:50:04.498746"
     },
     {
       "id": "7f816897ba552e57",
@@ -2790,7 +2741,7 @@
       "stage": "Scene 2",
       "genre": null,
       "sold_out": false,
-      "scraped_at": "2026-06-30T08:30:38.689091"
+      "scraped_at": "2026-07-01T08:50:18.692966"
     },
     {
       "id": "f1a0279abf6ac120",
@@ -2806,7 +2757,7 @@
       "stage": "Lille scene\n    \n      (Black Box teater)",
       "genre": null,
       "sold_out": false,
-      "scraped_at": "2026-06-30T08:30:56.580150"
+      "scraped_at": "2026-07-01T08:50:34.372268"
     },
     {
       "id": "b30ed74af597815a",
@@ -2822,7 +2773,7 @@
       "stage": null,
       "genre": "Musikal ,  Scenekvelder",
       "sold_out": false,
-      "scraped_at": "2026-06-30T08:32:24.193007"
+      "scraped_at": "2026-07-01T08:51:36.341692"
     },
     {
       "id": "0fe405e3aa699b32",
@@ -2838,7 +2789,7 @@
       "stage": null,
       "genre": "Musikal ,  Scenekvelder",
       "sold_out": false,
-      "scraped_at": "2026-06-30T08:32:24.193035"
+      "scraped_at": "2026-07-01T08:51:36.341720"
     },
     {
       "id": "8c924643da7b58ec",
@@ -2854,7 +2805,7 @@
       "stage": "Hovudscenen",
       "genre": null,
       "sold_out": false,
-      "scraped_at": "2026-06-30T08:30:21.558208"
+      "scraped_at": "2026-07-01T08:50:01.413867"
     },
     {
       "id": "fa57cad3b45d7dc5",
@@ -2870,7 +2821,7 @@
       "stage": "Lille scene\n    \n      (Black Box teater)",
       "genre": null,
       "sold_out": false,
-      "scraped_at": "2026-06-30T08:30:56.580355"
+      "scraped_at": "2026-07-01T08:50:34.372462"
     },
     {
       "id": "6335d44b5c90bd10",
@@ -2886,7 +2837,7 @@
       "stage": null,
       "genre": "Standup",
       "sold_out": false,
-      "scraped_at": "2026-06-30T08:32:29.948352"
+      "scraped_at": "2026-07-01T08:51:37.832581"
     },
     {
       "id": "8bd58ca2011c847b",
@@ -2902,7 +2853,7 @@
       "stage": "Bikuben",
       "genre": null,
       "sold_out": false,
-      "scraped_at": "2026-06-30T08:30:45.393283"
+      "scraped_at": "2026-07-01T08:50:23.498698"
     },
     {
       "id": "0260c25c44ad16e2",
@@ -2918,7 +2869,7 @@
       "stage": "Scene 3",
       "genre": null,
       "sold_out": false,
-      "scraped_at": "2026-06-30T08:30:41.353166"
+      "scraped_at": "2026-07-01T08:50:19.222228"
     },
     {
       "id": "943d25fde53a0566",
@@ -2934,7 +2885,7 @@
       "stage": "Riksteatret",
       "genre": null,
       "sold_out": false,
-      "scraped_at": "2026-06-30T08:31:30.397977"
+      "scraped_at": "2026-07-01T08:51:08.253607"
     },
     {
       "id": "107451366a264fb9",
@@ -2950,7 +2901,7 @@
       "stage": "Hovudscenen",
       "genre": null,
       "sold_out": false,
-      "scraped_at": "2026-06-30T08:30:21.558219"
+      "scraped_at": "2026-07-01T08:50:01.413879"
     },
     {
       "id": "91e127375ae7b202",
@@ -2966,7 +2917,7 @@
       "stage": "Riksteatret",
       "genre": null,
       "sold_out": false,
-      "scraped_at": "2026-06-30T08:31:30.398348"
+      "scraped_at": "2026-07-01T08:51:08.253977"
     },
     {
       "id": "99a02bccb8d85a63",
@@ -2982,7 +2933,7 @@
       "stage": "Hovudscenen",
       "genre": null,
       "sold_out": false,
-      "scraped_at": "2026-06-30T08:30:21.558229"
+      "scraped_at": "2026-07-01T08:50:01.413889"
     },
     {
       "id": "be55c598d26008c5",
@@ -2998,7 +2949,7 @@
       "stage": "Bikuben",
       "genre": null,
       "sold_out": false,
-      "scraped_at": "2026-06-30T08:30:45.393293"
+      "scraped_at": "2026-07-01T08:50:23.498708"
     },
     {
       "id": "72d16907c2d5433d",
@@ -3014,7 +2965,7 @@
       "stage": "Riksteatret",
       "genre": null,
       "sold_out": false,
-      "scraped_at": "2026-06-30T08:31:30.398669"
+      "scraped_at": "2026-07-01T08:51:08.254301"
     },
     {
       "id": "ecc9692c779ce3cb",
@@ -3030,7 +2981,7 @@
       "stage": "Hovudscenen",
       "genre": null,
       "sold_out": false,
-      "scraped_at": "2026-06-30T08:30:21.558241"
+      "scraped_at": "2026-07-01T08:50:01.413901"
     },
     {
       "id": "23b0d8db0f99bcf1",
@@ -3046,7 +2997,7 @@
       "stage": null,
       "genre": "Musikal ,  Scenekvelder",
       "sold_out": false,
-      "scraped_at": "2026-06-30T08:32:24.193064"
+      "scraped_at": "2026-07-01T08:51:36.341749"
     },
     {
       "id": "84629659f46c83dc",
@@ -3062,7 +3013,7 @@
       "stage": "Scene 3",
       "genre": null,
       "sold_out": false,
-      "scraped_at": "2026-06-30T08:30:41.353175"
+      "scraped_at": "2026-07-01T08:50:19.222237"
     },
     {
       "id": "f00b7eacd5215796",
@@ -3078,7 +3029,7 @@
       "stage": "Hovudscenen",
       "genre": null,
       "sold_out": false,
-      "scraped_at": "2026-06-30T08:30:21.558265"
+      "scraped_at": "2026-07-01T08:50:01.413911"
     },
     {
       "id": "093158cfcbedb16d",
@@ -3094,7 +3045,7 @@
       "stage": "Scene 2",
       "genre": null,
       "sold_out": false,
-      "scraped_at": "2026-06-30T08:30:33.082552"
+      "scraped_at": "2026-07-01T08:50:10.021211"
     },
     {
       "id": "e28944e18a95f16d",
@@ -3110,7 +3061,7 @@
       "stage": null,
       "genre": "Musikal ,  Scenekvelder",
       "sold_out": false,
-      "scraped_at": "2026-06-30T08:32:24.193092"
+      "scraped_at": "2026-07-01T08:51:36.341778"
     },
     {
       "id": "b9bc3774f258afd5",
@@ -3126,7 +3077,7 @@
       "stage": null,
       "genre": "Musikal ,  Scenekvelder",
       "sold_out": false,
-      "scraped_at": "2026-06-30T08:32:24.193120"
+      "scraped_at": "2026-07-01T08:51:36.341809"
     },
     {
       "id": "e3393a88081ba62e",
@@ -3142,7 +3093,7 @@
       "stage": "Hovudscenen",
       "genre": null,
       "sold_out": false,
-      "scraped_at": "2026-06-30T08:30:27.870045"
+      "scraped_at": "2026-07-01T08:50:04.498756"
     },
     {
       "id": "36bf042d97a36a3a",
@@ -3158,7 +3109,7 @@
       "stage": "Scene 2",
       "genre": null,
       "sold_out": false,
-      "scraped_at": "2026-06-30T08:30:32.576329"
+      "scraped_at": "2026-07-01T08:50:07.422933"
     },
     {
       "id": "6775f4e49481e460",
@@ -3174,7 +3125,7 @@
       "stage": null,
       "genre": "Musikal ,  Scenekvelder",
       "sold_out": false,
-      "scraped_at": "2026-06-30T08:32:24.193149"
+      "scraped_at": "2026-07-01T08:51:36.341838"
     },
     {
       "id": "3754f8be94efef6b",
@@ -3190,7 +3141,7 @@
       "stage": "Store scene\n    \n      (Black Box teater)",
       "genre": null,
       "sold_out": false,
-      "scraped_at": "2026-06-30T08:30:56.580557"
+      "scraped_at": "2026-07-01T08:50:34.372671"
     },
     {
       "id": "937eb631f6e3b58c",
@@ -3206,7 +3157,7 @@
       "stage": null,
       "genre": "Musikal ,  Scenekvelder",
       "sold_out": false,
-      "scraped_at": "2026-06-30T08:32:24.193177"
+      "scraped_at": "2026-07-01T08:51:36.341866"
     },
     {
       "id": "563836ee2329cb1b",
@@ -3222,7 +3173,7 @@
       "stage": "Store scene\n    \n      (Black Box teater)",
       "genre": null,
       "sold_out": false,
-      "scraped_at": "2026-06-30T08:30:56.580742"
+      "scraped_at": "2026-07-01T08:50:34.372865"
     },
     {
       "id": "a86d0c451c3b4c7f",
@@ -3238,7 +3189,7 @@
       "stage": "Bikuben",
       "genre": null,
       "sold_out": false,
-      "scraped_at": "2026-06-30T08:30:45.393303"
+      "scraped_at": "2026-07-01T08:50:23.498718"
     },
     {
       "id": "da241527b823e0bc",
@@ -3254,7 +3205,7 @@
       "stage": "Rommen Scene",
       "genre": null,
       "sold_out": false,
-      "scraped_at": "2026-06-30T08:30:32.822024"
+      "scraped_at": "2026-07-01T08:50:07.665519"
     },
     {
       "id": "630dcccb8a0cdd7d",
@@ -3270,7 +3221,7 @@
       "stage": null,
       "genre": null,
       "sold_out": false,
-      "scraped_at": "2026-06-30T08:32:18.044827"
+      "scraped_at": "2026-07-01T08:51:30.608530"
     },
     {
       "id": "3bffc520c0fb3891",
@@ -3286,7 +3237,7 @@
       "stage": "Scene 2",
       "genre": null,
       "sold_out": false,
-      "scraped_at": "2026-06-30T08:30:32.576340"
+      "scraped_at": "2026-07-01T08:50:07.422943"
     },
     {
       "id": "1462b42735131cd6",
@@ -3302,7 +3253,7 @@
       "stage": "Rommen Scene",
       "genre": null,
       "sold_out": false,
-      "scraped_at": "2026-06-30T08:30:32.822033"
+      "scraped_at": "2026-07-01T08:50:07.665530"
     },
     {
       "id": "5e51b2d154c08f57",
@@ -3318,7 +3269,7 @@
       "stage": "Hovudscenen",
       "genre": null,
       "sold_out": false,
-      "scraped_at": "2026-06-30T08:30:27.870054"
+      "scraped_at": "2026-07-01T08:50:04.498768"
     },
     {
       "id": "965c6059d0523ecb",
@@ -3334,7 +3285,7 @@
       "stage": "Scene 2",
       "genre": null,
       "sold_out": false,
-      "scraped_at": "2026-06-30T08:30:32.576349"
+      "scraped_at": "2026-07-01T08:50:07.422953"
     },
     {
       "id": "19538a6ff1dd379b",
@@ -3350,7 +3301,7 @@
       "stage": "Bikuben",
       "genre": null,
       "sold_out": false,
-      "scraped_at": "2026-06-30T08:30:45.393312"
+      "scraped_at": "2026-07-01T08:50:23.498727"
     },
     {
       "id": "f6d7cae4a08d7764",
@@ -3366,7 +3317,7 @@
       "stage": "Rommen Scene",
       "genre": null,
       "sold_out": false,
-      "scraped_at": "2026-06-30T08:30:32.822043"
+      "scraped_at": "2026-07-01T08:50:07.665539"
     },
     {
       "id": "dd86cfd40b6f6330",
@@ -3382,7 +3333,7 @@
       "stage": "Vega Scene",
       "genre": null,
       "sold_out": false,
-      "scraped_at": "2026-06-30T08:31:31.024175"
+      "scraped_at": "2026-07-01T08:51:08.752683"
     },
     {
       "id": "6a9256393e93f4b3",
@@ -3398,7 +3349,7 @@
       "stage": "Scene 2",
       "genre": null,
       "sold_out": false,
-      "scraped_at": "2026-06-30T08:30:32.576359"
+      "scraped_at": "2026-07-01T08:50:07.422964"
     },
     {
       "id": "1a75592541a78a04",
@@ -3414,7 +3365,7 @@
       "stage": null,
       "genre": "Musikal ,  Scenekvelder",
       "sold_out": false,
-      "scraped_at": "2026-06-30T08:32:24.193205"
+      "scraped_at": "2026-07-01T08:51:36.341895"
     },
     {
       "id": "e8299b8d05f7df0d",
@@ -3430,7 +3381,7 @@
       "stage": "Vega Scene",
       "genre": null,
       "sold_out": false,
-      "scraped_at": "2026-06-30T08:31:31.024488"
+      "scraped_at": "2026-07-01T08:51:08.753000"
     },
     {
       "id": "f56b22670a281b12",
@@ -3446,7 +3397,7 @@
       "stage": "Scene 2",
       "genre": null,
       "sold_out": false,
-      "scraped_at": "2026-06-30T08:30:33.082573"
+      "scraped_at": "2026-07-01T08:50:10.021233"
     },
     {
       "id": "b729f05c084ada20",
@@ -3462,7 +3413,7 @@
       "stage": null,
       "genre": "Musikal ,  Scenekvelder",
       "sold_out": false,
-      "scraped_at": "2026-06-30T08:32:24.193234"
+      "scraped_at": "2026-07-01T08:51:36.341934"
     },
     {
       "id": "a980d73399e1fdb0",
@@ -3478,7 +3429,7 @@
       "stage": null,
       "genre": "Musikal ,  Scenekvelder",
       "sold_out": false,
-      "scraped_at": "2026-06-30T08:32:24.193273"
+      "scraped_at": "2026-07-01T08:51:36.341962"
     },
     {
       "id": "0284d24753fe08d3",
@@ -3494,7 +3445,7 @@
       "stage": "Scene 3",
       "genre": null,
       "sold_out": false,
-      "scraped_at": "2026-06-30T08:30:41.353184"
+      "scraped_at": "2026-07-01T08:50:19.222247"
     },
     {
       "id": "dcc8ab3809f22fcb",
@@ -3510,7 +3461,7 @@
       "stage": "Scene 2",
       "genre": null,
       "sold_out": false,
-      "scraped_at": "2026-06-30T08:30:32.576369"
+      "scraped_at": "2026-07-01T08:50:07.422974"
     },
     {
       "id": "6b70350044d60c3b",
@@ -3526,7 +3477,7 @@
       "stage": "Hovudscenen",
       "genre": null,
       "sold_out": false,
-      "scraped_at": "2026-06-30T08:30:23.612920"
+      "scraped_at": "2026-07-01T08:50:04.009272"
     },
     {
       "id": "924c42d71988bf26",
@@ -3542,7 +3493,7 @@
       "stage": "Vega Scene",
       "genre": null,
       "sold_out": false,
-      "scraped_at": "2026-06-30T08:31:31.024773"
+      "scraped_at": "2026-07-01T08:51:08.753291"
     },
     {
       "id": "daa13304f818a4ed",
@@ -3558,7 +3509,7 @@
       "stage": "Scene 3",
       "genre": null,
       "sold_out": false,
-      "scraped_at": "2026-06-30T08:30:41.353194"
+      "scraped_at": "2026-07-01T08:50:19.222257"
     },
     {
       "id": "fd496b19391d792a",
@@ -3574,7 +3525,7 @@
       "stage": null,
       "genre": "Musikal ,  Scenekvelder",
       "sold_out": false,
-      "scraped_at": "2026-06-30T08:32:24.193302"
+      "scraped_at": "2026-07-01T08:51:36.341991"
     },
     {
       "id": "94168b2f2e4512ef",
@@ -3590,7 +3541,7 @@
       "stage": null,
       "genre": "Musikal ,  Scenekvelder",
       "sold_out": false,
-      "scraped_at": "2026-06-30T08:32:24.193332"
+      "scraped_at": "2026-07-01T08:51:36.342019"
     },
     {
       "id": "9c20dab654946e59",
@@ -3606,7 +3557,7 @@
       "stage": "Hovudscenen",
       "genre": null,
       "sold_out": false,
-      "scraped_at": "2026-06-30T08:30:27.870063"
+      "scraped_at": "2026-07-01T08:50:04.498777"
     },
     {
       "id": "871c7f1c85e1f857",
@@ -3622,7 +3573,7 @@
       "stage": "Vega Scene",
       "genre": null,
       "sold_out": false,
-      "scraped_at": "2026-06-30T08:31:31.025068"
+      "scraped_at": "2026-07-01T08:51:08.753585"
     },
     {
       "id": "e5dff03ead004ab8",
@@ -3638,7 +3589,7 @@
       "stage": "Hovudscenen",
       "genre": null,
       "sold_out": false,
-      "scraped_at": "2026-06-30T08:30:23.612943"
+      "scraped_at": "2026-07-01T08:50:04.009295"
     },
     {
       "id": "302179bd07b503f4",
@@ -3654,7 +3605,7 @@
       "stage": "Scene 2",
       "genre": null,
       "sold_out": false,
-      "scraped_at": "2026-06-30T08:30:33.082584"
+      "scraped_at": "2026-07-01T08:50:10.021244"
     },
     {
       "id": "c0d3dfb682b687fb",
@@ -3670,7 +3621,7 @@
       "stage": null,
       "genre": "Standup ,  Comedy",
       "sold_out": false,
-      "scraped_at": "2026-06-30T08:32:30.285328"
+      "scraped_at": "2026-07-01T08:51:38.106540"
     },
     {
       "id": "6abb3b4cf70a90e4",
@@ -3686,7 +3637,7 @@
       "stage": "Hovudscenen",
       "genre": null,
       "sold_out": false,
-      "scraped_at": "2026-06-30T08:30:27.870072"
+      "scraped_at": "2026-07-01T08:50:04.498786"
     },
     {
       "id": "ec925763cf7b0692",
@@ -3702,7 +3653,23 @@
       "stage": "Scene 3",
       "genre": null,
       "sold_out": false,
-      "scraped_at": "2026-06-30T08:30:41.353203"
+      "scraped_at": "2026-07-01T08:50:19.222267"
+    },
+    {
+      "id": "4b18471a07f643b6",
+      "title": "Peter Pan - Under en magisk måne",
+      "venue": "Teater Manu",
+      "venue_slug": "teater-manu",
+      "start": "2026-10-22T18:00:00",
+      "end": null,
+      "description": null,
+      "image_url": "https://www.facebook.com/tr?id=117370848822729&ev=PageView&noscript=1",
+      "ticket_url": "https://billetto.no/e/under-en-magisk-mane-peter-pan-billetter-1898170?utm_source=organiser&utm_medium=share&utm_campaign=copy_link&utm_content=1",
+      "detail_url": "https://teatermanu.no/produksjoner/peter-pan-under-en-magisk-mane/",
+      "stage": "Teater Manu",
+      "genre": null,
+      "sold_out": false,
+      "scraped_at": "2026-07-01T08:51:25.263543"
     },
     {
       "id": "1161f9ea81f8779a",
@@ -3718,7 +3685,7 @@
       "stage": "Hovudscenen",
       "genre": null,
       "sold_out": false,
-      "scraped_at": "2026-06-30T08:30:23.612954"
+      "scraped_at": "2026-07-01T08:50:04.009307"
     },
     {
       "id": "984932cab90813ff",
@@ -3734,7 +3701,7 @@
       "stage": "Vega Scene",
       "genre": null,
       "sold_out": false,
-      "scraped_at": "2026-06-30T08:31:31.025376"
+      "scraped_at": "2026-07-01T08:51:08.753882"
     },
     {
       "id": "609675d8c678ad2e",
@@ -3750,7 +3717,7 @@
       "stage": "Scene 2",
       "genre": null,
       "sold_out": false,
-      "scraped_at": "2026-06-30T08:30:33.082595"
+      "scraped_at": "2026-07-01T08:50:10.021254"
     },
     {
       "id": "083d432a4969a810",
@@ -3766,7 +3733,7 @@
       "stage": "Vega Scene",
       "genre": null,
       "sold_out": false,
-      "scraped_at": "2026-06-30T08:31:31.025671"
+      "scraped_at": "2026-07-01T08:51:08.754193"
     },
     {
       "id": "954850768d8ed954",
@@ -3782,7 +3749,7 @@
       "stage": "Hovudscenen",
       "genre": null,
       "sold_out": false,
-      "scraped_at": "2026-06-30T08:30:23.612965"
+      "scraped_at": "2026-07-01T08:50:04.009321"
     },
     {
       "id": "829b2209c258d9d7",
@@ -3798,7 +3765,7 @@
       "stage": "Scene 2",
       "genre": null,
       "sold_out": false,
-      "scraped_at": "2026-06-30T08:30:33.082604"
+      "scraped_at": "2026-07-01T08:50:10.021264"
     },
     {
       "id": "a094b3cbad4676bd",
@@ -3814,7 +3781,23 @@
       "stage": null,
       "genre": "Musikal ,  Scenekvelder",
       "sold_out": false,
-      "scraped_at": "2026-06-30T08:32:24.193360"
+      "scraped_at": "2026-07-01T08:51:36.342048"
+    },
+    {
+      "id": "f33a8ac601290694",
+      "title": "Peter Pan - Under en magisk måne",
+      "venue": "Teater Manu",
+      "venue_slug": "teater-manu",
+      "start": "2026-10-24T14:00:00",
+      "end": null,
+      "description": null,
+      "image_url": "https://www.facebook.com/tr?id=117370848822729&ev=PageView&noscript=1",
+      "ticket_url": "https://billetto.no/e/under-en-magisk-mane-peter-pan-billetter-1900540?utm_source=organiser&utm_medium=share&utm_campaign=copy_link&utm_content=1",
+      "detail_url": "https://teatermanu.no/produksjoner/peter-pan-under-en-magisk-mane/",
+      "stage": "Teater Manu",
+      "genre": null,
+      "sold_out": false,
+      "scraped_at": "2026-07-01T08:51:25.263743"
     },
     {
       "id": "7c458bbc6d32ab48",
@@ -3830,7 +3813,7 @@
       "stage": null,
       "genre": "Musikal ,  Scenekvelder",
       "sold_out": false,
-      "scraped_at": "2026-06-30T08:32:24.193388"
+      "scraped_at": "2026-07-01T08:51:36.342076"
     },
     {
       "id": "a7117f7432300832",
@@ -3846,7 +3829,7 @@
       "stage": "Scene 3",
       "genre": null,
       "sold_out": false,
-      "scraped_at": "2026-06-30T08:30:41.353212"
+      "scraped_at": "2026-07-01T08:50:19.222276"
     },
     {
       "id": "916e6eaef11f4b9b",
@@ -3862,7 +3845,7 @@
       "stage": "Hovudscenen",
       "genre": null,
       "sold_out": false,
-      "scraped_at": "2026-06-30T08:30:23.612975"
+      "scraped_at": "2026-07-01T08:50:04.009331"
     },
     {
       "id": "6d7e58ee83254806",
@@ -3878,7 +3861,7 @@
       "stage": "Vega Scene",
       "genre": null,
       "sold_out": false,
-      "scraped_at": "2026-06-30T08:31:31.025968"
+      "scraped_at": "2026-07-01T08:51:08.754486"
     },
     {
       "id": "8b05b08b6f2cab87",
@@ -3894,7 +3877,7 @@
       "stage": "Scene 3",
       "genre": null,
       "sold_out": false,
-      "scraped_at": "2026-06-30T08:30:41.353221"
+      "scraped_at": "2026-07-01T08:50:19.222286"
     },
     {
       "id": "2592a34e72a76d4a",
@@ -3910,7 +3893,23 @@
       "stage": null,
       "genre": "Musikal ,  Scenekvelder",
       "sold_out": false,
-      "scraped_at": "2026-06-30T08:32:24.193416"
+      "scraped_at": "2026-07-01T08:51:36.342104"
+    },
+    {
+      "id": "0c52d63720d1d195",
+      "title": "Peter Pan - Under en magisk måne",
+      "venue": "Teater Manu",
+      "venue_slug": "teater-manu",
+      "start": "2026-10-25T13:00:00",
+      "end": null,
+      "description": null,
+      "image_url": "https://www.facebook.com/tr?id=117370848822729&ev=PageView&noscript=1",
+      "ticket_url": "https://billetto.no/e/under-en-magisk-mane-peter-pan-billetter-1900539?utm_source=organiser&utm_medium=share&utm_campaign=copy_link&utm_content=1",
+      "detail_url": "https://teatermanu.no/produksjoner/peter-pan-under-en-magisk-mane/",
+      "stage": "Teater Manu",
+      "genre": null,
+      "sold_out": false,
+      "scraped_at": "2026-07-01T08:51:25.263935"
     },
     {
       "id": "155afcb64e9ed9f8",
@@ -3926,7 +3925,7 @@
       "stage": "Hovudscenen",
       "genre": null,
       "sold_out": false,
-      "scraped_at": "2026-06-30T08:30:23.612986"
+      "scraped_at": "2026-07-01T08:50:04.009345"
     },
     {
       "id": "6f2b5948b12b77a8",
@@ -3942,7 +3941,7 @@
       "stage": null,
       "genre": "Musikal ,  Scenekvelder",
       "sold_out": false,
-      "scraped_at": "2026-06-30T08:32:24.193446"
+      "scraped_at": "2026-07-01T08:51:36.342133"
     },
     {
       "id": "0a1a33b20f2d0a11",
@@ -3958,7 +3957,7 @@
       "stage": "Vega Scene",
       "genre": null,
       "sold_out": false,
-      "scraped_at": "2026-06-30T08:31:31.026273"
+      "scraped_at": "2026-07-01T08:51:08.754781"
     },
     {
       "id": "ed03d1f9f972364f",
@@ -3974,7 +3973,7 @@
       "stage": "Bikuben",
       "genre": null,
       "sold_out": false,
-      "scraped_at": "2026-06-30T08:30:45.393321"
+      "scraped_at": "2026-07-01T08:50:23.498737"
     },
     {
       "id": "e06601ca0ed2aa5e",
@@ -3990,7 +3989,7 @@
       "stage": "Scene 2",
       "genre": null,
       "sold_out": false,
-      "scraped_at": "2026-06-30T08:30:33.082615"
+      "scraped_at": "2026-07-01T08:50:10.021274"
     },
     {
       "id": "322195b8c42b4c9d",
@@ -4006,7 +4005,7 @@
       "stage": "Hovudscenen",
       "genre": null,
       "sold_out": false,
-      "scraped_at": "2026-06-30T08:30:23.612996"
+      "scraped_at": "2026-07-01T08:50:04.009358"
     },
     {
       "id": "cd38d56cb3dc0a67",
@@ -4022,7 +4021,7 @@
       "stage": "Bikuben",
       "genre": null,
       "sold_out": false,
-      "scraped_at": "2026-06-30T08:30:45.393331"
+      "scraped_at": "2026-07-01T08:50:23.498747"
     },
     {
       "id": "780e936483aefd0f",
@@ -4038,7 +4037,7 @@
       "stage": "Hovedscenen",
       "genre": null,
       "sold_out": false,
-      "scraped_at": "2026-06-30T08:29:50.808363"
+      "scraped_at": "2026-07-01T08:49:40.581885"
     },
     {
       "id": "c65b8d9153985546",
@@ -4054,7 +4053,7 @@
       "stage": "Scene 3",
       "genre": null,
       "sold_out": false,
-      "scraped_at": "2026-06-30T08:30:41.353230"
+      "scraped_at": "2026-07-01T08:50:19.222295"
     },
     {
       "id": "d1ad7c9e489bf2df",
@@ -4070,7 +4069,7 @@
       "stage": "Vega Scene",
       "genre": null,
       "sold_out": false,
-      "scraped_at": "2026-06-30T08:31:31.026568"
+      "scraped_at": "2026-07-01T08:51:08.755090"
     },
     {
       "id": "51e96b7341f4b4a8",
@@ -4086,7 +4085,7 @@
       "stage": "Scene 2",
       "genre": null,
       "sold_out": false,
-      "scraped_at": "2026-06-30T08:30:33.082625"
+      "scraped_at": "2026-07-01T08:50:10.021284"
     },
     {
       "id": "6e36076399d2ba76",
@@ -4102,7 +4101,7 @@
       "stage": "Scene 3",
       "genre": null,
       "sold_out": false,
-      "scraped_at": "2026-06-30T08:30:41.353239"
+      "scraped_at": "2026-07-01T08:50:19.222304"
     },
     {
       "id": "a8efcf96f589f360",
@@ -4118,7 +4117,7 @@
       "stage": "Vega Scene",
       "genre": null,
       "sold_out": false,
-      "scraped_at": "2026-06-30T08:31:31.026857"
+      "scraped_at": "2026-07-01T08:51:08.755390"
     },
     {
       "id": "9674e54de5fc7a65",
@@ -4134,7 +4133,7 @@
       "stage": "Hovudscenen",
       "genre": null,
       "sold_out": false,
-      "scraped_at": "2026-06-30T08:30:23.613006"
+      "scraped_at": "2026-07-01T08:50:04.009367"
     },
     {
       "id": "b5ccfcba4618ae9e",
@@ -4150,7 +4149,7 @@
       "stage": "Scene 2",
       "genre": null,
       "sold_out": false,
-      "scraped_at": "2026-06-30T08:30:33.082635"
+      "scraped_at": "2026-07-01T08:50:10.021293"
     },
     {
       "id": "f1e7b355879f9bc9",
@@ -4166,7 +4165,7 @@
       "stage": null,
       "genre": "Musikal ,  Scenekvelder",
       "sold_out": false,
-      "scraped_at": "2026-06-30T08:32:24.193476"
+      "scraped_at": "2026-07-01T08:51:36.342161"
     },
     {
       "id": "553b5e81a452e706",
@@ -4182,7 +4181,7 @@
       "stage": "Scene 3",
       "genre": null,
       "sold_out": false,
-      "scraped_at": "2026-06-30T08:30:41.353259"
+      "scraped_at": "2026-07-01T08:50:19.222313"
     },
     {
       "id": "6a49992ec30cb6c5",
@@ -4198,7 +4197,7 @@
       "stage": null,
       "genre": "Musikal ,  Scenekvelder",
       "sold_out": false,
-      "scraped_at": "2026-06-30T08:32:24.193505"
+      "scraped_at": "2026-07-01T08:51:36.342189"
     },
     {
       "id": "6e2f56eed120ce44",
@@ -4214,7 +4213,7 @@
       "stage": "Hovudscenen",
       "genre": null,
       "sold_out": false,
-      "scraped_at": "2026-06-30T08:30:23.613015"
+      "scraped_at": "2026-07-01T08:50:04.009377"
     },
     {
       "id": "84e3571fc854b064",
@@ -4230,7 +4229,7 @@
       "stage": "Scene 2",
       "genre": null,
       "sold_out": false,
-      "scraped_at": "2026-06-30T08:30:33.082645"
+      "scraped_at": "2026-07-01T08:50:10.021302"
     },
     {
       "id": "ed15cd0048f645c9",
@@ -4246,7 +4245,7 @@
       "stage": "Vega Scene",
       "genre": null,
       "sold_out": false,
-      "scraped_at": "2026-06-30T08:31:31.027153"
+      "scraped_at": "2026-07-01T08:51:08.755691"
     },
     {
       "id": "3c9b52570e398f70",
@@ -4262,7 +4261,7 @@
       "stage": null,
       "genre": "Musikal ,  Scenekvelder",
       "sold_out": false,
-      "scraped_at": "2026-06-30T08:32:24.193534"
+      "scraped_at": "2026-07-01T08:51:36.342218"
     },
     {
       "id": "5478919c57c37423",
@@ -4278,7 +4277,7 @@
       "stage": "Vega Scene",
       "genre": null,
       "sold_out": false,
-      "scraped_at": "2026-06-30T08:31:31.027458"
+      "scraped_at": "2026-07-01T08:51:08.756010"
     },
     {
       "id": "e023d82678966bb3",
@@ -4294,7 +4293,7 @@
       "stage": "Bikuben",
       "genre": null,
       "sold_out": false,
-      "scraped_at": "2026-06-30T08:30:45.393340"
+      "scraped_at": "2026-07-01T08:50:23.498756"
     },
     {
       "id": "45919cff5ba1aefa",
@@ -4310,7 +4309,7 @@
       "stage": "Hovudscenen",
       "genre": null,
       "sold_out": false,
-      "scraped_at": "2026-06-30T08:30:23.613024"
+      "scraped_at": "2026-07-01T08:50:04.009387"
     },
     {
       "id": "0c1e3104a72ea03b",
@@ -4326,7 +4325,7 @@
       "stage": "Scene 2",
       "genre": null,
       "sold_out": false,
-      "scraped_at": "2026-06-30T08:30:38.425610"
+      "scraped_at": "2026-07-01T08:50:16.153819"
     },
     {
       "id": "d494908c60feb86e",
@@ -4342,7 +4341,7 @@
       "stage": "Hovedscenen",
       "genre": null,
       "sold_out": false,
-      "scraped_at": "2026-06-30T08:29:56.208838"
+      "scraped_at": "2026-07-01T08:49:45.537186"
     },
     {
       "id": "7feac32dd93fe855",
@@ -4358,7 +4357,7 @@
       "stage": "Scene 3",
       "genre": null,
       "sold_out": false,
-      "scraped_at": "2026-06-30T08:30:41.353268"
+      "scraped_at": "2026-07-01T08:50:19.222322"
     },
     {
       "id": "8156f16621032638",
@@ -4374,7 +4373,7 @@
       "stage": "Scene 2",
       "genre": null,
       "sold_out": false,
-      "scraped_at": "2026-06-30T08:30:33.082654"
+      "scraped_at": "2026-07-01T08:50:10.021312"
     },
     {
       "id": "f32d43e0915aa996",
@@ -4390,7 +4389,7 @@
       "stage": "Bikuben",
       "genre": null,
       "sold_out": false,
-      "scraped_at": "2026-06-30T08:30:45.393349"
+      "scraped_at": "2026-07-01T08:50:23.498765"
     },
     {
       "id": "82936bcbf7b544a6",
@@ -4406,7 +4405,7 @@
       "stage": "Vega Scene",
       "genre": null,
       "sold_out": false,
-      "scraped_at": "2026-06-30T08:31:31.027748"
+      "scraped_at": "2026-07-01T08:51:08.756310"
     },
     {
       "id": "f3a300ca4263b4fd",
@@ -4422,7 +4421,7 @@
       "stage": "Hovudscenen",
       "genre": null,
       "sold_out": false,
-      "scraped_at": "2026-06-30T08:30:23.613033"
+      "scraped_at": "2026-07-01T08:50:04.009396"
     },
     {
       "id": "3afe7962121b8d66",
@@ -4438,7 +4437,7 @@
       "stage": "Scene 2",
       "genre": null,
       "sold_out": false,
-      "scraped_at": "2026-06-30T08:30:33.082663"
+      "scraped_at": "2026-07-01T08:50:10.021321"
     },
     {
       "id": "a82b54f7282ebb7d",
@@ -4454,7 +4453,7 @@
       "stage": "Scene 3",
       "genre": null,
       "sold_out": false,
-      "scraped_at": "2026-06-30T08:30:41.353278"
+      "scraped_at": "2026-07-01T08:50:19.222332"
     },
     {
       "id": "2197a2d9788b2d08",
@@ -4470,7 +4469,7 @@
       "stage": "Vega Scene",
       "genre": null,
       "sold_out": false,
-      "scraped_at": "2026-06-30T08:31:31.028046"
+      "scraped_at": "2026-07-01T08:51:08.756605"
     },
     {
       "id": "36047188ffc13065",
@@ -4486,7 +4485,7 @@
       "stage": null,
       "genre": "Musikal ,  Scenekvelder",
       "sold_out": false,
-      "scraped_at": "2026-06-30T08:32:24.193562"
+      "scraped_at": "2026-07-01T08:51:36.342248"
     },
     {
       "id": "d77ed04f0e9c2f23",
@@ -4502,7 +4501,7 @@
       "stage": "Hovudscenen",
       "genre": null,
       "sold_out": false,
-      "scraped_at": "2026-06-30T08:30:23.613042"
+      "scraped_at": "2026-07-01T08:50:04.009405"
     },
     {
       "id": "2d1efe5100f7074d",
@@ -4518,7 +4517,7 @@
       "stage": null,
       "genre": "Musikal ,  Scenekvelder",
       "sold_out": false,
-      "scraped_at": "2026-06-30T08:32:24.193591"
+      "scraped_at": "2026-07-01T08:51:36.342276"
     },
     {
       "id": "480ce24d58f881d4",
@@ -4534,7 +4533,7 @@
       "stage": "Amfiscenen",
       "genre": null,
       "sold_out": false,
-      "scraped_at": "2026-06-30T08:29:48.524773"
+      "scraped_at": "2026-07-01T08:49:39.762257"
     },
     {
       "id": "2624fe83473811f3",
@@ -4550,7 +4549,7 @@
       "stage": "Hovudscenen",
       "genre": null,
       "sold_out": false,
-      "scraped_at": "2026-06-30T08:30:23.613052"
+      "scraped_at": "2026-07-01T08:50:04.009415"
     },
     {
       "id": "1c138da770d62058",
@@ -4566,7 +4565,7 @@
       "stage": "Vega Scene",
       "genre": null,
       "sold_out": false,
-      "scraped_at": "2026-06-30T08:31:31.028348"
+      "scraped_at": "2026-07-01T08:51:08.756902"
     },
     {
       "id": "52fda529b85141ab",
@@ -4582,7 +4581,7 @@
       "stage": null,
       "genre": "Musikal ,  Scenekvelder",
       "sold_out": false,
-      "scraped_at": "2026-06-30T08:32:24.193621"
+      "scraped_at": "2026-07-01T08:51:36.342306"
     },
     {
       "id": "09110261321b37c3",
@@ -4598,7 +4597,7 @@
       "stage": "Hovudscenen",
       "genre": null,
       "sold_out": false,
-      "scraped_at": "2026-06-30T08:30:23.613061"
+      "scraped_at": "2026-07-01T08:50:04.009424"
     },
     {
       "id": "770dac5ab4dbe6e4",
@@ -4614,7 +4613,7 @@
       "stage": null,
       "genre": "Musikal ,  Scenekvelder",
       "sold_out": false,
-      "scraped_at": "2026-06-30T08:32:24.193650"
+      "scraped_at": "2026-07-01T08:51:36.342336"
     },
     {
       "id": "a4e435af87bf840f",
@@ -4630,7 +4629,7 @@
       "stage": "Vega Scene",
       "genre": null,
       "sold_out": false,
-      "scraped_at": "2026-06-30T08:31:31.028641"
+      "scraped_at": "2026-07-01T08:51:08.757215"
     },
     {
       "id": "7637f0280ee44fda",
@@ -4646,7 +4645,7 @@
       "stage": null,
       "genre": "Foredrag/Kurs",
       "sold_out": false,
-      "scraped_at": "2026-06-30T08:32:31.658551"
+      "scraped_at": "2026-07-01T08:51:38.396326"
     },
     {
       "id": "27c9a7587793a20f",
@@ -4662,7 +4661,7 @@
       "stage": "Bikuben",
       "genre": null,
       "sold_out": false,
-      "scraped_at": "2026-06-30T08:30:45.393358"
+      "scraped_at": "2026-07-01T08:50:23.498774"
     },
     {
       "id": "7c57da2cfaae5d1d",
@@ -4678,7 +4677,7 @@
       "stage": "Hovudscenen",
       "genre": null,
       "sold_out": false,
-      "scraped_at": "2026-06-30T08:30:23.613070"
+      "scraped_at": "2026-07-01T08:50:04.009433"
     },
     {
       "id": "2fb8056dccc7b690",
@@ -4694,7 +4693,7 @@
       "stage": "Scene 3",
       "genre": null,
       "sold_out": false,
-      "scraped_at": "2026-06-30T08:30:41.353287"
+      "scraped_at": "2026-07-01T08:50:19.222341"
     },
     {
       "id": "fd4e0f731f3cd0ee",
@@ -4710,7 +4709,7 @@
       "stage": "Hovudscenen",
       "genre": null,
       "sold_out": false,
-      "scraped_at": "2026-06-30T08:30:23.613079"
+      "scraped_at": "2026-07-01T08:50:04.009451"
     },
     {
       "id": "a9270ae40cedd370",
@@ -4726,7 +4725,7 @@
       "stage": "Bikuben",
       "genre": null,
       "sold_out": false,
-      "scraped_at": "2026-06-30T08:30:45.393367"
+      "scraped_at": "2026-07-01T08:50:23.498784"
     },
     {
       "id": "5dbbe0b440d5b692",
@@ -4742,7 +4741,7 @@
       "stage": "Hovudscenen",
       "genre": null,
       "sold_out": false,
-      "scraped_at": "2026-06-30T08:30:23.613088"
+      "scraped_at": "2026-07-01T08:50:04.009461"
     },
     {
       "id": "6b57f091890313ab",
@@ -4758,7 +4757,7 @@
       "stage": "Hovudscenen",
       "genre": null,
       "sold_out": false,
-      "scraped_at": "2026-06-30T08:30:23.613098"
+      "scraped_at": "2026-07-01T08:50:04.009471"
     },
     {
       "id": "bb332859610f1049",
@@ -4774,7 +4773,7 @@
       "stage": null,
       "genre": "Musikal ,  Scenekvelder",
       "sold_out": false,
-      "scraped_at": "2026-06-30T08:32:24.193679"
+      "scraped_at": "2026-07-01T08:51:36.342365"
     },
     {
       "id": "a394af8246ff03cc",
@@ -4790,7 +4789,7 @@
       "stage": null,
       "genre": "Musikal ,  Scenekvelder",
       "sold_out": false,
-      "scraped_at": "2026-06-30T08:32:24.193708"
+      "scraped_at": "2026-07-01T08:51:36.342394"
     },
     {
       "id": "ac0d992106713a44",
@@ -4806,7 +4805,7 @@
       "stage": "Scene 3",
       "genre": null,
       "sold_out": false,
-      "scraped_at": "2026-06-30T08:30:41.353296"
+      "scraped_at": "2026-07-01T08:50:19.222351"
     },
     {
       "id": "437970b49f627ded",
@@ -4822,7 +4821,7 @@
       "stage": "Scene 2",
       "genre": null,
       "sold_out": false,
-      "scraped_at": "2026-06-30T08:30:33.082672"
+      "scraped_at": "2026-07-01T08:50:10.021331"
     },
     {
       "id": "9a9166839d906745",
@@ -4838,7 +4837,7 @@
       "stage": "Scene 3",
       "genre": null,
       "sold_out": false,
-      "scraped_at": "2026-06-30T08:30:41.353305"
+      "scraped_at": "2026-07-01T08:50:19.222361"
     },
     {
       "id": "7881c9ee2df563a7",
@@ -4854,7 +4853,7 @@
       "stage": null,
       "genre": "Musikal ,  Scenekvelder",
       "sold_out": false,
-      "scraped_at": "2026-06-30T08:32:24.193737"
+      "scraped_at": "2026-07-01T08:51:36.342422"
     },
     {
       "id": "4eafb952eb417424",
@@ -4870,7 +4869,7 @@
       "stage": "Bikuben",
       "genre": null,
       "sold_out": false,
-      "scraped_at": "2026-06-30T08:30:45.393376"
+      "scraped_at": "2026-07-01T08:50:23.498793"
     },
     {
       "id": "14cd10d4fb7c272c",
@@ -4886,7 +4885,7 @@
       "stage": "Hovudscenen",
       "genre": null,
       "sold_out": false,
-      "scraped_at": "2026-06-30T08:30:23.613107"
+      "scraped_at": "2026-07-01T08:50:04.009480"
     },
     {
       "id": "e0c1ade75b7238aa",
@@ -4902,7 +4901,7 @@
       "stage": "Hovudscenen",
       "genre": null,
       "sold_out": false,
-      "scraped_at": "2026-06-30T08:30:23.613116"
+      "scraped_at": "2026-07-01T08:50:04.009490"
     },
     {
       "id": "2a15d6f692988577",
@@ -4918,7 +4917,7 @@
       "stage": null,
       "genre": "Musikal ,  Scenekvelder",
       "sold_out": true,
-      "scraped_at": "2026-06-30T08:32:24.193757"
+      "scraped_at": "2026-07-01T08:51:36.342442"
     },
     {
       "id": "7d3c0bc6adc926e5",
@@ -4934,7 +4933,7 @@
       "stage": "Bikuben",
       "genre": null,
       "sold_out": false,
-      "scraped_at": "2026-06-30T08:30:45.393385"
+      "scraped_at": "2026-07-01T08:50:23.498802"
     },
     {
       "id": "488124aff1463755",
@@ -4950,7 +4949,7 @@
       "stage": "Scene 3",
       "genre": null,
       "sold_out": false,
-      "scraped_at": "2026-06-30T08:30:43.418175"
+      "scraped_at": "2026-07-01T08:50:21.446673"
     },
     {
       "id": "f4f13194f5a7d414",
@@ -4966,7 +4965,7 @@
       "stage": "Hovudscenen",
       "genre": null,
       "sold_out": false,
-      "scraped_at": "2026-06-30T08:30:23.613126"
+      "scraped_at": "2026-07-01T08:50:04.009500"
     },
     {
       "id": "5075698af3ab8c79",
@@ -4982,7 +4981,7 @@
       "stage": "Torshovteatret",
       "genre": null,
       "sold_out": false,
-      "scraped_at": "2026-06-30T08:30:05.266730"
+      "scraped_at": "2026-07-01T08:49:53.053857"
     },
     {
       "id": "f292a652123dc902",
@@ -4998,7 +4997,7 @@
       "stage": "Scene 3",
       "genre": null,
       "sold_out": false,
-      "scraped_at": "2026-06-30T08:30:43.418198"
+      "scraped_at": "2026-07-01T08:50:21.446696"
     },
     {
       "id": "fee50a3f47ac9095",
@@ -5014,7 +5013,7 @@
       "stage": "Hovudscenen",
       "genre": null,
       "sold_out": false,
-      "scraped_at": "2026-06-30T08:30:23.613135"
+      "scraped_at": "2026-07-01T08:50:04.009511"
     },
     {
       "id": "1be1ac803d13e946",
@@ -5030,7 +5029,7 @@
       "stage": null,
       "genre": "Musikal ,  Scenekvelder",
       "sold_out": false,
-      "scraped_at": "2026-06-30T08:32:24.193785"
+      "scraped_at": "2026-07-01T08:51:36.342470"
     },
     {
       "id": "91acc308053ac0b9",
@@ -5046,7 +5045,7 @@
       "stage": "Scene 3",
       "genre": null,
       "sold_out": false,
-      "scraped_at": "2026-06-30T08:30:43.418210"
+      "scraped_at": "2026-07-01T08:50:21.446709"
     },
     {
       "id": "264d6676674bf10d",
@@ -5062,7 +5061,7 @@
       "stage": "Hovudscenen",
       "genre": null,
       "sold_out": false,
-      "scraped_at": "2026-06-30T08:30:23.613144"
+      "scraped_at": "2026-07-01T08:50:04.009523"
     },
     {
       "id": "76f51ac31f846281",
@@ -5078,7 +5077,7 @@
       "stage": "Scene 3",
       "genre": null,
       "sold_out": false,
-      "scraped_at": "2026-06-30T08:30:43.418220"
+      "scraped_at": "2026-07-01T08:50:21.446720"
     },
     {
       "id": "3ebd074d049e2f0b",
@@ -5094,7 +5093,7 @@
       "stage": null,
       "genre": "Musikal ,  Scenekvelder",
       "sold_out": false,
-      "scraped_at": "2026-06-30T08:32:24.193814"
+      "scraped_at": "2026-07-01T08:51:36.342499"
     },
     {
       "id": "a602d3e1fa179398",
@@ -5110,7 +5109,7 @@
       "stage": null,
       "genre": "Musikal ,  Scenekvelder",
       "sold_out": false,
-      "scraped_at": "2026-06-30T08:32:24.193843"
+      "scraped_at": "2026-07-01T08:51:36.342530"
     },
     {
       "id": "363bb58f2c392948",
@@ -5126,7 +5125,7 @@
       "stage": "Riksteatret",
       "genre": null,
       "sold_out": false,
-      "scraped_at": "2026-06-30T08:31:30.837425"
+      "scraped_at": "2026-07-01T08:51:08.594660"
     },
     {
       "id": "a2e7c65eedc299bb",
@@ -5142,7 +5141,7 @@
       "stage": "Bikuben",
       "genre": null,
       "sold_out": false,
-      "scraped_at": "2026-06-30T08:30:45.393395"
+      "scraped_at": "2026-07-01T08:50:23.498812"
     },
     {
       "id": "ad9e417a9a50b648",
@@ -5158,7 +5157,7 @@
       "stage": "Scene 3",
       "genre": null,
       "sold_out": false,
-      "scraped_at": "2026-06-30T08:30:43.418230"
+      "scraped_at": "2026-07-01T08:50:21.446730"
     },
     {
       "id": "e7ecffe6b7bbd3ad",
@@ -5174,7 +5173,7 @@
       "stage": null,
       "genre": "Standup",
       "sold_out": false,
-      "scraped_at": "2026-06-30T08:32:31.995856"
+      "scraped_at": "2026-07-01T08:51:38.673809"
     },
     {
       "id": "ccd98cb27feffa73",
@@ -5190,7 +5189,7 @@
       "stage": "Riksteatret",
       "genre": null,
       "sold_out": false,
-      "scraped_at": "2026-06-30T08:31:30.837716"
+      "scraped_at": "2026-07-01T08:51:08.594968"
     },
     {
       "id": "96e23f08f88ac368",
@@ -5206,7 +5205,7 @@
       "stage": "Scene 3",
       "genre": null,
       "sold_out": false,
-      "scraped_at": "2026-06-30T08:30:41.353314"
+      "scraped_at": "2026-07-01T08:50:19.222370"
     },
     {
       "id": "bdc1b6d337281fa7",
@@ -5222,7 +5221,7 @@
       "stage": "Scene 3",
       "genre": null,
       "sold_out": false,
-      "scraped_at": "2026-06-30T08:30:43.418242"
+      "scraped_at": "2026-07-01T08:50:21.446743"
     },
     {
       "id": "2578402a3563d89e",
@@ -5238,7 +5237,7 @@
       "stage": "Riksteatret",
       "genre": null,
       "sold_out": false,
-      "scraped_at": "2026-06-30T08:31:30.837997"
+      "scraped_at": "2026-07-01T08:51:08.595259"
     },
     {
       "id": "24434198ea08c7e3",
@@ -5254,7 +5253,7 @@
       "stage": "Scene 3",
       "genre": null,
       "sold_out": false,
-      "scraped_at": "2026-06-30T08:30:41.353323"
+      "scraped_at": "2026-07-01T08:50:19.222379"
     },
     {
       "id": "9297f21eb940372c",
@@ -5270,7 +5269,7 @@
       "stage": "Scene 3",
       "genre": null,
       "sold_out": false,
-      "scraped_at": "2026-06-30T08:30:43.418266"
+      "scraped_at": "2026-07-01T08:50:21.446754"
     },
     {
       "id": "e93a96f9be248a25",
@@ -5286,7 +5285,7 @@
       "stage": "Praxis Oslo",
       "genre": null,
       "sold_out": false,
-      "scraped_at": "2026-06-30T08:30:56.580927"
+      "scraped_at": "2026-07-01T08:50:34.373088"
     },
     {
       "id": "093e3cf1c4901bcc",
@@ -5302,7 +5301,7 @@
       "stage": "Scene 2",
       "genre": null,
       "sold_out": false,
-      "scraped_at": "2026-06-30T08:30:38.425634"
+      "scraped_at": "2026-07-01T08:50:16.153841"
     },
     {
       "id": "a39d99ec258b5b66",
@@ -5318,7 +5317,7 @@
       "stage": "Scene 3",
       "genre": null,
       "sold_out": false,
-      "scraped_at": "2026-06-30T08:30:43.418276"
+      "scraped_at": "2026-07-01T08:50:21.446764"
     },
     {
       "id": "32e396b5d9144ada",
@@ -5334,7 +5333,7 @@
       "stage": "Riksteatret",
       "genre": null,
       "sold_out": false,
-      "scraped_at": "2026-06-30T08:31:30.838292"
+      "scraped_at": "2026-07-01T08:51:08.595545"
     },
     {
       "id": "66f34a48463d7443",
@@ -5350,7 +5349,7 @@
       "stage": "Praxis Oslo",
       "genre": null,
       "sold_out": false,
-      "scraped_at": "2026-06-30T08:30:56.581107"
+      "scraped_at": "2026-07-01T08:50:34.373284"
     },
     {
       "id": "c5a825809293e698",
@@ -5366,7 +5365,7 @@
       "stage": null,
       "genre": "Musikal ,  Scenekvelder",
       "sold_out": false,
-      "scraped_at": "2026-06-30T08:32:24.193871"
+      "scraped_at": "2026-07-01T08:51:36.342562"
     },
     {
       "id": "fe4ff302ba4ff600",
@@ -5382,7 +5381,23 @@
       "stage": "Riksteatret",
       "genre": null,
       "sold_out": false,
-      "scraped_at": "2026-06-30T08:31:30.838579"
+      "scraped_at": "2026-07-01T08:51:08.595831"
+    },
+    {
+      "id": "cd64c8032e1bb761",
+      "title": "Peter Pan - Under en magisk måne",
+      "venue": "Teater Manu",
+      "venue_slug": "teater-manu",
+      "start": "2026-11-28T14:00:00",
+      "end": null,
+      "description": null,
+      "image_url": "https://www.facebook.com/tr?id=117370848822729&ev=PageView&noscript=1",
+      "ticket_url": "#",
+      "detail_url": "https://teatermanu.no/produksjoner/peter-pan-under-en-magisk-mane/",
+      "stage": "Teater Manu",
+      "genre": null,
+      "sold_out": false,
+      "scraped_at": "2026-07-01T08:51:25.264483"
     },
     {
       "id": "23e4b91628339685",
@@ -5398,7 +5413,7 @@
       "stage": "Scene 3",
       "genre": null,
       "sold_out": false,
-      "scraped_at": "2026-06-30T08:30:43.418285"
+      "scraped_at": "2026-07-01T08:50:21.446774"
     },
     {
       "id": "df057d4dd86b51d6",
@@ -5414,7 +5429,7 @@
       "stage": "Scene 3",
       "genre": null,
       "sold_out": false,
-      "scraped_at": "2026-06-30T08:30:43.418296"
+      "scraped_at": "2026-07-01T08:50:21.446785"
     },
     {
       "id": "453e24c8e705c454",
@@ -5430,7 +5445,7 @@
       "stage": "Hovudscenen",
       "genre": null,
       "sold_out": false,
-      "scraped_at": "2026-06-30T08:30:30.038518"
+      "scraped_at": "2026-07-01T08:50:04.793230"
     },
     {
       "id": "e671591ede83476f",
@@ -5446,7 +5461,7 @@
       "stage": "Praxis Oslo",
       "genre": null,
       "sold_out": false,
-      "scraped_at": "2026-06-30T08:30:56.581302"
+      "scraped_at": "2026-07-01T08:50:34.373475"
     },
     {
       "id": "b8091063f34836aa",
@@ -5462,7 +5477,23 @@
       "stage": null,
       "genre": "Musikal ,  Scenekvelder",
       "sold_out": false,
-      "scraped_at": "2026-06-30T08:32:24.193899"
+      "scraped_at": "2026-07-01T08:51:36.342592"
+    },
+    {
+      "id": "8917e4bd6809e414",
+      "title": "Peter Pan - Under en magisk måne",
+      "venue": "Teater Manu",
+      "venue_slug": "teater-manu",
+      "start": "2026-11-29T14:00:00",
+      "end": null,
+      "description": null,
+      "image_url": "https://www.facebook.com/tr?id=117370848822729&ev=PageView&noscript=1",
+      "ticket_url": "#",
+      "detail_url": "https://teatermanu.no/produksjoner/peter-pan-under-en-magisk-mane/",
+      "stage": "Teater Manu",
+      "genre": null,
+      "sold_out": false,
+      "scraped_at": "2026-07-01T08:51:25.264652"
     },
     {
       "id": "a9e79a14c2fcd452",
@@ -5478,7 +5509,7 @@
       "stage": "Hovudscenen",
       "genre": null,
       "sold_out": false,
-      "scraped_at": "2026-06-30T08:30:23.613153"
+      "scraped_at": "2026-07-01T08:50:04.009532"
     },
     {
       "id": "237508a2d1d1b2e5",
@@ -5494,7 +5525,7 @@
       "stage": "Praxis Oslo",
       "genre": null,
       "sold_out": false,
-      "scraped_at": "2026-06-30T08:30:56.581491"
+      "scraped_at": "2026-07-01T08:50:34.373666"
     },
     {
       "id": "0ac5f22626234251",
@@ -5510,7 +5541,7 @@
       "stage": "Bikuben",
       "genre": null,
       "sold_out": false,
-      "scraped_at": "2026-06-30T08:30:45.393404"
+      "scraped_at": "2026-07-01T08:50:23.498821"
     },
     {
       "id": "e58c606f28f5e1f7",
@@ -5526,7 +5557,7 @@
       "stage": "Scene 2",
       "genre": null,
       "sold_out": false,
-      "scraped_at": "2026-06-30T08:30:38.425646"
+      "scraped_at": "2026-07-01T08:50:16.153854"
     },
     {
       "id": "4b420de958e2d165",
@@ -5542,7 +5573,7 @@
       "stage": "Hovudscenen",
       "genre": null,
       "sold_out": false,
-      "scraped_at": "2026-06-30T08:30:30.038539"
+      "scraped_at": "2026-07-01T08:50:04.793252"
     },
     {
       "id": "cbc018d074555227",
@@ -5558,7 +5589,7 @@
       "stage": "Bikuben",
       "genre": null,
       "sold_out": false,
-      "scraped_at": "2026-06-30T08:30:45.393413"
+      "scraped_at": "2026-07-01T08:50:23.498831"
     },
     {
       "id": "43d20ce517421b0e",
@@ -5574,7 +5605,7 @@
       "stage": "Scene 2",
       "genre": null,
       "sold_out": false,
-      "scraped_at": "2026-06-30T08:30:35.139677"
+      "scraped_at": "2026-07-01T08:50:12.896498"
     },
     {
       "id": "fac79cf7854e1a8f",
@@ -5590,7 +5621,7 @@
       "stage": null,
       "genre": "Musikal ,  Scenekvelder",
       "sold_out": false,
-      "scraped_at": "2026-06-30T08:32:24.193928"
+      "scraped_at": "2026-07-01T08:51:36.342622"
     },
     {
       "id": "93ad205369680d64",
@@ -5606,7 +5637,7 @@
       "stage": "Hovedscenen",
       "genre": null,
       "sold_out": false,
-      "scraped_at": "2026-06-30T08:29:46.789583"
+      "scraped_at": "2026-07-01T08:49:38.162812"
     },
     {
       "id": "d96e16cb8878a465",
@@ -5622,7 +5653,7 @@
       "stage": "Scene 2",
       "genre": null,
       "sold_out": false,
-      "scraped_at": "2026-06-30T08:30:35.139700"
+      "scraped_at": "2026-07-01T08:50:12.896520"
     },
     {
       "id": "0062ce1f0c9028f4",
@@ -5638,7 +5669,7 @@
       "stage": "Scene 2",
       "genre": null,
       "sold_out": false,
-      "scraped_at": "2026-06-30T08:30:35.139712"
+      "scraped_at": "2026-07-01T08:50:12.896532"
     },
     {
       "id": "a7566b21c620b983",
@@ -5654,7 +5685,7 @@
       "stage": null,
       "genre": "Musikal ,  Scenekvelder",
       "sold_out": false,
-      "scraped_at": "2026-06-30T08:32:24.193956"
+      "scraped_at": "2026-07-01T08:51:36.342650"
     },
     {
       "id": "fe9aa85872029cb7",
@@ -5670,7 +5701,7 @@
       "stage": "Hovudscenen",
       "genre": null,
       "sold_out": false,
-      "scraped_at": "2026-06-30T08:30:30.038550"
+      "scraped_at": "2026-07-01T08:50:04.793266"
     },
     {
       "id": "0333be280ae8fdaf",
@@ -5686,7 +5717,7 @@
       "stage": "Scene 2",
       "genre": null,
       "sold_out": false,
-      "scraped_at": "2026-06-30T08:30:35.139722"
+      "scraped_at": "2026-07-01T08:50:12.896542"
     },
     {
       "id": "7bfbd60972be4fbc",
@@ -5702,7 +5733,7 @@
       "stage": null,
       "genre": "Konsert",
       "sold_out": false,
-      "scraped_at": "2026-06-30T08:32:33.369352"
+      "scraped_at": "2026-07-01T08:51:38.947673"
     },
     {
       "id": "a041c2ef0ad6ebb1",
@@ -5718,7 +5749,7 @@
       "stage": "Det Norske Teatret",
       "genre": null,
       "sold_out": false,
-      "scraped_at": "2026-06-30T08:30:43.670493"
+      "scraped_at": "2026-07-01T08:50:23.271395"
     },
     {
       "id": "4bf65fc100f8d041",
@@ -5734,7 +5765,7 @@
       "stage": null,
       "genre": "Konsert",
       "sold_out": false,
-      "scraped_at": "2026-06-30T08:32:33.838477"
+      "scraped_at": "2026-07-01T08:51:39.222717"
     },
     {
       "id": "6474c5bdb8dd2c7b",
@@ -5750,7 +5781,7 @@
       "stage": "Hovudscenen",
       "genre": null,
       "sold_out": false,
-      "scraped_at": "2026-06-30T08:30:30.038560"
+      "scraped_at": "2026-07-01T08:50:04.793277"
     },
     {
       "id": "2235f7e1f64dbb2d",
@@ -5766,7 +5797,7 @@
       "stage": null,
       "genre": "Musikal ,  Scenekvelder",
       "sold_out": false,
-      "scraped_at": "2026-06-30T08:32:28.562025"
+      "scraped_at": "2026-07-01T08:51:37.549016"
     },
     {
       "id": "9e8ba22d0f7de75f",
@@ -5782,7 +5813,7 @@
       "stage": "Hovudscenen",
       "genre": null,
       "sold_out": false,
-      "scraped_at": "2026-06-30T08:30:30.353200"
+      "scraped_at": "2026-07-01T08:50:05.070357"
     },
     {
       "id": "828fd93e810341d1",
@@ -5798,7 +5829,7 @@
       "stage": null,
       "genre": "Musikal ,  Scenekvelder",
       "sold_out": false,
-      "scraped_at": "2026-06-30T08:32:28.562074"
+      "scraped_at": "2026-07-01T08:51:37.549063"
     },
     {
       "id": "9971662e5da392ae",
@@ -5814,7 +5845,7 @@
       "stage": null,
       "genre": "Musikal ,  Scenekvelder",
       "sold_out": false,
-      "scraped_at": "2026-06-30T08:32:28.562109"
+      "scraped_at": "2026-07-01T08:51:37.549097"
     },
     {
       "id": "44bb60d87c4a2d90",
@@ -5830,7 +5861,7 @@
       "stage": null,
       "genre": "Musikal ,  Scenekvelder",
       "sold_out": false,
-      "scraped_at": "2026-06-30T08:32:28.562141"
+      "scraped_at": "2026-07-01T08:51:37.549128"
     },
     {
       "id": "0801c14e655549ab",
@@ -5846,7 +5877,7 @@
       "stage": "Hovudscenen",
       "genre": null,
       "sold_out": false,
-      "scraped_at": "2026-06-30T08:30:30.353222"
+      "scraped_at": "2026-07-01T08:50:05.070379"
     },
     {
       "id": "e2e9cd19472d0175",
@@ -5862,7 +5893,7 @@
       "stage": "Hovudscenen",
       "genre": null,
       "sold_out": false,
-      "scraped_at": "2026-06-30T08:30:30.038573"
+      "scraped_at": "2026-07-01T08:50:04.793286"
     },
     {
       "id": "f8982ca06dcc7d3f",
@@ -5878,7 +5909,7 @@
       "stage": "Hovedscenen",
       "genre": null,
       "sold_out": false,
-      "scraped_at": "2026-06-30T08:29:57.668078"
+      "scraped_at": "2026-07-01T08:49:46.789364"
     },
     {
       "id": "ef69e9b4cd4b2e34",
@@ -5894,7 +5925,7 @@
       "stage": null,
       "genre": "Musikal ,  Scenekvelder",
       "sold_out": false,
-      "scraped_at": "2026-06-30T08:32:28.562172"
+      "scraped_at": "2026-07-01T08:51:37.549160"
     },
     {
       "id": "870d688b20800d68",
@@ -5910,7 +5941,7 @@
       "stage": "Hovudscenen",
       "genre": null,
       "sold_out": false,
-      "scraped_at": "2026-06-30T08:30:30.038584"
+      "scraped_at": "2026-07-01T08:50:04.793299"
     },
     {
       "id": "3a798e1633fc12a8",
@@ -5926,7 +5957,7 @@
       "stage": null,
       "genre": "Musikal ,  Scenekvelder",
       "sold_out": false,
-      "scraped_at": "2026-06-30T08:32:28.562203"
+      "scraped_at": "2026-07-01T08:51:37.549192"
     },
     {
       "id": "b3fc6028e858d135",
@@ -5942,7 +5973,7 @@
       "stage": "Hovudscenen",
       "genre": null,
       "sold_out": false,
-      "scraped_at": "2026-06-30T08:30:30.038595"
+      "scraped_at": "2026-07-01T08:50:04.793311"
     },
     {
       "id": "32787e1354844509",
@@ -5958,7 +5989,7 @@
       "stage": null,
       "genre": "Musikal ,  Scenekvelder",
       "sold_out": false,
-      "scraped_at": "2026-06-30T08:32:28.562232"
+      "scraped_at": "2026-07-01T08:51:37.549221"
     },
     {
       "id": "6ddc580d96940f0c",
@@ -5974,7 +6005,7 @@
       "stage": null,
       "genre": "Musikal ,  Scenekvelder",
       "sold_out": false,
-      "scraped_at": "2026-06-30T08:32:28.562276"
+      "scraped_at": "2026-07-01T08:51:37.549251"
     },
     {
       "id": "85f18e1cd6b1fa39",
@@ -5990,7 +6021,7 @@
       "stage": null,
       "genre": "Musikal ,  Scenekvelder",
       "sold_out": false,
-      "scraped_at": "2026-06-30T08:32:28.562304"
+      "scraped_at": "2026-07-01T08:51:37.549282"
     },
     {
       "id": "935d6e35e34ccc1a",
@@ -6006,7 +6037,7 @@
       "stage": "Hovudscenen",
       "genre": null,
       "sold_out": false,
-      "scraped_at": "2026-06-30T08:30:30.353234"
+      "scraped_at": "2026-07-01T08:50:05.070391"
     },
     {
       "id": "6e839571db6382a6",
@@ -6022,7 +6053,7 @@
       "stage": null,
       "genre": "Musikal ,  Scenekvelder",
       "sold_out": false,
-      "scraped_at": "2026-06-30T08:32:28.562333"
+      "scraped_at": "2026-07-01T08:51:37.549314"
     },
     {
       "id": "c93775320287652f",
@@ -6038,7 +6069,7 @@
       "stage": null,
       "genre": "Standup",
       "sold_out": false,
-      "scraped_at": "2026-06-30T08:32:35.211888"
+      "scraped_at": "2026-07-01T08:51:39.504866"
     },
     {
       "id": "3c8913bdd0425b3f",
@@ -6054,7 +6085,7 @@
       "stage": null,
       "genre": null,
       "sold_out": false,
-      "scraped_at": "2026-06-30T08:31:29.327291"
+      "scraped_at": "2026-07-01T08:51:07.228059"
     },
     {
       "id": "80d9dbccc067b857",
@@ -6070,7 +6101,7 @@
       "stage": null,
       "genre": null,
       "sold_out": false,
-      "scraped_at": "2026-06-30T08:31:29.327374"
+      "scraped_at": "2026-07-01T08:51:07.228145"
     },
     {
       "id": "fb6c15b75d528fcb",
@@ -6086,7 +6117,7 @@
       "stage": "Riksteatret",
       "genre": null,
       "sold_out": false,
-      "scraped_at": "2026-06-30T08:31:31.534293"
+      "scraped_at": "2026-07-01T08:51:09.164218"
     },
     {
       "id": "d2a4d8849fae850b",
@@ -6102,7 +6133,7 @@
       "stage": null,
       "genre": null,
       "sold_out": false,
-      "scraped_at": "2026-06-30T08:32:18.044900"
+      "scraped_at": "2026-07-01T08:51:30.608609"
     },
     {
       "id": "34b6922c8f09f2c3",
@@ -6118,7 +6149,7 @@
       "stage": "Riksteatret",
       "genre": null,
       "sold_out": false,
-      "scraped_at": "2026-06-30T08:31:31.534605"
+      "scraped_at": "2026-07-01T08:51:09.164536"
     },
     {
       "id": "5ca6779960efe273",
@@ -6134,7 +6165,7 @@
       "stage": "Riksteatret",
       "genre": null,
       "sold_out": false,
-      "scraped_at": "2026-06-30T08:31:31.534896"
+      "scraped_at": "2026-07-01T08:51:09.164830"
     },
     {
       "id": "def015ab6973256f",
@@ -6150,7 +6181,7 @@
       "stage": null,
       "genre": null,
       "sold_out": false,
-      "scraped_at": "2026-06-30T08:31:29.327197"
+      "scraped_at": "2026-07-01T08:51:07.227960"
     },
     {
       "id": "8afe32606306c0ee",
@@ -6166,7 +6197,7 @@
       "stage": "Riksteatret",
       "genre": null,
       "sold_out": false,
-      "scraped_at": "2026-06-30T08:31:31.373838"
+      "scraped_at": "2026-07-01T08:51:09.036013"
     },
     {
       "id": "7f75695da2a8c388",
@@ -6182,7 +6213,7 @@
       "stage": null,
       "genre": null,
       "sold_out": false,
-      "scraped_at": "2026-06-30T08:31:29.327109"
+      "scraped_at": "2026-07-01T08:51:07.227861"
     },
     {
       "id": "eed8b9df1111215f",
@@ -6198,7 +6229,7 @@
       "stage": "Riksteatret",
       "genre": null,
       "sold_out": false,
-      "scraped_at": "2026-06-30T08:31:31.374152"
+      "scraped_at": "2026-07-01T08:51:09.036339"
     },
     {
       "id": "18db7d19b75ce1c5",
@@ -6214,7 +6245,7 @@
       "stage": "Riksteatret",
       "genre": null,
       "sold_out": false,
-      "scraped_at": "2026-06-30T08:31:31.374458"
+      "scraped_at": "2026-07-01T08:51:09.036639"
     },
     {
       "id": "a71ae08f13c81485",
@@ -6230,7 +6261,7 @@
       "stage": null,
       "genre": null,
       "sold_out": false,
-      "scraped_at": "2026-06-30T08:31:29.327025"
+      "scraped_at": "2026-07-01T08:51:07.227776"
     },
     {
       "id": "669e865b87b2dc1d",
@@ -6246,7 +6277,7 @@
       "stage": null,
       "genre": null,
       "sold_out": false,
-      "scraped_at": "2026-06-30T08:31:29.326937"
+      "scraped_at": "2026-07-01T08:51:07.227687"
     },
     {
       "id": "2fc942a6e01d03b9",
@@ -6262,7 +6293,7 @@
       "stage": null,
       "genre": null,
       "sold_out": false,
-      "scraped_at": "2026-06-30T08:31:29.326850"
+      "scraped_at": "2026-07-01T08:51:07.227601"
     },
     {
       "id": "d6050404b72ac18a",
@@ -6278,7 +6309,7 @@
       "stage": null,
       "genre": null,
       "sold_out": false,
-      "scraped_at": "2026-06-30T08:31:29.326770"
+      "scraped_at": "2026-07-01T08:51:07.227506"
     },
     {
       "id": "18654073b8f5886a",
@@ -6294,7 +6325,7 @@
       "stage": null,
       "genre": null,
       "sold_out": false,
-      "scraped_at": "2026-06-30T08:31:29.326689"
+      "scraped_at": "2026-07-01T08:51:07.227423"
     },
     {
       "id": "f2aa924c418eb629",
@@ -6310,7 +6341,7 @@
       "stage": "Riksteatret",
       "genre": null,
       "sold_out": false,
-      "scraped_at": "2026-06-30T08:31:31.198903"
+      "scraped_at": "2026-07-01T08:51:08.894430"
     },
     {
       "id": "417b4d7243b55596",
@@ -6326,7 +6357,7 @@
       "stage": null,
       "genre": "Standup",
       "sold_out": false,
-      "scraped_at": "2026-06-30T08:32:35.675302"
+      "scraped_at": "2026-07-01T08:51:39.784644"
     },
     {
       "id": "1dc1bcc3e839adc5",
@@ -6342,7 +6373,7 @@
       "stage": "Riksteatret",
       "genre": null,
       "sold_out": false,
-      "scraped_at": "2026-06-30T08:31:31.199215"
+      "scraped_at": "2026-07-01T08:51:08.894744"
     },
     {
       "id": "e59b8fcce28d4359",
@@ -6358,7 +6389,7 @@
       "stage": "Riksteatret",
       "genre": null,
       "sold_out": false,
-      "scraped_at": "2026-06-30T08:31:31.535316"
+      "scraped_at": "2026-07-01T08:51:09.165259"
     },
     {
       "id": "8db11f1778e9c6e4",
@@ -6374,7 +6405,7 @@
       "stage": "Riksteatret",
       "genre": null,
       "sold_out": false,
-      "scraped_at": "2026-06-30T08:31:31.199524"
+      "scraped_at": "2026-07-01T08:51:08.895056"
     },
     {
       "id": "5fb661490e9e67cb",
@@ -6390,7 +6421,7 @@
       "stage": "Riksteatret",
       "genre": null,
       "sold_out": false,
-      "scraped_at": "2026-06-30T08:31:31.535614"
+      "scraped_at": "2026-07-01T08:51:09.165549"
     },
     {
       "id": "47d27ebba126706b",
@@ -6406,7 +6437,7 @@
       "stage": null,
       "genre": null,
       "sold_out": false,
-      "scraped_at": "2026-06-30T08:31:29.326601"
+      "scraped_at": "2026-07-01T08:51:07.227337"
     },
     {
       "id": "0ed256fcce37e7be",
@@ -6422,7 +6453,7 @@
       "stage": "Riksteatret",
       "genre": null,
       "sold_out": false,
-      "scraped_at": "2026-06-30T08:31:31.535904"
+      "scraped_at": "2026-07-01T08:51:09.165839"
     },
     {
       "id": "65b4bd5aface9c5f",
@@ -6438,7 +6469,7 @@
       "stage": "Hovudscenen",
       "genre": null,
       "sold_out": false,
-      "scraped_at": "2026-06-30T08:30:30.617278"
+      "scraped_at": "2026-07-01T08:50:05.309412"
     },
     {
       "id": "3fa3f6200a8d5059",
@@ -6454,7 +6485,7 @@
       "stage": null,
       "genre": null,
       "sold_out": false,
-      "scraped_at": "2026-06-30T08:31:29.326520"
+      "scraped_at": "2026-07-01T08:51:07.227250"
     },
     {
       "id": "f2abbf81ac74f48b",
@@ -6470,7 +6501,7 @@
       "stage": "Hovudscenen",
       "genre": null,
       "sold_out": false,
-      "scraped_at": "2026-06-30T08:30:30.617300"
+      "scraped_at": "2026-07-01T08:50:05.309435"
     },
     {
       "id": "4386e447d619a688",
@@ -6486,7 +6517,7 @@
       "stage": "Hovudscenen",
       "genre": null,
       "sold_out": false,
-      "scraped_at": "2026-06-30T08:30:30.617313"
+      "scraped_at": "2026-07-01T08:50:05.309447"
     },
     {
       "id": "866dd4c8b5aa1904",
@@ -6502,7 +6533,7 @@
       "stage": "Hovudscenen",
       "genre": null,
       "sold_out": false,
-      "scraped_at": "2026-06-30T08:30:30.617323"
+      "scraped_at": "2026-07-01T08:50:05.309458"
     },
     {
       "id": "371192e36e94007c",
@@ -6518,7 +6549,7 @@
       "stage": null,
       "genre": null,
       "sold_out": false,
-      "scraped_at": "2026-06-30T08:31:29.326439"
+      "scraped_at": "2026-07-01T08:51:07.227167"
     },
     {
       "id": "7808d6bf9a65e537",
@@ -6534,7 +6565,7 @@
       "stage": "Hovudscenen",
       "genre": null,
       "sold_out": false,
-      "scraped_at": "2026-06-30T08:30:30.617333"
+      "scraped_at": "2026-07-01T08:50:05.309473"
     },
     {
       "id": "eabb2bf3ed9b62c4",
@@ -6550,7 +6581,7 @@
       "stage": "Hovudscenen",
       "genre": null,
       "sold_out": false,
-      "scraped_at": "2026-06-30T08:30:30.617343"
+      "scraped_at": "2026-07-01T08:50:05.309485"
     },
     {
       "id": "126cfca5c813407f",
@@ -6566,7 +6597,7 @@
       "stage": "Hovudscenen",
       "genre": null,
       "sold_out": false,
-      "scraped_at": "2026-06-30T08:30:30.617353"
+      "scraped_at": "2026-07-01T08:50:05.309495"
     },
     {
       "id": "ebd55229c8b65fb3",
@@ -6582,7 +6613,7 @@
       "stage": "Hovudscenen",
       "genre": null,
       "sold_out": false,
-      "scraped_at": "2026-06-30T08:30:30.617362"
+      "scraped_at": "2026-07-01T08:50:05.309505"
     },
     {
       "id": "9d6ab46f8fdf734c",
@@ -6598,7 +6629,7 @@
       "stage": null,
       "genre": null,
       "sold_out": false,
-      "scraped_at": "2026-06-30T08:31:29.326358"
+      "scraped_at": "2026-07-01T08:51:07.227083"
     },
     {
       "id": "ce36450bc6a98107",
@@ -6614,7 +6645,7 @@
       "stage": null,
       "genre": null,
       "sold_out": false,
-      "scraped_at": "2026-06-30T08:31:29.326276"
+      "scraped_at": "2026-07-01T08:51:07.226999"
     },
     {
       "id": "201466519723abab",
@@ -6630,7 +6661,39 @@
       "stage": null,
       "genre": null,
       "sold_out": false,
-      "scraped_at": "2026-06-30T08:31:29.326176"
+      "scraped_at": "2026-07-01T08:51:07.226893"
+    },
+    {
+      "id": "1e2149b68497ecc9",
+      "title": "«I AM UNDONE - VOL. 10» AV LILIRE",
+      "venue": "Dramatikkens Hus",
+      "venue_slug": "dramatikkens-hus",
+      "start": "2027-04-10T19:00:00",
+      "end": null,
+      "description": null,
+      "image_url": null,
+      "ticket_url": "https://www.dramatikkenshus.no/kalender/i-am-undone-av-lilire",
+      "detail_url": "https://www.dramatikkenshus.no/kalender/i-am-undone-av-lilire",
+      "stage": null,
+      "genre": null,
+      "sold_out": false,
+      "scraped_at": "2026-07-01T08:51:07.226806"
+    },
+    {
+      "id": "918e8da93e704427",
+      "title": "«MINORITY MAN» AV ANN-CHRISTIN KONGSNESS",
+      "venue": "Dramatikkens Hus",
+      "venue_slug": "dramatikkens-hus",
+      "start": "2027-04-14T19:00:00",
+      "end": null,
+      "description": null,
+      "image_url": null,
+      "ticket_url": "https://www.dramatikkenshus.no/kalender/minority-man-av-ann-christin-kongsness",
+      "detail_url": "https://www.dramatikkenshus.no/kalender/minority-man-av-ann-christin-kongsness",
+      "stage": null,
+      "genre": null,
+      "sold_out": false,
+      "scraped_at": "2026-07-01T08:51:07.226721"
     },
     {
       "id": "f27c01055cd8dfbc",
@@ -6646,7 +6709,7 @@
       "stage": "Hovudscenen",
       "genre": null,
       "sold_out": false,
-      "scraped_at": "2026-06-30T08:30:32.336720"
+      "scraped_at": "2026-07-01T08:50:07.194823"
     },
     {
       "id": "3121ae6f9acd7247",
@@ -6662,7 +6725,7 @@
       "stage": "Hovudscenen",
       "genre": null,
       "sold_out": false,
-      "scraped_at": "2026-06-30T08:30:32.336746"
+      "scraped_at": "2026-07-01T08:50:07.194850"
     },
     {
       "id": "015634e076fe7f10",
@@ -6678,7 +6741,23 @@
       "stage": "Hovudscenen",
       "genre": null,
       "sold_out": false,
-      "scraped_at": "2026-06-30T08:30:32.336761"
+      "scraped_at": "2026-07-01T08:50:07.194864"
+    },
+    {
+      "id": "536004f680c5b0d5",
+      "title": "EN KVELD MED JOEL TAN, MED LESNING AV «SCENES FROM A REPATRIATION»",
+      "venue": "Dramatikkens Hus",
+      "venue_slug": "dramatikkens-hus",
+      "start": "2027-04-23T19:00:00",
+      "end": null,
+      "description": null,
+      "image_url": null,
+      "ticket_url": "https://www.dramatikkenshus.no/kalender/lesning-med-joel-tan",
+      "detail_url": "https://www.dramatikkenshus.no/kalender/lesning-med-joel-tan",
+      "stage": null,
+      "genre": null,
+      "sold_out": false,
+      "scraped_at": "2026-07-01T08:51:07.226633"
     },
     {
       "id": "6a1621df914702cb",
@@ -6694,7 +6773,7 @@
       "stage": "Hovudscenen",
       "genre": null,
       "sold_out": false,
-      "scraped_at": "2026-06-30T08:30:32.336773"
+      "scraped_at": "2026-07-01T08:50:07.194876"
     },
     {
       "id": "4c85c25bad04dd7e",
@@ -6710,7 +6789,7 @@
       "stage": "Hovudscenen",
       "genre": null,
       "sold_out": false,
-      "scraped_at": "2026-06-30T08:30:32.336783"
+      "scraped_at": "2026-07-01T08:50:07.194886"
     },
     {
       "id": "77082ec440539767",
@@ -6726,7 +6805,7 @@
       "stage": "Riksteatret",
       "genre": null,
       "sold_out": false,
-      "scraped_at": "2026-06-30T08:31:31.375884"
+      "scraped_at": "2026-07-01T08:51:09.038120"
     },
     {
       "id": "9e31440f96005f4c",
@@ -6742,7 +6821,7 @@
       "stage": "Riksteatret",
       "genre": null,
       "sold_out": false,
-      "scraped_at": "2026-06-30T08:31:31.376160"
+      "scraped_at": "2026-07-01T08:51:09.038394"
     },
     {
       "id": "5f83c02e19cc6083",
@@ -6758,7 +6837,23 @@
       "stage": "Riksteatret",
       "genre": null,
       "sold_out": false,
-      "scraped_at": "2026-06-30T08:31:31.376444"
+      "scraped_at": "2026-07-01T08:51:09.038669"
+    },
+    {
+      "id": "5f7148be00d7e082",
+      "title": "«ALT KOMMER, MEN NÅ ER DET» AV THOMAS JØRSTAD PETTERSEN",
+      "venue": "Dramatikkens Hus",
+      "venue_slug": "dramatikkens-hus",
+      "start": "2027-04-29T19:00:00",
+      "end": null,
+      "description": null,
+      "image_url": null,
+      "ticket_url": "https://www.dramatikkenshus.no/kalender/alt-kommer-men-na-er-det-av-thomas-jorstad-pettersen",
+      "detail_url": "https://www.dramatikkenshus.no/kalender/alt-kommer-men-na-er-det-av-thomas-jorstad-pettersen",
+      "stage": null,
+      "genre": null,
+      "sold_out": false,
+      "scraped_at": "2026-07-01T08:51:07.226538"
     },
     {
       "id": "bef9dc7c539bc03f",
@@ -6774,7 +6869,7 @@
       "stage": "Hovudscenen",
       "genre": null,
       "sold_out": false,
-      "scraped_at": "2026-06-30T08:30:32.336794"
+      "scraped_at": "2026-07-01T08:50:07.194897"
     },
     {
       "id": "e9e27d99e89a1710",
@@ -6790,7 +6885,23 @@
       "stage": "Riksteatret",
       "genre": null,
       "sold_out": false,
-      "scraped_at": "2026-06-30T08:31:31.376713"
+      "scraped_at": "2026-07-01T08:51:09.038951"
+    },
+    {
+      "id": "cafb7df894e239d3",
+      "title": "DRAMATIKEREN INVITERER: HANNAH WOZENE KVAM OM SORGEN",
+      "venue": "Dramatikkens Hus",
+      "venue_slug": "dramatikkens-hus",
+      "start": "2027-04-30T19:00:00",
+      "end": null,
+      "description": null,
+      "image_url": null,
+      "ticket_url": "https://www.dramatikkenshus.no/kalender/dramatikeren-inviterer-april",
+      "detail_url": "https://www.dramatikkenshus.no/kalender/dramatikeren-inviterer-april",
+      "stage": null,
+      "genre": null,
+      "sold_out": false,
+      "scraped_at": "2026-07-01T08:51:07.226440"
     },
     {
       "id": "6a193ab7b6ff5959",
@@ -6806,7 +6917,7 @@
       "stage": "Hovudscenen",
       "genre": null,
       "sold_out": false,
-      "scraped_at": "2026-06-30T08:30:32.336804"
+      "scraped_at": "2026-07-01T08:50:07.194908"
     },
     {
       "id": "2179c5aac73faaa6",
@@ -6822,7 +6933,7 @@
       "stage": "Hovudscenen",
       "genre": null,
       "sold_out": false,
-      "scraped_at": "2026-06-30T08:30:32.336815"
+      "scraped_at": "2026-07-01T08:50:07.194932"
     },
     {
       "id": "40401e5df24f4e34",
@@ -6838,7 +6949,7 @@
       "stage": "Hovudscenen",
       "genre": null,
       "sold_out": false,
-      "scraped_at": "2026-06-30T08:30:32.336826"
+      "scraped_at": "2026-07-01T08:50:07.194943"
     },
     {
       "id": "b8d87228908876a0",
@@ -6854,7 +6965,7 @@
       "stage": "Hovudscenen",
       "genre": null,
       "sold_out": false,
-      "scraped_at": "2026-06-30T08:30:32.336836"
+      "scraped_at": "2026-07-01T08:50:07.194953"
     },
     {
       "id": "954462f072ee64f6",
@@ -6870,7 +6981,7 @@
       "stage": "Hovudscenen",
       "genre": null,
       "sold_out": false,
-      "scraped_at": "2026-06-30T08:30:32.336846"
+      "scraped_at": "2026-07-01T08:50:07.194964"
     },
     {
       "id": "172478fffcaf89a4",
@@ -6886,7 +6997,7 @@
       "stage": "Hovudscenen",
       "genre": null,
       "sold_out": false,
-      "scraped_at": "2026-06-30T08:30:32.336856"
+      "scraped_at": "2026-07-01T08:50:07.194974"
     },
     {
       "id": "90377682d0c4e52c",
@@ -6902,7 +7013,7 @@
       "stage": "Hovudscenen",
       "genre": null,
       "sold_out": false,
-      "scraped_at": "2026-06-30T08:30:32.336865"
+      "scraped_at": "2026-07-01T08:50:07.194983"
     },
     {
       "id": "922e9f96813b7830",
@@ -6918,7 +7029,7 @@
       "stage": "Hovudscenen",
       "genre": null,
       "sold_out": false,
-      "scraped_at": "2026-06-30T08:30:32.336874"
+      "scraped_at": "2026-07-01T08:50:07.194993"
     },
     {
       "id": "663374466ed6ca3b",
@@ -6934,7 +7045,7 @@
       "stage": "Riksteatret",
       "genre": null,
       "sold_out": false,
-      "scraped_at": "2026-06-30T08:31:31.200513"
+      "scraped_at": "2026-07-01T08:51:08.896086"
     },
     {
       "id": "d2e5a5927b410f33",
@@ -6950,7 +7061,7 @@
       "stage": "Riksteatret",
       "genre": null,
       "sold_out": false,
-      "scraped_at": "2026-06-30T08:31:31.200782"
+      "scraped_at": "2026-07-01T08:51:08.896356"
     },
     {
       "id": "132d0d7898c416f2",
@@ -6966,7 +7077,7 @@
       "stage": "Riksteatret",
       "genre": null,
       "sold_out": false,
-      "scraped_at": "2026-06-30T08:31:31.201046"
+      "scraped_at": "2026-07-01T08:51:08.896630"
     },
     {
       "id": "6c72284c7dfdce0b",
@@ -6982,7 +7093,7 @@
       "stage": null,
       "genre": "Musikal ,  Scenekvelder",
       "sold_out": false,
-      "scraped_at": "2026-06-30T08:32:37.156029"
+      "scraped_at": "2026-07-01T08:51:40.068118"
     },
     {
       "id": "55ec5b53bfa7af8c",
@@ -6998,7 +7109,7 @@
       "stage": null,
       "genre": "Musikal ,  Scenekvelder",
       "sold_out": false,
-      "scraped_at": "2026-06-30T08:32:37.156076"
+      "scraped_at": "2026-07-01T08:51:40.068165"
     },
     {
       "id": "4bce3770aab71073",
@@ -7014,7 +7125,7 @@
       "stage": null,
       "genre": "Musikal ,  Scenekvelder",
       "sold_out": false,
-      "scraped_at": "2026-06-30T08:32:37.156109"
+      "scraped_at": "2026-07-01T08:51:40.068198"
     },
     {
       "id": "1be336e66d5f5965",
@@ -7030,7 +7141,7 @@
       "stage": null,
       "genre": "Musikal ,  Scenekvelder",
       "sold_out": false,
-      "scraped_at": "2026-06-30T08:32:37.156142"
+      "scraped_at": "2026-07-01T08:51:40.068228"
     },
     {
       "id": "9232199b4440039a",
@@ -7046,7 +7157,7 @@
       "stage": null,
       "genre": "Musikal ,  Scenekvelder",
       "sold_out": false,
-      "scraped_at": "2026-06-30T08:32:37.156172"
+      "scraped_at": "2026-07-01T08:51:40.068257"
     },
     {
       "id": "48f9db842fd5f305",
@@ -7062,7 +7173,7 @@
       "stage": null,
       "genre": "Musikal ,  Scenekvelder",
       "sold_out": false,
-      "scraped_at": "2026-06-30T08:32:37.156204"
+      "scraped_at": "2026-07-01T08:51:40.068287"
     },
     {
       "id": "7246cad04b12886d",
@@ -7078,7 +7189,7 @@
       "stage": null,
       "genre": "Musikal ,  Scenekvelder",
       "sold_out": false,
-      "scraped_at": "2026-06-30T08:32:37.156235"
+      "scraped_at": "2026-07-01T08:51:40.068316"
     },
     {
       "id": "0707bbdb74df8a7f",
@@ -7094,7 +7205,7 @@
       "stage": null,
       "genre": "Musikal ,  Scenekvelder",
       "sold_out": false,
-      "scraped_at": "2026-06-30T08:32:37.156279"
+      "scraped_at": "2026-07-01T08:51:40.068345"
     },
     {
       "id": "53994560c90c9a1d",
@@ -7110,7 +7221,7 @@
       "stage": null,
       "genre": "Musikal ,  Scenekvelder",
       "sold_out": false,
-      "scraped_at": "2026-06-30T08:32:37.156308"
+      "scraped_at": "2026-07-01T08:51:40.068373"
     },
     {
       "id": "b50a4e3a0b6f00ff",
@@ -7126,7 +7237,7 @@
       "stage": null,
       "genre": "Musikal ,  Scenekvelder",
       "sold_out": false,
-      "scraped_at": "2026-06-30T08:32:37.156337"
+      "scraped_at": "2026-07-01T08:51:40.068402"
     },
     {
       "id": "c3cfdae59e9a3a04",
@@ -7142,7 +7253,7 @@
       "stage": null,
       "genre": "Musikal ,  Scenekvelder",
       "sold_out": false,
-      "scraped_at": "2026-06-30T08:32:37.156366"
+      "scraped_at": "2026-07-01T08:51:40.068431"
     },
     {
       "id": "8be3418cf13ccd99",
@@ -7158,7 +7269,7 @@
       "stage": null,
       "genre": "Musikal ,  Scenekvelder",
       "sold_out": false,
-      "scraped_at": "2026-06-30T08:32:37.156394"
+      "scraped_at": "2026-07-01T08:51:40.068460"
     },
     {
       "id": "3e81eef77a24a27a",
@@ -7174,7 +7285,7 @@
       "stage": null,
       "genre": "Musikal ,  Scenekvelder",
       "sold_out": false,
-      "scraped_at": "2026-06-30T08:32:37.156424"
+      "scraped_at": "2026-07-01T08:51:40.068488"
     },
     {
       "id": "6f1a57b52391bc59",
@@ -7190,7 +7301,7 @@
       "stage": null,
       "genre": "Musikal ,  Scenekvelder",
       "sold_out": false,
-      "scraped_at": "2026-06-30T08:32:37.156452"
+      "scraped_at": "2026-07-01T08:51:40.068517"
     },
     {
       "id": "75de2f68d6cb4062",
@@ -7206,7 +7317,7 @@
       "stage": null,
       "genre": "Musikal ,  Scenekvelder",
       "sold_out": false,
-      "scraped_at": "2026-06-30T08:32:37.156481"
+      "scraped_at": "2026-07-01T08:51:40.068546"
     },
     {
       "id": "3572893813c7dba4",
@@ -7222,7 +7333,7 @@
       "stage": null,
       "genre": "Musikal ,  Scenekvelder",
       "sold_out": false,
-      "scraped_at": "2026-06-30T08:32:37.156510"
+      "scraped_at": "2026-07-01T08:51:40.068576"
     },
     {
       "id": "6977286d20b74b18",
@@ -7238,7 +7349,7 @@
       "stage": null,
       "genre": "Musikal ,  Scenekvelder",
       "sold_out": false,
-      "scraped_at": "2026-06-30T08:32:37.156538"
+      "scraped_at": "2026-07-01T08:51:40.068605"
     },
     {
       "id": "4f5a193e6a006a20",
@@ -7254,17 +7365,13 @@
       "stage": null,
       "genre": "Musikal ,  Scenekvelder",
       "sold_out": false,
-      "scraped_at": "2026-06-30T08:32:37.156568"
+      "scraped_at": "2026-07-01T08:51:40.068635"
     }
   ],
   "errors": [
     {
       "scraper": "OperaenScraper",
       "error": "Page.goto: Timeout 30000ms exceeded.\nCall log:\n  - navigating to \"https://operaen.no/\", waiting until \"networkidle\"\n"
-    },
-    {
-      "scraper": "TeaterManuScraper",
-      "error": "HTTPSConnectionPool(host='teatermanu.no', port=443): Max retries exceeded with url: /produksjoner/ (Caused by ConnectTimeoutError(<HTTPSConnection(host='teatermanu.no', port=443) at 0x7f52d1dea8d0>, 'Connection to teatermanu.no timed out. (connect timeout=30)'))"
     }
   ]
 }
