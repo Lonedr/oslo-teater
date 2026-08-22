@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-08-21T05:33:15.823280+00:00",
-  "show_count": 504,
+  "generated_at": "2026-08-22T05:27:41.036081+00:00",
+  "show_count": 565,
   "venues": [
     {
       "slug": "nationaltheatret",
@@ -12,7 +12,7 @@
       "slug": "det-norske-teatret",
       "name": "Det Norske Teatret",
       "url": "https://www.detnorsketeatret.no",
-      "show_count": 205
+      "show_count": 264
     },
     {
       "slug": "oslo-nye",
@@ -24,7 +24,7 @@
       "slug": "black-box",
       "name": "Black Box teater",
       "url": "https://blackbox.no",
-      "show_count": 29
+      "show_count": 28
     },
     {
       "slug": "operaen",
@@ -61,7 +61,7 @@
       "slug": "nordic-black",
       "name": "Nordic Black Theatre",
       "url": "https://nordicblacktheatre.no",
-      "show_count": 35
+      "show_count": 38
     },
     {
       "slug": "folketeateret",
@@ -71,70 +71,6 @@
     }
   ],
   "shows": [
-    {
-      "id": "001398c4ab46be92",
-      "title": "Velkommen til åpning av høstsesongen 2026! Åpent hus Utvidet program Male Fantasies Fest",
-      "venue": "Black Box teater",
-      "venue_slug": "black-box",
-      "start": "2026-08-20T18:00:00",
-      "end": null,
-      "description": null,
-      "image_url": null,
-      "ticket_url": "https://blackbox.no/nb/velkommen-til-apning-av-hostsesongen-2026/",
-      "detail_url": "https://blackbox.no/nb/velkommen-til-apning-av-hostsesongen-2026/",
-      "stage": "Black Box teater Foajé\n    \n      (Black Box teater)",
-      "genre": null,
-      "sold_out": false,
-      "scraped_at": "2026-08-21T05:32:17.199105"
-    },
-    {
-      "id": "61ac811fe6713a76",
-      "title": "Svein Erik Martinsen Quartet / Cafe Society",
-      "venue": "Nordic Black Theatre",
-      "venue_slug": "nordic-black",
-      "start": "2026-08-20T19:00:00",
-      "end": null,
-      "description": null,
-      "image_url": "/_next/image?url=https%3A%2F%2Fcdn.sanity.io%2Fimages%2Fl794s5ct%2Fproduction%2F1330038facdb6198f340a1b0cd1888445039d3c6-1440x810.jpg%3Frect%3D315%2C0%2C810%2C810%26w%3D1000%26h%3D1000%26q%3D92%26fit%3Dmax%26auto%3Dformat&w=3840&q=75",
-      "ticket_url": "https://nordicblacktheatre.no/program/svein-erik-martinsen-quartet-cafe-society-20-08-2026",
-      "detail_url": "https://nordicblacktheatre.no/program/svein-erik-martinsen-quartet-cafe-society-20-08-2026",
-      "stage": null,
-      "genre": null,
-      "sold_out": false,
-      "scraped_at": "2026-08-21T05:33:02.715800"
-    },
-    {
-      "id": "df16e21392805775",
-      "title": "«EN ENDRƎT MANN» AV MARIUS LEKNES SNEKKEVÅG",
-      "venue": "Dramatikkens Hus",
-      "venue_slug": "dramatikkens-hus",
-      "start": "2026-08-21T14:00:00",
-      "end": null,
-      "description": null,
-      "image_url": null,
-      "ticket_url": "https://www.dramatikkenshus.no/kalender/en-endret-mann-av-marius-leknes-snekkevag",
-      "detail_url": "https://www.dramatikkenshus.no/kalender/en-endret-mann-av-marius-leknes-snekkevag",
-      "stage": null,
-      "genre": null,
-      "sold_out": false,
-      "scraped_at": "2026-08-21T05:32:50.690649"
-    },
-    {
-      "id": "df33dd516c51f844",
-      "title": "Den spanske flue",
-      "venue": "Nationaltheatret",
-      "venue_slug": "nationaltheatret",
-      "start": "2026-08-21T17:00:00",
-      "end": "2026-10-03T11:30:00",
-      "description": "«Gled deg, pappa, her er jeg!» Sitatet stammer fra den elleville farsen Den spanske flue , som nå settes opp på Nationaltheatret for første gang siden 1970! Forestillingen handler om den tilsynelatende vellykkede familien Klinke, der far Ludwig har slått seg opp som sennepsfabrikkeier. Men han ha…",
-      "image_url": "https://cdn.sanity.io/images/4hthkcie/production/2549dbc1c773c7704ee3b6406cddd04866bf33cb-8256x5504.jpg",
-      "ticket_url": "https://www.nationaltheatret.no/forestillinger/den-spanske-flue#billetter",
-      "detail_url": "https://www.nationaltheatret.no/forestillinger/den-spanske-flue",
-      "stage": "Hovedscenen",
-      "genre": null,
-      "sold_out": false,
-      "scraped_at": "2026-08-21T05:30:47.964545"
-    },
     {
       "id": "dc016f5850a15246",
       "title": "Male Fantasies",
@@ -149,7 +85,23 @@
       "stage": "Lille scene\n    \n      (Black Box teater)",
       "genre": null,
       "sold_out": false,
-      "scraped_at": "2026-08-21T05:32:17.199309"
+      "scraped_at": "2026-08-22T05:26:40.969868"
+    },
+    {
+      "id": "d7ca8ae21c28dddc",
+      "title": "«EN ENDRƎT MANN» AV MARIUS LEKNES SNEKKEVÅG",
+      "venue": "Dramatikkens Hus",
+      "venue_slug": "dramatikkens-hus",
+      "start": "2026-08-21T19:00:00",
+      "end": null,
+      "description": null,
+      "image_url": null,
+      "ticket_url": "https://www.dramatikkenshus.no/kalender/en-endret-mann-av-marius-leknes-snekkevag",
+      "detail_url": "https://www.dramatikkenshus.no/kalender/en-endret-mann-av-marius-leknes-snekkevag",
+      "stage": null,
+      "genre": null,
+      "sold_out": false,
+      "scraped_at": "2026-08-22T05:27:14.587027"
     },
     {
       "id": "f5a53580df8eaad8",
@@ -165,7 +117,7 @@
       "stage": "Hovedscenen",
       "genre": "Sesongforestilling",
       "sold_out": false,
-      "scraped_at": "2026-08-21T05:32:53.726537"
+      "scraped_at": "2026-08-22T05:27:17.849528"
     },
     {
       "id": "d7ef4536890ab739",
@@ -181,7 +133,7 @@
       "stage": null,
       "genre": null,
       "sold_out": false,
-      "scraped_at": "2026-08-21T05:33:02.715866"
+      "scraped_at": "2026-08-22T05:27:28.480909"
     },
     {
       "id": "512e7bdebc10fb36",
@@ -197,7 +149,23 @@
       "stage": "Hovedscenen",
       "genre": "Sesongforestilling",
       "sold_out": false,
-      "scraped_at": "2026-08-21T05:32:53.727074"
+      "scraped_at": "2026-08-22T05:27:17.850216"
+    },
+    {
+      "id": "d5c9a75013bc9e66",
+      "title": "Den spanske flue",
+      "venue": "Nationaltheatret",
+      "venue_slug": "nationaltheatret",
+      "start": "2026-08-22T11:30:00",
+      "end": "2026-10-03T11:30:00",
+      "description": "«Gled deg, pappa, her er jeg!» Sitatet stammer fra den elleville farsen Den spanske flue , som nå settes opp på Nationaltheatret for første gang siden 1970! Forestillingen handler om den tilsynelatende vellykkede familien Klinke, der far Ludwig har slått seg opp som sennepsfabrikkeier. Men han ha…",
+      "image_url": "https://cdn.sanity.io/images/4hthkcie/production/2549dbc1c773c7704ee3b6406cddd04866bf33cb-8256x5504.jpg",
+      "ticket_url": "https://www.nationaltheatret.no/forestillinger/den-spanske-flue#billetter",
+      "detail_url": "https://www.nationaltheatret.no/forestillinger/den-spanske-flue",
+      "stage": "Hovedscenen",
+      "genre": null,
+      "sold_out": false,
+      "scraped_at": "2026-08-22T05:25:21.860372"
     },
     {
       "id": "2ba1ee6e5c5cee16",
@@ -213,7 +181,7 @@
       "stage": "Hovedscenen",
       "genre": null,
       "sold_out": false,
-      "scraped_at": "2026-08-21T05:30:41.000081"
+      "scraped_at": "2026-08-22T05:25:15.007848"
     },
     {
       "id": "be65c308e706c10d",
@@ -229,7 +197,7 @@
       "stage": "Midtgolvet",
       "genre": null,
       "sold_out": false,
-      "scraped_at": "2026-08-21T05:32:03.145648"
+      "scraped_at": "2026-08-22T05:26:22.419209"
     },
     {
       "id": "14e76706eeabbd06",
@@ -245,7 +213,7 @@
       "stage": "Vega Scene",
       "genre": null,
       "sold_out": false,
-      "scraped_at": "2026-08-21T05:32:52.278104"
+      "scraped_at": "2026-08-22T05:27:16.382408"
     },
     {
       "id": "dc644fa72b392b7a",
@@ -261,7 +229,7 @@
       "stage": "Lille scene\n    \n      (Black Box teater)",
       "genre": null,
       "sold_out": false,
-      "scraped_at": "2026-08-21T05:32:17.199475"
+      "scraped_at": "2026-08-22T05:26:40.970110"
     },
     {
       "id": "3688acfedc090baa",
@@ -277,7 +245,55 @@
       "stage": "Hovedscenen",
       "genre": "Kun én kveld!",
       "sold_out": false,
-      "scraped_at": "2026-08-21T05:32:53.727749"
+      "scraped_at": "2026-08-22T05:27:17.851102"
+    },
+    {
+      "id": "0d4b5ad378962805",
+      "title": "✨ VERDENSBARN KULTURFESTIVAL 2026 – TO DAGER MED VERDEN I BARNAS HØYDE!",
+      "venue": "Nordic Black Theatre",
+      "venue_slug": "nordic-black",
+      "start": "2026-08-22T19:00:00",
+      "end": null,
+      "description": null,
+      "image_url": "/_next/image?url=https%3A%2F%2Fcdn.sanity.io%2Fimages%2Fl794s5ct%2Fproduction%2F82495fe70d864d8e10c955d13da45952b497ffa4-1440x810.jpg%3Frect%3D315%2C0%2C810%2C810%26w%3D1000%26h%3D1000%26q%3D92%26fit%3Dmax%26auto%3Dformat&w=3840&q=75",
+      "ticket_url": "https://nordicblacktheatre.no/program/-verdensbarn-kulturfestival-2026-to-dager-med-verden-i-barnas-hyde--22-08-2026",
+      "detail_url": "https://nordicblacktheatre.no/program/-verdensbarn-kulturfestival-2026-to-dager-med-verden-i-barnas-hyde--22-08-2026",
+      "stage": null,
+      "genre": null,
+      "sold_out": false,
+      "scraped_at": "2026-08-22T05:27:28.480987"
+    },
+    {
+      "id": "4f5b84972c90b045",
+      "title": "Workshop: Murder on Paper",
+      "venue": "Nordic Black Theatre",
+      "venue_slug": "nordic-black",
+      "start": "2026-08-23T19:00:00",
+      "end": null,
+      "description": null,
+      "image_url": "/_next/image?url=https%3A%2F%2Fcdn.sanity.io%2Fimages%2Fl794s5ct%2Fproduction%2F56603b1ebffd5c2b2e0dbaa5dd934786b464b02d-1440x810.jpg%3Frect%3D315%2C0%2C810%2C810%26w%3D1000%26h%3D1000%26q%3D92%26fit%3Dmax%26auto%3Dformat&w=3840&q=75",
+      "ticket_url": "https://nordicblacktheatre.no/program/workshop-murder-on-paper--23-08-2026",
+      "detail_url": "https://nordicblacktheatre.no/program/workshop-murder-on-paper--23-08-2026",
+      "stage": null,
+      "genre": null,
+      "sold_out": false,
+      "scraped_at": "2026-08-22T05:27:28.481051"
+    },
+    {
+      "id": "405b0b2677028aa4",
+      "title": "✨ VERDENSBARN KULTURFESTIVAL 2026 – TO DAGER MED VERDEN I BARNAS HØYDE!",
+      "venue": "Nordic Black Theatre",
+      "venue_slug": "nordic-black",
+      "start": "2026-08-23T19:00:00",
+      "end": null,
+      "description": null,
+      "image_url": null,
+      "ticket_url": "https://nordicblacktheatre.no/program/-verdensbarn-kulturfestival-2026-to-dager-med-verden-i-barnas-hyde--23-08-2026",
+      "detail_url": "https://nordicblacktheatre.no/program/-verdensbarn-kulturfestival-2026-to-dager-med-verden-i-barnas-hyde--23-08-2026",
+      "stage": null,
+      "genre": null,
+      "sold_out": false,
+      "scraped_at": "2026-08-22T05:27:28.481116"
     },
     {
       "id": "c8dc4cc007dbc234",
@@ -293,7 +309,7 @@
       "stage": "Vega Scene",
       "genre": null,
       "sold_out": false,
-      "scraped_at": "2026-08-21T05:32:52.278370"
+      "scraped_at": "2026-08-22T05:27:16.382745"
     },
     {
       "id": "b75d3ec18bf5600f",
@@ -309,7 +325,7 @@
       "stage": "Amfiscenen",
       "genre": null,
       "sold_out": false,
-      "scraped_at": "2026-08-21T05:30:52.223803"
+      "scraped_at": "2026-08-22T05:25:24.311383"
     },
     {
       "id": "c065747aa2cea574",
@@ -325,7 +341,7 @@
       "stage": "Hovudscenen",
       "genre": null,
       "sold_out": false,
-      "scraped_at": "2026-08-21T05:31:54.877912"
+      "scraped_at": "2026-08-22T05:26:18.417988"
     },
     {
       "id": "659ac8314d233f52",
@@ -341,7 +357,7 @@
       "stage": "Vega Scene",
       "genre": null,
       "sold_out": false,
-      "scraped_at": "2026-08-21T05:32:52.278615"
+      "scraped_at": "2026-08-22T05:27:16.383087"
     },
     {
       "id": "a8a39f94d3504293",
@@ -357,7 +373,7 @@
       "stage": null,
       "genre": null,
       "sold_out": false,
-      "scraped_at": "2026-08-21T05:33:02.715924"
+      "scraped_at": "2026-08-22T05:27:28.481181"
     },
     {
       "id": "780c3a82cb0131d3",
@@ -373,7 +389,7 @@
       "stage": "Midtgolvet",
       "genre": null,
       "sold_out": false,
-      "scraped_at": "2026-08-21T05:32:03.145667"
+      "scraped_at": "2026-08-22T05:26:22.419235"
     },
     {
       "id": "49679966186c2b85",
@@ -389,7 +405,7 @@
       "stage": "Hovedscenen",
       "genre": null,
       "sold_out": false,
-      "scraped_at": "2026-08-21T05:31:37.610069"
+      "scraped_at": "2026-08-22T05:26:00.209130"
     },
     {
       "id": "0883ae0034fe55a4",
@@ -405,7 +421,7 @@
       "stage": "Scene 2",
       "genre": null,
       "sold_out": false,
-      "scraped_at": "2026-08-21T05:31:59.985954"
+      "scraped_at": "2026-08-22T05:26:21.363282"
     },
     {
       "id": "89e0d099ad86ab07",
@@ -421,7 +437,7 @@
       "stage": "Hovedscenen",
       "genre": "Sesongforestilling",
       "sold_out": false,
-      "scraped_at": "2026-08-21T05:32:53.728440"
+      "scraped_at": "2026-08-22T05:27:17.852003"
     },
     {
       "id": "1b241eff542d7c03",
@@ -437,7 +453,7 @@
       "stage": null,
       "genre": null,
       "sold_out": false,
-      "scraped_at": "2026-08-21T05:32:50.690762"
+      "scraped_at": "2026-08-22T05:27:14.586358"
     },
     {
       "id": "5d60a719d973f782",
@@ -453,7 +469,7 @@
       "stage": null,
       "genre": null,
       "sold_out": false,
-      "scraped_at": "2026-08-21T05:32:50.690842"
+      "scraped_at": "2026-08-22T05:27:14.586492"
     },
     {
       "id": "f3e30008a76c8c40",
@@ -469,7 +485,7 @@
       "stage": "Black Box teater Foajé\n    \n      (Black Box teater)",
       "genre": null,
       "sold_out": false,
-      "scraped_at": "2026-08-21T05:32:17.199645"
+      "scraped_at": "2026-08-22T05:26:40.970337"
     },
     {
       "id": "56e2f29fb4cbafbc",
@@ -485,7 +501,7 @@
       "stage": "Scene 3",
       "genre": null,
       "sold_out": false,
-      "scraped_at": "2026-08-21T05:32:03.406591"
+      "scraped_at": "2026-08-22T05:26:23.696645"
     },
     {
       "id": "afee1f9ad50d1ea0",
@@ -501,7 +517,7 @@
       "stage": "Vega Scene",
       "genre": null,
       "sold_out": false,
-      "scraped_at": "2026-08-21T05:32:52.278866"
+      "scraped_at": "2026-08-22T05:27:16.383408"
     },
     {
       "id": "d4af9816210052ee",
@@ -517,7 +533,7 @@
       "stage": "Hovedscenen",
       "genre": "Sesongforestilling",
       "sold_out": false,
-      "scraped_at": "2026-08-21T05:32:53.729109"
+      "scraped_at": "2026-08-22T05:27:17.852869"
     },
     {
       "id": "cf4fd93733905c90",
@@ -533,7 +549,7 @@
       "stage": null,
       "genre": null,
       "sold_out": false,
-      "scraped_at": "2026-08-21T05:33:02.715975"
+      "scraped_at": "2026-08-22T05:27:28.481246"
     },
     {
       "id": "5a0314e5181b4f94",
@@ -549,7 +565,7 @@
       "stage": "Scene 2",
       "genre": null,
       "sold_out": false,
-      "scraped_at": "2026-08-21T05:31:57.970381"
+      "scraped_at": "2026-08-22T05:26:20.861379"
     },
     {
       "id": "e3217e003ef75593",
@@ -565,7 +581,7 @@
       "stage": "Midtgolvet",
       "genre": null,
       "sold_out": false,
-      "scraped_at": "2026-08-21T05:32:03.145677"
+      "scraped_at": "2026-08-22T05:26:22.419249"
     },
     {
       "id": "c93ba292015f5743",
@@ -581,7 +597,7 @@
       "stage": "Scene 2",
       "genre": null,
       "sold_out": false,
-      "scraped_at": "2026-08-21T05:31:59.985973"
+      "scraped_at": "2026-08-22T05:26:21.363306"
     },
     {
       "id": "d62262b425ec8ba2",
@@ -597,7 +613,7 @@
       "stage": "Lille scene\n    \n      (Black Box teater)",
       "genre": null,
       "sold_out": false,
-      "scraped_at": "2026-08-21T05:32:17.199806"
+      "scraped_at": "2026-08-22T05:26:40.970539"
     },
     {
       "id": "86edcf336bf4a3e3",
@@ -613,7 +629,7 @@
       "stage": "Hovedscenen",
       "genre": "Sesongforestilling",
       "sold_out": false,
-      "scraped_at": "2026-08-21T05:32:53.729870"
+      "scraped_at": "2026-08-22T05:27:17.853851"
     },
     {
       "id": "716c9d09f3d14dd4",
@@ -629,7 +645,7 @@
       "stage": "Hovudscenen",
       "genre": null,
       "sold_out": false,
-      "scraped_at": "2026-08-21T05:31:49.701215"
+      "scraped_at": "2026-08-22T05:26:11.105120"
     },
     {
       "id": "1691f595717a9dd0",
@@ -645,7 +661,7 @@
       "stage": "Hovedscenen",
       "genre": "Sesongforestilling",
       "sold_out": false,
-      "scraped_at": "2026-08-21T05:32:53.730349"
+      "scraped_at": "2026-08-22T05:27:17.854483"
     },
     {
       "id": "21831409d0778c49",
@@ -661,7 +677,7 @@
       "stage": "Hovudscenen",
       "genre": null,
       "sold_out": false,
-      "scraped_at": "2026-08-21T05:31:49.701233"
+      "scraped_at": "2026-08-22T05:26:11.105144"
     },
     {
       "id": "871b97cf5cac5b9f",
@@ -677,7 +693,7 @@
       "stage": "Hovedscenen",
       "genre": "Sesongforestilling",
       "sold_out": false,
-      "scraped_at": "2026-08-21T05:32:53.731113"
+      "scraped_at": "2026-08-22T05:27:17.855477"
     },
     {
       "id": "8f672e46a9e8005c",
@@ -693,7 +709,7 @@
       "stage": "Lille scene\n    \n      (Black Box teater)",
       "genre": null,
       "sold_out": false,
-      "scraped_at": "2026-08-21T05:32:17.199970"
+      "scraped_at": "2026-08-22T05:26:40.970747"
     },
     {
       "id": "be414f20f530e479",
@@ -709,7 +725,7 @@
       "stage": null,
       "genre": null,
       "sold_out": false,
-      "scraped_at": "2026-08-21T05:33:02.716031"
+      "scraped_at": "2026-08-22T05:27:28.481310"
     },
     {
       "id": "104d6315cb0a355c",
@@ -725,7 +741,7 @@
       "stage": "Hovedscenen",
       "genre": "Sesongforestilling",
       "sold_out": false,
-      "scraped_at": "2026-08-21T05:32:53.731592"
+      "scraped_at": "2026-08-22T05:27:17.856113"
     },
     {
       "id": "3bbae42655b22246",
@@ -741,7 +757,7 @@
       "stage": null,
       "genre": null,
       "sold_out": false,
-      "scraped_at": "2026-08-21T05:33:02.716089"
+      "scraped_at": "2026-08-22T05:27:28.481380"
     },
     {
       "id": "36e8bf1f90121344",
@@ -757,7 +773,7 @@
       "stage": "Hovedscenen",
       "genre": "Sesongforestilling",
       "sold_out": false,
-      "scraped_at": "2026-08-21T05:32:53.732299"
+      "scraped_at": "2026-08-22T05:27:17.856974"
     },
     {
       "id": "fafbb8f68ce51f1b",
@@ -773,7 +789,7 @@
       "stage": null,
       "genre": null,
       "sold_out": false,
-      "scraped_at": "2026-08-21T05:33:02.716174"
+      "scraped_at": "2026-08-22T05:27:28.481482"
     },
     {
       "id": "789312fee09491cf",
@@ -789,7 +805,7 @@
       "stage": "Scene 2",
       "genre": null,
       "sold_out": false,
-      "scraped_at": "2026-08-21T05:32:00.712701"
+      "scraped_at": "2026-08-22T05:26:22.165003"
     },
     {
       "id": "05466dda8deb004b",
@@ -805,7 +821,7 @@
       "stage": null,
       "genre": null,
       "sold_out": false,
-      "scraped_at": "2026-08-21T05:33:02.716225"
+      "scraped_at": "2026-08-22T05:27:28.481546"
     },
     {
       "id": "7b5dfc6cd39b404e",
@@ -821,7 +837,7 @@
       "stage": "Scene 2",
       "genre": null,
       "sold_out": false,
-      "scraped_at": "2026-08-21T05:31:57.970399"
+      "scraped_at": "2026-08-22T05:26:20.861404"
     },
     {
       "id": "8df1427831429aab",
@@ -837,7 +853,7 @@
       "stage": "Hovedscenen",
       "genre": "Sesongforestilling",
       "sold_out": false,
-      "scraped_at": "2026-08-21T05:32:53.732957"
+      "scraped_at": "2026-08-22T05:27:17.857825"
     },
     {
       "id": "849dd769ff581b37",
@@ -853,7 +869,7 @@
       "stage": "Midtgolvet",
       "genre": null,
       "sold_out": false,
-      "scraped_at": "2026-08-21T05:32:03.145687"
+      "scraped_at": "2026-08-22T05:26:22.419260"
     },
     {
       "id": "c02c3577a54a375d",
@@ -869,7 +885,7 @@
       "stage": null,
       "genre": null,
       "sold_out": false,
-      "scraped_at": "2026-08-21T05:32:50.690936"
+      "scraped_at": "2026-08-22T05:27:14.586600"
     },
     {
       "id": "5e3a4e15ceaf739d",
@@ -885,7 +901,7 @@
       "stage": "Hovedscenen",
       "genre": "Sesongforestilling",
       "sold_out": false,
-      "scraped_at": "2026-08-21T05:32:53.733601"
+      "scraped_at": "2026-08-22T05:27:17.858656"
     },
     {
       "id": "d44b32f1c7d45c5a",
@@ -901,7 +917,7 @@
       "stage": "Scene 2",
       "genre": null,
       "sold_out": false,
-      "scraped_at": "2026-08-21T05:32:00.712720"
+      "scraped_at": "2026-08-22T05:26:22.165027"
     },
     {
       "id": "76ce3e3a5a74b5df",
@@ -917,7 +933,7 @@
       "stage": null,
       "genre": "Musikal ,  Scenekvelder",
       "sold_out": true,
-      "scraped_at": "2026-08-21T05:33:08.808009"
+      "scraped_at": "2026-08-22T05:27:35.095872"
     },
     {
       "id": "7c0507e97e7b4554",
@@ -933,7 +949,7 @@
       "stage": "Amfiscenen",
       "genre": null,
       "sold_out": false,
-      "scraped_at": "2026-08-21T05:30:58.572529"
+      "scraped_at": "2026-08-22T05:25:29.839613"
     },
     {
       "id": "47fdbf62ac99d0ec",
@@ -949,7 +965,7 @@
       "stage": null,
       "genre": null,
       "sold_out": false,
-      "scraped_at": "2026-08-21T05:32:50.691011"
+      "scraped_at": "2026-08-22T05:27:14.586696"
     },
     {
       "id": "eff454cd1f037654",
@@ -965,7 +981,7 @@
       "stage": "Hovedscenen",
       "genre": "Sesongforestilling",
       "sold_out": false,
-      "scraped_at": "2026-08-21T05:32:53.734334"
+      "scraped_at": "2026-08-22T05:27:17.859619"
     },
     {
       "id": "2fc43ab905898074",
@@ -981,7 +997,7 @@
       "stage": null,
       "genre": null,
       "sold_out": false,
-      "scraped_at": "2026-08-21T05:33:02.716277"
+      "scraped_at": "2026-08-22T05:27:28.481610"
     },
     {
       "id": "ac85bd7307e87b6f",
@@ -997,7 +1013,7 @@
       "stage": "Scene 2",
       "genre": null,
       "sold_out": false,
-      "scraped_at": "2026-08-21T05:31:57.970409"
+      "scraped_at": "2026-08-22T05:26:20.861416"
     },
     {
       "id": "ee4177af8e1beb4d",
@@ -1013,7 +1029,7 @@
       "stage": null,
       "genre": "Musikal ,  Scenekvelder",
       "sold_out": false,
-      "scraped_at": "2026-08-21T05:33:08.808047"
+      "scraped_at": "2026-08-22T05:27:35.095921"
     },
     {
       "id": "fc359d723dbb7d11",
@@ -1029,7 +1045,7 @@
       "stage": "Hovedscenen",
       "genre": "Sesongforestilling",
       "sold_out": false,
-      "scraped_at": "2026-08-21T05:32:53.734800"
+      "scraped_at": "2026-08-22T05:27:17.860246"
     },
     {
       "id": "72ae78d83140bfdd",
@@ -1045,7 +1061,7 @@
       "stage": "Intimscenen",
       "genre": "Kurs",
       "sold_out": false,
-      "scraped_at": "2026-08-21T05:32:53.735928"
+      "scraped_at": "2026-08-22T05:27:17.861690"
     },
     {
       "id": "7314de00c6f3129d",
@@ -1061,7 +1077,7 @@
       "stage": "Hovedscenen",
       "genre": "For barn",
       "sold_out": false,
-      "scraped_at": "2026-08-21T05:32:53.736401"
+      "scraped_at": "2026-08-22T05:27:17.862315"
     },
     {
       "id": "96c1424c0efbe87e",
@@ -1077,7 +1093,7 @@
       "stage": "Intimscenen",
       "genre": "For barn",
       "sold_out": false,
-      "scraped_at": "2026-08-21T05:32:53.736886"
+      "scraped_at": "2026-08-22T05:27:17.862933"
     },
     {
       "id": "c24882c37e20dd72",
@@ -1093,7 +1109,7 @@
       "stage": "Hovedscenen",
       "genre": "For barn",
       "sold_out": false,
-      "scraped_at": "2026-08-21T05:32:53.737353"
+      "scraped_at": "2026-08-22T05:27:17.863541"
     },
     {
       "id": "655666832dfcdb74",
@@ -1109,7 +1125,7 @@
       "stage": null,
       "genre": "Musikal ,  Scenekvelder",
       "sold_out": false,
-      "scraped_at": "2026-08-21T05:33:08.808074"
+      "scraped_at": "2026-08-22T05:27:35.095957"
     },
     {
       "id": "7ce1498bde5544d3",
@@ -1125,7 +1141,7 @@
       "stage": null,
       "genre": null,
       "sold_out": false,
-      "scraped_at": "2026-08-21T05:32:50.691082"
+      "scraped_at": "2026-08-22T05:27:14.586822"
     },
     {
       "id": "04c0e4f80e5321e5",
@@ -1141,7 +1157,7 @@
       "stage": "Hovedscenen",
       "genre": null,
       "sold_out": false,
-      "scraped_at": "2026-08-21T05:31:33.938347"
+      "scraped_at": "2026-08-22T05:25:57.343585"
     },
     {
       "id": "b0dadc81b1d89c55",
@@ -1157,7 +1173,7 @@
       "stage": "Hovudscenen",
       "genre": null,
       "sold_out": false,
-      "scraped_at": "2026-08-21T05:31:47.559369"
+      "scraped_at": "2026-08-22T05:26:10.594543"
     },
     {
       "id": "f5549aa2ac0ff36b",
@@ -1173,7 +1189,7 @@
       "stage": "Scene 2",
       "genre": null,
       "sold_out": false,
-      "scraped_at": "2026-08-21T05:31:57.970418"
+      "scraped_at": "2026-08-22T05:26:20.861427"
     },
     {
       "id": "92aff799ff515426",
@@ -1189,7 +1205,7 @@
       "stage": "Hovedscenen",
       "genre": "Sesongforestilling",
       "sold_out": false,
-      "scraped_at": "2026-08-21T05:32:53.737825"
+      "scraped_at": "2026-08-22T05:27:17.864169"
     },
     {
       "id": "9146862281e190d4",
@@ -1205,7 +1221,7 @@
       "stage": null,
       "genre": "Musikal ,  Scenekvelder",
       "sold_out": false,
-      "scraped_at": "2026-08-21T05:33:08.808098"
+      "scraped_at": "2026-08-22T05:27:35.095990"
     },
     {
       "id": "dbdefc0a32fca696",
@@ -1221,7 +1237,7 @@
       "stage": "Hovedscenen",
       "genre": "Sesongforestilling",
       "sold_out": false,
-      "scraped_at": "2026-08-21T05:32:53.738322"
+      "scraped_at": "2026-08-22T05:27:17.864816"
     },
     {
       "id": "e93d1d05860bf177",
@@ -1237,7 +1253,7 @@
       "stage": "Intimscenen",
       "genre": "Kurs",
       "sold_out": false,
-      "scraped_at": "2026-08-21T05:32:53.739080"
+      "scraped_at": "2026-08-22T05:27:17.865808"
     },
     {
       "id": "8a8d1d260f3fe69c",
@@ -1253,7 +1269,7 @@
       "stage": "Hovedscenen",
       "genre": "For barn",
       "sold_out": false,
-      "scraped_at": "2026-08-21T05:32:53.739669"
+      "scraped_at": "2026-08-22T05:27:17.866572"
     },
     {
       "id": "001f86c75be8ac90",
@@ -1269,7 +1285,7 @@
       "stage": null,
       "genre": "Musikal ,  Scenekvelder",
       "sold_out": false,
-      "scraped_at": "2026-08-21T05:33:08.808121"
+      "scraped_at": "2026-08-22T05:27:35.096020"
     },
     {
       "id": "1c990cde2fc39695",
@@ -1285,7 +1301,7 @@
       "stage": null,
       "genre": null,
       "sold_out": false,
-      "scraped_at": "2026-08-21T05:32:50.691152"
+      "scraped_at": "2026-08-22T05:27:14.586929"
     },
     {
       "id": "55fd61b363e0ea1c",
@@ -1301,7 +1317,7 @@
       "stage": null,
       "genre": null,
       "sold_out": false,
-      "scraped_at": "2026-08-21T05:33:02.716329"
+      "scraped_at": "2026-08-22T05:27:28.481673"
     },
     {
       "id": "c1d30c8f8820dab2",
@@ -1317,7 +1333,7 @@
       "stage": "Hovudscenen",
       "genre": null,
       "sold_out": false,
-      "scraped_at": "2026-08-21T05:31:47.559389"
+      "scraped_at": "2026-08-22T05:26:10.594568"
     },
     {
       "id": "7dc8c84362701458",
@@ -1333,7 +1349,7 @@
       "stage": "Hovedscenen",
       "genre": "Sesongforestilling",
       "sold_out": false,
-      "scraped_at": "2026-08-21T05:32:53.740389"
+      "scraped_at": "2026-08-22T05:27:17.867530"
     },
     {
       "id": "eff5a66fa952fd68",
@@ -1349,7 +1365,7 @@
       "stage": null,
       "genre": null,
       "sold_out": false,
-      "scraped_at": "2026-08-21T05:33:02.716382"
+      "scraped_at": "2026-08-22T05:27:28.481739"
     },
     {
       "id": "ea8995bca48beb94",
@@ -1365,7 +1381,7 @@
       "stage": null,
       "genre": "Konsert",
       "sold_out": false,
-      "scraped_at": "2026-08-21T05:33:09.359669"
+      "scraped_at": "2026-08-22T05:27:35.603348"
     },
     {
       "id": "febb4ef66b5b5156",
@@ -1381,7 +1397,7 @@
       "stage": null,
       "genre": null,
       "sold_out": false,
-      "scraped_at": "2026-08-21T05:33:02.716432"
+      "scraped_at": "2026-08-22T05:27:28.481817"
     },
     {
       "id": "8d0e9d3e062127d3",
@@ -1397,7 +1413,7 @@
       "stage": "Hovudscenen",
       "genre": null,
       "sold_out": false,
-      "scraped_at": "2026-08-21T05:31:52.403562"
+      "scraped_at": "2026-08-22T05:26:14.174328"
     },
     {
       "id": "181848ceb2467585",
@@ -1413,7 +1429,7 @@
       "stage": "Hovedscenen",
       "genre": "Sesongforestilling",
       "sold_out": false,
-      "scraped_at": "2026-08-21T05:32:53.741032"
+      "scraped_at": "2026-08-22T05:27:17.868383"
     },
     {
       "id": "cd8be6371fe921f7",
@@ -1429,7 +1445,7 @@
       "stage": "Hovedscenen",
       "genre": null,
       "sold_out": false,
-      "scraped_at": "2026-08-21T05:30:38.032830"
+      "scraped_at": "2026-08-22T05:25:14.172661"
     },
     {
       "id": "c1181a331cf5f8f8",
@@ -1445,7 +1461,7 @@
       "stage": "Hovudscenen",
       "genre": null,
       "sold_out": false,
-      "scraped_at": "2026-08-21T05:31:49.701243"
+      "scraped_at": "2026-08-22T05:26:11.105156"
     },
     {
       "id": "d6662cf94356e0e8",
@@ -1461,7 +1477,7 @@
       "stage": null,
       "genre": null,
       "sold_out": false,
-      "scraped_at": "2026-08-21T05:33:02.716480"
+      "scraped_at": "2026-08-22T05:27:28.481880"
     },
     {
       "id": "b8ef59b3b95f252c",
@@ -1477,7 +1493,7 @@
       "stage": null,
       "genre": "Musikal ,  Scenekvelder",
       "sold_out": false,
-      "scraped_at": "2026-08-21T05:33:08.808144"
+      "scraped_at": "2026-08-22T05:27:35.096051"
     },
     {
       "id": "978b8ef9cec95b9c",
@@ -1493,7 +1509,7 @@
       "stage": "Amfiscenen",
       "genre": null,
       "sold_out": false,
-      "scraped_at": "2026-08-21T05:31:00.416162"
+      "scraped_at": "2026-08-22T05:25:31.641834"
     },
     {
       "id": "e3da9cbcf107cc4a",
@@ -1509,7 +1525,7 @@
       "stage": "Hovudscenen",
       "genre": null,
       "sold_out": false,
-      "scraped_at": "2026-08-21T05:31:47.559400"
+      "scraped_at": "2026-08-22T05:26:10.594585"
     },
     {
       "id": "02da9c2378de21de",
@@ -1525,7 +1541,7 @@
       "stage": "Scene 2",
       "genre": null,
       "sold_out": false,
-      "scraped_at": "2026-08-21T05:31:57.746195"
+      "scraped_at": "2026-08-22T05:26:20.604170"
     },
     {
       "id": "8ee184e4d6ab9ab4",
@@ -1541,7 +1557,7 @@
       "stage": null,
       "genre": "Musikal ,  Scenekvelder",
       "sold_out": false,
-      "scraped_at": "2026-08-21T05:33:08.808167"
+      "scraped_at": "2026-08-22T05:27:35.096079"
     },
     {
       "id": "ee9d69c5584c5a53",
@@ -1557,7 +1573,7 @@
       "stage": null,
       "genre": "Musikal ,  Scenekvelder",
       "sold_out": false,
-      "scraped_at": "2026-08-21T05:33:08.808194"
+      "scraped_at": "2026-08-22T05:27:35.096114"
     },
     {
       "id": "f46cd6fa32ec6056",
@@ -1573,7 +1589,7 @@
       "stage": "Store scene\n    \n      (Black Box teater)",
       "genre": null,
       "sold_out": false,
-      "scraped_at": "2026-08-21T05:32:17.200133"
+      "scraped_at": "2026-08-22T05:26:40.970975"
     },
     {
       "id": "a0903f5a1709c9d3",
@@ -1589,7 +1605,7 @@
       "stage": "Torshovteatret",
       "genre": null,
       "sold_out": false,
-      "scraped_at": "2026-08-21T05:30:50.471188"
+      "scraped_at": "2026-08-22T05:25:22.689262"
     },
     {
       "id": "5b9925aa1e565de7",
@@ -1605,7 +1621,7 @@
       "stage": "Hovudscenen",
       "genre": null,
       "sold_out": false,
-      "scraped_at": "2026-08-21T05:31:52.403580"
+      "scraped_at": "2026-08-22T05:26:14.174351"
     },
     {
       "id": "5ce398c38d6f34ab",
@@ -1621,7 +1637,7 @@
       "stage": "Scene 2",
       "genre": null,
       "sold_out": false,
-      "scraped_at": "2026-08-21T05:31:57.746214"
+      "scraped_at": "2026-08-22T05:26:20.604194"
     },
     {
       "id": "f5c2b569b110385e",
@@ -1637,7 +1653,7 @@
       "stage": null,
       "genre": "Musikal ,  Scenekvelder",
       "sold_out": false,
-      "scraped_at": "2026-08-21T05:33:08.808218"
+      "scraped_at": "2026-08-22T05:27:35.096145"
     },
     {
       "id": "98c789e9489c8f3a",
@@ -1653,7 +1669,7 @@
       "stage": null,
       "genre": "Musikal ,  Scenekvelder",
       "sold_out": false,
-      "scraped_at": "2026-08-21T05:33:08.808241"
+      "scraped_at": "2026-08-22T05:27:35.096174"
     },
     {
       "id": "a6b34374494dfe23",
@@ -1669,7 +1685,7 @@
       "stage": "Hovudscenen",
       "genre": null,
       "sold_out": false,
-      "scraped_at": "2026-08-21T05:31:49.701251"
+      "scraped_at": "2026-08-22T05:26:11.105167"
     },
     {
       "id": "1aa772141c7e8d3e",
@@ -1685,7 +1701,7 @@
       "stage": null,
       "genre": null,
       "sold_out": false,
-      "scraped_at": "2026-08-21T05:33:02.716529"
+      "scraped_at": "2026-08-22T05:27:28.481944"
     },
     {
       "id": "ba514081d07560cb",
@@ -1701,7 +1717,7 @@
       "stage": "Bikuben",
       "genre": null,
       "sold_out": false,
-      "scraped_at": "2026-08-21T05:32:06.402132"
+      "scraped_at": "2026-08-22T05:26:29.056487"
     },
     {
       "id": "a70d330e4b70a706",
@@ -1717,7 +1733,7 @@
       "stage": "Riksteatret",
       "genre": null,
       "sold_out": false,
-      "scraped_at": "2026-08-21T05:32:52.460921"
+      "scraped_at": "2026-08-22T05:27:16.576340"
     },
     {
       "id": "784c9d74830ba733",
@@ -1733,7 +1749,7 @@
       "stage": "Hovudscenen",
       "genre": null,
       "sold_out": false,
-      "scraped_at": "2026-08-21T05:31:52.403590"
+      "scraped_at": "2026-08-22T05:26:14.174363"
     },
     {
       "id": "ea7d18b0e69485e9",
@@ -1749,7 +1765,7 @@
       "stage": null,
       "genre": "Konsert",
       "sold_out": true,
-      "scraped_at": "2026-08-21T05:33:09.902625"
+      "scraped_at": "2026-08-22T05:27:36.121823"
     },
     {
       "id": "95a802066f3ab735",
@@ -1765,7 +1781,7 @@
       "stage": "Scene 2",
       "genre": null,
       "sold_out": false,
-      "scraped_at": "2026-08-21T05:31:57.746224"
+      "scraped_at": "2026-08-22T05:26:20.604207"
     },
     {
       "id": "ee12bf79c3bde7be",
@@ -1781,7 +1797,7 @@
       "stage": "Riksteatret",
       "genre": null,
       "sold_out": false,
-      "scraped_at": "2026-08-21T05:32:52.461183"
+      "scraped_at": "2026-08-22T05:27:16.576665"
     },
     {
       "id": "16794d7a54a75e40",
@@ -1797,7 +1813,7 @@
       "stage": "Scene 2",
       "genre": null,
       "sold_out": false,
-      "scraped_at": "2026-08-21T05:31:59.985982"
+      "scraped_at": "2026-08-22T05:26:21.363319"
     },
     {
       "id": "42c7f76d92f99045",
@@ -1813,7 +1829,7 @@
       "stage": "Hovudscenen",
       "genre": null,
       "sold_out": false,
-      "scraped_at": "2026-08-21T05:31:49.701258"
+      "scraped_at": "2026-08-22T05:26:11.105177"
     },
     {
       "id": "e6d7a3a532be2808",
@@ -1829,7 +1845,7 @@
       "stage": null,
       "genre": "Musikal ,  Scenekvelder",
       "sold_out": false,
-      "scraped_at": "2026-08-21T05:33:08.808263"
+      "scraped_at": "2026-08-22T05:27:35.096203"
     },
     {
       "id": "d7f8af4e04f47f13",
@@ -1845,7 +1861,7 @@
       "stage": "Bikuben",
       "genre": null,
       "sold_out": false,
-      "scraped_at": "2026-08-21T05:32:06.402149"
+      "scraped_at": "2026-08-22T05:26:29.056510"
     },
     {
       "id": "da30bb203b4cabfc",
@@ -1861,7 +1877,7 @@
       "stage": "Riksteatret",
       "genre": null,
       "sold_out": false,
-      "scraped_at": "2026-08-21T05:32:52.461422"
+      "scraped_at": "2026-08-22T05:27:16.576989"
     },
     {
       "id": "0f5a7709f37d1c98",
@@ -1877,7 +1893,7 @@
       "stage": "Scene 2",
       "genre": null,
       "sold_out": false,
-      "scraped_at": "2026-08-21T05:31:57.746232"
+      "scraped_at": "2026-08-22T05:26:20.604224"
     },
     {
       "id": "ed1bd4e7ce9a95dd",
@@ -1893,7 +1909,7 @@
       "stage": null,
       "genre": "Musikal ,  Scenekvelder",
       "sold_out": false,
-      "scraped_at": "2026-08-21T05:33:08.808286"
+      "scraped_at": "2026-08-22T05:27:35.096232"
     },
     {
       "id": "baafd4b410ddd82f",
@@ -1909,7 +1925,7 @@
       "stage": "Amfiscenen",
       "genre": null,
       "sold_out": false,
-      "scraped_at": "2026-08-21T05:30:55.218694"
+      "scraped_at": "2026-08-22T05:25:26.958438"
     },
     {
       "id": "2d06396776e7285c",
@@ -1925,7 +1941,7 @@
       "stage": null,
       "genre": "Musikal ,  Scenekvelder",
       "sold_out": false,
-      "scraped_at": "2026-08-21T05:33:08.808307"
+      "scraped_at": "2026-08-22T05:27:35.096261"
     },
     {
       "id": "faefddf90c85dd2f",
@@ -1941,7 +1957,7 @@
       "stage": "Hovudscenen",
       "genre": null,
       "sold_out": false,
-      "scraped_at": "2026-08-21T05:31:49.701267"
+      "scraped_at": "2026-08-22T05:26:11.105189"
     },
     {
       "id": "ff05cfd8572c208e",
@@ -1957,7 +1973,7 @@
       "stage": "Scene 2",
       "genre": null,
       "sold_out": false,
-      "scraped_at": "2026-08-21T05:31:57.746240"
+      "scraped_at": "2026-08-22T05:26:20.604235"
     },
     {
       "id": "4cef932140924221",
@@ -1973,7 +1989,7 @@
       "stage": "Store scene\n    \n      (Black Box teater)",
       "genre": null,
       "sold_out": false,
-      "scraped_at": "2026-08-21T05:32:17.200299"
+      "scraped_at": "2026-08-22T05:26:40.971184"
     },
     {
       "id": "856d6a5e0d1965c3",
@@ -1989,7 +2005,7 @@
       "stage": null,
       "genre": "Musikal ,  Scenekvelder",
       "sold_out": false,
-      "scraped_at": "2026-08-21T05:33:08.808329"
+      "scraped_at": "2026-08-22T05:27:35.096288"
     },
     {
       "id": "07c66a73e510f5b1",
@@ -2005,7 +2021,7 @@
       "stage": "Scene 2",
       "genre": null,
       "sold_out": false,
-      "scraped_at": "2026-08-21T05:31:59.985990"
+      "scraped_at": "2026-08-22T05:26:21.363330"
     },
     {
       "id": "bde56e8dbd838238",
@@ -2021,7 +2037,7 @@
       "stage": "Hovudscenen",
       "genre": null,
       "sold_out": false,
-      "scraped_at": "2026-08-21T05:31:47.559410"
+      "scraped_at": "2026-08-22T05:26:10.594598"
     },
     {
       "id": "d7a6b6c3b878a211",
@@ -2037,7 +2053,7 @@
       "stage": "Store scene\n    \n      (Black Box teater)",
       "genre": null,
       "sold_out": false,
-      "scraped_at": "2026-08-21T05:32:17.200448"
+      "scraped_at": "2026-08-22T05:26:40.971400"
     },
     {
       "id": "3cfd8ea1b76cc165",
@@ -2053,7 +2069,7 @@
       "stage": null,
       "genre": "Musikal ,  Scenekvelder",
       "sold_out": false,
-      "scraped_at": "2026-08-21T05:33:08.808351"
+      "scraped_at": "2026-08-22T05:27:35.096317"
     },
     {
       "id": "f05712d93b4e2492",
@@ -2069,7 +2085,7 @@
       "stage": "Hovudscenen",
       "genre": null,
       "sold_out": false,
-      "scraped_at": "2026-08-21T05:31:52.403598"
+      "scraped_at": "2026-08-22T05:26:14.174374"
     },
     {
       "id": "d1562ea2aab1530a",
@@ -2085,7 +2101,7 @@
       "stage": null,
       "genre": null,
       "sold_out": false,
-      "scraped_at": "2026-08-21T05:33:02.716578"
+      "scraped_at": "2026-08-22T05:27:28.482012"
     },
     {
       "id": "5f7a60493e269380",
@@ -2101,7 +2117,7 @@
       "stage": "Bikuben",
       "genre": null,
       "sold_out": false,
-      "scraped_at": "2026-08-21T05:32:06.402158"
+      "scraped_at": "2026-08-22T05:26:29.056523"
     },
     {
       "id": "79b34205477c03a0",
@@ -2117,7 +2133,7 @@
       "stage": "Hovedscenen",
       "genre": null,
       "sold_out": false,
-      "scraped_at": "2026-08-21T05:30:44.999657"
+      "scraped_at": "2026-08-22T05:25:19.086639"
     },
     {
       "id": "3c62e5c588e14fbe",
@@ -2133,7 +2149,7 @@
       "stage": "Hovudscenen",
       "genre": null,
       "sold_out": false,
-      "scraped_at": "2026-08-21T05:31:52.403608"
+      "scraped_at": "2026-08-22T05:26:14.174383"
     },
     {
       "id": "c06395b15009721f",
@@ -2149,7 +2165,7 @@
       "stage": "Scene 2",
       "genre": null,
       "sold_out": false,
-      "scraped_at": "2026-08-21T05:31:57.746249"
+      "scraped_at": "2026-08-22T05:26:20.604246"
     },
     {
       "id": "7a26951137e1e3ba",
@@ -2165,7 +2181,7 @@
       "stage": "Hovudscenen",
       "genre": null,
       "sold_out": false,
-      "scraped_at": "2026-08-21T05:31:49.701275"
+      "scraped_at": "2026-08-22T05:26:11.105199"
     },
     {
       "id": "e014063bd1e3d077",
@@ -2181,7 +2197,7 @@
       "stage": "Scene 2",
       "genre": null,
       "sold_out": false,
-      "scraped_at": "2026-08-21T05:31:57.970426"
+      "scraped_at": "2026-08-22T05:26:20.861440"
     },
     {
       "id": "f38f088f0b5cf617",
@@ -2197,7 +2213,7 @@
       "stage": null,
       "genre": "Annet",
       "sold_out": false,
-      "scraped_at": "2026-08-21T05:33:10.441238"
+      "scraped_at": "2026-08-22T05:27:36.620765"
     },
     {
       "id": "69716631f0967105",
@@ -2213,7 +2229,7 @@
       "stage": "Scene 3",
       "genre": null,
       "sold_out": false,
-      "scraped_at": "2026-08-21T05:32:05.607041"
+      "scraped_at": "2026-08-22T05:26:25.653001"
     },
     {
       "id": "70b66095348222bf",
@@ -2229,7 +2245,7 @@
       "stage": "Scene 2",
       "genre": null,
       "sold_out": false,
-      "scraped_at": "2026-08-21T05:31:59.985998"
+      "scraped_at": "2026-08-22T05:26:21.363340"
     },
     {
       "id": "61d9d146f4052364",
@@ -2245,7 +2261,7 @@
       "stage": "Hovudscenen",
       "genre": null,
       "sold_out": false,
-      "scraped_at": "2026-08-21T05:31:47.559419"
+      "scraped_at": "2026-08-22T05:26:10.594610"
     },
     {
       "id": "be30d5e1e4922fce",
@@ -2261,7 +2277,7 @@
       "stage": null,
       "genre": null,
       "sold_out": false,
-      "scraped_at": "2026-08-21T05:33:02.716626"
+      "scraped_at": "2026-08-22T05:27:28.482076"
     },
     {
       "id": "30861fcf07e337a6",
@@ -2277,7 +2293,7 @@
       "stage": null,
       "genre": "Musikal ,  Scenekvelder",
       "sold_out": false,
-      "scraped_at": "2026-08-21T05:33:08.808373"
+      "scraped_at": "2026-08-22T05:27:35.096346"
     },
     {
       "id": "ddd32040a3e1910c",
@@ -2293,7 +2309,7 @@
       "stage": "Scene 3",
       "genre": null,
       "sold_out": false,
-      "scraped_at": "2026-08-21T05:32:05.607059"
+      "scraped_at": "2026-08-22T05:26:25.653025"
     },
     {
       "id": "eb410af86367da50",
@@ -2309,7 +2325,7 @@
       "stage": "Hovudscenen",
       "genre": null,
       "sold_out": false,
-      "scraped_at": "2026-08-21T05:31:47.559430"
+      "scraped_at": "2026-08-22T05:26:10.594625"
     },
     {
       "id": "679a308d600ebe27",
@@ -2325,7 +2341,7 @@
       "stage": "Store scene\n    \n      (Black Box teater)",
       "genre": null,
       "sold_out": false,
-      "scraped_at": "2026-08-21T05:32:17.200597"
+      "scraped_at": "2026-08-22T05:26:40.971601"
     },
     {
       "id": "aa003a0efd384b3a",
@@ -2341,7 +2357,7 @@
       "stage": "Scene 2",
       "genre": null,
       "sold_out": false,
-      "scraped_at": "2026-08-21T05:31:57.746257"
+      "scraped_at": "2026-08-22T05:26:20.604256"
     },
     {
       "id": "d43186a630c1b88b",
@@ -2357,7 +2373,7 @@
       "stage": null,
       "genre": "Musikal ,  Scenekvelder",
       "sold_out": false,
-      "scraped_at": "2026-08-21T05:33:08.808394"
+      "scraped_at": "2026-08-22T05:27:35.096374"
     },
     {
       "id": "32103daf7044d51e",
@@ -2373,7 +2389,7 @@
       "stage": null,
       "genre": "Musikal ,  Scenekvelder",
       "sold_out": false,
-      "scraped_at": "2026-08-21T05:33:08.808416"
+      "scraped_at": "2026-08-22T05:27:35.096403"
     },
     {
       "id": "02effdd9ac7b03b1",
@@ -2389,7 +2405,7 @@
       "stage": "Amfiscenen",
       "genre": null,
       "sold_out": false,
-      "scraped_at": "2026-08-21T05:31:06.261362"
+      "scraped_at": "2026-08-22T05:25:36.248952"
     },
     {
       "id": "aa5df2a23169440a",
@@ -2405,7 +2421,7 @@
       "stage": "Scene 3",
       "genre": null,
       "sold_out": false,
-      "scraped_at": "2026-08-21T05:32:05.607068"
+      "scraped_at": "2026-08-22T05:26:25.653037"
     },
     {
       "id": "e7611a795d007783",
@@ -2421,7 +2437,7 @@
       "stage": "Scene 2",
       "genre": null,
       "sold_out": false,
-      "scraped_at": "2026-08-21T05:32:00.712729"
+      "scraped_at": "2026-08-22T05:26:22.165039"
     },
     {
       "id": "4ca7804dee78f1b1",
@@ -2437,7 +2453,7 @@
       "stage": "Hovudscenen",
       "genre": null,
       "sold_out": false,
-      "scraped_at": "2026-08-21T05:31:49.701287"
+      "scraped_at": "2026-08-22T05:26:11.105209"
     },
     {
       "id": "e2bee2b6afeca32a",
@@ -2453,7 +2469,7 @@
       "stage": "Store scene\n    \n      (Black Box teater)",
       "genre": null,
       "sold_out": false,
-      "scraped_at": "2026-08-21T05:32:17.200741"
+      "scraped_at": "2026-08-22T05:26:40.971811"
     },
     {
       "id": "508f3b2fff1a8474",
@@ -2469,7 +2485,7 @@
       "stage": null,
       "genre": "Musikal ,  Scenekvelder",
       "sold_out": false,
-      "scraped_at": "2026-08-21T05:33:08.808439"
+      "scraped_at": "2026-08-22T05:27:35.096434"
     },
     {
       "id": "ff88bcf9156214c4",
@@ -2485,7 +2501,7 @@
       "stage": "Hovedscenen",
       "genre": null,
       "sold_out": false,
-      "scraped_at": "2026-08-21T05:31:02.299582"
+      "scraped_at": "2026-08-22T05:25:33.217275"
     },
     {
       "id": "c2532524fc36d9f2",
@@ -2501,7 +2517,7 @@
       "stage": null,
       "genre": "Musikal ,  Scenekvelder",
       "sold_out": false,
-      "scraped_at": "2026-08-21T05:33:08.808461"
+      "scraped_at": "2026-08-22T05:27:35.096462"
     },
     {
       "id": "dfcf6b2e10cbe9ab",
@@ -2517,7 +2533,7 @@
       "stage": "Hovudscenen",
       "genre": null,
       "sold_out": false,
-      "scraped_at": "2026-08-21T05:31:49.701295"
+      "scraped_at": "2026-08-22T05:26:11.105220"
     },
     {
       "id": "113fb2637d942af1",
@@ -2533,7 +2549,7 @@
       "stage": "Store scene\n    \n      (Black Box teater)",
       "genre": null,
       "sold_out": false,
-      "scraped_at": "2026-08-21T05:32:17.200894"
+      "scraped_at": "2026-08-22T05:26:40.972004"
     },
     {
       "id": "71d8c1763df5c502",
@@ -2549,7 +2565,7 @@
       "stage": null,
       "genre": null,
       "sold_out": false,
-      "scraped_at": "2026-08-21T05:33:02.716680"
+      "scraped_at": "2026-08-22T05:27:28.482143"
     },
     {
       "id": "bbd951d2ba26f784",
@@ -2565,7 +2581,7 @@
       "stage": "Bikuben",
       "genre": null,
       "sold_out": false,
-      "scraped_at": "2026-08-21T05:32:06.402166"
+      "scraped_at": "2026-08-22T05:26:29.056533"
     },
     {
       "id": "ef01e07910fd2fd6",
@@ -2581,7 +2597,7 @@
       "stage": "Scene 3",
       "genre": null,
       "sold_out": false,
-      "scraped_at": "2026-08-21T05:32:05.607076"
+      "scraped_at": "2026-08-22T05:26:25.653048"
     },
     {
       "id": "7ef05c477ee19e77",
@@ -2597,7 +2613,7 @@
       "stage": "Hovudscenen",
       "genre": null,
       "sold_out": false,
-      "scraped_at": "2026-08-21T05:31:47.559438"
+      "scraped_at": "2026-08-22T05:26:10.594636"
     },
     {
       "id": "d19cc6ceba7f92c8",
@@ -2613,7 +2629,7 @@
       "stage": "Scene 2",
       "genre": null,
       "sold_out": false,
-      "scraped_at": "2026-08-21T05:31:57.746265"
+      "scraped_at": "2026-08-22T05:26:20.604266"
     },
     {
       "id": "eaf7f1c88fcad365",
@@ -2629,7 +2645,7 @@
       "stage": "Scene 3",
       "genre": null,
       "sold_out": false,
-      "scraped_at": "2026-08-21T05:32:05.607083"
+      "scraped_at": "2026-08-22T05:26:25.653058"
     },
     {
       "id": "30865061610a52b6",
@@ -2645,7 +2661,7 @@
       "stage": "Hovudscenen",
       "genre": null,
       "sold_out": false,
-      "scraped_at": "2026-08-21T05:31:52.403616"
+      "scraped_at": "2026-08-22T05:26:14.174393"
     },
     {
       "id": "5c4f610bf2d29f42",
@@ -2661,7 +2677,7 @@
       "stage": null,
       "genre": null,
       "sold_out": false,
-      "scraped_at": "2026-08-21T05:33:02.716735"
+      "scraped_at": "2026-08-22T05:27:28.482208"
     },
     {
       "id": "8198eba4fdedf5ed",
@@ -2677,7 +2693,7 @@
       "stage": null,
       "genre": null,
       "sold_out": false,
-      "scraped_at": "2026-08-21T05:33:02.716784"
+      "scraped_at": "2026-08-22T05:27:28.482267"
     },
     {
       "id": "25d5ed34309fd876",
@@ -2693,7 +2709,7 @@
       "stage": "Scene 2",
       "genre": null,
       "sold_out": false,
-      "scraped_at": "2026-08-21T05:31:57.746284"
+      "scraped_at": "2026-08-22T05:26:20.604276"
     },
     {
       "id": "e38d5884b89fa81c",
@@ -2709,7 +2725,7 @@
       "stage": "Bikuben",
       "genre": null,
       "sold_out": false,
-      "scraped_at": "2026-08-21T05:32:06.402174"
+      "scraped_at": "2026-08-22T05:26:29.056543"
     },
     {
       "id": "50d8e4ecabc4e29b",
@@ -2725,7 +2741,7 @@
       "stage": "Amfiscenen",
       "genre": null,
       "sold_out": false,
-      "scraped_at": "2026-08-21T05:31:04.201161"
+      "scraped_at": "2026-08-22T05:25:34.748188"
     },
     {
       "id": "9fb6e9f708176567",
@@ -2741,7 +2757,7 @@
       "stage": "Lille scene\n    \n      (Black Box teater)",
       "genre": null,
       "sold_out": false,
-      "scraped_at": "2026-08-21T05:32:17.201047"
+      "scraped_at": "2026-08-22T05:26:40.972195"
     },
     {
       "id": "a47db889594c9636",
@@ -2757,7 +2773,7 @@
       "stage": null,
       "genre": null,
       "sold_out": false,
-      "scraped_at": "2026-08-21T05:33:02.716859"
+      "scraped_at": "2026-08-22T05:27:28.482348"
     },
     {
       "id": "de37188fce8dd784",
@@ -2773,7 +2789,7 @@
       "stage": "Hovudscenen",
       "genre": null,
       "sold_out": false,
-      "scraped_at": "2026-08-21T05:31:52.403624"
+      "scraped_at": "2026-08-22T05:26:14.174404"
     },
     {
       "id": "a40c0de3f9e351a6",
@@ -2789,7 +2805,7 @@
       "stage": "Scene 2",
       "genre": null,
       "sold_out": false,
-      "scraped_at": "2026-08-21T05:31:57.746293"
+      "scraped_at": "2026-08-22T05:26:20.604287"
     },
     {
       "id": "dded67432ba4fdb5",
@@ -2805,7 +2821,7 @@
       "stage": null,
       "genre": "Musikal ,  Scenekvelder",
       "sold_out": false,
-      "scraped_at": "2026-08-21T05:33:08.808483"
+      "scraped_at": "2026-08-22T05:27:35.096491"
     },
     {
       "id": "fd8e9f085e602221",
@@ -2821,7 +2837,7 @@
       "stage": "Scene 3",
       "genre": null,
       "sold_out": false,
-      "scraped_at": "2026-08-21T05:32:05.607091"
+      "scraped_at": "2026-08-22T05:26:25.653069"
     },
     {
       "id": "5b9692fdf728b984",
@@ -2837,7 +2853,7 @@
       "stage": "Hovudscenen",
       "genre": null,
       "sold_out": false,
-      "scraped_at": "2026-08-21T05:31:47.559452"
+      "scraped_at": "2026-08-22T05:26:10.594653"
     },
     {
       "id": "6d848178fddb72cb",
@@ -2853,7 +2869,7 @@
       "stage": "Lille scene\n    \n      (Black Box teater)",
       "genre": null,
       "sold_out": false,
-      "scraped_at": "2026-08-21T05:32:17.201188"
+      "scraped_at": "2026-08-22T05:26:40.972384"
     },
     {
       "id": "898f37344bdbc214",
@@ -2869,7 +2885,7 @@
       "stage": "Scene 2",
       "genre": null,
       "sold_out": false,
-      "scraped_at": "2026-08-21T05:31:57.970434"
+      "scraped_at": "2026-08-22T05:26:20.861451"
     },
     {
       "id": "111ae7ffd54d113c",
@@ -2885,7 +2901,7 @@
       "stage": null,
       "genre": "Musikal ,  Scenekvelder",
       "sold_out": false,
-      "scraped_at": "2026-08-21T05:33:08.808506"
+      "scraped_at": "2026-08-22T05:27:35.096520"
     },
     {
       "id": "01cb28666936cd5d",
@@ -2901,7 +2917,7 @@
       "stage": null,
       "genre": "Musikal ,  Scenekvelder",
       "sold_out": false,
-      "scraped_at": "2026-08-21T05:33:08.808528"
+      "scraped_at": "2026-08-22T05:27:35.096547"
     },
     {
       "id": "ecf48455290f921b",
@@ -2917,7 +2933,7 @@
       "stage": "Hovudscenen",
       "genre": null,
       "sold_out": false,
-      "scraped_at": "2026-08-21T05:31:52.403631"
+      "scraped_at": "2026-08-22T05:26:14.174414"
     },
     {
       "id": "7f816897ba552e57",
@@ -2933,7 +2949,7 @@
       "stage": "Scene 2",
       "genre": null,
       "sold_out": false,
-      "scraped_at": "2026-08-21T05:32:00.712738"
+      "scraped_at": "2026-08-22T05:26:22.165050"
     },
     {
       "id": "f1a0279abf6ac120",
@@ -2949,7 +2965,7 @@
       "stage": "Lille scene\n    \n      (Black Box teater)",
       "genre": null,
       "sold_out": false,
-      "scraped_at": "2026-08-21T05:32:17.201338"
+      "scraped_at": "2026-08-22T05:26:40.972572"
     },
     {
       "id": "b30ed74af597815a",
@@ -2965,7 +2981,7 @@
       "stage": null,
       "genre": "Musikal ,  Scenekvelder",
       "sold_out": false,
-      "scraped_at": "2026-08-21T05:33:08.808549"
+      "scraped_at": "2026-08-22T05:27:35.096576"
     },
     {
       "id": "0fe405e3aa699b32",
@@ -2981,7 +2997,7 @@
       "stage": null,
       "genre": "Musikal ,  Scenekvelder",
       "sold_out": false,
-      "scraped_at": "2026-08-21T05:33:08.808570"
+      "scraped_at": "2026-08-22T05:27:35.096603"
     },
     {
       "id": "8c924643da7b58ec",
@@ -2997,7 +3013,7 @@
       "stage": "Hovudscenen",
       "genre": null,
       "sold_out": false,
-      "scraped_at": "2026-08-21T05:31:47.559461"
+      "scraped_at": "2026-08-22T05:26:10.594665"
     },
     {
       "id": "fa57cad3b45d7dc5",
@@ -3013,7 +3029,7 @@
       "stage": "Lille scene\n    \n      (Black Box teater)",
       "genre": null,
       "sold_out": false,
-      "scraped_at": "2026-08-21T05:32:17.201488"
+      "scraped_at": "2026-08-22T05:26:40.972756"
     },
     {
       "id": "e800f86f8a2d9a0d",
@@ -3029,7 +3045,7 @@
       "stage": null,
       "genre": null,
       "sold_out": false,
-      "scraped_at": "2026-08-21T05:33:02.716915"
+      "scraped_at": "2026-08-22T05:27:28.482415"
     },
     {
       "id": "6335d44b5c90bd10",
@@ -3045,7 +3061,7 @@
       "stage": null,
       "genre": "Standup",
       "sold_out": false,
-      "scraped_at": "2026-08-21T05:33:11.523241"
+      "scraped_at": "2026-08-22T05:27:37.659287"
     },
     {
       "id": "65b6aa213f8d3fc2",
@@ -3061,7 +3077,23 @@
       "stage": "Black Box teater Foajé\n    \n      (Black Box teater)",
       "genre": null,
       "sold_out": false,
-      "scraped_at": "2026-08-21T05:32:17.201643"
+      "scraped_at": "2026-08-22T05:26:40.972973"
+    },
+    {
+      "id": "5342fa9070fde51e",
+      "title": "Frankenstein",
+      "venue": "Det Norske Teatret",
+      "venue_slug": "det-norske-teatret",
+      "start": "2026-10-06T11:00:00",
+      "end": "2026-10-06T12:30:00",
+      "description": "Velkommen til ein skrekkeleg teatergrøssar for barn! Passar for modige barn og skvetne vaksne frå 10 år. Kjøp billettar her!",
+      "image_url": "https://s3.eu-north-1.amazonaws.com/detnorsketeatret/media/_1200x630_crop_center-center_82_none/EirikMalmo_DNT_Frankenstein_MAA9293_01.jpg?mtime=1775743740",
+      "ticket_url": "https://www.detnorsketeatret.no/framsyningar/frankenstein",
+      "detail_url": "https://www.detnorsketeatret.no/framsyningar/frankenstein",
+      "stage": "Scene 3",
+      "genre": null,
+      "sold_out": false,
+      "scraped_at": "2026-08-22T05:26:25.653079"
     },
     {
       "id": "8bd58ca2011c847b",
@@ -3077,7 +3109,7 @@
       "stage": "Bikuben",
       "genre": null,
       "sold_out": false,
-      "scraped_at": "2026-08-21T05:32:06.402182"
+      "scraped_at": "2026-08-22T05:26:29.056554"
     },
     {
       "id": "0260c25c44ad16e2",
@@ -3093,7 +3125,7 @@
       "stage": "Scene 3",
       "genre": null,
       "sold_out": false,
-      "scraped_at": "2026-08-21T05:32:05.607099"
+      "scraped_at": "2026-08-22T05:26:25.653089"
     },
     {
       "id": "943d25fde53a0566",
@@ -3109,7 +3141,7 @@
       "stage": "Riksteatret",
       "genre": null,
       "sold_out": false,
-      "scraped_at": "2026-08-21T05:32:51.914845"
+      "scraped_at": "2026-08-22T05:27:15.895868"
     },
     {
       "id": "107451366a264fb9",
@@ -3125,7 +3157,23 @@
       "stage": "Hovudscenen",
       "genre": null,
       "sold_out": false,
-      "scraped_at": "2026-08-21T05:31:47.559472"
+      "scraped_at": "2026-08-22T05:26:10.594677"
+    },
+    {
+      "id": "2363871b172bb949",
+      "title": "Frankenstein",
+      "venue": "Det Norske Teatret",
+      "venue_slug": "det-norske-teatret",
+      "start": "2026-10-07T11:00:00",
+      "end": "2026-10-07T12:30:00",
+      "description": "Velkommen til ein skrekkeleg teatergrøssar for barn! Passar for modige barn og skvetne vaksne frå 10 år. Kjøp billettar her!",
+      "image_url": "https://s3.eu-north-1.amazonaws.com/detnorsketeatret/media/_1200x630_crop_center-center_82_none/EirikMalmo_DNT_Frankenstein_MAA9293_01.jpg?mtime=1775743740",
+      "ticket_url": "https://www.detnorsketeatret.no/framsyningar/frankenstein",
+      "detail_url": "https://www.detnorsketeatret.no/framsyningar/frankenstein",
+      "stage": "Scene 3",
+      "genre": null,
+      "sold_out": false,
+      "scraped_at": "2026-08-22T05:26:25.653098"
     },
     {
       "id": "91e127375ae7b202",
@@ -3141,7 +3189,7 @@
       "stage": "Riksteatret",
       "genre": null,
       "sold_out": false,
-      "scraped_at": "2026-08-21T05:32:51.915129"
+      "scraped_at": "2026-08-22T05:27:15.896227"
     },
     {
       "id": "99a02bccb8d85a63",
@@ -3157,7 +3205,7 @@
       "stage": "Hovudscenen",
       "genre": null,
       "sold_out": false,
-      "scraped_at": "2026-08-21T05:31:47.559480"
+      "scraped_at": "2026-08-22T05:26:10.594687"
     },
     {
       "id": "fd572bdc92e868bf",
@@ -3173,7 +3221,23 @@
       "stage": null,
       "genre": "Musikal ,  Scenekvelder",
       "sold_out": false,
-      "scraped_at": "2026-08-21T05:33:08.808593"
+      "scraped_at": "2026-08-22T05:27:35.096632"
+    },
+    {
+      "id": "4ff54a2c7f4ad56d",
+      "title": "Frankenstein",
+      "venue": "Det Norske Teatret",
+      "venue_slug": "det-norske-teatret",
+      "start": "2026-10-08T11:00:00",
+      "end": "2026-10-08T12:30:00",
+      "description": "Velkommen til ein skrekkeleg teatergrøssar for barn! Passar for modige barn og skvetne vaksne frå 10 år. Kjøp billettar her!",
+      "image_url": "https://s3.eu-north-1.amazonaws.com/detnorsketeatret/media/_1200x630_crop_center-center_82_none/EirikMalmo_DNT_Frankenstein_MAA9293_01.jpg?mtime=1775743740",
+      "ticket_url": "https://www.detnorsketeatret.no/framsyningar/frankenstein",
+      "detail_url": "https://www.detnorsketeatret.no/framsyningar/frankenstein",
+      "stage": "Scene 3",
+      "genre": null,
+      "sold_out": false,
+      "scraped_at": "2026-08-22T05:26:25.653108"
     },
     {
       "id": "be55c598d26008c5",
@@ -3189,7 +3253,7 @@
       "stage": "Bikuben",
       "genre": null,
       "sold_out": false,
-      "scraped_at": "2026-08-21T05:32:06.402191"
+      "scraped_at": "2026-08-22T05:26:29.056564"
     },
     {
       "id": "72d16907c2d5433d",
@@ -3205,7 +3269,7 @@
       "stage": "Riksteatret",
       "genre": null,
       "sold_out": false,
-      "scraped_at": "2026-08-21T05:32:51.915370"
+      "scraped_at": "2026-08-22T05:27:15.896539"
     },
     {
       "id": "ecc9692c779ce3cb",
@@ -3221,7 +3285,7 @@
       "stage": "Hovudscenen",
       "genre": null,
       "sold_out": false,
-      "scraped_at": "2026-08-21T05:31:47.559487"
+      "scraped_at": "2026-08-22T05:26:10.594698"
     },
     {
       "id": "23b0d8db0f99bcf1",
@@ -3237,7 +3301,23 @@
       "stage": null,
       "genre": "Musikal ,  Scenekvelder",
       "sold_out": false,
-      "scraped_at": "2026-08-21T05:33:08.808615"
+      "scraped_at": "2026-08-22T05:27:35.096660"
+    },
+    {
+      "id": "03336245e3d1b0d4",
+      "title": "Frankenstein",
+      "venue": "Det Norske Teatret",
+      "venue_slug": "det-norske-teatret",
+      "start": "2026-10-09T11:00:00",
+      "end": "2026-10-09T12:30:00",
+      "description": "Velkommen til ein skrekkeleg teatergrøssar for barn! Passar for modige barn og skvetne vaksne frå 10 år. Kjøp billettar her!",
+      "image_url": "https://s3.eu-north-1.amazonaws.com/detnorsketeatret/media/_1200x630_crop_center-center_82_none/EirikMalmo_DNT_Frankenstein_MAA9293_01.jpg?mtime=1775743740",
+      "ticket_url": "https://www.detnorsketeatret.no/framsyningar/frankenstein",
+      "detail_url": "https://www.detnorsketeatret.no/framsyningar/frankenstein",
+      "stage": "Scene 3",
+      "genre": null,
+      "sold_out": false,
+      "scraped_at": "2026-08-22T05:26:25.653118"
     },
     {
       "id": "84629659f46c83dc",
@@ -3253,7 +3333,7 @@
       "stage": "Scene 3",
       "genre": null,
       "sold_out": false,
-      "scraped_at": "2026-08-21T05:32:05.607106"
+      "scraped_at": "2026-08-22T05:26:25.653127"
     },
     {
       "id": "f00b7eacd5215796",
@@ -3269,7 +3349,23 @@
       "stage": "Hovudscenen",
       "genre": null,
       "sold_out": false,
-      "scraped_at": "2026-08-21T05:31:47.559494"
+      "scraped_at": "2026-08-22T05:26:10.594710"
+    },
+    {
+      "id": "01de44a73bcc90ed",
+      "title": "SFÆRESONG - Barbershop på Cafeteatret / Nordic Black Theatre",
+      "venue": "Nordic Black Theatre",
+      "venue_slug": "nordic-black",
+      "start": "2026-10-09T19:00:00",
+      "end": null,
+      "description": null,
+      "image_url": "/_next/image?url=https%3A%2F%2Fcdn.sanity.io%2Fimages%2Fl794s5ct%2Fproduction%2F4eb26bc1f72c2ff77623a2a989e92a95db0fbc12-1440x810.jpg%3Frect%3D315%2C0%2C810%2C810%26w%3D1000%26h%3D1000%26q%3D92%26fit%3Dmax%26auto%3Dformat&w=3840&q=75",
+      "ticket_url": "https://nordicblacktheatre.no/program/sfresong-barbershop-p-cafeteatret-nordic-black-theatre-09-10-2026",
+      "detail_url": "https://nordicblacktheatre.no/program/sfresong-barbershop-p-cafeteatret-nordic-black-theatre-09-10-2026",
+      "stage": null,
+      "genre": null,
+      "sold_out": false,
+      "scraped_at": "2026-08-22T05:27:28.482484"
     },
     {
       "id": "093158cfcbedb16d",
@@ -3285,7 +3381,7 @@
       "stage": "Scene 2",
       "genre": null,
       "sold_out": false,
-      "scraped_at": "2026-08-21T05:31:59.735516"
+      "scraped_at": "2026-08-22T05:26:21.107251"
     },
     {
       "id": "e28944e18a95f16d",
@@ -3301,7 +3397,7 @@
       "stage": null,
       "genre": "Musikal ,  Scenekvelder",
       "sold_out": false,
-      "scraped_at": "2026-08-21T05:33:08.808636"
+      "scraped_at": "2026-08-22T05:27:35.096687"
     },
     {
       "id": "b9bc3774f258afd5",
@@ -3317,7 +3413,7 @@
       "stage": null,
       "genre": "Musikal ,  Scenekvelder",
       "sold_out": false,
-      "scraped_at": "2026-08-21T05:33:08.808657"
+      "scraped_at": "2026-08-22T05:27:35.096716"
     },
     {
       "id": "e3393a88081ba62e",
@@ -3333,7 +3429,7 @@
       "stage": "Hovudscenen",
       "genre": null,
       "sold_out": false,
-      "scraped_at": "2026-08-21T05:31:52.403638"
+      "scraped_at": "2026-08-22T05:26:14.174424"
     },
     {
       "id": "36bf042d97a36a3a",
@@ -3349,7 +3445,7 @@
       "stage": "Scene 2",
       "genre": null,
       "sold_out": false,
-      "scraped_at": "2026-08-21T05:31:57.746301"
+      "scraped_at": "2026-08-22T05:26:20.604297"
     },
     {
       "id": "6775f4e49481e460",
@@ -3365,7 +3461,7 @@
       "stage": null,
       "genre": "Musikal ,  Scenekvelder",
       "sold_out": false,
-      "scraped_at": "2026-08-21T05:33:08.808679"
+      "scraped_at": "2026-08-22T05:27:35.096745"
     },
     {
       "id": "3754f8be94efef6b",
@@ -3381,7 +3477,7 @@
       "stage": "Store scene\n    \n      (Black Box teater)",
       "genre": null,
       "sold_out": false,
-      "scraped_at": "2026-08-21T05:32:17.201794"
+      "scraped_at": "2026-08-22T05:26:40.973175"
     },
     {
       "id": "937eb631f6e3b58c",
@@ -3397,7 +3493,7 @@
       "stage": null,
       "genre": "Musikal ,  Scenekvelder",
       "sold_out": false,
-      "scraped_at": "2026-08-21T05:33:08.808700"
+      "scraped_at": "2026-08-22T05:27:35.096772"
     },
     {
       "id": "563836ee2329cb1b",
@@ -3413,7 +3509,7 @@
       "stage": "Store scene\n    \n      (Black Box teater)",
       "genre": null,
       "sold_out": false,
-      "scraped_at": "2026-08-21T05:32:17.201950"
+      "scraped_at": "2026-08-22T05:26:40.973367"
     },
     {
       "id": "6dfa3d67dd7b5e29",
@@ -3429,7 +3525,55 @@
       "stage": null,
       "genre": null,
       "sold_out": false,
-      "scraped_at": "2026-08-21T05:33:02.716973"
+      "scraped_at": "2026-08-22T05:27:28.482552"
+    },
+    {
+      "id": "a2fb88b342859276",
+      "title": "Da vi var yngre",
+      "venue": "Det Norske Teatret",
+      "venue_slug": "det-norske-teatret",
+      "start": "2026-10-12T12:00:00",
+      "end": "2026-10-12T13:30:00",
+      "description": "Oliver Lovrenski brakdebuterte med romanen Da vi var yngre. No kjem den til scenen med Aksel Hennie i registolen og rapparen Jonas Benyoub i rolla som Ivor.",
+      "image_url": "https://s3.eu-north-1.amazonaws.com/detnorsketeatret/media/framsyningar/arv-og-miljo/_1200x630_crop_center-center_82_none/Da-vi-var-yngre_OHA-19.jpg?mtime=1771367338",
+      "ticket_url": "https://www.detnorsketeatret.no/framsyningar/da-vi-var-yngre",
+      "detail_url": "https://www.detnorsketeatret.no/framsyningar/da-vi-var-yngre",
+      "stage": "Scene 2",
+      "genre": null,
+      "sold_out": false,
+      "scraped_at": "2026-08-22T05:26:22.165060"
+    },
+    {
+      "id": "438ad0e4e956f527",
+      "title": "Frankenstein",
+      "venue": "Det Norske Teatret",
+      "venue_slug": "det-norske-teatret",
+      "start": "2026-10-13T11:00:00",
+      "end": "2026-10-13T12:30:00",
+      "description": "Velkommen til ein skrekkeleg teatergrøssar for barn! Passar for modige barn og skvetne vaksne frå 10 år. Kjøp billettar her!",
+      "image_url": "https://s3.eu-north-1.amazonaws.com/detnorsketeatret/media/_1200x630_crop_center-center_82_none/EirikMalmo_DNT_Frankenstein_MAA9293_01.jpg?mtime=1775743740",
+      "ticket_url": "https://www.detnorsketeatret.no/framsyningar/frankenstein",
+      "detail_url": "https://www.detnorsketeatret.no/framsyningar/frankenstein",
+      "stage": "Scene 3",
+      "genre": null,
+      "sold_out": false,
+      "scraped_at": "2026-08-22T05:26:25.653137"
+    },
+    {
+      "id": "b5ba6a530d445d03",
+      "title": "Da vi var yngre",
+      "venue": "Det Norske Teatret",
+      "venue_slug": "det-norske-teatret",
+      "start": "2026-10-13T12:00:00",
+      "end": "2026-10-13T13:30:00",
+      "description": "Oliver Lovrenski brakdebuterte med romanen Da vi var yngre. No kjem den til scenen med Aksel Hennie i registolen og rapparen Jonas Benyoub i rolla som Ivor.",
+      "image_url": "https://s3.eu-north-1.amazonaws.com/detnorsketeatret/media/framsyningar/arv-og-miljo/_1200x630_crop_center-center_82_none/Da-vi-var-yngre_OHA-19.jpg?mtime=1771367338",
+      "ticket_url": "https://www.detnorsketeatret.no/framsyningar/da-vi-var-yngre",
+      "detail_url": "https://www.detnorsketeatret.no/framsyningar/da-vi-var-yngre",
+      "stage": "Scene 2",
+      "genre": null,
+      "sold_out": false,
+      "scraped_at": "2026-08-22T05:26:22.165070"
     },
     {
       "id": "a86d0c451c3b4c7f",
@@ -3445,7 +3589,7 @@
       "stage": "Bikuben",
       "genre": null,
       "sold_out": false,
-      "scraped_at": "2026-08-21T05:32:06.402198"
+      "scraped_at": "2026-08-22T05:26:29.056574"
     },
     {
       "id": "da241527b823e0bc",
@@ -3461,7 +3605,7 @@
       "stage": "Rommen Scene",
       "genre": null,
       "sold_out": false,
-      "scraped_at": "2026-08-21T05:31:57.970442"
+      "scraped_at": "2026-08-22T05:26:20.861462"
     },
     {
       "id": "630dcccb8a0cdd7d",
@@ -3477,7 +3621,7 @@
       "stage": null,
       "genre": null,
       "sold_out": false,
-      "scraped_at": "2026-08-21T05:33:02.717024"
+      "scraped_at": "2026-08-22T05:27:28.482617"
     },
     {
       "id": "3bffc520c0fb3891",
@@ -3493,7 +3637,39 @@
       "stage": "Scene 2",
       "genre": null,
       "sold_out": false,
-      "scraped_at": "2026-08-21T05:31:57.746308"
+      "scraped_at": "2026-08-22T05:26:20.604307"
+    },
+    {
+      "id": "faa49876d188b5c3",
+      "title": "Frankenstein",
+      "venue": "Det Norske Teatret",
+      "venue_slug": "det-norske-teatret",
+      "start": "2026-10-14T11:00:00",
+      "end": "2026-10-14T12:30:00",
+      "description": "Velkommen til ein skrekkeleg teatergrøssar for barn! Passar for modige barn og skvetne vaksne frå 10 år. Kjøp billettar her!",
+      "image_url": "https://s3.eu-north-1.amazonaws.com/detnorsketeatret/media/_1200x630_crop_center-center_82_none/EirikMalmo_DNT_Frankenstein_MAA9293_01.jpg?mtime=1775743740",
+      "ticket_url": "https://www.detnorsketeatret.no/framsyningar/frankenstein",
+      "detail_url": "https://www.detnorsketeatret.no/framsyningar/frankenstein",
+      "stage": "Scene 3",
+      "genre": null,
+      "sold_out": false,
+      "scraped_at": "2026-08-22T05:26:25.653147"
+    },
+    {
+      "id": "6655dc133af37f25",
+      "title": "Da vi var yngre",
+      "venue": "Det Norske Teatret",
+      "venue_slug": "det-norske-teatret",
+      "start": "2026-10-14T12:00:00",
+      "end": "2026-10-14T13:30:00",
+      "description": "Oliver Lovrenski brakdebuterte med romanen Da vi var yngre. No kjem den til scenen med Aksel Hennie i registolen og rapparen Jonas Benyoub i rolla som Ivor.",
+      "image_url": "https://s3.eu-north-1.amazonaws.com/detnorsketeatret/media/framsyningar/arv-og-miljo/_1200x630_crop_center-center_82_none/Da-vi-var-yngre_OHA-19.jpg?mtime=1771367338",
+      "ticket_url": "https://www.detnorsketeatret.no/framsyningar/da-vi-var-yngre",
+      "detail_url": "https://www.detnorsketeatret.no/framsyningar/da-vi-var-yngre",
+      "stage": "Scene 2",
+      "genre": null,
+      "sold_out": false,
+      "scraped_at": "2026-08-22T05:26:22.165081"
     },
     {
       "id": "1462b42735131cd6",
@@ -3509,7 +3685,7 @@
       "stage": "Rommen Scene",
       "genre": null,
       "sold_out": false,
-      "scraped_at": "2026-08-21T05:31:57.970462"
+      "scraped_at": "2026-08-22T05:26:20.861472"
     },
     {
       "id": "5e51b2d154c08f57",
@@ -3525,7 +3701,7 @@
       "stage": "Hovudscenen",
       "genre": null,
       "sold_out": false,
-      "scraped_at": "2026-08-21T05:31:52.403646"
+      "scraped_at": "2026-08-22T05:26:14.174433"
     },
     {
       "id": "965c6059d0523ecb",
@@ -3541,7 +3717,39 @@
       "stage": "Scene 2",
       "genre": null,
       "sold_out": false,
-      "scraped_at": "2026-08-21T05:31:57.746316"
+      "scraped_at": "2026-08-22T05:26:20.604317"
+    },
+    {
+      "id": "dcd3e5a0e80fda72",
+      "title": "Frankenstein",
+      "venue": "Det Norske Teatret",
+      "venue_slug": "det-norske-teatret",
+      "start": "2026-10-15T11:00:00",
+      "end": "2026-10-15T12:30:00",
+      "description": "Velkommen til ein skrekkeleg teatergrøssar for barn! Passar for modige barn og skvetne vaksne frå 10 år. Kjøp billettar her!",
+      "image_url": "https://s3.eu-north-1.amazonaws.com/detnorsketeatret/media/_1200x630_crop_center-center_82_none/EirikMalmo_DNT_Frankenstein_MAA9293_01.jpg?mtime=1775743740",
+      "ticket_url": "https://www.detnorsketeatret.no/framsyningar/frankenstein",
+      "detail_url": "https://www.detnorsketeatret.no/framsyningar/frankenstein",
+      "stage": "Scene 3",
+      "genre": null,
+      "sold_out": false,
+      "scraped_at": "2026-08-22T05:26:25.653157"
+    },
+    {
+      "id": "e046cc002764cc64",
+      "title": "Da vi var yngre",
+      "venue": "Det Norske Teatret",
+      "venue_slug": "det-norske-teatret",
+      "start": "2026-10-15T12:00:00",
+      "end": "2026-10-15T13:30:00",
+      "description": "Oliver Lovrenski brakdebuterte med romanen Da vi var yngre. No kjem den til scenen med Aksel Hennie i registolen og rapparen Jonas Benyoub i rolla som Ivor.",
+      "image_url": "https://s3.eu-north-1.amazonaws.com/detnorsketeatret/media/framsyningar/arv-og-miljo/_1200x630_crop_center-center_82_none/Da-vi-var-yngre_OHA-19.jpg?mtime=1771367338",
+      "ticket_url": "https://www.detnorsketeatret.no/framsyningar/da-vi-var-yngre",
+      "detail_url": "https://www.detnorsketeatret.no/framsyningar/da-vi-var-yngre",
+      "stage": "Scene 2",
+      "genre": null,
+      "sold_out": false,
+      "scraped_at": "2026-08-22T05:26:22.165091"
     },
     {
       "id": "19538a6ff1dd379b",
@@ -3557,7 +3765,7 @@
       "stage": "Bikuben",
       "genre": null,
       "sold_out": false,
-      "scraped_at": "2026-08-21T05:32:06.402206"
+      "scraped_at": "2026-08-22T05:26:29.056584"
     },
     {
       "id": "f6d7cae4a08d7764",
@@ -3573,7 +3781,7 @@
       "stage": "Rommen Scene",
       "genre": null,
       "sold_out": false,
-      "scraped_at": "2026-08-21T05:31:57.970469"
+      "scraped_at": "2026-08-22T05:26:20.861482"
     },
     {
       "id": "dd86cfd40b6f6330",
@@ -3589,7 +3797,7 @@
       "stage": "Vega Scene",
       "genre": null,
       "sold_out": false,
-      "scraped_at": "2026-08-21T05:32:52.279405"
+      "scraped_at": "2026-08-22T05:27:16.384151"
     },
     {
       "id": "6a9256393e93f4b3",
@@ -3605,7 +3813,7 @@
       "stage": "Scene 2",
       "genre": null,
       "sold_out": false,
-      "scraped_at": "2026-08-21T05:31:57.746323"
+      "scraped_at": "2026-08-22T05:26:20.604326"
     },
     {
       "id": "1a75592541a78a04",
@@ -3621,7 +3829,55 @@
       "stage": null,
       "genre": "Musikal ,  Scenekvelder",
       "sold_out": false,
-      "scraped_at": "2026-08-21T05:33:08.808721"
+      "scraped_at": "2026-08-22T05:27:35.096827"
+    },
+    {
+      "id": "24713e5fec308b76",
+      "title": "Frankenstein",
+      "venue": "Det Norske Teatret",
+      "venue_slug": "det-norske-teatret",
+      "start": "2026-10-16T11:00:00",
+      "end": "2026-10-16T12:30:00",
+      "description": "Velkommen til ein skrekkeleg teatergrøssar for barn! Passar for modige barn og skvetne vaksne frå 10 år. Kjøp billettar her!",
+      "image_url": "https://s3.eu-north-1.amazonaws.com/detnorsketeatret/media/_1200x630_crop_center-center_82_none/EirikMalmo_DNT_Frankenstein_MAA9293_01.jpg?mtime=1775743740",
+      "ticket_url": "https://www.detnorsketeatret.no/framsyningar/frankenstein",
+      "detail_url": "https://www.detnorsketeatret.no/framsyningar/frankenstein",
+      "stage": "Scene 3",
+      "genre": null,
+      "sold_out": false,
+      "scraped_at": "2026-08-22T05:26:25.653167"
+    },
+    {
+      "id": "992adcda8dfc36b6",
+      "title": "Da vi var yngre",
+      "venue": "Det Norske Teatret",
+      "venue_slug": "det-norske-teatret",
+      "start": "2026-10-16T12:00:00",
+      "end": "2026-10-16T13:30:00",
+      "description": "Oliver Lovrenski brakdebuterte med romanen Da vi var yngre. No kjem den til scenen med Aksel Hennie i registolen og rapparen Jonas Benyoub i rolla som Ivor.",
+      "image_url": "https://s3.eu-north-1.amazonaws.com/detnorsketeatret/media/framsyningar/arv-og-miljo/_1200x630_crop_center-center_82_none/Da-vi-var-yngre_OHA-19.jpg?mtime=1771367338",
+      "ticket_url": "https://www.detnorsketeatret.no/framsyningar/da-vi-var-yngre",
+      "detail_url": "https://www.detnorsketeatret.no/framsyningar/da-vi-var-yngre",
+      "stage": "Scene 2",
+      "genre": null,
+      "sold_out": false,
+      "scraped_at": "2026-08-22T05:26:22.165101"
+    },
+    {
+      "id": "6a5a0ae5cbe98404",
+      "title": "Frankenstein",
+      "venue": "Det Norske Teatret",
+      "venue_slug": "det-norske-teatret",
+      "start": "2026-10-16T18:00:00",
+      "end": "2026-10-16T19:30:00",
+      "description": "Velkommen til ein skrekkeleg teatergrøssar for barn! Passar for modige barn og skvetne vaksne frå 10 år. Kjøp billettar her!",
+      "image_url": "https://s3.eu-north-1.amazonaws.com/detnorsketeatret/media/_1200x630_crop_center-center_82_none/EirikMalmo_DNT_Frankenstein_MAA9293_01.jpg?mtime=1775743740",
+      "ticket_url": "https://www.detnorsketeatret.no/framsyningar/frankenstein",
+      "detail_url": "https://www.detnorsketeatret.no/framsyningar/frankenstein",
+      "stage": "Scene 3",
+      "genre": null,
+      "sold_out": false,
+      "scraped_at": "2026-08-22T05:26:25.653176"
     },
     {
       "id": "e8299b8d05f7df0d",
@@ -3637,7 +3893,7 @@
       "stage": "Vega Scene",
       "genre": null,
       "sold_out": false,
-      "scraped_at": "2026-08-21T05:32:52.279639"
+      "scraped_at": "2026-08-22T05:27:16.384465"
     },
     {
       "id": "f56b22670a281b12",
@@ -3653,7 +3909,7 @@
       "stage": "Scene 2",
       "genre": null,
       "sold_out": false,
-      "scraped_at": "2026-08-21T05:31:59.735534"
+      "scraped_at": "2026-08-22T05:26:21.107275"
     },
     {
       "id": "b729f05c084ada20",
@@ -3669,7 +3925,7 @@
       "stage": null,
       "genre": "Musikal ,  Scenekvelder",
       "sold_out": false,
-      "scraped_at": "2026-08-21T05:33:08.808742"
+      "scraped_at": "2026-08-22T05:27:35.096855"
     },
     {
       "id": "f41b55b788bdd30b",
@@ -3685,7 +3941,7 @@
       "stage": "Store scene\n    \n      (Black Box teater)",
       "genre": null,
       "sold_out": false,
-      "scraped_at": "2026-08-21T05:32:17.202096"
+      "scraped_at": "2026-08-22T05:26:40.973562"
     },
     {
       "id": "bfa2a1ab77d21fa5",
@@ -3701,7 +3957,7 @@
       "stage": "Torshovteatret",
       "genre": null,
       "sold_out": false,
-      "scraped_at": "2026-08-21T05:31:08.124394"
+      "scraped_at": "2026-08-22T05:25:37.734852"
     },
     {
       "id": "a980d73399e1fdb0",
@@ -3717,7 +3973,7 @@
       "stage": null,
       "genre": "Musikal ,  Scenekvelder",
       "sold_out": false,
-      "scraped_at": "2026-08-21T05:33:08.808764"
+      "scraped_at": "2026-08-22T05:27:35.096883"
     },
     {
       "id": "0881072e87a8321d",
@@ -3733,7 +3989,7 @@
       "stage": "Store scene\n    \n      (Black Box teater)",
       "genre": null,
       "sold_out": false,
-      "scraped_at": "2026-08-21T05:32:17.202238"
+      "scraped_at": "2026-08-22T05:26:40.973749"
     },
     {
       "id": "0284d24753fe08d3",
@@ -3749,7 +4005,7 @@
       "stage": "Scene 3",
       "genre": null,
       "sold_out": false,
-      "scraped_at": "2026-08-21T05:32:05.607114"
+      "scraped_at": "2026-08-22T05:26:25.653186"
     },
     {
       "id": "48db80ec86c28479",
@@ -3765,7 +4021,7 @@
       "stage": "Scene 2",
       "genre": null,
       "sold_out": false,
-      "scraped_at": "2026-08-21T05:31:59.735543"
+      "scraped_at": "2026-08-22T05:26:21.107287"
     },
     {
       "id": "6b70350044d60c3b",
@@ -3781,7 +4037,7 @@
       "stage": "Hovudscenen",
       "genre": null,
       "sold_out": false,
-      "scraped_at": "2026-08-21T05:31:49.458017"
+      "scraped_at": "2026-08-22T05:26:10.855471"
     },
     {
       "id": "924c42d71988bf26",
@@ -3797,7 +4053,7 @@
       "stage": "Vega Scene",
       "genre": null,
       "sold_out": false,
-      "scraped_at": "2026-08-21T05:32:52.279873"
+      "scraped_at": "2026-08-22T05:27:16.384764"
     },
     {
       "id": "daa13304f818a4ed",
@@ -3813,7 +4069,7 @@
       "stage": "Scene 3",
       "genre": null,
       "sold_out": false,
-      "scraped_at": "2026-08-21T05:32:05.607121"
+      "scraped_at": "2026-08-22T05:26:25.653195"
     },
     {
       "id": "fd496b19391d792a",
@@ -3829,7 +4085,7 @@
       "stage": null,
       "genre": "Musikal ,  Scenekvelder",
       "sold_out": false,
-      "scraped_at": "2026-08-21T05:33:08.808785"
+      "scraped_at": "2026-08-22T05:27:35.096910"
     },
     {
       "id": "94168b2f2e4512ef",
@@ -3845,7 +4101,7 @@
       "stage": null,
       "genre": "Musikal ,  Scenekvelder",
       "sold_out": false,
-      "scraped_at": "2026-08-21T05:33:08.808807"
+      "scraped_at": "2026-08-22T05:27:35.096938"
     },
     {
       "id": "9c20dab654946e59",
@@ -3861,7 +4117,7 @@
       "stage": "Hovudscenen",
       "genre": null,
       "sold_out": false,
-      "scraped_at": "2026-08-21T05:31:52.403653"
+      "scraped_at": "2026-08-22T05:26:14.174443"
     },
     {
       "id": "100b566b2446ee50",
@@ -3871,13 +4127,29 @@
       "start": "2026-10-18T19:00:00",
       "end": null,
       "description": null,
-      "image_url": "/_next/image?url=https%3A%2F%2Fcdn.sanity.io%2Fimages%2Fl794s5ct%2Fproduction%2F8083b55a0f147c5c929775c610f8153d68c5fea2-1440x810.jpg%3Frect%3D315%2C0%2C810%2C810%26w%3D1000%26h%3D1000%26q%3D92%26fit%3Dmax%26auto%3Dformat&w=3840&q=75",
+      "image_url": "/_next/image?url=https%3A%2F%2Fcdn.sanity.io%2Fimages%2Fl794s5ct%2Fproduction%2Fe4dae14cb7a22ea7ec1a90b7d1263fc3e50a9abd-1440x810.jpg%3Frect%3D315%2C0%2C810%2C810%26w%3D1000%26h%3D1000%26q%3D92%26fit%3Dmax%26auto%3Dformat&w=3840&q=75",
       "ticket_url": "https://nordicblacktheatre.no/program/kampenjazz-plateslipp-oscar-andreas-haug-trio-18-10-2026",
       "detail_url": "https://nordicblacktheatre.no/program/kampenjazz-plateslipp-oscar-andreas-haug-trio-18-10-2026",
       "stage": null,
       "genre": null,
       "sold_out": false,
-      "scraped_at": "2026-08-21T05:33:02.717079"
+      "scraped_at": "2026-08-22T05:27:28.482691"
+    },
+    {
+      "id": "595ebf2fd4120190",
+      "title": "Frankenstein",
+      "venue": "Det Norske Teatret",
+      "venue_slug": "det-norske-teatret",
+      "start": "2026-10-19T11:00:00",
+      "end": "2026-10-19T12:30:00",
+      "description": "Velkommen til ein skrekkeleg teatergrøssar for barn! Passar for modige barn og skvetne vaksne frå 10 år. Kjøp billettar her!",
+      "image_url": "https://s3.eu-north-1.amazonaws.com/detnorsketeatret/media/_1200x630_crop_center-center_82_none/EirikMalmo_DNT_Frankenstein_MAA9293_01.jpg?mtime=1775743740",
+      "ticket_url": "https://www.detnorsketeatret.no/framsyningar/frankenstein",
+      "detail_url": "https://www.detnorsketeatret.no/framsyningar/frankenstein",
+      "stage": "Scene 3",
+      "genre": null,
+      "sold_out": false,
+      "scraped_at": "2026-08-22T05:26:25.653205"
     },
     {
       "id": "871c7f1c85e1f857",
@@ -3893,7 +4165,7 @@
       "stage": "Vega Scene",
       "genre": null,
       "sold_out": false,
-      "scraped_at": "2026-08-21T05:32:52.280107"
+      "scraped_at": "2026-08-22T05:27:16.385091"
     },
     {
       "id": "8024fae4e0dfdc24",
@@ -3909,7 +4181,23 @@
       "stage": null,
       "genre": null,
       "sold_out": false,
-      "scraped_at": "2026-08-21T05:33:02.717128"
+      "scraped_at": "2026-08-22T05:27:28.482762"
+    },
+    {
+      "id": "7d849f837b91c7b7",
+      "title": "Frankenstein",
+      "venue": "Det Norske Teatret",
+      "venue_slug": "det-norske-teatret",
+      "start": "2026-10-20T11:00:00",
+      "end": "2026-10-20T12:30:00",
+      "description": "Velkommen til ein skrekkeleg teatergrøssar for barn! Passar for modige barn og skvetne vaksne frå 10 år. Kjøp billettar her!",
+      "image_url": "https://s3.eu-north-1.amazonaws.com/detnorsketeatret/media/_1200x630_crop_center-center_82_none/EirikMalmo_DNT_Frankenstein_MAA9293_01.jpg?mtime=1775743740",
+      "ticket_url": "https://www.detnorsketeatret.no/framsyningar/frankenstein",
+      "detail_url": "https://www.detnorsketeatret.no/framsyningar/frankenstein",
+      "stage": "Scene 3",
+      "genre": null,
+      "sold_out": false,
+      "scraped_at": "2026-08-22T05:26:25.653215"
     },
     {
       "id": "e5dff03ead004ab8",
@@ -3925,7 +4213,23 @@
       "stage": "Hovudscenen",
       "genre": null,
       "sold_out": false,
-      "scraped_at": "2026-08-21T05:31:49.458034"
+      "scraped_at": "2026-08-22T05:26:10.855494"
+    },
+    {
+      "id": "9285543da943e03e",
+      "title": "Da vi var yngre",
+      "venue": "Det Norske Teatret",
+      "venue_slug": "det-norske-teatret",
+      "start": "2026-10-20T19:30:00",
+      "end": "2026-10-20T21:00:00",
+      "description": "Oliver Lovrenski brakdebuterte med romanen Da vi var yngre. No kjem den til scenen med Aksel Hennie i registolen og rapparen Jonas Benyoub i rolla som Ivor.",
+      "image_url": "https://s3.eu-north-1.amazonaws.com/detnorsketeatret/media/framsyningar/arv-og-miljo/_1200x630_crop_center-center_82_none/Da-vi-var-yngre_OHA-19.jpg?mtime=1771367338",
+      "ticket_url": "https://www.detnorsketeatret.no/framsyningar/da-vi-var-yngre",
+      "detail_url": "https://www.detnorsketeatret.no/framsyningar/da-vi-var-yngre",
+      "stage": "Scene 2",
+      "genre": null,
+      "sold_out": false,
+      "scraped_at": "2026-08-22T05:26:22.165111"
     },
     {
       "id": "c0d3dfb682b687fb",
@@ -3941,7 +4245,39 @@
       "stage": null,
       "genre": "Standup ,  Comedy",
       "sold_out": false,
-      "scraped_at": "2026-08-21T05:33:12.056879"
+      "scraped_at": "2026-08-22T05:27:38.025914"
+    },
+    {
+      "id": "3514ac805c82519d",
+      "title": "Frankenstein",
+      "venue": "Det Norske Teatret",
+      "venue_slug": "det-norske-teatret",
+      "start": "2026-10-21T11:00:00",
+      "end": "2026-10-21T12:30:00",
+      "description": "Velkommen til ein skrekkeleg teatergrøssar for barn! Passar for modige barn og skvetne vaksne frå 10 år. Kjøp billettar her!",
+      "image_url": "https://s3.eu-north-1.amazonaws.com/detnorsketeatret/media/_1200x630_crop_center-center_82_none/EirikMalmo_DNT_Frankenstein_MAA9293_01.jpg?mtime=1775743740",
+      "ticket_url": "https://www.detnorsketeatret.no/framsyningar/frankenstein",
+      "detail_url": "https://www.detnorsketeatret.no/framsyningar/frankenstein",
+      "stage": "Scene 3",
+      "genre": null,
+      "sold_out": false,
+      "scraped_at": "2026-08-22T05:26:25.653224"
+    },
+    {
+      "id": "680634b701d39df7",
+      "title": "Søstrene",
+      "venue": "Det Norske Teatret",
+      "venue_slug": "det-norske-teatret",
+      "start": "2026-10-21T12:00:00",
+      "end": "2026-10-21T15:30:00",
+      "description": "Opplev teaterversjonen av Jonas Hassen Khemiris kritikarroste roman - eit eit storslått familiedrama på Hovudscenen hausten 2026!",
+      "image_url": "https://s3.eu-north-1.amazonaws.com/detnorsketeatret/media/_1200x630_crop_center-center_82_none/EirikMalmo_DNT_Søstrere_M5A2614_Utkast_01.jpg?mtime=1781771529",
+      "ticket_url": "https://www.detnorsketeatret.no/framsyningar/sostrene",
+      "detail_url": "https://www.detnorsketeatret.no/framsyningar/sostrene",
+      "stage": "Hovudscenen",
+      "genre": null,
+      "sold_out": false,
+      "scraped_at": "2026-08-22T05:26:10.594725"
     },
     {
       "id": "6abb3b4cf70a90e4",
@@ -3957,7 +4293,7 @@
       "stage": "Hovudscenen",
       "genre": null,
       "sold_out": false,
-      "scraped_at": "2026-08-21T05:31:52.403660"
+      "scraped_at": "2026-08-22T05:26:14.174452"
     },
     {
       "id": "ec925763cf7b0692",
@@ -3973,7 +4309,7 @@
       "stage": "Scene 3",
       "genre": null,
       "sold_out": false,
-      "scraped_at": "2026-08-21T05:32:05.607128"
+      "scraped_at": "2026-08-22T05:26:25.653234"
     },
     {
       "id": "4b18471a07f643b6",
@@ -3989,7 +4325,7 @@
       "stage": "Teater Manu",
       "genre": null,
       "sold_out": false,
-      "scraped_at": "2026-08-21T05:32:57.055511"
+      "scraped_at": "2026-08-22T05:27:22.942768"
     },
     {
       "id": "1161f9ea81f8779a",
@@ -4005,7 +4341,7 @@
       "stage": "Hovudscenen",
       "genre": null,
       "sold_out": false,
-      "scraped_at": "2026-08-21T05:31:49.458043"
+      "scraped_at": "2026-08-22T05:26:10.855506"
     },
     {
       "id": "984932cab90813ff",
@@ -4021,7 +4357,7 @@
       "stage": "Vega Scene",
       "genre": null,
       "sold_out": false,
-      "scraped_at": "2026-08-21T05:32:52.280341"
+      "scraped_at": "2026-08-22T05:27:16.385404"
     },
     {
       "id": "a7e81e66eeb183f2",
@@ -4037,7 +4373,7 @@
       "stage": null,
       "genre": null,
       "sold_out": false,
-      "scraped_at": "2026-08-21T05:33:02.717178"
+      "scraped_at": "2026-08-22T05:27:28.482843"
     },
     {
       "id": "609675d8c678ad2e",
@@ -4053,7 +4389,23 @@
       "stage": "Scene 2",
       "genre": null,
       "sold_out": false,
-      "scraped_at": "2026-08-21T05:31:59.735551"
+      "scraped_at": "2026-08-22T05:26:21.107297"
+    },
+    {
+      "id": "0b1bcd50a3c5b40f",
+      "title": "Frankenstein",
+      "venue": "Det Norske Teatret",
+      "venue_slug": "det-norske-teatret",
+      "start": "2026-10-23T11:00:00",
+      "end": "2026-10-23T12:30:00",
+      "description": "Velkommen til ein skrekkeleg teatergrøssar for barn! Passar for modige barn og skvetne vaksne frå 10 år. Kjøp billettar her!",
+      "image_url": "https://s3.eu-north-1.amazonaws.com/detnorsketeatret/media/_1200x630_crop_center-center_82_none/EirikMalmo_DNT_Frankenstein_MAA9293_01.jpg?mtime=1775743740",
+      "ticket_url": "https://www.detnorsketeatret.no/framsyningar/frankenstein",
+      "detail_url": "https://www.detnorsketeatret.no/framsyningar/frankenstein",
+      "stage": "Scene 3",
+      "genre": null,
+      "sold_out": false,
+      "scraped_at": "2026-08-22T05:26:25.653243"
     },
     {
       "id": "083d432a4969a810",
@@ -4069,7 +4421,7 @@
       "stage": "Vega Scene",
       "genre": null,
       "sold_out": false,
-      "scraped_at": "2026-08-21T05:32:52.280577"
+      "scraped_at": "2026-08-22T05:27:16.385706"
     },
     {
       "id": "954850768d8ed954",
@@ -4085,7 +4437,7 @@
       "stage": "Hovudscenen",
       "genre": null,
       "sold_out": false,
-      "scraped_at": "2026-08-21T05:31:49.458051"
+      "scraped_at": "2026-08-22T05:26:10.855517"
     },
     {
       "id": "829b2209c258d9d7",
@@ -4101,7 +4453,7 @@
       "stage": "Scene 2",
       "genre": null,
       "sold_out": false,
-      "scraped_at": "2026-08-21T05:31:59.735560"
+      "scraped_at": "2026-08-22T05:26:21.107307"
     },
     {
       "id": "a094b3cbad4676bd",
@@ -4117,7 +4469,7 @@
       "stage": null,
       "genre": "Musikal ,  Scenekvelder",
       "sold_out": false,
-      "scraped_at": "2026-08-21T05:33:08.808828"
+      "scraped_at": "2026-08-22T05:27:35.096965"
     },
     {
       "id": "f33a8ac601290694",
@@ -4133,7 +4485,7 @@
       "stage": "Teater Manu",
       "genre": null,
       "sold_out": false,
-      "scraped_at": "2026-08-21T05:32:57.055666"
+      "scraped_at": "2026-08-22T05:27:22.943053"
     },
     {
       "id": "7c458bbc6d32ab48",
@@ -4149,7 +4501,7 @@
       "stage": null,
       "genre": "Musikal ,  Scenekvelder",
       "sold_out": false,
-      "scraped_at": "2026-08-21T05:33:08.808875"
+      "scraped_at": "2026-08-22T05:27:35.096992"
     },
     {
       "id": "a7117f7432300832",
@@ -4165,7 +4517,7 @@
       "stage": "Scene 3",
       "genre": null,
       "sold_out": false,
-      "scraped_at": "2026-08-21T05:32:05.607135"
+      "scraped_at": "2026-08-22T05:26:25.653252"
     },
     {
       "id": "916e6eaef11f4b9b",
@@ -4181,7 +4533,7 @@
       "stage": "Hovudscenen",
       "genre": null,
       "sold_out": false,
-      "scraped_at": "2026-08-21T05:31:49.458059"
+      "scraped_at": "2026-08-22T05:26:10.855527"
     },
     {
       "id": "6d7e58ee83254806",
@@ -4197,7 +4549,7 @@
       "stage": "Vega Scene",
       "genre": null,
       "sold_out": false,
-      "scraped_at": "2026-08-21T05:32:52.280815"
+      "scraped_at": "2026-08-22T05:27:16.386022"
     },
     {
       "id": "8b05b08b6f2cab87",
@@ -4213,7 +4565,7 @@
       "stage": "Scene 3",
       "genre": null,
       "sold_out": false,
-      "scraped_at": "2026-08-21T05:32:05.607142"
+      "scraped_at": "2026-08-22T05:26:25.653262"
     },
     {
       "id": "2592a34e72a76d4a",
@@ -4229,7 +4581,7 @@
       "stage": null,
       "genre": "Musikal ,  Scenekvelder",
       "sold_out": false,
-      "scraped_at": "2026-08-21T05:33:08.808907"
+      "scraped_at": "2026-08-22T05:27:35.097020"
     },
     {
       "id": "0c52d63720d1d195",
@@ -4245,7 +4597,7 @@
       "stage": "Teater Manu",
       "genre": null,
       "sold_out": false,
-      "scraped_at": "2026-08-21T05:32:57.055799"
+      "scraped_at": "2026-08-22T05:27:22.943221"
     },
     {
       "id": "155afcb64e9ed9f8",
@@ -4261,7 +4613,7 @@
       "stage": "Hovudscenen",
       "genre": null,
       "sold_out": false,
-      "scraped_at": "2026-08-21T05:31:49.458067"
+      "scraped_at": "2026-08-22T05:26:10.855538"
     },
     {
       "id": "6f2b5948b12b77a8",
@@ -4277,7 +4629,23 @@
       "stage": null,
       "genre": "Musikal ,  Scenekvelder",
       "sold_out": false,
-      "scraped_at": "2026-08-21T05:33:08.808928"
+      "scraped_at": "2026-08-22T05:27:35.097049"
+    },
+    {
+      "id": "31269513ef485410",
+      "title": "Frankenstein",
+      "venue": "Det Norske Teatret",
+      "venue_slug": "det-norske-teatret",
+      "start": "2026-10-26T11:00:00",
+      "end": "2026-10-26T12:30:00",
+      "description": "Velkommen til ein skrekkeleg teatergrøssar for barn! Passar for modige barn og skvetne vaksne frå 10 år. Kjøp billettar her!",
+      "image_url": "https://s3.eu-north-1.amazonaws.com/detnorsketeatret/media/_1200x630_crop_center-center_82_none/EirikMalmo_DNT_Frankenstein_MAA9293_01.jpg?mtime=1775743740",
+      "ticket_url": "https://www.detnorsketeatret.no/framsyningar/frankenstein",
+      "detail_url": "https://www.detnorsketeatret.no/framsyningar/frankenstein",
+      "stage": "Scene 3",
+      "genre": null,
+      "sold_out": false,
+      "scraped_at": "2026-08-22T05:26:25.653271"
     },
     {
       "id": "0a1a33b20f2d0a11",
@@ -4293,7 +4661,7 @@
       "stage": "Vega Scene",
       "genre": null,
       "sold_out": false,
-      "scraped_at": "2026-08-21T05:32:52.281064"
+      "scraped_at": "2026-08-22T05:27:16.386327"
     },
     {
       "id": "ed03d1f9f972364f",
@@ -4309,7 +4677,55 @@
       "stage": "Bikuben",
       "genre": null,
       "sold_out": false,
-      "scraped_at": "2026-08-21T05:32:06.402213"
+      "scraped_at": "2026-08-22T05:26:29.056594"
+    },
+    {
+      "id": "46c972e73f5ee3b7",
+      "title": "Søstrene",
+      "venue": "Det Norske Teatret",
+      "venue_slug": "det-norske-teatret",
+      "start": "2026-10-27T19:00:00",
+      "end": "2026-10-27T22:30:00",
+      "description": "Opplev teaterversjonen av Jonas Hassen Khemiris kritikarroste roman - eit eit storslått familiedrama på Hovudscenen hausten 2026!",
+      "image_url": "https://s3.eu-north-1.amazonaws.com/detnorsketeatret/media/_1200x630_crop_center-center_82_none/EirikMalmo_DNT_Søstrere_M5A2614_Utkast_01.jpg?mtime=1781771529",
+      "ticket_url": "https://www.detnorsketeatret.no/framsyningar/sostrene",
+      "detail_url": "https://www.detnorsketeatret.no/framsyningar/sostrene",
+      "stage": "Hovudscenen",
+      "genre": null,
+      "sold_out": false,
+      "scraped_at": "2026-08-22T05:26:10.594735"
+    },
+    {
+      "id": "977cd28f216e1493",
+      "title": "Da vi var yngre",
+      "venue": "Det Norske Teatret",
+      "venue_slug": "det-norske-teatret",
+      "start": "2026-10-27T19:30:00",
+      "end": "2026-10-27T21:00:00",
+      "description": "Oliver Lovrenski brakdebuterte med romanen Da vi var yngre. No kjem den til scenen med Aksel Hennie i registolen og rapparen Jonas Benyoub i rolla som Ivor.",
+      "image_url": "https://s3.eu-north-1.amazonaws.com/detnorsketeatret/media/framsyningar/arv-og-miljo/_1200x630_crop_center-center_82_none/Da-vi-var-yngre_OHA-19.jpg?mtime=1771367338",
+      "ticket_url": "https://www.detnorsketeatret.no/framsyningar/da-vi-var-yngre",
+      "detail_url": "https://www.detnorsketeatret.no/framsyningar/da-vi-var-yngre",
+      "stage": "Scene 2",
+      "genre": null,
+      "sold_out": false,
+      "scraped_at": "2026-08-22T05:26:22.165120"
+    },
+    {
+      "id": "82b8772654b658e5",
+      "title": "Frankenstein",
+      "venue": "Det Norske Teatret",
+      "venue_slug": "det-norske-teatret",
+      "start": "2026-10-28T18:00:00",
+      "end": "2026-10-28T19:30:00",
+      "description": "Velkommen til ein skrekkeleg teatergrøssar for barn! Passar for modige barn og skvetne vaksne frå 10 år. Kjøp billettar her!",
+      "image_url": "https://s3.eu-north-1.amazonaws.com/detnorsketeatret/media/_1200x630_crop_center-center_82_none/EirikMalmo_DNT_Frankenstein_MAA9293_01.jpg?mtime=1775743740",
+      "ticket_url": "https://www.detnorsketeatret.no/framsyningar/frankenstein",
+      "detail_url": "https://www.detnorsketeatret.no/framsyningar/frankenstein",
+      "stage": "Scene 3",
+      "genre": null,
+      "sold_out": false,
+      "scraped_at": "2026-08-22T05:26:25.653281"
     },
     {
       "id": "322195b8c42b4c9d",
@@ -4325,7 +4741,7 @@
       "stage": "Hovudscenen",
       "genre": null,
       "sold_out": false,
-      "scraped_at": "2026-08-21T05:31:49.458077"
+      "scraped_at": "2026-08-22T05:26:10.855548"
     },
     {
       "id": "cd38d56cb3dc0a67",
@@ -4341,7 +4757,7 @@
       "stage": "Bikuben",
       "genre": null,
       "sold_out": false,
-      "scraped_at": "2026-08-21T05:32:06.402221"
+      "scraped_at": "2026-08-22T05:26:29.056605"
     },
     {
       "id": "780e936483aefd0f",
@@ -4357,7 +4773,7 @@
       "stage": "Hovedscenen",
       "genre": null,
       "sold_out": false,
-      "scraped_at": "2026-08-21T05:31:18.419206"
+      "scraped_at": "2026-08-22T05:25:45.582177"
     },
     {
       "id": "c65b8d9153985546",
@@ -4373,7 +4789,23 @@
       "stage": "Scene 3",
       "genre": null,
       "sold_out": false,
-      "scraped_at": "2026-08-21T05:32:05.607150"
+      "scraped_at": "2026-08-22T05:26:25.653290"
+    },
+    {
+      "id": "7eebf5ccf78a2cd6",
+      "title": "Søstrene",
+      "venue": "Det Norske Teatret",
+      "venue_slug": "det-norske-teatret",
+      "start": "2026-10-29T19:00:00",
+      "end": "2026-10-29T22:30:00",
+      "description": "Opplev teaterversjonen av Jonas Hassen Khemiris kritikarroste roman - eit eit storslått familiedrama på Hovudscenen hausten 2026!",
+      "image_url": "https://s3.eu-north-1.amazonaws.com/detnorsketeatret/media/_1200x630_crop_center-center_82_none/EirikMalmo_DNT_Søstrere_M5A2614_Utkast_01.jpg?mtime=1781771529",
+      "ticket_url": "https://www.detnorsketeatret.no/framsyningar/sostrene",
+      "detail_url": "https://www.detnorsketeatret.no/framsyningar/sostrene",
+      "stage": "Hovudscenen",
+      "genre": null,
+      "sold_out": false,
+      "scraped_at": "2026-08-22T05:26:10.594745"
     },
     {
       "id": "d1ad7c9e489bf2df",
@@ -4389,7 +4821,7 @@
       "stage": "Vega Scene",
       "genre": null,
       "sold_out": false,
-      "scraped_at": "2026-08-21T05:32:52.281304"
+      "scraped_at": "2026-08-22T05:27:16.386633"
     },
     {
       "id": "51e96b7341f4b4a8",
@@ -4405,7 +4837,7 @@
       "stage": "Scene 2",
       "genre": null,
       "sold_out": false,
-      "scraped_at": "2026-08-21T05:31:59.735568"
+      "scraped_at": "2026-08-22T05:26:21.107317"
     },
     {
       "id": "6e36076399d2ba76",
@@ -4421,7 +4853,7 @@
       "stage": "Scene 3",
       "genre": null,
       "sold_out": false,
-      "scraped_at": "2026-08-21T05:32:05.607157"
+      "scraped_at": "2026-08-22T05:26:25.653299"
     },
     {
       "id": "a8efcf96f589f360",
@@ -4437,7 +4869,7 @@
       "stage": "Vega Scene",
       "genre": null,
       "sold_out": false,
-      "scraped_at": "2026-08-21T05:32:52.281537"
+      "scraped_at": "2026-08-22T05:27:16.386948"
     },
     {
       "id": "9674e54de5fc7a65",
@@ -4453,7 +4885,7 @@
       "stage": "Hovudscenen",
       "genre": null,
       "sold_out": false,
-      "scraped_at": "2026-08-21T05:31:49.458085"
+      "scraped_at": "2026-08-22T05:26:10.855558"
     },
     {
       "id": "b5ccfcba4618ae9e",
@@ -4469,7 +4901,7 @@
       "stage": "Scene 2",
       "genre": null,
       "sold_out": false,
-      "scraped_at": "2026-08-21T05:31:59.735576"
+      "scraped_at": "2026-08-22T05:26:21.107327"
     },
     {
       "id": "f1e7b355879f9bc9",
@@ -4485,7 +4917,7 @@
       "stage": null,
       "genre": "Musikal ,  Scenekvelder",
       "sold_out": false,
-      "scraped_at": "2026-08-21T05:33:08.808950"
+      "scraped_at": "2026-08-22T05:27:35.097077"
     },
     {
       "id": "553b5e81a452e706",
@@ -4501,7 +4933,7 @@
       "stage": "Scene 3",
       "genre": null,
       "sold_out": false,
-      "scraped_at": "2026-08-21T05:32:05.607164"
+      "scraped_at": "2026-08-22T05:26:25.653309"
     },
     {
       "id": "6a49992ec30cb6c5",
@@ -4517,7 +4949,7 @@
       "stage": null,
       "genre": "Musikal ,  Scenekvelder",
       "sold_out": false,
-      "scraped_at": "2026-08-21T05:33:08.808972"
+      "scraped_at": "2026-08-22T05:27:35.097106"
     },
     {
       "id": "6e2f56eed120ce44",
@@ -4533,7 +4965,7 @@
       "stage": "Hovudscenen",
       "genre": null,
       "sold_out": false,
-      "scraped_at": "2026-08-21T05:31:49.458094"
+      "scraped_at": "2026-08-22T05:26:10.855568"
     },
     {
       "id": "84e3571fc854b064",
@@ -4549,7 +4981,7 @@
       "stage": "Scene 2",
       "genre": null,
       "sold_out": false,
-      "scraped_at": "2026-08-21T05:31:59.735584"
+      "scraped_at": "2026-08-22T05:26:21.107337"
     },
     {
       "id": "ed15cd0048f645c9",
@@ -4565,7 +4997,7 @@
       "stage": "Vega Scene",
       "genre": null,
       "sold_out": false,
-      "scraped_at": "2026-08-21T05:32:52.281772"
+      "scraped_at": "2026-08-22T05:27:16.387254"
     },
     {
       "id": "3c9b52570e398f70",
@@ -4581,7 +5013,7 @@
       "stage": null,
       "genre": "Musikal ,  Scenekvelder",
       "sold_out": false,
-      "scraped_at": "2026-08-21T05:33:08.808994"
+      "scraped_at": "2026-08-22T05:27:35.097133"
     },
     {
       "id": "709c6c59e1187220",
@@ -4597,7 +5029,7 @@
       "stage": null,
       "genre": "Musikal ,  Scenekvelder",
       "sold_out": false,
-      "scraped_at": "2026-08-21T05:33:08.809017"
+      "scraped_at": "2026-08-22T05:27:35.097162"
     },
     {
       "id": "c2e5bca6fc7d5241",
@@ -4613,7 +5045,7 @@
       "stage": null,
       "genre": null,
       "sold_out": false,
-      "scraped_at": "2026-08-21T05:33:02.717240"
+      "scraped_at": "2026-08-22T05:27:28.482926"
     },
     {
       "id": "5478919c57c37423",
@@ -4629,7 +5061,7 @@
       "stage": "Vega Scene",
       "genre": null,
       "sold_out": false,
-      "scraped_at": "2026-08-21T05:32:52.282017"
+      "scraped_at": "2026-08-22T05:27:16.387564"
     },
     {
       "id": "e023d82678966bb3",
@@ -4645,7 +5077,7 @@
       "stage": "Bikuben",
       "genre": null,
       "sold_out": false,
-      "scraped_at": "2026-08-21T05:32:06.402228"
+      "scraped_at": "2026-08-22T05:26:29.056615"
     },
     {
       "id": "45919cff5ba1aefa",
@@ -4661,7 +5093,7 @@
       "stage": "Hovudscenen",
       "genre": null,
       "sold_out": false,
-      "scraped_at": "2026-08-21T05:31:49.458101"
+      "scraped_at": "2026-08-22T05:26:10.855578"
     },
     {
       "id": "0c1e3104a72ea03b",
@@ -4677,7 +5109,7 @@
       "stage": "Scene 2",
       "genre": null,
       "sold_out": false,
-      "scraped_at": "2026-08-21T05:32:00.486832"
+      "scraped_at": "2026-08-22T05:26:21.897839"
     },
     {
       "id": "d494908c60feb86e",
@@ -4693,7 +5125,7 @@
       "stage": "Hovedscenen",
       "genre": null,
       "sold_out": false,
-      "scraped_at": "2026-08-21T05:31:26.004319"
+      "scraped_at": "2026-08-22T05:25:51.193836"
     },
     {
       "id": "7feac32dd93fe855",
@@ -4709,7 +5141,23 @@
       "stage": "Scene 3",
       "genre": null,
       "sold_out": false,
-      "scraped_at": "2026-08-21T05:32:05.607171"
+      "scraped_at": "2026-08-22T05:26:25.653318"
+    },
+    {
+      "id": "0aafa08f02b712bf",
+      "title": "Søstrene",
+      "venue": "Det Norske Teatret",
+      "venue_slug": "det-norske-teatret",
+      "start": "2026-11-04T19:00:00",
+      "end": "2026-11-04T22:30:00",
+      "description": "Opplev teaterversjonen av Jonas Hassen Khemiris kritikarroste roman - eit eit storslått familiedrama på Hovudscenen hausten 2026!",
+      "image_url": "https://s3.eu-north-1.amazonaws.com/detnorsketeatret/media/_1200x630_crop_center-center_82_none/EirikMalmo_DNT_Søstrere_M5A2614_Utkast_01.jpg?mtime=1781771529",
+      "ticket_url": "https://www.detnorsketeatret.no/framsyningar/sostrene",
+      "detail_url": "https://www.detnorsketeatret.no/framsyningar/sostrene",
+      "stage": "Hovudscenen",
+      "genre": null,
+      "sold_out": false,
+      "scraped_at": "2026-08-22T05:26:10.594757"
     },
     {
       "id": "8156f16621032638",
@@ -4725,7 +5173,7 @@
       "stage": "Scene 2",
       "genre": null,
       "sold_out": false,
-      "scraped_at": "2026-08-21T05:31:59.735592"
+      "scraped_at": "2026-08-22T05:26:21.107346"
     },
     {
       "id": "f32d43e0915aa996",
@@ -4741,7 +5189,7 @@
       "stage": "Bikuben",
       "genre": null,
       "sold_out": false,
-      "scraped_at": "2026-08-21T05:32:06.402236"
+      "scraped_at": "2026-08-22T05:26:29.056624"
     },
     {
       "id": "82936bcbf7b544a6",
@@ -4757,7 +5205,7 @@
       "stage": "Vega Scene",
       "genre": null,
       "sold_out": false,
-      "scraped_at": "2026-08-21T05:32:52.282251"
+      "scraped_at": "2026-08-22T05:27:16.387892"
     },
     {
       "id": "f3a300ca4263b4fd",
@@ -4773,7 +5221,7 @@
       "stage": "Hovudscenen",
       "genre": null,
       "sold_out": false,
-      "scraped_at": "2026-08-21T05:31:49.458108"
+      "scraped_at": "2026-08-22T05:26:10.855587"
     },
     {
       "id": "3afe7962121b8d66",
@@ -4789,7 +5237,7 @@
       "stage": "Scene 2",
       "genre": null,
       "sold_out": false,
-      "scraped_at": "2026-08-21T05:31:59.735600"
+      "scraped_at": "2026-08-22T05:26:21.107356"
     },
     {
       "id": "a82b54f7282ebb7d",
@@ -4805,7 +5253,7 @@
       "stage": "Scene 3",
       "genre": null,
       "sold_out": false,
-      "scraped_at": "2026-08-21T05:32:05.607178"
+      "scraped_at": "2026-08-22T05:26:25.653327"
     },
     {
       "id": "2197a2d9788b2d08",
@@ -4821,7 +5269,7 @@
       "stage": "Vega Scene",
       "genre": null,
       "sold_out": false,
-      "scraped_at": "2026-08-21T05:32:52.282485"
+      "scraped_at": "2026-08-22T05:27:16.388200"
     },
     {
       "id": "186cb730936f8cbe",
@@ -4837,7 +5285,7 @@
       "stage": "Scene 2",
       "genre": null,
       "sold_out": false,
-      "scraped_at": "2026-08-21T05:31:59.735608"
+      "scraped_at": "2026-08-22T05:26:21.107366"
     },
     {
       "id": "36047188ffc13065",
@@ -4853,7 +5301,7 @@
       "stage": null,
       "genre": "Musikal ,  Scenekvelder",
       "sold_out": false,
-      "scraped_at": "2026-08-21T05:33:08.809040"
+      "scraped_at": "2026-08-22T05:27:35.097189"
     },
     {
       "id": "d77ed04f0e9c2f23",
@@ -4869,7 +5317,7 @@
       "stage": "Hovudscenen",
       "genre": null,
       "sold_out": false,
-      "scraped_at": "2026-08-21T05:31:49.458116"
+      "scraped_at": "2026-08-22T05:26:10.855597"
     },
     {
       "id": "2d1efe5100f7074d",
@@ -4885,7 +5333,7 @@
       "stage": null,
       "genre": "Musikal ,  Scenekvelder",
       "sold_out": false,
-      "scraped_at": "2026-08-21T05:33:08.809061"
+      "scraped_at": "2026-08-22T05:27:35.097217"
     },
     {
       "id": "480ce24d58f881d4",
@@ -4901,7 +5349,7 @@
       "stage": "Amfiscenen",
       "genre": null,
       "sold_out": false,
-      "scraped_at": "2026-08-21T05:31:15.134115"
+      "scraped_at": "2026-08-22T05:25:43.429592"
     },
     {
       "id": "f5aa1d7ff127929f",
@@ -4917,7 +5365,7 @@
       "stage": "Hovedscenen",
       "genre": null,
       "sold_out": false,
-      "scraped_at": "2026-08-21T05:31:09.960034"
+      "scraped_at": "2026-08-22T05:25:39.183711"
     },
     {
       "id": "2624fe83473811f3",
@@ -4933,7 +5381,7 @@
       "stage": "Hovudscenen",
       "genre": null,
       "sold_out": false,
-      "scraped_at": "2026-08-21T05:31:49.458123"
+      "scraped_at": "2026-08-22T05:26:10.855606"
     },
     {
       "id": "1c138da770d62058",
@@ -4949,7 +5397,7 @@
       "stage": "Vega Scene",
       "genre": null,
       "sold_out": false,
-      "scraped_at": "2026-08-21T05:32:52.282718"
+      "scraped_at": "2026-08-22T05:27:16.388507"
     },
     {
       "id": "52fda529b85141ab",
@@ -4965,7 +5413,7 @@
       "stage": null,
       "genre": "Musikal ,  Scenekvelder",
       "sold_out": false,
-      "scraped_at": "2026-08-21T05:33:08.809083"
+      "scraped_at": "2026-08-22T05:27:35.097245"
     },
     {
       "id": "09110261321b37c3",
@@ -4981,7 +5429,7 @@
       "stage": "Hovudscenen",
       "genre": null,
       "sold_out": false,
-      "scraped_at": "2026-08-21T05:31:49.458130"
+      "scraped_at": "2026-08-22T05:26:10.855616"
     },
     {
       "id": "78e28fbe4b426ea4",
@@ -4997,7 +5445,7 @@
       "stage": null,
       "genre": null,
       "sold_out": false,
-      "scraped_at": "2026-08-21T05:33:02.717301"
+      "scraped_at": "2026-08-22T05:27:28.482992"
     },
     {
       "id": "770dac5ab4dbe6e4",
@@ -5013,7 +5461,7 @@
       "stage": null,
       "genre": "Musikal ,  Scenekvelder",
       "sold_out": false,
-      "scraped_at": "2026-08-21T05:33:08.809106"
+      "scraped_at": "2026-08-22T05:27:35.097273"
     },
     {
       "id": "a4e435af87bf840f",
@@ -5029,7 +5477,7 @@
       "stage": "Vega Scene",
       "genre": null,
       "sold_out": false,
-      "scraped_at": "2026-08-21T05:32:52.282962"
+      "scraped_at": "2026-08-22T05:27:16.388824"
     },
     {
       "id": "7637f0280ee44fda",
@@ -5045,7 +5493,7 @@
       "stage": null,
       "genre": "Foredrag/Kurs",
       "sold_out": false,
-      "scraped_at": "2026-08-21T05:33:12.586647"
+      "scraped_at": "2026-08-22T05:27:38.393690"
     },
     {
       "id": "27c9a7587793a20f",
@@ -5061,7 +5509,7 @@
       "stage": "Bikuben",
       "genre": null,
       "sold_out": false,
-      "scraped_at": "2026-08-21T05:32:06.402243"
+      "scraped_at": "2026-08-22T05:26:29.056634"
     },
     {
       "id": "7c57da2cfaae5d1d",
@@ -5077,7 +5525,7 @@
       "stage": "Hovudscenen",
       "genre": null,
       "sold_out": false,
-      "scraped_at": "2026-08-21T05:31:49.458137"
+      "scraped_at": "2026-08-22T05:26:10.855626"
     },
     {
       "id": "2fb8056dccc7b690",
@@ -5093,7 +5541,7 @@
       "stage": "Scene 3",
       "genre": null,
       "sold_out": false,
-      "scraped_at": "2026-08-21T05:32:05.607186"
+      "scraped_at": "2026-08-22T05:26:25.653337"
     },
     {
       "id": "fd4e0f731f3cd0ee",
@@ -5109,7 +5557,7 @@
       "stage": "Hovudscenen",
       "genre": null,
       "sold_out": false,
-      "scraped_at": "2026-08-21T05:31:49.458146"
+      "scraped_at": "2026-08-22T05:26:10.855636"
     },
     {
       "id": "a9270ae40cedd370",
@@ -5125,7 +5573,7 @@
       "stage": "Bikuben",
       "genre": null,
       "sold_out": false,
-      "scraped_at": "2026-08-21T05:32:06.402251"
+      "scraped_at": "2026-08-22T05:26:29.056643"
     },
     {
       "id": "5dbbe0b440d5b692",
@@ -5141,7 +5589,7 @@
       "stage": "Hovudscenen",
       "genre": null,
       "sold_out": false,
-      "scraped_at": "2026-08-21T05:31:49.458157"
+      "scraped_at": "2026-08-22T05:26:10.855645"
     },
     {
       "id": "6b57f091890313ab",
@@ -5157,7 +5605,7 @@
       "stage": "Hovudscenen",
       "genre": null,
       "sold_out": false,
-      "scraped_at": "2026-08-21T05:31:49.458166"
+      "scraped_at": "2026-08-22T05:26:10.855655"
     },
     {
       "id": "bb332859610f1049",
@@ -5173,7 +5621,7 @@
       "stage": null,
       "genre": "Musikal ,  Scenekvelder",
       "sold_out": false,
-      "scraped_at": "2026-08-21T05:33:08.809127"
+      "scraped_at": "2026-08-22T05:27:35.097301"
     },
     {
       "id": "a394af8246ff03cc",
@@ -5189,7 +5637,23 @@
       "stage": null,
       "genre": "Musikal ,  Scenekvelder",
       "sold_out": false,
-      "scraped_at": "2026-08-21T05:33:08.809149"
+      "scraped_at": "2026-08-22T05:27:35.097329"
+    },
+    {
+      "id": "51731df4020d39fb",
+      "title": "Søstrene",
+      "venue": "Det Norske Teatret",
+      "venue_slug": "det-norske-teatret",
+      "start": "2026-11-14T16:00:00",
+      "end": "2026-11-14T19:30:00",
+      "description": "Opplev teaterversjonen av Jonas Hassen Khemiris kritikarroste roman - eit eit storslått familiedrama på Hovudscenen hausten 2026!",
+      "image_url": "https://s3.eu-north-1.amazonaws.com/detnorsketeatret/media/_1200x630_crop_center-center_82_none/EirikMalmo_DNT_Søstrere_M5A2614_Utkast_01.jpg?mtime=1781771529",
+      "ticket_url": "https://www.detnorsketeatret.no/framsyningar/sostrene",
+      "detail_url": "https://www.detnorsketeatret.no/framsyningar/sostrene",
+      "stage": "Hovudscenen",
+      "genre": null,
+      "sold_out": false,
+      "scraped_at": "2026-08-22T05:26:10.594767"
     },
     {
       "id": "ac0d992106713a44",
@@ -5205,7 +5669,23 @@
       "stage": "Scene 3",
       "genre": null,
       "sold_out": false,
-      "scraped_at": "2026-08-21T05:32:05.607194"
+      "scraped_at": "2026-08-22T05:26:25.653346"
+    },
+    {
+      "id": "cca625dea0832ac6",
+      "title": "Da vi var yngre",
+      "venue": "Det Norske Teatret",
+      "venue_slug": "det-norske-teatret",
+      "start": "2026-11-14T17:00:00",
+      "end": "2026-11-14T18:30:00",
+      "description": "Oliver Lovrenski brakdebuterte med romanen Da vi var yngre. No kjem den til scenen med Aksel Hennie i registolen og rapparen Jonas Benyoub i rolla som Ivor.",
+      "image_url": "https://s3.eu-north-1.amazonaws.com/detnorsketeatret/media/framsyningar/arv-og-miljo/_1200x630_crop_center-center_82_none/Da-vi-var-yngre_OHA-19.jpg?mtime=1771367338",
+      "ticket_url": "https://www.detnorsketeatret.no/framsyningar/da-vi-var-yngre",
+      "detail_url": "https://www.detnorsketeatret.no/framsyningar/da-vi-var-yngre",
+      "stage": "Scene 2",
+      "genre": null,
+      "sold_out": false,
+      "scraped_at": "2026-08-22T05:26:22.165130"
     },
     {
       "id": "9a9166839d906745",
@@ -5221,7 +5701,7 @@
       "stage": "Scene 3",
       "genre": null,
       "sold_out": false,
-      "scraped_at": "2026-08-21T05:32:05.607201"
+      "scraped_at": "2026-08-22T05:26:25.653356"
     },
     {
       "id": "7881c9ee2df563a7",
@@ -5237,7 +5717,7 @@
       "stage": null,
       "genre": "Musikal ,  Scenekvelder",
       "sold_out": false,
-      "scraped_at": "2026-08-21T05:33:08.809170"
+      "scraped_at": "2026-08-22T05:27:35.097358"
     },
     {
       "id": "dfa60ee26dbe4100",
@@ -5253,7 +5733,7 @@
       "stage": null,
       "genre": "Musikal ,  Scenekvelder",
       "sold_out": false,
-      "scraped_at": "2026-08-21T05:33:08.809193"
+      "scraped_at": "2026-08-22T05:27:35.097386"
     },
     {
       "id": "72587bcf1dbcd1ad",
@@ -5269,7 +5749,23 @@
       "stage": null,
       "genre": null,
       "sold_out": false,
-      "scraped_at": "2026-08-21T05:33:02.717355"
+      "scraped_at": "2026-08-22T05:27:28.483058"
+    },
+    {
+      "id": "658644b497bfe905",
+      "title": "Da vi var yngre",
+      "venue": "Det Norske Teatret",
+      "venue_slug": "det-norske-teatret",
+      "start": "2026-11-17T12:00:00",
+      "end": "2026-11-17T13:30:00",
+      "description": "Oliver Lovrenski brakdebuterte med romanen Da vi var yngre. No kjem den til scenen med Aksel Hennie i registolen og rapparen Jonas Benyoub i rolla som Ivor.",
+      "image_url": "https://s3.eu-north-1.amazonaws.com/detnorsketeatret/media/framsyningar/arv-og-miljo/_1200x630_crop_center-center_82_none/Da-vi-var-yngre_OHA-19.jpg?mtime=1771367338",
+      "ticket_url": "https://www.detnorsketeatret.no/framsyningar/da-vi-var-yngre",
+      "detail_url": "https://www.detnorsketeatret.no/framsyningar/da-vi-var-yngre",
+      "stage": "Scene 2",
+      "genre": null,
+      "sold_out": false,
+      "scraped_at": "2026-08-22T05:26:22.165140"
     },
     {
       "id": "4eafb952eb417424",
@@ -5285,7 +5781,23 @@
       "stage": "Bikuben",
       "genre": null,
       "sold_out": false,
-      "scraped_at": "2026-08-21T05:32:06.402258"
+      "scraped_at": "2026-08-22T05:26:29.056652"
+    },
+    {
+      "id": "4a85076fa81283b3",
+      "title": "Frankenstein",
+      "venue": "Det Norske Teatret",
+      "venue_slug": "det-norske-teatret",
+      "start": "2026-11-17T18:00:00",
+      "end": "2026-11-17T19:30:00",
+      "description": "Velkommen til ein skrekkeleg teatergrøssar for barn! Passar for modige barn og skvetne vaksne frå 10 år. Kjøp billettar her!",
+      "image_url": "https://s3.eu-north-1.amazonaws.com/detnorsketeatret/media/_1200x630_crop_center-center_82_none/EirikMalmo_DNT_Frankenstein_MAA9293_01.jpg?mtime=1775743740",
+      "ticket_url": "https://www.detnorsketeatret.no/framsyningar/frankenstein",
+      "detail_url": "https://www.detnorsketeatret.no/framsyningar/frankenstein",
+      "stage": "Scene 3",
+      "genre": null,
+      "sold_out": false,
+      "scraped_at": "2026-08-22T05:26:25.653365"
     },
     {
       "id": "14cd10d4fb7c272c",
@@ -5301,7 +5813,23 @@
       "stage": "Hovudscenen",
       "genre": null,
       "sold_out": false,
-      "scraped_at": "2026-08-21T05:31:49.458173"
+      "scraped_at": "2026-08-22T05:26:10.855664"
+    },
+    {
+      "id": "a3facee4d4723c05",
+      "title": "Da vi var yngre",
+      "venue": "Det Norske Teatret",
+      "venue_slug": "det-norske-teatret",
+      "start": "2026-11-18T12:00:00",
+      "end": "2026-11-18T13:30:00",
+      "description": "Oliver Lovrenski brakdebuterte med romanen Da vi var yngre. No kjem den til scenen med Aksel Hennie i registolen og rapparen Jonas Benyoub i rolla som Ivor.",
+      "image_url": "https://s3.eu-north-1.amazonaws.com/detnorsketeatret/media/framsyningar/arv-og-miljo/_1200x630_crop_center-center_82_none/Da-vi-var-yngre_OHA-19.jpg?mtime=1771367338",
+      "ticket_url": "https://www.detnorsketeatret.no/framsyningar/da-vi-var-yngre",
+      "detail_url": "https://www.detnorsketeatret.no/framsyningar/da-vi-var-yngre",
+      "stage": "Scene 2",
+      "genre": null,
+      "sold_out": false,
+      "scraped_at": "2026-08-22T05:26:22.165150"
     },
     {
       "id": "e0c1ade75b7238aa",
@@ -5317,7 +5845,7 @@
       "stage": "Hovudscenen",
       "genre": null,
       "sold_out": false,
-      "scraped_at": "2026-08-21T05:31:49.458181"
+      "scraped_at": "2026-08-22T05:26:10.855674"
     },
     {
       "id": "2a15d6f692988577",
@@ -5333,7 +5861,23 @@
       "stage": null,
       "genre": "Musikal ,  Scenekvelder",
       "sold_out": true,
-      "scraped_at": "2026-08-21T05:33:08.809208"
+      "scraped_at": "2026-08-22T05:27:35.097405"
+    },
+    {
+      "id": "c3ceeb38524adb13",
+      "title": "Da vi var yngre",
+      "venue": "Det Norske Teatret",
+      "venue_slug": "det-norske-teatret",
+      "start": "2026-11-19T12:00:00",
+      "end": "2026-11-19T13:30:00",
+      "description": "Oliver Lovrenski brakdebuterte med romanen Da vi var yngre. No kjem den til scenen med Aksel Hennie i registolen og rapparen Jonas Benyoub i rolla som Ivor.",
+      "image_url": "https://s3.eu-north-1.amazonaws.com/detnorsketeatret/media/framsyningar/arv-og-miljo/_1200x630_crop_center-center_82_none/Da-vi-var-yngre_OHA-19.jpg?mtime=1771367338",
+      "ticket_url": "https://www.detnorsketeatret.no/framsyningar/da-vi-var-yngre",
+      "detail_url": "https://www.detnorsketeatret.no/framsyningar/da-vi-var-yngre",
+      "stage": "Scene 2",
+      "genre": null,
+      "sold_out": false,
+      "scraped_at": "2026-08-22T05:26:22.165160"
     },
     {
       "id": "7d3c0bc6adc926e5",
@@ -5349,7 +5893,7 @@
       "stage": "Bikuben",
       "genre": null,
       "sold_out": false,
-      "scraped_at": "2026-08-21T05:32:06.402265"
+      "scraped_at": "2026-08-22T05:26:29.056662"
     },
     {
       "id": "9bc5f1ce46d471ec",
@@ -5365,7 +5909,7 @@
       "stage": "Scenehuset",
       "genre": null,
       "sold_out": false,
-      "scraped_at": "2026-08-21T05:32:17.202391"
+      "scraped_at": "2026-08-22T05:26:40.973954"
     },
     {
       "id": "488124aff1463755",
@@ -5381,7 +5925,7 @@
       "stage": "Scene 3",
       "genre": null,
       "sold_out": false,
-      "scraped_at": "2026-08-21T05:32:05.868198"
+      "scraped_at": "2026-08-22T05:26:25.920285"
     },
     {
       "id": "f4f13194f5a7d414",
@@ -5397,7 +5941,23 @@
       "stage": "Hovudscenen",
       "genre": null,
       "sold_out": false,
-      "scraped_at": "2026-08-21T05:31:49.458188"
+      "scraped_at": "2026-08-22T05:26:10.855683"
+    },
+    {
+      "id": "308e2bf3e446a032",
+      "title": "Da vi var yngre",
+      "venue": "Det Norske Teatret",
+      "venue_slug": "det-norske-teatret",
+      "start": "2026-11-20T12:00:00",
+      "end": "2026-11-20T13:30:00",
+      "description": "Oliver Lovrenski brakdebuterte med romanen Da vi var yngre. No kjem den til scenen med Aksel Hennie i registolen og rapparen Jonas Benyoub i rolla som Ivor.",
+      "image_url": "https://s3.eu-north-1.amazonaws.com/detnorsketeatret/media/framsyningar/arv-og-miljo/_1200x630_crop_center-center_82_none/Da-vi-var-yngre_OHA-19.jpg?mtime=1771367338",
+      "ticket_url": "https://www.detnorsketeatret.no/framsyningar/da-vi-var-yngre",
+      "detail_url": "https://www.detnorsketeatret.no/framsyningar/da-vi-var-yngre",
+      "stage": "Scene 2",
+      "genre": null,
+      "sold_out": false,
+      "scraped_at": "2026-08-22T05:26:22.165178"
     },
     {
       "id": "5075698af3ab8c79",
@@ -5413,7 +5973,7 @@
       "stage": "Torshovteatret",
       "genre": null,
       "sold_out": false,
-      "scraped_at": "2026-08-21T05:31:12.843183"
+      "scraped_at": "2026-08-22T05:25:41.480830"
     },
     {
       "id": "f292a652123dc902",
@@ -5429,7 +5989,7 @@
       "stage": "Scene 3",
       "genre": null,
       "sold_out": false,
-      "scraped_at": "2026-08-21T05:32:05.868217"
+      "scraped_at": "2026-08-22T05:26:25.920309"
     },
     {
       "id": "fee50a3f47ac9095",
@@ -5445,7 +6005,7 @@
       "stage": "Hovudscenen",
       "genre": null,
       "sold_out": false,
-      "scraped_at": "2026-08-21T05:31:49.458195"
+      "scraped_at": "2026-08-22T05:26:10.855692"
     },
     {
       "id": "3d4f86f023e77be4",
@@ -5461,7 +6021,7 @@
       "stage": null,
       "genre": "Musikal ,  Scenekvelder",
       "sold_out": false,
-      "scraped_at": "2026-08-21T05:33:08.809229"
+      "scraped_at": "2026-08-22T05:27:35.097433"
     },
     {
       "id": "1be1ac803d13e946",
@@ -5477,7 +6037,7 @@
       "stage": null,
       "genre": "Musikal ,  Scenekvelder",
       "sold_out": false,
-      "scraped_at": "2026-08-21T05:33:08.809251"
+      "scraped_at": "2026-08-22T05:27:35.097461"
     },
     {
       "id": "91acc308053ac0b9",
@@ -5493,7 +6053,7 @@
       "stage": "Scene 3",
       "genre": null,
       "sold_out": false,
-      "scraped_at": "2026-08-21T05:32:05.868226"
+      "scraped_at": "2026-08-22T05:26:25.920322"
     },
     {
       "id": "264d6676674bf10d",
@@ -5509,7 +6069,7 @@
       "stage": "Hovudscenen",
       "genre": null,
       "sold_out": false,
-      "scraped_at": "2026-08-21T05:31:49.458202"
+      "scraped_at": "2026-08-22T05:26:10.855701"
     },
     {
       "id": "76f51ac31f846281",
@@ -5525,7 +6085,7 @@
       "stage": "Scene 3",
       "genre": null,
       "sold_out": false,
-      "scraped_at": "2026-08-21T05:32:05.868234"
+      "scraped_at": "2026-08-22T05:26:25.920333"
     },
     {
       "id": "3ebd074d049e2f0b",
@@ -5541,7 +6101,7 @@
       "stage": null,
       "genre": "Musikal ,  Scenekvelder",
       "sold_out": false,
-      "scraped_at": "2026-08-21T05:33:08.809273"
+      "scraped_at": "2026-08-22T05:27:35.097489"
     },
     {
       "id": "a602d3e1fa179398",
@@ -5557,7 +6117,7 @@
       "stage": null,
       "genre": "Musikal ,  Scenekvelder",
       "sold_out": false,
-      "scraped_at": "2026-08-21T05:33:08.809294"
+      "scraped_at": "2026-08-22T05:27:35.097516"
     },
     {
       "id": "36ecff36ddac0559",
@@ -5573,7 +6133,23 @@
       "stage": null,
       "genre": null,
       "sold_out": false,
-      "scraped_at": "2026-08-21T05:33:02.717409"
+      "scraped_at": "2026-08-22T05:27:28.483126"
+    },
+    {
+      "id": "9587d22945348a89",
+      "title": "Da vi var yngre",
+      "venue": "Det Norske Teatret",
+      "venue_slug": "det-norske-teatret",
+      "start": "2026-11-23T12:00:00",
+      "end": "2026-11-23T13:30:00",
+      "description": "Oliver Lovrenski brakdebuterte med romanen Da vi var yngre. No kjem den til scenen med Aksel Hennie i registolen og rapparen Jonas Benyoub i rolla som Ivor.",
+      "image_url": "https://s3.eu-north-1.amazonaws.com/detnorsketeatret/media/framsyningar/arv-og-miljo/_1200x630_crop_center-center_82_none/Da-vi-var-yngre_OHA-19.jpg?mtime=1771367338",
+      "ticket_url": "https://www.detnorsketeatret.no/framsyningar/da-vi-var-yngre",
+      "detail_url": "https://www.detnorsketeatret.no/framsyningar/da-vi-var-yngre",
+      "stage": "Scene 2",
+      "genre": null,
+      "sold_out": false,
+      "scraped_at": "2026-08-22T05:26:22.165188"
     },
     {
       "id": "363bb58f2c392948",
@@ -5589,7 +6165,23 @@
       "stage": "Riksteatret",
       "genre": null,
       "sold_out": false,
-      "scraped_at": "2026-08-21T05:32:52.462580"
+      "scraped_at": "2026-08-22T05:27:16.578554"
+    },
+    {
+      "id": "af2e9e75fda2ecb6",
+      "title": "Da vi var yngre",
+      "venue": "Det Norske Teatret",
+      "venue_slug": "det-norske-teatret",
+      "start": "2026-11-24T12:00:00",
+      "end": "2026-11-24T13:30:00",
+      "description": "Oliver Lovrenski brakdebuterte med romanen Da vi var yngre. No kjem den til scenen med Aksel Hennie i registolen og rapparen Jonas Benyoub i rolla som Ivor.",
+      "image_url": "https://s3.eu-north-1.amazonaws.com/detnorsketeatret/media/framsyningar/arv-og-miljo/_1200x630_crop_center-center_82_none/Da-vi-var-yngre_OHA-19.jpg?mtime=1771367338",
+      "ticket_url": "https://www.detnorsketeatret.no/framsyningar/da-vi-var-yngre",
+      "detail_url": "https://www.detnorsketeatret.no/framsyningar/da-vi-var-yngre",
+      "stage": "Scene 2",
+      "genre": null,
+      "sold_out": false,
+      "scraped_at": "2026-08-22T05:26:22.165198"
     },
     {
       "id": "a2e7c65eedc299bb",
@@ -5605,7 +6197,7 @@
       "stage": "Bikuben",
       "genre": null,
       "sold_out": false,
-      "scraped_at": "2026-08-21T05:32:06.402273"
+      "scraped_at": "2026-08-22T05:26:29.056671"
     },
     {
       "id": "ad9e417a9a50b648",
@@ -5621,7 +6213,7 @@
       "stage": "Scene 3",
       "genre": null,
       "sold_out": false,
-      "scraped_at": "2026-08-21T05:32:05.868242"
+      "scraped_at": "2026-08-22T05:26:25.920343"
     },
     {
       "id": "e2c32738ad37d212",
@@ -5637,7 +6229,7 @@
       "stage": null,
       "genre": null,
       "sold_out": false,
-      "scraped_at": "2026-08-21T05:33:02.717459"
+      "scraped_at": "2026-08-22T05:27:28.483194"
     },
     {
       "id": "e7ecffe6b7bbd3ad",
@@ -5653,7 +6245,7 @@
       "stage": null,
       "genre": "Standup",
       "sold_out": false,
-      "scraped_at": "2026-08-21T05:33:13.120133"
+      "scraped_at": "2026-08-22T05:27:38.764285"
     },
     {
       "id": "ccd98cb27feffa73",
@@ -5669,7 +6261,23 @@
       "stage": "Riksteatret",
       "genre": null,
       "sold_out": false,
-      "scraped_at": "2026-08-21T05:32:52.462805"
+      "scraped_at": "2026-08-22T05:27:16.578877"
+    },
+    {
+      "id": "d62c9693bf144480",
+      "title": "Da vi var yngre",
+      "venue": "Det Norske Teatret",
+      "venue_slug": "det-norske-teatret",
+      "start": "2026-11-25T12:00:00",
+      "end": "2026-11-25T13:30:00",
+      "description": "Oliver Lovrenski brakdebuterte med romanen Da vi var yngre. No kjem den til scenen med Aksel Hennie i registolen og rapparen Jonas Benyoub i rolla som Ivor.",
+      "image_url": "https://s3.eu-north-1.amazonaws.com/detnorsketeatret/media/framsyningar/arv-og-miljo/_1200x630_crop_center-center_82_none/Da-vi-var-yngre_OHA-19.jpg?mtime=1771367338",
+      "ticket_url": "https://www.detnorsketeatret.no/framsyningar/da-vi-var-yngre",
+      "detail_url": "https://www.detnorsketeatret.no/framsyningar/da-vi-var-yngre",
+      "stage": "Scene 2",
+      "genre": null,
+      "sold_out": false,
+      "scraped_at": "2026-08-22T05:26:22.165207"
     },
     {
       "id": "96e23f08f88ac368",
@@ -5685,7 +6293,7 @@
       "stage": "Scene 3",
       "genre": null,
       "sold_out": false,
-      "scraped_at": "2026-08-21T05:32:05.607208"
+      "scraped_at": "2026-08-22T05:26:25.653375"
     },
     {
       "id": "bdc1b6d337281fa7",
@@ -5701,7 +6309,23 @@
       "stage": "Scene 3",
       "genre": null,
       "sold_out": false,
-      "scraped_at": "2026-08-21T05:32:05.868251"
+      "scraped_at": "2026-08-22T05:26:25.920355"
+    },
+    {
+      "id": "125a21a1d1c10a59",
+      "title": "Søstrene",
+      "venue": "Det Norske Teatret",
+      "venue_slug": "det-norske-teatret",
+      "start": "2026-11-25T19:00:00",
+      "end": "2026-11-25T22:30:00",
+      "description": "Opplev teaterversjonen av Jonas Hassen Khemiris kritikarroste roman - eit eit storslått familiedrama på Hovudscenen hausten 2026!",
+      "image_url": "https://s3.eu-north-1.amazonaws.com/detnorsketeatret/media/_1200x630_crop_center-center_82_none/EirikMalmo_DNT_Søstrere_M5A2614_Utkast_01.jpg?mtime=1781771529",
+      "ticket_url": "https://www.detnorsketeatret.no/framsyningar/sostrene",
+      "detail_url": "https://www.detnorsketeatret.no/framsyningar/sostrene",
+      "stage": "Hovudscenen",
+      "genre": null,
+      "sold_out": false,
+      "scraped_at": "2026-08-22T05:26:10.594777"
     },
     {
       "id": "2578402a3563d89e",
@@ -5717,7 +6341,23 @@
       "stage": "Riksteatret",
       "genre": null,
       "sold_out": false,
-      "scraped_at": "2026-08-21T05:32:52.463035"
+      "scraped_at": "2026-08-22T05:27:16.579189"
+    },
+    {
+      "id": "e270b21ee8a0b290",
+      "title": "Da vi var yngre",
+      "venue": "Det Norske Teatret",
+      "venue_slug": "det-norske-teatret",
+      "start": "2026-11-26T12:00:00",
+      "end": "2026-11-26T13:30:00",
+      "description": "Oliver Lovrenski brakdebuterte med romanen Da vi var yngre. No kjem den til scenen med Aksel Hennie i registolen og rapparen Jonas Benyoub i rolla som Ivor.",
+      "image_url": "https://s3.eu-north-1.amazonaws.com/detnorsketeatret/media/framsyningar/arv-og-miljo/_1200x630_crop_center-center_82_none/Da-vi-var-yngre_OHA-19.jpg?mtime=1771367338",
+      "ticket_url": "https://www.detnorsketeatret.no/framsyningar/da-vi-var-yngre",
+      "detail_url": "https://www.detnorsketeatret.no/framsyningar/da-vi-var-yngre",
+      "stage": "Scene 2",
+      "genre": null,
+      "sold_out": false,
+      "scraped_at": "2026-08-22T05:26:22.165217"
     },
     {
       "id": "24434198ea08c7e3",
@@ -5733,7 +6373,7 @@
       "stage": "Scene 3",
       "genre": null,
       "sold_out": false,
-      "scraped_at": "2026-08-21T05:32:05.607216"
+      "scraped_at": "2026-08-22T05:26:25.653385"
     },
     {
       "id": "9297f21eb940372c",
@@ -5749,7 +6389,7 @@
       "stage": "Scene 3",
       "genre": null,
       "sold_out": false,
-      "scraped_at": "2026-08-21T05:32:05.868259"
+      "scraped_at": "2026-08-22T05:26:25.920367"
     },
     {
       "id": "e93a96f9be248a25",
@@ -5765,7 +6405,7 @@
       "stage": "Hausmania",
       "genre": null,
       "sold_out": false,
-      "scraped_at": "2026-08-21T05:32:17.202544"
+      "scraped_at": "2026-08-22T05:26:40.974157"
     },
     {
       "id": "093e3cf1c4901bcc",
@@ -5781,7 +6421,23 @@
       "stage": "Scene 2",
       "genre": null,
       "sold_out": false,
-      "scraped_at": "2026-08-21T05:32:00.486862"
+      "scraped_at": "2026-08-22T05:26:21.897863"
+    },
+    {
+      "id": "7c4f5c6a0f133c9c",
+      "title": "Da vi var yngre",
+      "venue": "Det Norske Teatret",
+      "venue_slug": "det-norske-teatret",
+      "start": "2026-11-27T12:00:00",
+      "end": "2026-11-27T13:30:00",
+      "description": "Oliver Lovrenski brakdebuterte med romanen Da vi var yngre. No kjem den til scenen med Aksel Hennie i registolen og rapparen Jonas Benyoub i rolla som Ivor.",
+      "image_url": "https://s3.eu-north-1.amazonaws.com/detnorsketeatret/media/framsyningar/arv-og-miljo/_1200x630_crop_center-center_82_none/Da-vi-var-yngre_OHA-19.jpg?mtime=1771367338",
+      "ticket_url": "https://www.detnorsketeatret.no/framsyningar/da-vi-var-yngre",
+      "detail_url": "https://www.detnorsketeatret.no/framsyningar/da-vi-var-yngre",
+      "stage": "Scene 2",
+      "genre": null,
+      "sold_out": false,
+      "scraped_at": "2026-08-22T05:26:22.165228"
     },
     {
       "id": "a39d99ec258b5b66",
@@ -5797,7 +6453,7 @@
       "stage": "Scene 3",
       "genre": null,
       "sold_out": false,
-      "scraped_at": "2026-08-21T05:32:05.868267"
+      "scraped_at": "2026-08-22T05:26:25.920378"
     },
     {
       "id": "32e396b5d9144ada",
@@ -5813,7 +6469,7 @@
       "stage": "Riksteatret",
       "genre": null,
       "sold_out": false,
-      "scraped_at": "2026-08-21T05:32:52.463250"
+      "scraped_at": "2026-08-22T05:27:16.579472"
     },
     {
       "id": "66f34a48463d7443",
@@ -5829,7 +6485,7 @@
       "stage": "Hausmania",
       "genre": null,
       "sold_out": false,
-      "scraped_at": "2026-08-21T05:32:17.202695"
+      "scraped_at": "2026-08-22T05:26:40.974341"
     },
     {
       "id": "c5a825809293e698",
@@ -5845,7 +6501,7 @@
       "stage": null,
       "genre": "Musikal ,  Scenekvelder",
       "sold_out": false,
-      "scraped_at": "2026-08-21T05:33:08.809316"
+      "scraped_at": "2026-08-22T05:27:35.097544"
     },
     {
       "id": "fe4ff302ba4ff600",
@@ -5861,7 +6517,7 @@
       "stage": "Riksteatret",
       "genre": null,
       "sold_out": false,
-      "scraped_at": "2026-08-21T05:32:52.463463"
+      "scraped_at": "2026-08-22T05:27:16.579754"
     },
     {
       "id": "cd64c8032e1bb761",
@@ -5877,7 +6533,7 @@
       "stage": "Teater Manu",
       "genre": null,
       "sold_out": false,
-      "scraped_at": "2026-08-21T05:32:57.056246"
+      "scraped_at": "2026-08-22T05:27:22.943760"
     },
     {
       "id": "23e4b91628339685",
@@ -5893,7 +6549,7 @@
       "stage": "Scene 3",
       "genre": null,
       "sold_out": false,
-      "scraped_at": "2026-08-21T05:32:05.868275"
+      "scraped_at": "2026-08-22T05:26:25.920390"
     },
     {
       "id": "df057d4dd86b51d6",
@@ -5909,7 +6565,7 @@
       "stage": "Scene 3",
       "genre": null,
       "sold_out": false,
-      "scraped_at": "2026-08-21T05:32:05.868283"
+      "scraped_at": "2026-08-22T05:26:25.920402"
     },
     {
       "id": "453e24c8e705c454",
@@ -5925,7 +6581,7 @@
       "stage": "Hovudscenen",
       "genre": null,
       "sold_out": false,
-      "scraped_at": "2026-08-21T05:31:52.645552"
+      "scraped_at": "2026-08-22T05:26:14.420875"
     },
     {
       "id": "e671591ede83476f",
@@ -5941,7 +6597,7 @@
       "stage": "Hausmania",
       "genre": null,
       "sold_out": false,
-      "scraped_at": "2026-08-21T05:32:17.202839"
+      "scraped_at": "2026-08-22T05:26:40.974526"
     },
     {
       "id": "b8091063f34836aa",
@@ -5957,7 +6613,7 @@
       "stage": null,
       "genre": "Musikal ,  Scenekvelder",
       "sold_out": false,
-      "scraped_at": "2026-08-21T05:33:08.809338"
+      "scraped_at": "2026-08-22T05:27:35.097572"
     },
     {
       "id": "8917e4bd6809e414",
@@ -5973,7 +6629,7 @@
       "stage": "Teater Manu",
       "genre": null,
       "sold_out": false,
-      "scraped_at": "2026-08-21T05:32:57.056372"
+      "scraped_at": "2026-08-22T05:27:22.943940"
     },
     {
       "id": "a9e79a14c2fcd452",
@@ -5989,7 +6645,7 @@
       "stage": "Hovudscenen",
       "genre": null,
       "sold_out": false,
-      "scraped_at": "2026-08-21T05:31:49.458211"
+      "scraped_at": "2026-08-22T05:26:10.855711"
     },
     {
       "id": "237508a2d1d1b2e5",
@@ -6005,7 +6661,7 @@
       "stage": "Hausmania",
       "genre": null,
       "sold_out": false,
-      "scraped_at": "2026-08-21T05:32:17.202992"
+      "scraped_at": "2026-08-22T05:26:40.974716"
     },
     {
       "id": "419d9fb1a6004336",
@@ -6021,7 +6677,23 @@
       "stage": null,
       "genre": null,
       "sold_out": false,
-      "scraped_at": "2026-08-21T05:33:02.717509"
+      "scraped_at": "2026-08-22T05:27:28.483256"
+    },
+    {
+      "id": "a0c9c92d38499834",
+      "title": "Da vi var yngre",
+      "venue": "Det Norske Teatret",
+      "venue_slug": "det-norske-teatret",
+      "start": "2026-12-01T12:00:00",
+      "end": "2026-12-01T13:30:00",
+      "description": "Oliver Lovrenski brakdebuterte med romanen Da vi var yngre. No kjem den til scenen med Aksel Hennie i registolen og rapparen Jonas Benyoub i rolla som Ivor.",
+      "image_url": "https://s3.eu-north-1.amazonaws.com/detnorsketeatret/media/framsyningar/arv-og-miljo/_1200x630_crop_center-center_82_none/Da-vi-var-yngre_OHA-19.jpg?mtime=1771367338",
+      "ticket_url": "https://www.detnorsketeatret.no/framsyningar/da-vi-var-yngre",
+      "detail_url": "https://www.detnorsketeatret.no/framsyningar/da-vi-var-yngre",
+      "stage": "Scene 2",
+      "genre": null,
+      "sold_out": false,
+      "scraped_at": "2026-08-22T05:26:22.165238"
     },
     {
       "id": "0ac5f22626234251",
@@ -6037,7 +6709,23 @@
       "stage": "Bikuben",
       "genre": null,
       "sold_out": false,
-      "scraped_at": "2026-08-21T05:32:06.402280"
+      "scraped_at": "2026-08-22T05:26:29.056680"
+    },
+    {
+      "id": "60281b857601f20b",
+      "title": "Da vi var yngre",
+      "venue": "Det Norske Teatret",
+      "venue_slug": "det-norske-teatret",
+      "start": "2026-12-02T12:00:00",
+      "end": "2026-12-02T13:30:00",
+      "description": "Oliver Lovrenski brakdebuterte med romanen Da vi var yngre. No kjem den til scenen med Aksel Hennie i registolen og rapparen Jonas Benyoub i rolla som Ivor.",
+      "image_url": "https://s3.eu-north-1.amazonaws.com/detnorsketeatret/media/framsyningar/arv-og-miljo/_1200x630_crop_center-center_82_none/Da-vi-var-yngre_OHA-19.jpg?mtime=1771367338",
+      "ticket_url": "https://www.detnorsketeatret.no/framsyningar/da-vi-var-yngre",
+      "detail_url": "https://www.detnorsketeatret.no/framsyningar/da-vi-var-yngre",
+      "stage": "Scene 2",
+      "genre": null,
+      "sold_out": false,
+      "scraped_at": "2026-08-22T05:26:22.165248"
     },
     {
       "id": "e58c606f28f5e1f7",
@@ -6053,7 +6741,7 @@
       "stage": "Scene 2",
       "genre": null,
       "sold_out": false,
-      "scraped_at": "2026-08-21T05:32:00.486872"
+      "scraped_at": "2026-08-22T05:26:21.897875"
     },
     {
       "id": "4b420de958e2d165",
@@ -6069,7 +6757,7 @@
       "stage": "Hovudscenen",
       "genre": null,
       "sold_out": false,
-      "scraped_at": "2026-08-21T05:31:52.645569"
+      "scraped_at": "2026-08-22T05:26:14.420899"
     },
     {
       "id": "cbc018d074555227",
@@ -6085,7 +6773,23 @@
       "stage": "Bikuben",
       "genre": null,
       "sold_out": false,
-      "scraped_at": "2026-08-21T05:32:06.402287"
+      "scraped_at": "2026-08-22T05:26:29.056689"
+    },
+    {
+      "id": "800f3c909076d838",
+      "title": "Cabaret",
+      "venue": "Det Norske Teatret",
+      "venue_slug": "det-norske-teatret",
+      "start": "2026-12-03T19:00:00",
+      "end": "2026-12-03T21:45:00",
+      "description": "Oppleve Sara Khorami og Preben Hodneland i Cabaret - den store musikalsatsinga hausten 2026!",
+      "image_url": "https://s3.eu-north-1.amazonaws.com/detnorsketeatret/media/_1200x630_crop_center-center_82_none/16_9-Cabaret.png?mtime=1764066549",
+      "ticket_url": "https://www.detnorsketeatret.no/framsyningar/cabaret",
+      "detail_url": "https://www.detnorsketeatret.no/framsyningar/cabaret",
+      "stage": "Hovudscenen",
+      "genre": null,
+      "sold_out": false,
+      "scraped_at": "2026-08-22T05:26:10.855720"
     },
     {
       "id": "43d20ce517421b0e",
@@ -6101,7 +6805,7 @@
       "stage": "Scene 2",
       "genre": null,
       "sold_out": false,
-      "scraped_at": "2026-08-21T05:32:00.246011"
+      "scraped_at": "2026-08-22T05:26:21.618470"
     },
     {
       "id": "fac79cf7854e1a8f",
@@ -6117,7 +6821,23 @@
       "stage": null,
       "genre": "Musikal ,  Scenekvelder",
       "sold_out": false,
-      "scraped_at": "2026-08-21T05:33:08.809359"
+      "scraped_at": "2026-08-22T05:27:35.097600"
+    },
+    {
+      "id": "c298680b1f179846",
+      "title": "Da vi var yngre",
+      "venue": "Det Norske Teatret",
+      "venue_slug": "det-norske-teatret",
+      "start": "2026-12-04T12:00:00",
+      "end": "2026-12-04T13:30:00",
+      "description": "Oliver Lovrenski brakdebuterte med romanen Da vi var yngre. No kjem den til scenen med Aksel Hennie i registolen og rapparen Jonas Benyoub i rolla som Ivor.",
+      "image_url": "https://s3.eu-north-1.amazonaws.com/detnorsketeatret/media/framsyningar/arv-og-miljo/_1200x630_crop_center-center_82_none/Da-vi-var-yngre_OHA-19.jpg?mtime=1771367338",
+      "ticket_url": "https://www.detnorsketeatret.no/framsyningar/da-vi-var-yngre",
+      "detail_url": "https://www.detnorsketeatret.no/framsyningar/da-vi-var-yngre",
+      "stage": "Scene 2",
+      "genre": null,
+      "sold_out": false,
+      "scraped_at": "2026-08-22T05:26:22.165258"
     },
     {
       "id": "93ad205369680d64",
@@ -6133,7 +6853,23 @@
       "stage": "Hovedscenen",
       "genre": null,
       "sold_out": false,
-      "scraped_at": "2026-08-21T05:31:28.756421"
+      "scraped_at": "2026-08-22T05:25:53.143669"
+    },
+    {
+      "id": "dca08cc5d80071e3",
+      "title": "Cabaret",
+      "venue": "Det Norske Teatret",
+      "venue_slug": "det-norske-teatret",
+      "start": "2026-12-04T19:00:00",
+      "end": "2026-12-04T21:45:00",
+      "description": "Oppleve Sara Khorami og Preben Hodneland i Cabaret - den store musikalsatsinga hausten 2026!",
+      "image_url": "https://s3.eu-north-1.amazonaws.com/detnorsketeatret/media/_1200x630_crop_center-center_82_none/16_9-Cabaret.png?mtime=1764066549",
+      "ticket_url": "https://www.detnorsketeatret.no/framsyningar/cabaret",
+      "detail_url": "https://www.detnorsketeatret.no/framsyningar/cabaret",
+      "stage": "Hovudscenen",
+      "genre": null,
+      "sold_out": false,
+      "scraped_at": "2026-08-22T05:26:10.855729"
     },
     {
       "id": "420b688f6d0be78a",
@@ -6149,7 +6885,7 @@
       "stage": "Rom for dans",
       "genre": null,
       "sold_out": false,
-      "scraped_at": "2026-08-21T05:32:17.203137"
+      "scraped_at": "2026-08-22T05:26:40.974936"
     },
     {
       "id": "d96e16cb8878a465",
@@ -6165,7 +6901,7 @@
       "stage": "Scene 2",
       "genre": null,
       "sold_out": false,
-      "scraped_at": "2026-08-21T05:32:00.246029"
+      "scraped_at": "2026-08-22T05:26:21.618494"
     },
     {
       "id": "0062ce1f0c9028f4",
@@ -6181,7 +6917,7 @@
       "stage": "Scene 2",
       "genre": null,
       "sold_out": false,
-      "scraped_at": "2026-08-21T05:32:00.246038"
+      "scraped_at": "2026-08-22T05:26:21.618506"
     },
     {
       "id": "a7566b21c620b983",
@@ -6197,7 +6933,7 @@
       "stage": null,
       "genre": "Musikal ,  Scenekvelder",
       "sold_out": false,
-      "scraped_at": "2026-08-21T05:33:08.809381"
+      "scraped_at": "2026-08-22T05:27:35.097629"
     },
     {
       "id": "fe9aa85872029cb7",
@@ -6213,7 +6949,7 @@
       "stage": "Hovudscenen",
       "genre": null,
       "sold_out": false,
-      "scraped_at": "2026-08-21T05:31:52.645578"
+      "scraped_at": "2026-08-22T05:26:14.420911"
     },
     {
       "id": "0333be280ae8fdaf",
@@ -6229,7 +6965,7 @@
       "stage": "Scene 2",
       "genre": null,
       "sold_out": false,
-      "scraped_at": "2026-08-21T05:32:00.246046"
+      "scraped_at": "2026-08-22T05:26:21.618516"
     },
     {
       "id": "4ddce980359bfba6",
@@ -6245,7 +6981,23 @@
       "stage": "Rom for dans",
       "genre": null,
       "sold_out": false,
-      "scraped_at": "2026-08-21T05:32:17.203281"
+      "scraped_at": "2026-08-22T05:26:40.975125"
+    },
+    {
+      "id": "01192ab7632628f3",
+      "title": "Cabaret",
+      "venue": "Det Norske Teatret",
+      "venue_slug": "det-norske-teatret",
+      "start": "2026-12-06T16:00:00",
+      "end": "2026-12-06T18:45:00",
+      "description": "Oppleve Sara Khorami og Preben Hodneland i Cabaret - den store musikalsatsinga hausten 2026!",
+      "image_url": "https://s3.eu-north-1.amazonaws.com/detnorsketeatret/media/_1200x630_crop_center-center_82_none/16_9-Cabaret.png?mtime=1764066549",
+      "ticket_url": "https://www.detnorsketeatret.no/framsyningar/cabaret",
+      "detail_url": "https://www.detnorsketeatret.no/framsyningar/cabaret",
+      "stage": "Hovudscenen",
+      "genre": null,
+      "sold_out": false,
+      "scraped_at": "2026-08-22T05:26:10.855739"
     },
     {
       "id": "53308c546e977df1",
@@ -6261,7 +7013,7 @@
       "stage": "Rom for dans",
       "genre": null,
       "sold_out": false,
-      "scraped_at": "2026-08-21T05:32:17.203423"
+      "scraped_at": "2026-08-22T05:26:40.975311"
     },
     {
       "id": "18068ae959154ceb",
@@ -6277,7 +7029,23 @@
       "stage": null,
       "genre": null,
       "sold_out": false,
-      "scraped_at": "2026-08-21T05:33:02.717562"
+      "scraped_at": "2026-08-22T05:27:28.483326"
+    },
+    {
+      "id": "d3cfb505b108c918",
+      "title": "Da vi var yngre",
+      "venue": "Det Norske Teatret",
+      "venue_slug": "det-norske-teatret",
+      "start": "2026-12-07T12:00:00",
+      "end": "2026-12-07T13:30:00",
+      "description": "Oliver Lovrenski brakdebuterte med romanen Da vi var yngre. No kjem den til scenen med Aksel Hennie i registolen og rapparen Jonas Benyoub i rolla som Ivor.",
+      "image_url": "https://s3.eu-north-1.amazonaws.com/detnorsketeatret/media/framsyningar/arv-og-miljo/_1200x630_crop_center-center_82_none/Da-vi-var-yngre_OHA-19.jpg?mtime=1771367338",
+      "ticket_url": "https://www.detnorsketeatret.no/framsyningar/da-vi-var-yngre",
+      "detail_url": "https://www.detnorsketeatret.no/framsyningar/da-vi-var-yngre",
+      "stage": "Scene 2",
+      "genre": null,
+      "sold_out": false,
+      "scraped_at": "2026-08-22T05:26:22.165267"
     },
     {
       "id": "3d819c27c3f846eb",
@@ -6293,7 +7061,7 @@
       "stage": null,
       "genre": null,
       "sold_out": false,
-      "scraped_at": "2026-08-21T05:33:02.717613"
+      "scraped_at": "2026-08-22T05:27:28.483387"
     },
     {
       "id": "7bfbd60972be4fbc",
@@ -6309,7 +7077,23 @@
       "stage": null,
       "genre": "Konsert",
       "sold_out": false,
-      "scraped_at": "2026-08-21T05:33:13.665278"
+      "scraped_at": "2026-08-22T05:27:39.132734"
+    },
+    {
+      "id": "fe15df105a40af66",
+      "title": "Da vi var yngre",
+      "venue": "Det Norske Teatret",
+      "venue_slug": "det-norske-teatret",
+      "start": "2026-12-08T12:00:00",
+      "end": "2026-12-08T13:30:00",
+      "description": "Oliver Lovrenski brakdebuterte med romanen Da vi var yngre. No kjem den til scenen med Aksel Hennie i registolen og rapparen Jonas Benyoub i rolla som Ivor.",
+      "image_url": "https://s3.eu-north-1.amazonaws.com/detnorsketeatret/media/framsyningar/arv-og-miljo/_1200x630_crop_center-center_82_none/Da-vi-var-yngre_OHA-19.jpg?mtime=1771367338",
+      "ticket_url": "https://www.detnorsketeatret.no/framsyningar/da-vi-var-yngre",
+      "detail_url": "https://www.detnorsketeatret.no/framsyningar/da-vi-var-yngre",
+      "stage": "Scene 2",
+      "genre": null,
+      "sold_out": false,
+      "scraped_at": "2026-08-22T05:26:22.165278"
     },
     {
       "id": "a041c2ef0ad6ebb1",
@@ -6325,7 +7109,7 @@
       "stage": "Det Norske Teatret",
       "genre": null,
       "sold_out": false,
-      "scraped_at": "2026-08-21T05:32:06.133194"
+      "scraped_at": "2026-08-22T05:26:27.533352"
     },
     {
       "id": "4bf65fc100f8d041",
@@ -6341,7 +7125,7 @@
       "stage": null,
       "genre": "Konsert",
       "sold_out": false,
-      "scraped_at": "2026-08-21T05:33:14.204168"
+      "scraped_at": "2026-08-22T05:27:39.502735"
     },
     {
       "id": "f9e2a0911b3ce20e",
@@ -6357,7 +7141,55 @@
       "stage": "Scene 2",
       "genre": null,
       "sold_out": false,
-      "scraped_at": "2026-08-21T05:31:59.735615"
+      "scraped_at": "2026-08-22T05:26:21.107376"
+    },
+    {
+      "id": "54effe08e7cfca33",
+      "title": "Da vi var yngre",
+      "venue": "Det Norske Teatret",
+      "venue_slug": "det-norske-teatret",
+      "start": "2026-12-09T12:00:00",
+      "end": "2026-12-09T13:30:00",
+      "description": "Oliver Lovrenski brakdebuterte med romanen Da vi var yngre. No kjem den til scenen med Aksel Hennie i registolen og rapparen Jonas Benyoub i rolla som Ivor.",
+      "image_url": "https://s3.eu-north-1.amazonaws.com/detnorsketeatret/media/framsyningar/arv-og-miljo/_1200x630_crop_center-center_82_none/Da-vi-var-yngre_OHA-19.jpg?mtime=1771367338",
+      "ticket_url": "https://www.detnorsketeatret.no/framsyningar/da-vi-var-yngre",
+      "detail_url": "https://www.detnorsketeatret.no/framsyningar/da-vi-var-yngre",
+      "stage": "Scene 2",
+      "genre": null,
+      "sold_out": false,
+      "scraped_at": "2026-08-22T05:26:22.165289"
+    },
+    {
+      "id": "c420ce4fb6929aa4",
+      "title": "Cabaret",
+      "venue": "Det Norske Teatret",
+      "venue_slug": "det-norske-teatret",
+      "start": "2026-12-09T19:00:00",
+      "end": "2026-12-09T21:45:00",
+      "description": "Oppleve Sara Khorami og Preben Hodneland i Cabaret - den store musikalsatsinga hausten 2026!",
+      "image_url": "https://s3.eu-north-1.amazonaws.com/detnorsketeatret/media/_1200x630_crop_center-center_82_none/16_9-Cabaret.png?mtime=1764066549",
+      "ticket_url": "https://www.detnorsketeatret.no/framsyningar/cabaret",
+      "detail_url": "https://www.detnorsketeatret.no/framsyningar/cabaret",
+      "stage": "Hovudscenen",
+      "genre": null,
+      "sold_out": false,
+      "scraped_at": "2026-08-22T05:26:10.855748"
+    },
+    {
+      "id": "0280039da91394ad",
+      "title": "Da vi var yngre",
+      "venue": "Det Norske Teatret",
+      "venue_slug": "det-norske-teatret",
+      "start": "2026-12-10T12:00:00",
+      "end": "2026-12-10T13:30:00",
+      "description": "Oliver Lovrenski brakdebuterte med romanen Da vi var yngre. No kjem den til scenen med Aksel Hennie i registolen og rapparen Jonas Benyoub i rolla som Ivor.",
+      "image_url": "https://s3.eu-north-1.amazonaws.com/detnorsketeatret/media/framsyningar/arv-og-miljo/_1200x630_crop_center-center_82_none/Da-vi-var-yngre_OHA-19.jpg?mtime=1771367338",
+      "ticket_url": "https://www.detnorsketeatret.no/framsyningar/da-vi-var-yngre",
+      "detail_url": "https://www.detnorsketeatret.no/framsyningar/da-vi-var-yngre",
+      "stage": "Scene 2",
+      "genre": null,
+      "sold_out": false,
+      "scraped_at": "2026-08-22T05:26:22.165299"
     },
     {
       "id": "6474c5bdb8dd2c7b",
@@ -6373,7 +7205,39 @@
       "stage": "Hovudscenen",
       "genre": null,
       "sold_out": false,
-      "scraped_at": "2026-08-21T05:31:52.645586"
+      "scraped_at": "2026-08-22T05:26:14.420922"
+    },
+    {
+      "id": "a00c26642d21daa4",
+      "title": "Da vi var yngre",
+      "venue": "Det Norske Teatret",
+      "venue_slug": "det-norske-teatret",
+      "start": "2026-12-11T12:00:00",
+      "end": "2026-12-11T13:30:00",
+      "description": "Oliver Lovrenski brakdebuterte med romanen Da vi var yngre. No kjem den til scenen med Aksel Hennie i registolen og rapparen Jonas Benyoub i rolla som Ivor.",
+      "image_url": "https://s3.eu-north-1.amazonaws.com/detnorsketeatret/media/framsyningar/arv-og-miljo/_1200x630_crop_center-center_82_none/Da-vi-var-yngre_OHA-19.jpg?mtime=1771367338",
+      "ticket_url": "https://www.detnorsketeatret.no/framsyningar/da-vi-var-yngre",
+      "detail_url": "https://www.detnorsketeatret.no/framsyningar/da-vi-var-yngre",
+      "stage": "Scene 2",
+      "genre": null,
+      "sold_out": false,
+      "scraped_at": "2026-08-22T05:26:22.165310"
+    },
+    {
+      "id": "bca5fbae37489559",
+      "title": "Cabaret",
+      "venue": "Det Norske Teatret",
+      "venue_slug": "det-norske-teatret",
+      "start": "2026-12-11T19:30:00",
+      "end": "2026-12-11T22:15:00",
+      "description": "Oppleve Sara Khorami og Preben Hodneland i Cabaret - den store musikalsatsinga hausten 2026!",
+      "image_url": "https://s3.eu-north-1.amazonaws.com/detnorsketeatret/media/_1200x630_crop_center-center_82_none/16_9-Cabaret.png?mtime=1764066549",
+      "ticket_url": "https://www.detnorsketeatret.no/framsyningar/cabaret",
+      "detail_url": "https://www.detnorsketeatret.no/framsyningar/cabaret",
+      "stage": "Hovudscenen",
+      "genre": null,
+      "sold_out": false,
+      "scraped_at": "2026-08-22T05:26:10.855758"
     },
     {
       "id": "fd690c2ed0648e33",
@@ -6389,7 +7253,7 @@
       "stage": "Scene 2",
       "genre": null,
       "sold_out": false,
-      "scraped_at": "2026-08-21T05:31:59.735622"
+      "scraped_at": "2026-08-22T05:26:21.107385"
     },
     {
       "id": "2235f7e1f64dbb2d",
@@ -6405,7 +7269,7 @@
       "stage": null,
       "genre": "Musikal ,  Scenekvelder",
       "sold_out": false,
-      "scraped_at": "2026-08-21T05:33:10.981767"
+      "scraped_at": "2026-08-22T05:27:37.132282"
     },
     {
       "id": "9e8ba22d0f7de75f",
@@ -6421,7 +7285,7 @@
       "stage": "Hovudscenen",
       "genre": null,
       "sold_out": false,
-      "scraped_at": "2026-08-21T05:31:52.889003"
+      "scraped_at": "2026-08-22T05:26:16.351074"
     },
     {
       "id": "828fd93e810341d1",
@@ -6437,7 +7301,7 @@
       "stage": null,
       "genre": "Musikal ,  Scenekvelder",
       "sold_out": false,
-      "scraped_at": "2026-08-21T05:33:10.981804"
+      "scraped_at": "2026-08-22T05:27:37.132330"
     },
     {
       "id": "9971662e5da392ae",
@@ -6453,7 +7317,7 @@
       "stage": null,
       "genre": "Musikal ,  Scenekvelder",
       "sold_out": false,
-      "scraped_at": "2026-08-21T05:33:10.981829"
+      "scraped_at": "2026-08-22T05:27:37.132364"
     },
     {
       "id": "44bb60d87c4a2d90",
@@ -6469,7 +7333,7 @@
       "stage": null,
       "genre": "Musikal ,  Scenekvelder",
       "sold_out": false,
-      "scraped_at": "2026-08-21T05:33:10.981872"
+      "scraped_at": "2026-08-22T05:27:37.132394"
     },
     {
       "id": "0801c14e655549ab",
@@ -6485,7 +7349,7 @@
       "stage": "Hovudscenen",
       "genre": null,
       "sold_out": false,
-      "scraped_at": "2026-08-21T05:31:52.889021"
+      "scraped_at": "2026-08-22T05:26:16.351098"
     },
     {
       "id": "e2e9cd19472d0175",
@@ -6501,7 +7365,7 @@
       "stage": "Hovudscenen",
       "genre": null,
       "sold_out": false,
-      "scraped_at": "2026-08-21T05:31:52.645594"
+      "scraped_at": "2026-08-22T05:26:14.420931"
     },
     {
       "id": "4dfb90d2fb66e8cf",
@@ -6517,7 +7381,23 @@
       "stage": "Scene 2",
       "genre": null,
       "sold_out": false,
-      "scraped_at": "2026-08-21T05:31:59.735631"
+      "scraped_at": "2026-08-22T05:26:21.107394"
+    },
+    {
+      "id": "d115ee755145193e",
+      "title": "Cabaret",
+      "venue": "Det Norske Teatret",
+      "venue_slug": "det-norske-teatret",
+      "start": "2026-12-16T19:00:00",
+      "end": "2026-12-16T21:45:00",
+      "description": "Oppleve Sara Khorami og Preben Hodneland i Cabaret - den store musikalsatsinga hausten 2026!",
+      "image_url": "https://s3.eu-north-1.amazonaws.com/detnorsketeatret/media/_1200x630_crop_center-center_82_none/16_9-Cabaret.png?mtime=1764066549",
+      "ticket_url": "https://www.detnorsketeatret.no/framsyningar/cabaret",
+      "detail_url": "https://www.detnorsketeatret.no/framsyningar/cabaret",
+      "stage": "Hovudscenen",
+      "genre": null,
+      "sold_out": false,
+      "scraped_at": "2026-08-22T05:26:10.855767"
     },
     {
       "id": "a2b4159f134054e4",
@@ -6533,7 +7413,23 @@
       "stage": "Scene 2",
       "genre": null,
       "sold_out": false,
-      "scraped_at": "2026-08-21T05:31:59.735639"
+      "scraped_at": "2026-08-22T05:26:21.107404"
+    },
+    {
+      "id": "8ab2a76edf416fe3",
+      "title": "Cabaret",
+      "venue": "Det Norske Teatret",
+      "venue_slug": "det-norske-teatret",
+      "start": "2026-12-17T19:00:00",
+      "end": "2026-12-17T21:45:00",
+      "description": "Oppleve Sara Khorami og Preben Hodneland i Cabaret - den store musikalsatsinga hausten 2026!",
+      "image_url": "https://s3.eu-north-1.amazonaws.com/detnorsketeatret/media/_1200x630_crop_center-center_82_none/16_9-Cabaret.png?mtime=1764066549",
+      "ticket_url": "https://www.detnorsketeatret.no/framsyningar/cabaret",
+      "detail_url": "https://www.detnorsketeatret.no/framsyningar/cabaret",
+      "stage": "Hovudscenen",
+      "genre": null,
+      "sold_out": false,
+      "scraped_at": "2026-08-22T05:26:10.855776"
     },
     {
       "id": "432542f53dae5fd2",
@@ -6549,7 +7445,7 @@
       "stage": "Scene 2",
       "genre": null,
       "sold_out": false,
-      "scraped_at": "2026-08-21T05:31:59.735646"
+      "scraped_at": "2026-08-22T05:26:21.107413"
     },
     {
       "id": "f8982ca06dcc7d3f",
@@ -6565,7 +7461,7 @@
       "stage": "Hovedscenen",
       "genre": null,
       "sold_out": false,
-      "scraped_at": "2026-08-21T05:31:30.698044"
+      "scraped_at": "2026-08-22T05:25:54.685731"
     },
     {
       "id": "ef69e9b4cd4b2e34",
@@ -6581,7 +7477,7 @@
       "stage": null,
       "genre": "Musikal ,  Scenekvelder",
       "sold_out": false,
-      "scraped_at": "2026-08-21T05:33:10.981895"
+      "scraped_at": "2026-08-22T05:27:37.132424"
     },
     {
       "id": "870d688b20800d68",
@@ -6597,7 +7493,7 @@
       "stage": "Hovudscenen",
       "genre": null,
       "sold_out": false,
-      "scraped_at": "2026-08-21T05:31:52.645605"
+      "scraped_at": "2026-08-22T05:26:14.420945"
     },
     {
       "id": "3a798e1633fc12a8",
@@ -6613,7 +7509,7 @@
       "stage": null,
       "genre": "Musikal ,  Scenekvelder",
       "sold_out": false,
-      "scraped_at": "2026-08-21T05:33:10.981917"
+      "scraped_at": "2026-08-22T05:27:37.132453"
     },
     {
       "id": "4b726d14345edaf9",
@@ -6629,7 +7525,7 @@
       "stage": null,
       "genre": "Musikal ,  Scenekvelder",
       "sold_out": false,
-      "scraped_at": "2026-08-21T05:33:10.981938"
+      "scraped_at": "2026-08-22T05:27:37.132480"
     },
     {
       "id": "b3fc6028e858d135",
@@ -6645,7 +7541,7 @@
       "stage": "Hovudscenen",
       "genre": null,
       "sold_out": false,
-      "scraped_at": "2026-08-21T05:31:52.645615"
+      "scraped_at": "2026-08-22T05:26:14.420954"
     },
     {
       "id": "32787e1354844509",
@@ -6661,7 +7557,7 @@
       "stage": null,
       "genre": "Musikal ,  Scenekvelder",
       "sold_out": false,
-      "scraped_at": "2026-08-21T05:33:10.981960"
+      "scraped_at": "2026-08-22T05:27:37.132509"
     },
     {
       "id": "6ddc580d96940f0c",
@@ -6677,7 +7573,7 @@
       "stage": null,
       "genre": "Musikal ,  Scenekvelder",
       "sold_out": false,
-      "scraped_at": "2026-08-21T05:33:10.981982"
+      "scraped_at": "2026-08-22T05:27:37.132536"
     },
     {
       "id": "85f18e1cd6b1fa39",
@@ -6693,7 +7589,7 @@
       "stage": null,
       "genre": "Musikal ,  Scenekvelder",
       "sold_out": false,
-      "scraped_at": "2026-08-21T05:33:10.982004"
+      "scraped_at": "2026-08-22T05:27:37.132565"
     },
     {
       "id": "935d6e35e34ccc1a",
@@ -6709,7 +7605,7 @@
       "stage": "Hovudscenen",
       "genre": null,
       "sold_out": false,
-      "scraped_at": "2026-08-21T05:31:52.889030"
+      "scraped_at": "2026-08-22T05:26:16.351110"
     },
     {
       "id": "6e839571db6382a6",
@@ -6725,7 +7621,55 @@
       "stage": null,
       "genre": "Musikal ,  Scenekvelder",
       "sold_out": false,
-      "scraped_at": "2026-08-21T05:33:10.982026"
+      "scraped_at": "2026-08-22T05:27:37.132594"
+    },
+    {
+      "id": "7a3fdcc259330e3c",
+      "title": "Cabaret",
+      "venue": "Det Norske Teatret",
+      "venue_slug": "det-norske-teatret",
+      "start": "2026-12-22T19:00:00",
+      "end": "2026-12-22T21:45:00",
+      "description": "Oppleve Sara Khorami og Preben Hodneland i Cabaret - den store musikalsatsinga hausten 2026!",
+      "image_url": "https://s3.eu-north-1.amazonaws.com/detnorsketeatret/media/_1200x630_crop_center-center_82_none/16_9-Cabaret.png?mtime=1764066549",
+      "ticket_url": "https://www.detnorsketeatret.no/framsyningar/cabaret",
+      "detail_url": "https://www.detnorsketeatret.no/framsyningar/cabaret",
+      "stage": "Hovudscenen",
+      "genre": null,
+      "sold_out": false,
+      "scraped_at": "2026-08-22T05:26:10.855797"
+    },
+    {
+      "id": "ee4bb07a56975fb9",
+      "title": "Cabaret",
+      "venue": "Det Norske Teatret",
+      "venue_slug": "det-norske-teatret",
+      "start": "2026-12-29T19:30:00",
+      "end": "2026-12-29T22:15:00",
+      "description": "Oppleve Sara Khorami og Preben Hodneland i Cabaret - den store musikalsatsinga hausten 2026!",
+      "image_url": "https://s3.eu-north-1.amazonaws.com/detnorsketeatret/media/_1200x630_crop_center-center_82_none/16_9-Cabaret.png?mtime=1764066549",
+      "ticket_url": "https://www.detnorsketeatret.no/framsyningar/cabaret",
+      "detail_url": "https://www.detnorsketeatret.no/framsyningar/cabaret",
+      "stage": "Hovudscenen",
+      "genre": null,
+      "sold_out": false,
+      "scraped_at": "2026-08-22T05:26:10.855806"
+    },
+    {
+      "id": "7d04c5edccdb8fe8",
+      "title": "Cabaret",
+      "venue": "Det Norske Teatret",
+      "venue_slug": "det-norske-teatret",
+      "start": "2026-12-30T18:30:00",
+      "end": "2026-12-30T21:15:00",
+      "description": "Oppleve Sara Khorami og Preben Hodneland i Cabaret - den store musikalsatsinga hausten 2026!",
+      "image_url": "https://s3.eu-north-1.amazonaws.com/detnorsketeatret/media/_1200x630_crop_center-center_82_none/16_9-Cabaret.png?mtime=1764066549",
+      "ticket_url": "https://www.detnorsketeatret.no/framsyningar/cabaret",
+      "detail_url": "https://www.detnorsketeatret.no/framsyningar/cabaret",
+      "stage": "Hovudscenen",
+      "genre": null,
+      "sold_out": false,
+      "scraped_at": "2026-08-22T05:26:10.855815"
     },
     {
       "id": "c93775320287652f",
@@ -6741,7 +7685,7 @@
       "stage": null,
       "genre": "Standup",
       "sold_out": false,
-      "scraped_at": "2026-08-21T05:33:14.752398"
+      "scraped_at": "2026-08-22T05:27:40.010664"
     },
     {
       "id": "3c8913bdd0425b3f",
@@ -6757,7 +7701,7 @@
       "stage": null,
       "genre": null,
       "sold_out": false,
-      "scraped_at": "2026-08-21T05:32:50.693070"
+      "scraped_at": "2026-08-22T05:27:14.589527"
     },
     {
       "id": "80d9dbccc067b857",
@@ -6773,7 +7717,7 @@
       "stage": null,
       "genre": null,
       "sold_out": false,
-      "scraped_at": "2026-08-21T05:32:50.693138"
+      "scraped_at": "2026-08-22T05:27:14.589611"
     },
     {
       "id": "fb6c15b75d528fcb",
@@ -6789,7 +7733,7 @@
       "stage": "Riksteatret",
       "genre": null,
       "sold_out": false,
-      "scraped_at": "2026-08-21T05:32:52.997047"
+      "scraped_at": "2026-08-22T05:27:17.129158"
     },
     {
       "id": "d2a4d8849fae850b",
@@ -6805,7 +7749,7 @@
       "stage": null,
       "genre": null,
       "sold_out": false,
-      "scraped_at": "2026-08-21T05:33:02.717667"
+      "scraped_at": "2026-08-22T05:27:28.483455"
     },
     {
       "id": "34b6922c8f09f2c3",
@@ -6821,7 +7765,7 @@
       "stage": "Riksteatret",
       "genre": null,
       "sold_out": false,
-      "scraped_at": "2026-08-21T05:32:52.997302"
+      "scraped_at": "2026-08-22T05:27:17.129483"
     },
     {
       "id": "5ca6779960efe273",
@@ -6837,7 +7781,7 @@
       "stage": "Riksteatret",
       "genre": null,
       "sold_out": false,
-      "scraped_at": "2026-08-21T05:32:52.997538"
+      "scraped_at": "2026-08-22T05:27:17.129806"
     },
     {
       "id": "def015ab6973256f",
@@ -6853,7 +7797,7 @@
       "stage": null,
       "genre": null,
       "sold_out": false,
-      "scraped_at": "2026-08-21T05:32:50.693006"
+      "scraped_at": "2026-08-22T05:27:14.589446"
     },
     {
       "id": "8afe32606306c0ee",
@@ -6869,7 +7813,7 @@
       "stage": "Riksteatret",
       "genre": null,
       "sold_out": false,
-      "scraped_at": "2026-08-21T05:32:52.825922"
+      "scraped_at": "2026-08-22T05:27:16.951822"
     },
     {
       "id": "7f75695da2a8c388",
@@ -6885,7 +7829,23 @@
       "stage": null,
       "genre": null,
       "sold_out": false,
-      "scraped_at": "2026-08-21T05:32:50.692938"
+      "scraped_at": "2026-08-22T05:27:14.589364"
+    },
+    {
+      "id": "4a6619acc2b08aa8",
+      "title": "Cabaret",
+      "venue": "Det Norske Teatret",
+      "venue_slug": "det-norske-teatret",
+      "start": "2027-01-26T11:30:00",
+      "end": "2027-01-26T14:15:00",
+      "description": "Oppleve Sara Khorami og Preben Hodneland i Cabaret - den store musikalsatsinga hausten 2026!",
+      "image_url": "https://s3.eu-north-1.amazonaws.com/detnorsketeatret/media/_1200x630_crop_center-center_82_none/16_9-Cabaret.png?mtime=1764066549",
+      "ticket_url": "https://www.detnorsketeatret.no/framsyningar/cabaret",
+      "detail_url": "https://www.detnorsketeatret.no/framsyningar/cabaret",
+      "stage": "Hovudscenen",
+      "genre": null,
+      "sold_out": false,
+      "scraped_at": "2026-08-22T05:26:10.855825"
     },
     {
       "id": "eed8b9df1111215f",
@@ -6901,7 +7861,23 @@
       "stage": "Riksteatret",
       "genre": null,
       "sold_out": false,
-      "scraped_at": "2026-08-21T05:32:52.826173"
+      "scraped_at": "2026-08-22T05:27:16.952153"
+    },
+    {
+      "id": "b1f0c2630162c8dd",
+      "title": "Cabaret",
+      "venue": "Det Norske Teatret",
+      "venue_slug": "det-norske-teatret",
+      "start": "2027-01-27T11:30:00",
+      "end": "2027-01-27T14:15:00",
+      "description": "Oppleve Sara Khorami og Preben Hodneland i Cabaret - den store musikalsatsinga hausten 2026!",
+      "image_url": "https://s3.eu-north-1.amazonaws.com/detnorsketeatret/media/_1200x630_crop_center-center_82_none/16_9-Cabaret.png?mtime=1764066549",
+      "ticket_url": "https://www.detnorsketeatret.no/framsyningar/cabaret",
+      "detail_url": "https://www.detnorsketeatret.no/framsyningar/cabaret",
+      "stage": "Hovudscenen",
+      "genre": null,
+      "sold_out": false,
+      "scraped_at": "2026-08-22T05:26:10.855834"
     },
     {
       "id": "18db7d19b75ce1c5",
@@ -6917,7 +7893,7 @@
       "stage": "Riksteatret",
       "genre": null,
       "sold_out": false,
-      "scraped_at": "2026-08-21T05:32:52.826413"
+      "scraped_at": "2026-08-22T05:27:16.952458"
     },
     {
       "id": "a71ae08f13c81485",
@@ -6933,7 +7909,7 @@
       "stage": null,
       "genre": null,
       "sold_out": false,
-      "scraped_at": "2026-08-21T05:32:50.692872"
+      "scraped_at": "2026-08-22T05:27:14.589284"
     },
     {
       "id": "669e865b87b2dc1d",
@@ -6949,7 +7925,7 @@
       "stage": null,
       "genre": null,
       "sold_out": false,
-      "scraped_at": "2026-08-21T05:32:50.692799"
+      "scraped_at": "2026-08-22T05:27:14.589200"
     },
     {
       "id": "2fc942a6e01d03b9",
@@ -6965,7 +7941,7 @@
       "stage": null,
       "genre": null,
       "sold_out": false,
-      "scraped_at": "2026-08-21T05:32:50.692735"
+      "scraped_at": "2026-08-22T05:27:14.589117"
     },
     {
       "id": "d6050404b72ac18a",
@@ -6981,7 +7957,7 @@
       "stage": null,
       "genre": null,
       "sold_out": false,
-      "scraped_at": "2026-08-21T05:32:50.692672"
+      "scraped_at": "2026-08-22T05:27:14.589033"
     },
     {
       "id": "18654073b8f5886a",
@@ -6997,7 +7973,7 @@
       "stage": null,
       "genre": null,
       "sold_out": false,
-      "scraped_at": "2026-08-21T05:32:50.692609"
+      "scraped_at": "2026-08-22T05:27:14.588949"
     },
     {
       "id": "f2aa924c418eb629",
@@ -7013,7 +7989,7 @@
       "stage": "Riksteatret",
       "genre": null,
       "sold_out": false,
-      "scraped_at": "2026-08-21T05:32:52.643923"
+      "scraped_at": "2026-08-22T05:27:16.763605"
     },
     {
       "id": "417b4d7243b55596",
@@ -7029,7 +8005,7 @@
       "stage": null,
       "genre": "Standup",
       "sold_out": false,
-      "scraped_at": "2026-08-21T05:33:15.285470"
+      "scraped_at": "2026-08-22T05:27:40.522869"
     },
     {
       "id": "1dc1bcc3e839adc5",
@@ -7045,7 +8021,7 @@
       "stage": "Riksteatret",
       "genre": null,
       "sold_out": false,
-      "scraped_at": "2026-08-21T05:32:52.644176"
+      "scraped_at": "2026-08-22T05:27:16.763951"
     },
     {
       "id": "e59b8fcce28d4359",
@@ -7061,7 +8037,7 @@
       "stage": "Riksteatret",
       "genre": null,
       "sold_out": false,
-      "scraped_at": "2026-08-21T05:32:52.997877"
+      "scraped_at": "2026-08-22T05:27:17.130220"
     },
     {
       "id": "8db11f1778e9c6e4",
@@ -7077,7 +8053,7 @@
       "stage": "Riksteatret",
       "genre": null,
       "sold_out": false,
-      "scraped_at": "2026-08-21T05:32:52.644414"
+      "scraped_at": "2026-08-22T05:27:16.764261"
     },
     {
       "id": "5fb661490e9e67cb",
@@ -7093,7 +8069,7 @@
       "stage": "Riksteatret",
       "genre": null,
       "sold_out": false,
-      "scraped_at": "2026-08-21T05:32:52.998114"
+      "scraped_at": "2026-08-22T05:27:17.130524"
     },
     {
       "id": "47d27ebba126706b",
@@ -7109,7 +8085,7 @@
       "stage": null,
       "genre": null,
       "sold_out": false,
-      "scraped_at": "2026-08-21T05:32:50.692542"
+      "scraped_at": "2026-08-22T05:27:14.588859"
     },
     {
       "id": "0ed256fcce37e7be",
@@ -7125,7 +8101,7 @@
       "stage": "Riksteatret",
       "genre": null,
       "sold_out": false,
-      "scraped_at": "2026-08-21T05:32:52.998344"
+      "scraped_at": "2026-08-22T05:27:17.130837"
     },
     {
       "id": "65b4bd5aface9c5f",
@@ -7141,7 +8117,7 @@
       "stage": "Hovudscenen",
       "genre": null,
       "sold_out": false,
-      "scraped_at": "2026-08-21T05:31:54.600546"
+      "scraped_at": "2026-08-22T05:26:18.177364"
     },
     {
       "id": "3fa3f6200a8d5059",
@@ -7157,7 +8133,7 @@
       "stage": null,
       "genre": null,
       "sold_out": false,
-      "scraped_at": "2026-08-21T05:32:50.692473"
+      "scraped_at": "2026-08-22T05:27:14.588760"
     },
     {
       "id": "f2abbf81ac74f48b",
@@ -7173,7 +8149,7 @@
       "stage": "Hovudscenen",
       "genre": null,
       "sold_out": false,
-      "scraped_at": "2026-08-21T05:31:54.600564"
+      "scraped_at": "2026-08-22T05:26:18.177387"
     },
     {
       "id": "4386e447d619a688",
@@ -7189,7 +8165,7 @@
       "stage": "Hovudscenen",
       "genre": null,
       "sold_out": false,
-      "scraped_at": "2026-08-21T05:31:54.600574"
+      "scraped_at": "2026-08-22T05:26:18.177399"
     },
     {
       "id": "866dd4c8b5aa1904",
@@ -7205,7 +8181,7 @@
       "stage": "Hovudscenen",
       "genre": null,
       "sold_out": false,
-      "scraped_at": "2026-08-21T05:31:54.600584"
+      "scraped_at": "2026-08-22T05:26:18.177410"
     },
     {
       "id": "371192e36e94007c",
@@ -7221,7 +8197,7 @@
       "stage": null,
       "genre": null,
       "sold_out": false,
-      "scraped_at": "2026-08-21T05:32:50.692407"
+      "scraped_at": "2026-08-22T05:27:14.588674"
     },
     {
       "id": "7808d6bf9a65e537",
@@ -7237,7 +8213,7 @@
       "stage": "Hovudscenen",
       "genre": null,
       "sold_out": false,
-      "scraped_at": "2026-08-21T05:31:54.600591"
+      "scraped_at": "2026-08-22T05:26:18.177419"
     },
     {
       "id": "eabb2bf3ed9b62c4",
@@ -7253,7 +8229,7 @@
       "stage": "Hovudscenen",
       "genre": null,
       "sold_out": false,
-      "scraped_at": "2026-08-21T05:31:54.600599"
+      "scraped_at": "2026-08-22T05:26:18.177429"
     },
     {
       "id": "126cfca5c813407f",
@@ -7269,7 +8245,7 @@
       "stage": "Hovudscenen",
       "genre": null,
       "sold_out": false,
-      "scraped_at": "2026-08-21T05:31:54.600606"
+      "scraped_at": "2026-08-22T05:26:18.177439"
     },
     {
       "id": "ebd55229c8b65fb3",
@@ -7285,7 +8261,7 @@
       "stage": "Hovudscenen",
       "genre": null,
       "sold_out": false,
-      "scraped_at": "2026-08-21T05:31:54.600613"
+      "scraped_at": "2026-08-22T05:26:18.177449"
     },
     {
       "id": "9d6ab46f8fdf734c",
@@ -7301,7 +8277,7 @@
       "stage": null,
       "genre": null,
       "sold_out": false,
-      "scraped_at": "2026-08-21T05:32:50.692337"
+      "scraped_at": "2026-08-22T05:27:14.588587"
     },
     {
       "id": "ce36450bc6a98107",
@@ -7317,7 +8293,7 @@
       "stage": null,
       "genre": null,
       "sold_out": false,
-      "scraped_at": "2026-08-21T05:32:50.692272"
+      "scraped_at": "2026-08-22T05:27:14.588504"
     },
     {
       "id": "201466519723abab",
@@ -7333,7 +8309,7 @@
       "stage": null,
       "genre": null,
       "sold_out": false,
-      "scraped_at": "2026-08-21T05:32:50.692205"
+      "scraped_at": "2026-08-22T05:27:14.588418"
     },
     {
       "id": "1e2149b68497ecc9",
@@ -7349,7 +8325,7 @@
       "stage": null,
       "genre": null,
       "sold_out": false,
-      "scraped_at": "2026-08-21T05:32:50.692134"
+      "scraped_at": "2026-08-22T05:27:14.588326"
     },
     {
       "id": "918e8da93e704427",
@@ -7365,7 +8341,7 @@
       "stage": null,
       "genre": null,
       "sold_out": false,
-      "scraped_at": "2026-08-21T05:32:50.692066"
+      "scraped_at": "2026-08-22T05:27:14.588242"
     },
     {
       "id": "f27c01055cd8dfbc",
@@ -7381,7 +8357,7 @@
       "stage": "Hovudscenen",
       "genre": null,
       "sold_out": false,
-      "scraped_at": "2026-08-21T05:31:57.486921"
+      "scraped_at": "2026-08-22T05:26:18.786540"
     },
     {
       "id": "3121ae6f9acd7247",
@@ -7397,7 +8373,7 @@
       "stage": "Hovudscenen",
       "genre": null,
       "sold_out": false,
-      "scraped_at": "2026-08-21T05:31:57.486941"
+      "scraped_at": "2026-08-22T05:26:18.786564"
     },
     {
       "id": "015634e076fe7f10",
@@ -7413,7 +8389,7 @@
       "stage": "Hovudscenen",
       "genre": null,
       "sold_out": false,
-      "scraped_at": "2026-08-21T05:31:57.486952"
+      "scraped_at": "2026-08-22T05:26:18.786577"
     },
     {
       "id": "536004f680c5b0d5",
@@ -7429,7 +8405,7 @@
       "stage": null,
       "genre": null,
       "sold_out": false,
-      "scraped_at": "2026-08-21T05:32:50.691998"
+      "scraped_at": "2026-08-22T05:27:14.588156"
     },
     {
       "id": "6a1621df914702cb",
@@ -7445,7 +8421,7 @@
       "stage": "Hovudscenen",
       "genre": null,
       "sold_out": false,
-      "scraped_at": "2026-08-21T05:31:57.486960"
+      "scraped_at": "2026-08-22T05:26:18.786588"
     },
     {
       "id": "4c85c25bad04dd7e",
@@ -7461,7 +8437,7 @@
       "stage": "Hovudscenen",
       "genre": null,
       "sold_out": false,
-      "scraped_at": "2026-08-21T05:31:57.486969"
+      "scraped_at": "2026-08-22T05:26:18.786599"
     },
     {
       "id": "77082ec440539767",
@@ -7477,7 +8453,7 @@
       "stage": "Riksteatret",
       "genre": null,
       "sold_out": false,
-      "scraped_at": "2026-08-21T05:32:52.827533"
+      "scraped_at": "2026-08-22T05:27:16.953930"
     },
     {
       "id": "9e31440f96005f4c",
@@ -7493,7 +8469,7 @@
       "stage": "Riksteatret",
       "genre": null,
       "sold_out": false,
-      "scraped_at": "2026-08-21T05:32:52.827748"
+      "scraped_at": "2026-08-22T05:27:16.954213"
     },
     {
       "id": "5f83c02e19cc6083",
@@ -7509,7 +8485,7 @@
       "stage": "Riksteatret",
       "genre": null,
       "sold_out": false,
-      "scraped_at": "2026-08-21T05:32:52.827971"
+      "scraped_at": "2026-08-22T05:27:16.954491"
     },
     {
       "id": "5f7148be00d7e082",
@@ -7525,7 +8501,7 @@
       "stage": null,
       "genre": null,
       "sold_out": false,
-      "scraped_at": "2026-08-21T05:32:50.691927"
+      "scraped_at": "2026-08-22T05:27:14.588063"
     },
     {
       "id": "bef9dc7c539bc03f",
@@ -7541,7 +8517,7 @@
       "stage": "Hovudscenen",
       "genre": null,
       "sold_out": false,
-      "scraped_at": "2026-08-21T05:31:57.486977"
+      "scraped_at": "2026-08-22T05:26:18.786611"
     },
     {
       "id": "e9e27d99e89a1710",
@@ -7557,7 +8533,7 @@
       "stage": "Riksteatret",
       "genre": null,
       "sold_out": false,
-      "scraped_at": "2026-08-21T05:32:52.828191"
+      "scraped_at": "2026-08-22T05:27:16.954769"
     },
     {
       "id": "cafb7df894e239d3",
@@ -7573,7 +8549,7 @@
       "stage": null,
       "genre": null,
       "sold_out": false,
-      "scraped_at": "2026-08-21T05:32:50.691844"
+      "scraped_at": "2026-08-22T05:27:14.587966"
     },
     {
       "id": "6a193ab7b6ff5959",
@@ -7589,7 +8565,7 @@
       "stage": "Hovudscenen",
       "genre": null,
       "sold_out": false,
-      "scraped_at": "2026-08-21T05:31:57.486986"
+      "scraped_at": "2026-08-22T05:26:18.786622"
     },
     {
       "id": "2179c5aac73faaa6",
@@ -7605,7 +8581,7 @@
       "stage": "Hovudscenen",
       "genre": null,
       "sold_out": false,
-      "scraped_at": "2026-08-21T05:31:57.486994"
+      "scraped_at": "2026-08-22T05:26:18.786632"
     },
     {
       "id": "40401e5df24f4e34",
@@ -7621,7 +8597,7 @@
       "stage": "Hovudscenen",
       "genre": null,
       "sold_out": false,
-      "scraped_at": "2026-08-21T05:31:57.487002"
+      "scraped_at": "2026-08-22T05:26:18.786643"
     },
     {
       "id": "b8d87228908876a0",
@@ -7637,7 +8613,7 @@
       "stage": "Hovudscenen",
       "genre": null,
       "sold_out": false,
-      "scraped_at": "2026-08-21T05:31:57.487010"
+      "scraped_at": "2026-08-22T05:26:18.786657"
     },
     {
       "id": "9b8f97f77f351e30",
@@ -7653,7 +8629,7 @@
       "stage": null,
       "genre": null,
       "sold_out": false,
-      "scraped_at": "2026-08-21T05:32:50.691778"
+      "scraped_at": "2026-08-22T05:27:14.587870"
     },
     {
       "id": "954462f072ee64f6",
@@ -7669,7 +8645,7 @@
       "stage": "Hovudscenen",
       "genre": null,
       "sold_out": false,
-      "scraped_at": "2026-08-21T05:31:57.487018"
+      "scraped_at": "2026-08-22T05:26:18.786668"
     },
     {
       "id": "172478fffcaf89a4",
@@ -7685,7 +8661,7 @@
       "stage": "Hovudscenen",
       "genre": null,
       "sold_out": false,
-      "scraped_at": "2026-08-21T05:31:57.487025"
+      "scraped_at": "2026-08-22T05:26:18.786679"
     },
     {
       "id": "90377682d0c4e52c",
@@ -7701,7 +8677,7 @@
       "stage": "Hovudscenen",
       "genre": null,
       "sold_out": false,
-      "scraped_at": "2026-08-21T05:31:57.487033"
+      "scraped_at": "2026-08-22T05:26:18.786689"
     },
     {
       "id": "3cacb6e861876f1e",
@@ -7717,7 +8693,7 @@
       "stage": null,
       "genre": null,
       "sold_out": false,
-      "scraped_at": "2026-08-21T05:32:50.691708"
+      "scraped_at": "2026-08-22T05:27:14.587744"
     },
     {
       "id": "922e9f96813b7830",
@@ -7733,7 +8709,7 @@
       "stage": "Hovudscenen",
       "genre": null,
       "sold_out": false,
-      "scraped_at": "2026-08-21T05:31:57.487053"
+      "scraped_at": "2026-08-22T05:26:18.786699"
     },
     {
       "id": "663374466ed6ca3b",
@@ -7749,7 +8725,7 @@
       "stage": "Riksteatret",
       "genre": null,
       "sold_out": false,
-      "scraped_at": "2026-08-21T05:32:52.645246"
+      "scraped_at": "2026-08-22T05:27:16.765273"
     },
     {
       "id": "d2e5a5927b410f33",
@@ -7765,7 +8741,7 @@
       "stage": "Riksteatret",
       "genre": null,
       "sold_out": false,
-      "scraped_at": "2026-08-21T05:32:52.645492"
+      "scraped_at": "2026-08-22T05:27:16.765558"
     },
     {
       "id": "8fa3e6a9fde5cfcb",
@@ -7781,7 +8757,7 @@
       "stage": null,
       "genre": null,
       "sold_out": false,
-      "scraped_at": "2026-08-21T05:32:50.691635"
+      "scraped_at": "2026-08-22T05:27:14.587653"
     },
     {
       "id": "132d0d7898c416f2",
@@ -7797,7 +8773,7 @@
       "stage": "Riksteatret",
       "genre": null,
       "sold_out": false,
-      "scraped_at": "2026-08-21T05:32:52.645714"
+      "scraped_at": "2026-08-22T05:27:16.765849"
     },
     {
       "id": "6c72284c7dfdce0b",
@@ -7813,7 +8789,7 @@
       "stage": null,
       "genre": "Musikal ,  Scenekvelder",
       "sold_out": false,
-      "scraped_at": "2026-08-21T05:33:15.821703"
+      "scraped_at": "2026-08-22T05:27:41.034235"
     },
     {
       "id": "55ec5b53bfa7af8c",
@@ -7829,7 +8805,7 @@
       "stage": null,
       "genre": "Musikal ,  Scenekvelder",
       "sold_out": false,
-      "scraped_at": "2026-08-21T05:33:15.821741"
+      "scraped_at": "2026-08-22T05:27:41.034283"
     },
     {
       "id": "4bce3770aab71073",
@@ -7845,7 +8821,7 @@
       "stage": null,
       "genre": "Musikal ,  Scenekvelder",
       "sold_out": false,
-      "scraped_at": "2026-08-21T05:33:15.821766"
+      "scraped_at": "2026-08-22T05:27:41.034315"
     },
     {
       "id": "1be336e66d5f5965",
@@ -7861,7 +8837,7 @@
       "stage": null,
       "genre": "Musikal ,  Scenekvelder",
       "sold_out": false,
-      "scraped_at": "2026-08-21T05:33:15.821790"
+      "scraped_at": "2026-08-22T05:27:41.034346"
     },
     {
       "id": "9232199b4440039a",
@@ -7877,7 +8853,7 @@
       "stage": null,
       "genre": "Musikal ,  Scenekvelder",
       "sold_out": false,
-      "scraped_at": "2026-08-21T05:33:15.821812"
+      "scraped_at": "2026-08-22T05:27:41.034374"
     },
     {
       "id": "48f9db842fd5f305",
@@ -7893,7 +8869,7 @@
       "stage": null,
       "genre": "Musikal ,  Scenekvelder",
       "sold_out": false,
-      "scraped_at": "2026-08-21T05:33:15.821835"
+      "scraped_at": "2026-08-22T05:27:41.034404"
     },
     {
       "id": "7246cad04b12886d",
@@ -7909,7 +8885,7 @@
       "stage": null,
       "genre": "Musikal ,  Scenekvelder",
       "sold_out": false,
-      "scraped_at": "2026-08-21T05:33:15.821880"
+      "scraped_at": "2026-08-22T05:27:41.034444"
     },
     {
       "id": "0707bbdb74df8a7f",
@@ -7925,7 +8901,7 @@
       "stage": null,
       "genre": "Musikal ,  Scenekvelder",
       "sold_out": false,
-      "scraped_at": "2026-08-21T05:33:15.821902"
+      "scraped_at": "2026-08-22T05:27:41.034492"
     },
     {
       "id": "53994560c90c9a1d",
@@ -7941,7 +8917,7 @@
       "stage": null,
       "genre": "Musikal ,  Scenekvelder",
       "sold_out": false,
-      "scraped_at": "2026-08-21T05:33:15.821924"
+      "scraped_at": "2026-08-22T05:27:41.034522"
     },
     {
       "id": "b50a4e3a0b6f00ff",
@@ -7957,7 +8933,7 @@
       "stage": null,
       "genre": "Musikal ,  Scenekvelder",
       "sold_out": false,
-      "scraped_at": "2026-08-21T05:33:15.821946"
+      "scraped_at": "2026-08-22T05:27:41.034550"
     },
     {
       "id": "c3cfdae59e9a3a04",
@@ -7973,7 +8949,7 @@
       "stage": null,
       "genre": "Musikal ,  Scenekvelder",
       "sold_out": false,
-      "scraped_at": "2026-08-21T05:33:15.821969"
+      "scraped_at": "2026-08-22T05:27:41.034579"
     },
     {
       "id": "8be3418cf13ccd99",
@@ -7989,7 +8965,7 @@
       "stage": null,
       "genre": "Musikal ,  Scenekvelder",
       "sold_out": false,
-      "scraped_at": "2026-08-21T05:33:15.821990"
+      "scraped_at": "2026-08-22T05:27:41.034608"
     },
     {
       "id": "3e81eef77a24a27a",
@@ -8005,7 +8981,7 @@
       "stage": null,
       "genre": "Musikal ,  Scenekvelder",
       "sold_out": false,
-      "scraped_at": "2026-08-21T05:33:15.822012"
+      "scraped_at": "2026-08-22T05:27:41.034636"
     },
     {
       "id": "6f1a57b52391bc59",
@@ -8021,7 +8997,7 @@
       "stage": null,
       "genre": "Musikal ,  Scenekvelder",
       "sold_out": false,
-      "scraped_at": "2026-08-21T05:33:15.822034"
+      "scraped_at": "2026-08-22T05:27:41.034664"
     },
     {
       "id": "75de2f68d6cb4062",
@@ -8037,7 +9013,7 @@
       "stage": null,
       "genre": "Musikal ,  Scenekvelder",
       "sold_out": false,
-      "scraped_at": "2026-08-21T05:33:15.822056"
+      "scraped_at": "2026-08-22T05:27:41.034694"
     },
     {
       "id": "3572893813c7dba4",
@@ -8053,7 +9029,7 @@
       "stage": null,
       "genre": "Musikal ,  Scenekvelder",
       "sold_out": false,
-      "scraped_at": "2026-08-21T05:33:15.822078"
+      "scraped_at": "2026-08-22T05:27:41.034723"
     },
     {
       "id": "6977286d20b74b18",
@@ -8069,7 +9045,7 @@
       "stage": null,
       "genre": "Musikal ,  Scenekvelder",
       "sold_out": false,
-      "scraped_at": "2026-08-21T05:33:15.822099"
+      "scraped_at": "2026-08-22T05:27:41.034750"
     },
     {
       "id": "4f5a193e6a006a20",
@@ -8085,7 +9061,7 @@
       "stage": null,
       "genre": "Musikal ,  Scenekvelder",
       "sold_out": false,
-      "scraped_at": "2026-08-21T05:33:15.822122"
+      "scraped_at": "2026-08-22T05:27:41.034790"
     },
     {
       "id": "2448a8a90f07850b",
@@ -8101,7 +9077,7 @@
       "stage": null,
       "genre": "Musikal ,  Scenekvelder",
       "sold_out": false,
-      "scraped_at": "2026-08-21T05:33:15.822144"
+      "scraped_at": "2026-08-22T05:27:41.034819"
     },
     {
       "id": "aef9e6220b5e0778",
@@ -8117,7 +9093,7 @@
       "stage": null,
       "genre": "Musikal ,  Scenekvelder",
       "sold_out": false,
-      "scraped_at": "2026-08-21T05:33:15.822166"
+      "scraped_at": "2026-08-22T05:27:41.034847"
     },
     {
       "id": "2bf4cb961cfd9aca",
@@ -8133,7 +9109,7 @@
       "stage": null,
       "genre": "Musikal ,  Scenekvelder",
       "sold_out": false,
-      "scraped_at": "2026-08-21T05:33:15.822188"
+      "scraped_at": "2026-08-22T05:27:41.034876"
     }
   ],
   "errors": [
